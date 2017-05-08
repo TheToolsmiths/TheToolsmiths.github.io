@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Open Source Projects
-permalink: /wiki/open_source/
+permalink: /codex/open_source/
 ---
 
 ![Helium Game Engine](https://raw.github.com/HeliumProject/Helium/master/Data/Textures/Helium.png)

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GDC 2017 Tool Oriented Sessions
-permalink: /wiki/gdc/2017/sessions
+permalink: /codex/gdc/2017/sessions
 ---
 {% include JB/setup %}
 
