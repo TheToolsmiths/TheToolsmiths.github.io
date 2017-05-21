@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: codex_page
 title: The Tool Smiths GDC Codex
 permalink: /codex/gdc/
+type: top_level_codex_page
 ---
 
 # GDC 2017

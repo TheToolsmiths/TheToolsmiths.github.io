@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: codex_page
 title: The Tool Smiths Book Club
 permalink: /codex/tool_development_resources/books/python
 ---

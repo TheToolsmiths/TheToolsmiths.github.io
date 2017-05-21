@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: codex_page
 title: The Tool Smiths Knowledge Base
 permalink: /codex/tool_development_resources/
+type: top_level_codex_page
 ---
 # [ Books ]({{ site.baseurl }}{% link codex/tool_development_resources/books/books.md %})
 

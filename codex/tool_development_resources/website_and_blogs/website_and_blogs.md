@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: codex_page
 title: The Tool Smiths Web Resources
 permalink: /codex/tool_development_resources/website_and_blogs
 ---

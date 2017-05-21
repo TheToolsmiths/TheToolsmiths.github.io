@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: codex_page
 title: GDC 2017 Tool Oriented Sessions
 permalink: /codex/gdc/2017/sessions
 ---
