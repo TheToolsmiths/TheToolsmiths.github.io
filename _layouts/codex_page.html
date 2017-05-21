@@ -1,0 +1,33 @@
+---
+theme :
+  name : twitter
+layout: default_codex_layout
+---
+{% include JB/setup %}
+
+<div class="page-header">
+  <h1>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
+</div>
+
+<div class="row">
+  <div class="span4">
+    <h3>Codex navigation</h3>
+    <h4><a href="{{ site.baseurl }}{% link codex.md %}">Codex home page</a></h4>
+    {% for codex_page in site.pages %}
+      {% if codex_page.type == 'top_level_codex_page' %}
+          <li>
+            {% if page.url == codex_page.url %}
+              <h5> >> <a href="{{ codex_page.url }}">{{ codex_page.title }}</a> << </h5>
+            {% else %}
+              <h5><a href="{{ codex_page.url }}">{{ codex_page.title }}</a></h5>
+            {% endif %}
+          </li>
+      {% endif %}
+    {% endfor %}
+  </div>
+  <div class="vertical-line"></div>
+  <div class="span10">
+    {{ content }}
+  </div>
+</div>
+
