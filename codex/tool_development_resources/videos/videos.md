@@ -3,4 +3,7 @@ layout: codex_page
 title: The Tool Smiths Video Club
 permalink: /codex/tool_development_resources/videos
 ---
-![coming soon]({{ site.url }}/assets/common/coming_soon.jpg)
+
+# [YouTube Playlists]({{ site.baseurl }}{% link codex/tool_development_resources/videos/playlists.md %})
+
+------
