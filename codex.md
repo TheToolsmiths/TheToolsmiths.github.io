@@ -36,3 +36,8 @@ Looking at state of the art tools.
 
 # [Tool Development Resources]({{ site.baseurl }}{% link codex/tool_development_resources/tool_development_resources.md %})
 Books, Websites, blogs, youtube, twitch etc.
+
+------
+
+# [Tools For The Tool Smiths]({{ site.baseurl }}{% link codex/tools_for_the_tool_smiths/tools_for_the_tool_smiths.md %})
+The Tool Smiths need tools too :)
