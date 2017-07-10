@@ -90,3 +90,45 @@ No Slides :(
 
 [Video](http://www.gdcvault.com/play/1024019/The-Data-Building-Pipeline-of) |
 [Slides](http://www.gdcvault.com/play/1024444/The-Data-Building-Pipeline-of)
+
+------
+
+#### Level Design Workshop: Improving Tool Design Through Editor Triage
+##### Robin-Yann Storm
+###### tag: UI/UX/Usability
+![Improving_Tool_Design]({{ site.url }}/assets/gdc/2017/Improving_Tool_Design.jpg)
+
+[Video](http://www.gdcvault.com/play/1024303/Level-Design-Workshop-Improving-Tool) |
+[Slides](http://www.gdcvault.com/play/1024683/Level-Design-Workshop-Improving-Tool)
+
+------
+
+#### Getting Productivity from Play: How Ubisoft Is Making Better Tools by Using a Familiar Resource
+##### David Lightbown
+###### tag: UI/UX/Usability
+![Getting_Productivity]({{ site.url }}/assets/gdc/2017/Getting_Productivity.jpg)
+
+[Video](http://www.gdcvault.com/play/1023953/Getting-Productivity-from-Play-How) |
+No Slides :(
+
+------
+
+#### Building Beauclair: Capital City in 'The Witcher 3: Wild Hunt - Blood and Wine' Expansion Pack
+##### Kacper Niepokolczycki
+###### tag: ?
+![Building_Beauclair]({{ site.url }}/assets/gdc/2017/Building_Beauclair.jpg)
+
+[Video](http://www.gdcvault.com/play/1023965/Building-Beauclair-Capital-City-in) |
+[Slides](http://www.gdcvault.com/play/1024610/Building-Beauclair-Capital-City-in)
+
+------
+
+#### Technical Artist Bootcamp: Building an Offline Simulation Pipeline
+##### Ben Laidlaw
+###### tag: tech art
+![Building_an_Offline_Simulation_Pipeline]({{ site.url }}/assets/gdc/2017/Building_an_Offline_Simulation_Pipeline.jpg)
+
+[Video](https:/vimeo.com/208576955) |
+[Slides](https:/drive.google.com/open?id=0B1Kflq0fBla3TmduT1dOZldCbWc)
+
+------

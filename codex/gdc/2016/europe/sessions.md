@@ -1,7 +1,7 @@
 ---
 layout: codex_page
 title: GDC EU 2016 Tool Oriented Sessions
-permalink: /codex/gdc/2016/sessions
+permalink: /codex/gdc/2016/eu/sessions
 ---
 {% include JB/setup %}
 
