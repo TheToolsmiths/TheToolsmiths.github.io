@@ -1,6 +1,6 @@
 ---
 layout: codex_page
-title: The Tool Smiths GDC Codex
+title: The Toolsmiths GDC Codex
 permalink: /codex/gdc/
 type: top_level_codex_page
 ---

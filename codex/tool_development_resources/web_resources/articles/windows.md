@@ -1,6 +1,6 @@
 ---
 layout: codex_page
-title: The Tool Smiths Interesting Articles
+title: The Toolsmiths Interesting Articles
 permalink: /codex/tool_development_resources/articles/windows
 ---
 
@@ -16,7 +16,7 @@ permalink: /codex/tool_development_resources/articles/windows
 ## Profiling
 ### [ETW/xperf profiling article roundup](https://randomascii.wordpress.com/2015/09/24/etw-central/)
 #### by Bruce Dawson
-          
+
 ------
 
 # More

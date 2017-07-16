@@ -1,6 +1,6 @@
 ---
 layout: codex_page
-title: Tools For The Tool Smiths
+title: Tools For The Toolsmiths
 permalink: /codex/tools/
 type: top_level_codex_page
 ---

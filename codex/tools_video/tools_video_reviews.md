@@ -1,6 +1,6 @@
 ---
 layout: codex_page
-title: The Tool Smiths Video Reviews
+title: The Toolsmiths Video Reviews
 permalink: /codex/tools_video/
 type: top_level_codex_page
 ---

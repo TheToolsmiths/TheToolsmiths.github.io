@@ -1,6 +1,6 @@
 ---
 layout: codex_page
-title: The Tool Smiths Best Practices
+title: The Toolsmiths Best Practices
 permalink: /codex/best_practices/
 type: top_level_codex_page
 ---

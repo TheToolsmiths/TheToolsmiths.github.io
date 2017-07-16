@@ -1,6 +1,6 @@
 ---
 layout: codex_page
-title: The Tool Smiths Interesting Articles
+title: The Toolsmiths Interesting Articles
 permalink: /codex/tool_development_resources/articles/ux
 ---
 

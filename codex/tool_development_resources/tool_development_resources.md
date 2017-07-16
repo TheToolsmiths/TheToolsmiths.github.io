@@ -1,6 +1,6 @@
 ---
 layout: codex_page
-title: The Tool Smiths Knowledge Base
+title: The Toolsmiths Knowledge Base
 permalink: /codex/tool_development_resources/
 type: top_level_codex_page
 ---
