@@ -6,7 +6,7 @@ permalink: /codex/
 ---
 {% include JB/setup %}
 
-# The Tool Smiths Codex
+# The Toolsmiths Codex
 
 The Tools SIG codex is a warehouse of information that is constantly curated by the SIG to hold reference information about best practices in tools. These topics are perennial at the Technical Issues in Tools roundtables at GDC, and by having this information available on the website we can focus more attention to trends and changes in the state of the art instead of calling out known solutions.
 
@@ -39,5 +39,5 @@ Books, Websites, blogs, youtube, twitch etc.
 
 ------
 
-# [Tools For The Tool Smiths]({{ site.baseurl }}{% link codex/tools_for_the_tool_smiths/tools_for_the_tool_smiths.md %})
-The Tool Smiths need tools too :)
+# [Tools For The Toolsmiths]({{ site.baseurl }}{% link codex/tools_for_the_tool_smiths/tools_for_the_tool_smiths.md %})
+The Toolsmiths need tools too :)
