@@ -9,4 +9,4 @@ type: top_level_codex_page
 
 # [ Website, Blogs, Articles ]({{ site.baseurl }}{% link codex/tool_development_resources/web_resources/web_resources.md %})
 
-# [ YouTube, Twitch ]({{ site.baseurl }}{% link codex/tool_development_resources/videos/videos.md %})
+# [ Videos ]({{ site.baseurl }}{% link codex/tool_development_resources/videos/videos.md %})
