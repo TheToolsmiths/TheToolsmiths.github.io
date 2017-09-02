@@ -19,8 +19,8 @@ Best Practices in UX, architecture, patterns, programming languages. What works 
 
 ------
 
-# [Open Source Projects]({{ site.baseurl }}{% link codex/open_source/open_source.md %})
-Helping out and learing new things.
+# [Libraries, Frameworks and Open Source Projects]({{ site.baseurl }}{% link codex/libraries_frameworks_open_source/libraries_frameworks_open_source.md %})
+Trying not to reinvent the wheel. Helping out and learing new things.
 
 ------
 
