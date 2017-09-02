@@ -39,5 +39,5 @@ Books, Websites, blogs, youtube, twitch etc.
 
 ------
 
-# [Tools For The Toolsmiths]({{ site.baseurl }}{% link codex/tools_for_the_tool_smiths/tools_for_the_tool_smiths.md %})
+# [Tools For The Toolsmiths]({{ site.baseurl }}{% link codex/tools_for_the_toolsmiths/tools_for_the_toolsmiths.md %})
 The Toolsmiths need tools too :)
