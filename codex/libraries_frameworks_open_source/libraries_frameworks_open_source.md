@@ -1,16 +1,12 @@
 ---
 layout: codex_page
-title: Open Source Projects
-permalink: /codex/open_source/
+title: Libraries, Frameworks and Open Source Projects
+permalink: /codex/lib_frameworks_open_source/
 type: top_level_codex_page
 ---
 
-![Helium Game Engine](https://raw.github.com/HeliumProject/Helium/master/Documentation/Helium.png)
+# [ Open Source Projects ]({{ site.baseurl }}{% link codex/libraries_frameworks_open_source/open_source_projects/open_source_projects.md %})
 
-[Website]( http://heliumproject.org/ ) |
-[Github](https://github.com/HeliumProject/Helium)
+# [ Libraries ]({{ site.baseurl }}{% link codex/libraries_frameworks_open_source/libraries/libraries.md %})
 
-------
-
-# More
-![coming soon]({{ site.url }}/assets/common/coming_soon.jpg)
+# [ Frameworks ]({{ site.baseurl }}{% link codex/libraries_frameworks_open_source/frameworks/frameworks.md %})
