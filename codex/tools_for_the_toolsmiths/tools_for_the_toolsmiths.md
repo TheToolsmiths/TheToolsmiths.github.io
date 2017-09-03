@@ -196,3 +196,20 @@ type: top_level_codex_page
 
 ### [Build Monitor for Visual Studio.](https://marketplace.visualstudio.com/items?itemName=danielperssson.BuildMonitor)
 #### Build monitor is a tool which you can use to measure your build times in Visual studio over time.
+
+
+------
+------
+
+# WPF
+
+### [Snoop](http://snoopwpf.codeplex.com/)
+#### It allows you to spy/browse the visual tree of a running WPF application (without the need for a debugger) … and change properties ... amongst other things.
+
+------
+------
+
+# Web/Networking
+
+### [Convert curl syntax to Python, Node.js, PHP](https://curl.trillworks.com/)
+#### ...
