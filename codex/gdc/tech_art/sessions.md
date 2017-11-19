@@ -14,3 +14,8 @@ permalink: /codex/gdc/tech_art/sessions
 #### Technical Artist Bootcamp: Building an Offline Simulation Pipeline
 ##### Ben Laidlaw @ GDC 2017
 #### [Video](https:/vimeo.com/208576955) | [Slides](https:/drive.google.com/open?id=0B1Kflq0fBla3TmduT1dOZldCbWc)
+
+------
+
+# More
+![coming soon]({{ site.url }}/assets/common/coming_soon.jpg)

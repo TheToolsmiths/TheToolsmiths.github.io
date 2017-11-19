@@ -5,6 +5,25 @@ permalink: /codex/gdc/pipelines_and_workflows/sessions
 ---
 {% include JB/setup %}
 
+
+#### Behind the Scenes: The GEARS OF WAR 2 Cinematics Pipeline
+##### Tanya Jessen, Greg Mitchell @ GDC 2009
+#### [Video](https://www.gdcvault.com/play/1290/Behind-the-Scenes-The-GEARS) | No Slides :(
+
+----
+
+#### Inside the GEARS OF WAR 2 Character Modeling Pipeline
+##### Chris Wells @ GDC 2009
+#### [Video](https://www.gdcvault.com/play/1351/Inside-the-GEARS-OF-WAR) | No Slides :(
+
+----
+
+#### The Asset pipeline for Just Cause 2: Lessons learned
+##### Mathias Westerdahl @ GDC 2010
+#### [Video](https://www.gdcvault.com/play/1012232/The-Asset-pipeline-for-Just) | [Slides](https://www.gdcvault.com/play/1012446/The-Asset-pipeline-for-Just)
+
+----
+
 #### Developing Imperfect Software: How to Prepare for Development Pipeline Failure
 ##### Ronald Pieket @ GDC 2012
 #### [Video](http://www.gdcvault.com/play/1015531/Developing-Imperfect-Software-How-to) | [Slides](http://www.gdcvault.com/play/1015318/Developing-Imperfect-Software-How-to)
@@ -18,7 +37,7 @@ permalink: /codex/gdc/pipelines_and_workflows/sessions
 ----
 
 #### Horizon and Beyond - A Look into Tomb Raider's Tools
-##### Jason Yao @ GDC EU 2015
+##### Jason Yao @ GDC 2013
 #### [Video](http://www.gdcvault.com/play/1017917/Horizon-and-Beyond-A-Look) | [Slides](http://www.gdcvault.com/play/1018218/Horizon-and-Beyond-A-Look)
 
 ----
@@ -26,6 +45,12 @@ permalink: /codex/gdc/pipelines_and_workflows/sessions
 #### Fast Iteration for Far Cry 4 - Optimizing Key Parts of the Dunia Pipeline
 ##### Remi Quenin Talks @ GDC 2015
 #### [Video](http://www.gdcvault.com/play/1021975/Fast-Iteration-for-Far-Cry) | [Slides](http://www.gdcvault.com/play/1021976/Fast-Iteration-for-Far-Cry)
+
+----
+
+#### The Witcher 3: Optimizing Content Pipelines for Open-World Games
+##### Martin Thorzen @ GDC 2015
+#### [Video](https://www.youtube.com/watch?v=p8CMYD_5gE8) | [Slides](https://www.gdcvault.com/play/1021880/Content-Optimization-Pipeline-for-an)
 
 ----
 
@@ -74,3 +99,5 @@ permalink: /codex/gdc/pipelines_and_workflows/sessions
 #### Building Beauclair: Capital City in 'The Witcher 3: Wild Hunt - Blood and Wine' Expansion Pack
 ##### Kacper Niepokolczycki @ GDC 2017
 #### [Video](http://www.gdcvault.com/play/1023965/Building-Beauclair-Capital-City-in) | [Slides](http://www.gdcvault.com/play/1024610/Building-Beauclair-Capital-City-in)
+
+----

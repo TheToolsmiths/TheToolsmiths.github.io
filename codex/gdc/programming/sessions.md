@@ -5,6 +5,13 @@ permalink: /codex/gdc/programming/sessions
 ---
 {% include JB/setup %}
 
+
+#### Oh my.Maya is Qt!
+##### Kristine Middlemiss @ GDC 2011
+#### No Video :( | [Slides](https://www.gdcvault.com/play/1014794/Oh-my-Maya-is-Qt)
+
+------
+
 #### Engine Postmortem of inFAMOUS: Second Son
 ##### Adrian Bentley @ GDC 2014
 #### [Video](http://www.gdcvault.com/play/1020399/Engine-Postmortem-of-inFAMOUS-Second) | No Slides :(
@@ -80,3 +87,11 @@ permalink: /codex/gdc/programming/sessions
 #### Insomniac's Web Tools: A Postmortem
 ##### @ GDC 2017
 #### [Video](http://www.gdcvault.com/play/1023961/Insomniac-s-Web-Tools-A) | [Slides](http://www.gdcvault.com/play/1024465/Insomniac-s-Web-Tools-A)
+
+------
+
+#### Do You Copy? Dialog System and Tools in 'Firewatch'
+##### William Armstrong @ GDC 2017
+#### [Video](Todo: vstepano) | [Slides](https://www.gdcvault.com/play/1024415/Do-You-Copy-Dialog-System)
+
+

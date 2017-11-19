@@ -5,6 +5,14 @@ permalink: /codex/gdc/ui_ux_usability/sessions
 ---
 {% include JB/setup %}
 
+
+#### Building Blocks: Artist Driven Procedural Buildings
+##### James Golding @ GDC 2010
+#### [Video](https://www.gdcvault.com/play/1012219/Building-Blocks-Artist-Driven-Procedural) | [Slides](https://www.gdcvault.com/play/1012655/Building-Blocks-Artist-Driven-Procedural)
+
+------
+
+
 #### The User Experience of Game Development Tools
 ##### David Lightbown @ GDC EU 2013
 #### [Video](http://www.gdcvault.com/play/1019273/The-User-Experience-of-Game) | [Slides](http://www.gdcvault.com/play/1019269/The-User-Experience-of-Game)
