@@ -18,3 +18,7 @@ type: top_level_codex_page
 ------
 
 ### [GDC Tech Art Sessions]({{ site.baseurl }}{% link codex/gdc/tech_art/sessions.md %})
+
+------
+
+### [GDC Tools SIG Roundtable Sessions]({{ site.baseurl }}{% link codex/gdc/roundtable/sessions.md %})
