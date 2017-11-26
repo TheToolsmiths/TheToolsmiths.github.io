@@ -19,6 +19,11 @@ Best Practices in UX, architecture, patterns, programming languages. What works 
 
 ------
 
+# [Game Engines and Their Tools]({{ site.baseurl }}{% link codex/engine_and_tools/engine_and_tools.md %})
+Tools play a major role in the success of a game engine.
+
+------
+
 # [Libraries, Frameworks and Open Source Projects]({{ site.baseurl }}{% link codex/libraries_frameworks_open_source/libraries_frameworks_open_source.md %})
 Trying not to reinvent the wheel. Helping out and learing new things.
 
