@@ -12,6 +12,15 @@ permalink: /codex/lib_frameworks_open_source/open_source/
 ------
 ------
 
+# 3D creation suites
+
+## [Blender](https://www.blender.org/features/)
+#### Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation.
+#### [source code](https://developer.blender.org/project/)
+
+------
+------
+
 # Update C++ at runtime
 
 ## [Runtime Compiled C++ sample code](https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus)
@@ -134,3 +143,60 @@ permalink: /codex/lib_frameworks_open_source/open_source/
 ## [Grafana](https://github.com/grafana/grafana)
 #### The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
 #### [Docker image with StatsD, Graphite, Grafana 2 and a Kamon Dashboard](https://github.com/kamon-io/docker-grafana-graphite)
+
+------
+------
+
+# Mesh Tools
+
+## [MeshLab](http://www.meshlab.net/)
+#### the open source system for processing and editing 3D triangular meshes. It provides a set of tools for editing, cleaning, healing, inspecting, rendering, texturing and converting meshes.
+#### [source code](https://github.com/cnr-isti-vclab/meshlab)
+
+------
+
+## [Wings 3D](http://www.wings3d.com/)
+#### Wings 3D is an advanced subdivision modeler that is both powerful and easy to use.
+#### [source code](https://github.com/dgud/wings)
+
+------
+------
+
+# Texture Tools
+
+## [Awesome Bump](http://awesomebump.besaba.com/)
+#### AwesomeBump is a free and open source program written using Qt library designed to generate normal, height, specular or ambient occlusion, metallic, roughness textures from a single image.
+#### [source code](https://github.com/kmkolasinski/AwesomeBump)
+
+------
+------
+
+# Modeling Tools
+
+## [MakeHuman](http://www.makehuman.org/)
+#### MAKEHUMAN is the free and open source software to create realistic 3d humans for: Illustrations, Animations, Games, Zbrush/Mudbox sculpting
+#### [source code](https://bitbucket.org/MakeHuman/makehuman)
+
+------
+------
+
+# Audio Editing Tools
+
+## [Audacity](http://www.audacityteam.org/)
+#### Audacity® is free, open source, cross-platform audio software for multi-track recording and editing.
+#### [source code](https://github.com/audacity/audacity)
+
+------
+------
+
+# Image Editing Tools
+
+## [GIMP](http://www.audacityteam.org/)
+#### Audacity® is free, open source, cross-platform audio software for multi-track recording and editing.
+#### [source code](https://github.com/audacity/audacity)
+
+------
+
+## [INKSCAPE](https://inkscape.org/en/)
+#### Inkscape is a professional vector graphics editor for Windows, Mac OS X and Linux.
+#### [source code](https://gitlab.com/inkscape/inkscape)
