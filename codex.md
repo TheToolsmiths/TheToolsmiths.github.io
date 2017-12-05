@@ -24,6 +24,11 @@ Tools play a major role in the success of a game engine.
 
 ------
 
+# [Glossary]({{ site.baseurl }}{% link codex/glossary/glossary.md %})
+Knowing the right words is like having the right tools for the job.
+
+------
+
 # [Libraries, Frameworks and Open Source Projects]({{ site.baseurl }}{% link codex/libraries_frameworks_open_source/libraries_frameworks_open_source.md %})
 Trying not to reinvent the wheel. Helping out and learing new things.
 
