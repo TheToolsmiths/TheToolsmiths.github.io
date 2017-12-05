@@ -213,3 +213,11 @@ type: top_level_codex_page
 
 ### [Convert curl syntax to Python, Node.js, PHP](https://curl.trillworks.com/)
 #### ...
+
+------
+------
+
+# Data Compression
+
+### [CompactGUI](https://github.com/ImminentFate/CompactGUI)
+#### CompactGUI is a standalone GUI to make using the Windows 10 compact.exe function easier to use.
