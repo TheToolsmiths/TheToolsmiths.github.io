@@ -122,6 +122,16 @@ permalink: /codex/tool_development_resources/videos
 [Video](https://www.youtube.com/watch?v=zc8b2Jo7mno)
 
 ------
+
+#### Core Dump: Day 2: Visual scripting, UI development and tools performance.
+[Video](https://www.youtube.com/watch?v=lZmqYnnSEM0&t=1820s)
+
+------
+
+#### Core Dump: Day 2: What internal tools have we needed to develop to solve engine or tools related issues?
+[Video](https://www.youtube.com/watch?v=odEfO86VgFw)
+
+------
 ------
 ------
 
@@ -131,3 +141,35 @@ permalink: /codex/tool_development_resources/videos
 #### Git at scale
 ##### Edward Thomson
 [Video](https://channel9.msdn.com//Events//Build//2017//P4101)
+
+------
+------
+------
+# Animation
+------
+
+#### Core Dump: Day 1 - Animation, Real-Time Cinematics & Managing Complexity
+[Video](https://youtu.be/ZmLrJxmvYdU?list=PLOm9SeAVU7idAZVnZUBT90Yj7AeLk0e2X)
+
+------
+------
+------
+# Quality & Testing
+------
+
+#### Core Dump: Day 1 - Engine & Tools Quality & Testing
+[Video](https://youtu.be/_EdXI0nmI5c?list=PLOm9SeAVU7idAZVnZUBT90Yj7AeLk0e2X)
+
+------
+------
+------
+# Build
+------
+
+#### Core Dump: Day 1 - How do we manage our build data?
+[Video](https://youtu.be/Y2Otnt4OBvs?list=PLOm9SeAVU7idAZVnZUBT90Yj7AeLk0e2X)
+
+------
+
+#### Core Dump: Day 2: Build systems.
+[Video](https://www.youtube.com/watch?v=odEfO86VgFw)
