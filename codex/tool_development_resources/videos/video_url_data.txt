@@ -1,0 +1,185 @@
+This file is used to generate the video.md file
+
+topic : UX
+caption : Game UX Summit 2016
+author : 
+type : Playlist
+url :  https://www.youtube.com/playlist?list=PLO2O_lbE843qTTjiXVkFwEb7zzIsmERhv
+src : 
+@@
+
+topic : UX
+caption : IGDA Webinar, 27 January 2016: Improving Productivity at Ubisoft: Better tools & pipelines with UX
+author : 
+type : Video
+url :  www.youtube.com/watch?v=lzCror3g2dM 
+src : 
+@@
+
+topic : UX
+caption : Game Development Tools of Love (the game)
+author : Eskil Steenberg
+type : Video
+url : https://www.youtube.com//watch?v=khmFGThc5TI
+src : 
+@@
+
+topic : UX
+caption : The Story of the Ribbon
+author : Jensen Harris MS
+type : Video
+url : https://channel9.msdn.com/Events/MIX/MIX08/UX09
+src : 
+@@
+
+topic : UX
+caption : David Lightbown's Maya Masterclass Trilogy
+author : David Lightbown
+type : Video
+url : https://www.youtube.com/watch?v=ZZ-YimfQfj0
+src : 
+@@
+
+topic : UX
+caption : David Lightbown's Maya Masterclass Trilogy
+author : David Lightbown
+type : Video
+url : https://www.youtube.com/channel/UCO8EJo3XtFdq6PMKMKHzL-A
+src : 
+@@
+
+topic : Unity
+caption : Unity VR Editor Tool Demo with Timoni West
+author : Timoni West
+type : Video
+url : https://www.youtube.com/watch?v=FzjxRi5J4XI
+src : 
+@@
+
+topic : Unity
+caption : Unite Europe 2017
+author : 
+type : Playlist
+url : https://www.youtube.com/playlist?list=PLX2vGYjWbI0Rzo8D-vUCFVb_hHGxXWd9j
+src : 
+@@
+
+topic : Unreal Engine
+caption : C++ Extending the Editor
+author : 
+type : Video
+url : https://www.youtube.com/watch?v=zg_VstBxDi8
+src : https://github.com/henrya2/ExtendingTheEditor
+@@
+
+topic : Pipelines
+caption : Rhythm & Hues - A Framework for Global Visual Effects Production Pipelines - SIGGRAPH 2014
+author : 
+type : Video
+url : https://vimeo.com/116364653
+src : 
+@@
+
+topic : Pipelines
+caption : HandmadeCon 2016 - Asset Systems and Scalability
+author : Chris Butcher from Bungie
+type : Video
+url : https://www.youtube.com//watch?v=7KXVox0-7lU
+src : 
+@@
+
+topic : Pipelines
+caption : USD: Building Asset Pipelines
+author : Matt Kuruc  Pixar
+type : Video
+url : https://vimeo.com/211022588
+src : 
+@@
+
+topic : Pipelines
+caption : USD-Based Pipeline (2016)
+author : Pixar
+type : Video
+url : https://vimeo.com//188191100
+src : 
+@@
+
+topic : Pipelines
+caption : USD Scripting & Integration, Part 1
+author : Pixar
+type : Video
+url : https://vimeo.com/75810022
+src : 
+@@
+
+topic : Programming
+caption : Designing and Evaluating Reusable Components - 2004
+author : Casey Muratori
+type : Video
+url : https://www.youtube.com//watch?v=ZQ5_u8Lgvyk
+src : 
+@@
+
+topic : Programming
+caption : Euler (gimbal lock) Explained
+author : Chris Butcher from Bungie
+type : Video
+url : https://www.youtube.com/watch?v=zc8b2Jo7mno
+src : 
+@@
+
+topic : Programming
+caption : Core Dump: Day 2: Visual scripting, UI development and tools performance.
+author : Matt Kuruc  Pixar
+type : Video
+url : https://www.youtube.com/watch?v=lZmqYnnSEM0&t=1820s
+src : 
+@@
+
+topic : Programming
+caption : Core Dump: Day 2: What internal tools have we needed to develop to solve engine or tools related issues?
+author : Pixar
+type : Video
+url : https://www.youtube.com/watch?v=odEfO86VgFw
+src : 
+@@
+
+topic : Revision Control
+caption : Git at scale
+author : Edward Thomson
+type : Video
+url : https://channel9.msdn.com//Events//Build//2017//P4101
+src : 
+@@
+
+topic : Animation
+caption : Core Dump: Day 1 - Animation, Real-Time Cinematics & Managing Complexity
+author : Insomniac Games
+type : Video
+url : https://youtu.be/ZmLrJxmvYdU?list=PLOm9SeAVU7idAZVnZUBT90Yj7AeLk0e2X
+src : 
+@@
+
+topic : Quality & Testing
+caption : Core Dump: Day 1 - Engine & Tools Quality & Testing
+author : Insomniac Games
+type : Video
+url : https://youtu.be/_EdXI0nmI5c?list=PLOm9SeAVU7idAZVnZUBT90Yj7AeLk0e2X
+src : 
+@@
+
+topic : Build
+caption : Core Dump: Day 1 - How do we manage our build data?
+author : Insomniac Games
+type : Video
+url : https://youtu.be/Y2Otnt4OBvs?list=PLOm9SeAVU7idAZVnZUBT90Yj7AeLk0e2X
+src : 
+@@
+
+topic : Build
+caption : Core Dump: Day 2: Build systems.
+author : Insomniac Games
+type : Video
+url : https://www.youtube.com/watch?v=odEfO86VgFw
+src : 
+@@
