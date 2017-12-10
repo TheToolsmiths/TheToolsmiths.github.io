@@ -9,6 +9,13 @@ permalink: /codex/tool_development_resources/videos
 
 # Animation
 
+##### Confuse animation demo
+###### Eskil Steenberg
+[Video](https://youtu.be/u0VnCdtCFCQ)
+
+
+------
+
 ##### Core Dump: Day 1 - Animation, Real-Time Cinematics & Managing Complexity
 ###### Insomniac Games
 [Video](https://youtu.be/ZmLrJxmvYdU?list=PLOm9SeAVU7idAZVnZUBT90Yj7AeLk0e2X)
@@ -38,11 +45,40 @@ permalink: /codex/tool_development_resources/videos
 
 ------
 
+# FX
+
+##### Creating Complex In-Game Effects | Unreal Dev Day Montreal 2017 | Unreal Engine
+[Video](https://youtu.be/Vhsllsv53K0)
+
+
+------
+
+
+------
+
 # Pipelines
+
+##### Digital Humans: Crossing the Uncanny Valley in UE4 | GDC 2016 Event Coverage | Unreal Engine
+[Video](https://youtu.be/ILacgSf1vck)
+
+
+------
+
+##### Fortnite Trailer Pipeline | Unreal Dev Day Montreal 2017 | Unreal Engine
+[Video](https://youtu.be/LS0VsMMTaQA)
+
+
+------
 
 ##### HandmadeCon 2016 - Asset Systems and Scalability
 ###### Chris Butcher from Bungie
 [Video](https://www.youtube.com//watch?v=7KXVox0-7lU)
+
+
+------
+
+##### Paragon Character Texturing Pipeline | Unreal Dev Day Montreal 2017 | Unreal Engine
+[Video](https://youtu.be/nVes6OUyzdw)
 
 
 ------
@@ -107,6 +143,13 @@ permalink: /codex/tool_development_resources/videos
 
 ------
 
+##### Love - GDC 2009: Tools Demonstration
+###### Eskil Steenberg
+[Video](https://youtu.be/NBGz723H0_A)
+
+
+------
+
 
 ------
 
@@ -164,7 +207,7 @@ permalink: /codex/tool_development_resources/videos
 ------
 
 ##### IGDA Webinar, 27 January 2016: Improving Productivity at Ubisoft: Better tools & pipelines with UX
-[Video](www.youtube.com/watch?v=lzCror3g2dM )
+[Video](www.youtube.com/watch?v=lzCror3g2dM)
 
 
 ------
@@ -201,7 +244,7 @@ permalink: /codex/tool_development_resources/videos
 
 ##### C++ Extending the Editor
 [Video](https://www.youtube.com/watch?v=zg_VstBxDi8)
-[Source Code](https://github.com/henrya2/ExtendingTheEditor)
+ | [Source Code](https://github.com/henrya2/ExtendingTheEditor)
 
 ------
 
