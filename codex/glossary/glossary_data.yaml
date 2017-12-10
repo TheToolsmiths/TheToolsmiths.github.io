@@ -58,7 +58,7 @@ def : >
 lvl : intermediate
 cntxt : game dev job
 term : Environment Artist
-aka : Final Layout Artist, Level Assembly Artist, Set Dressing Artist
+aka : Final Layout Artist, Level Assembly Artist, Set Dressing Artist, World Builder
 def : >
   are artist that are responsible for creating visually stunning indoor and outdoor locations and environments in a game's setting while keeping an eye on performance budgets. They use 2D storyboards or 2D concepts to create a 3D scenes prototype and iterate on it until final art quality is reached. They work with the Art Director to maintain the visual consistency of the game's setting. They also work with the game designers to ensure the locations and environments are fun to play in.
 ...
@@ -66,7 +66,7 @@ def : >
 lvl : intermediate
 cntxt : game dev job
 term : Level Designer
-aka :  Environment Design
+aka :  LD, Environment Design
 def : >
   designers that are responsible for creating entire levels of a game like rooms, buildings, cities and areas. They specify locations of gameplay elements like entrance/exit locations, items and loot, non-player characters, event trigger locations to make each level unique. They use weather and day/night cycles to create interesting and challenging environments.
 ...
@@ -77,5 +77,85 @@ term : 3D generalist
 aka : 
 def : >
   a 3D generalist is someone who can do more than just one field of work in 3D artwork. This area of emphasis covers all aspects of 3D production, along with a strong visual art foundation.
+...
+---
+lvl : advanced
+cntxt : DCC tools
+term : Importer
+aka : 
+def : >
+  a peace of software that converts an assets from an intermediary format of the content pipeline into a format that is suitable for the game engine.
+...
+---
+lvl : advanced
+cntxt : DCC tools
+term : Intermediate file
+aka : Bridge file
+def : >
+  a file that is produced as a result of the process of exporting an asset from a DCC tool.
+...
+---
+lvl : advanced
+cntxt : DCC tools
+term : '"the spew"'
+aka : 
+def : >
+  artist slang for cryptic feedback from the Importer.
+...
+---
+lvl : intermediate
+cntxt : computer graphics
+term : mesh
+aka : polygon mesh, skin, visible mesh
+def : >
+  is a collection of vertices, edges and faces that connect to form a complex shape of a 3D object.
+...
+---
+lvl : intermediate
+cntxt : animation
+term : skinned mesh
+aka : 
+def : >
+  a polygon mesh ("skin") that has vertices connected to an underling "skeleton". This mesh can be deformed and animated by a Game Animator. The process of binding a mesh to a skeleton is called **Skinning**.
+...
+---
+lvl : intermediate
+cntxt : animation
+term : rig
+aka : skeleton
+def : >
+  is a set of interconnected bones that form a digital skeleton that is bound to the 3D mesh of a model. The process of creating this skeleton is called **Rigging**.
+...
+---
+lvl : intermediate
+cntxt : animation
+term : Skeletal animation
+aka : Bone-based animation
+def : >
+  is a form of computer animation that uses interconnected bones to the animate the surface mesh of an object.
+...
+---
+lvl : intermediate
+cntxt : artificial intelligence
+term : Navigation mesh
+aka : navmesh
+def : >
+  is data that is used in artificial intelligence to aid NPCs in finding their way around the game world.
+...
+---
+lvl : intermediate
+cntxt : computer graphics
+term : NURBS Modeling tool
+aka : Non-uniform rational B-spline tool
+def : >
+  are tools that use the Non-uniform rational basis spline mathematical model to curved surfaces.
+...
+---
+lvl : intermediate
+cntxt : animation
+term : Keyframe animation
+aka : 
+def : >
+  is a form of computer animation that is based on transitions of an object's property from one “key” state (value) to another over a period of time. These “states” are usually called keyframes.
 ...
 ---

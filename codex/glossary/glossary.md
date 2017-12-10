@@ -19,7 +19,7 @@ Last updated on: Month date year
 
 _context: game dev_
 
-**DCC tools** (a.k.a. **Digital Content Creation tools**) - are tools that can help with the creation of game assets and a host of other issues. These asset creation tools can be developed by a game development team to fit the custom needs of the team or bought from software vendors. Open source DCC tools like Blender are available as well.
+**DCC tools** (a.k.a. **Digital Content Creation tools**) - are tools that can help with the creation of game assets and a host of other issues. These asset creation tools can be developed by a game development team to fit the custom needs of the team or bought from software vendors. Open source DCC tools like Blender are available as well. 
 Examples of commercial DCC tools: Maya, ZBrush, 3ds Max, Photoshop, Softimage, Houdini...
 
 
@@ -46,14 +46,14 @@ _context: game dev_
 
 _context: game dev job_
 
-**3D generalist** - A 3D generalist is someone who can do more than just one field of work in 3D artwork. This area of emphasis covers all aspects of 3D production, along with a strong visual art foundation.
+**3D generalist** - a 3D generalist is someone who can do more than just one field of work in 3D artwork. This area of emphasis covers all aspects of 3D production, along with a strong visual art foundation.
 
 
 ------
 
 _context: game dev job_
 
-**Environment Artist** (a.k.a. **Final Layout Artist**, **Level Assembly Artist**, **Set Dressing Artist**) - are artist that are responsible for creating visually stunning indoor and outdoor locations and environments in a game's setting while keeping an eye on performance budgets. They use 2D storyboards or 2D concepts to create a 3D scenes prototype and iterate on it until final art quality is reached. They work with the Art Director to maintain the visual consistency of the game's setting. They also work with the game designers to ensure the locations and environments are fun to play in.
+**Environment Artist** (a.k.a. **Final Layout Artist**, **Level Assembly Artist**, **Set Dressing Artist**, **World Builder**) - are artist that are responsible for creating visually stunning indoor and outdoor locations and environments in a game's setting while keeping an eye on performance budgets. They use 2D storyboards or 2D concepts to create a 3D scenes prototype and iterate on it until final art quality is reached. They work with the Art Director to maintain the visual consistency of the game's setting. They also work with the game designers to ensure the locations and environments are fun to play in.
 
 
 ------
@@ -72,9 +72,16 @@ _context: game dev job_
 
 ------
 
+_context: animation_
+
+**Keyframe animation** - is a form of computer animation that is based on transitions of an object's property from one “key” state (value) to another over a period of time. These “states” are usually called keyframes.
+
+
+------
+
 _context: game dev job_
 
-**Level Designer** (a.k.a. **Environment Design**) - designers that are responsible for creating entire levels of a game like rooms, buildings, cities and areas. They specify locations of gameplay elements like entrance/exit locations, items and loot, non-player characters, event trigger locations to make each level unique. They use weather and day/night cycles to create interesting and challenging environments.
+**Level Designer** (a.k.a. **LD**, **Environment Design**) - designers that are responsible for creating entire levels of a game like rooms, buildings, cities and areas. They specify locations of gameplay elements like entrance/exit locations, items and loot, non-player characters, event trigger locations to make each level unique. They use weather and day/night cycles to create interesting and challenging environments.
 
 
 ------
@@ -86,9 +93,51 @@ _context: game dev job_
 
 ------
 
+_context: computer graphics_
+
+**NURBS Modeling tool** (a.k.a. **Non-uniform rational B-spline tool**) - are tools that use the Non-uniform rational basis spline mathematical model to curved surfaces.
+
+
+------
+
+_context: artificial intelligence_
+
+**Navigation mesh** (a.k.a. **navmesh**) - is data that is used in artificial intelligence to aid NPCs in finding their way around the game world.
+
+
+------
+
+_context: animation_
+
+**Skeletal animation** (a.k.a. **Bone-based animation**) - is a form of computer animation that uses interconnected bones to the animate the surface mesh of an object.
+
+
+------
+
+_context: computer graphics_
+
+**mesh** (a.k.a. **polygon mesh**, **skin**, **visible mesh**) - is a collection of vertices, edges and faces that connect to form a complex shape of a 3D object.
+
+
+------
+
 _context: game dev_
 
 **middleware** - software that enables a game development team to build a game, create assets for the game, making the game development process easier. Middleware can be game engines, development libraries and different kinds of tools.
+
+
+------
+
+_context: animation_
+
+**rig** (a.k.a. **skeleton**) - is a set of interconnected bones that form a digital skeleton that is bound to the 3D mesh of a model. The process of creating this skeleton is called **Rigging**.
+
+
+------
+
+_context: animation_
+
+**skinned mesh** - a polygon mesh ("skin") that has vertices connected to an underling "skeleton". This mesh can be deformed and animated by a Game Animator. The process of binding a mesh to a skeleton is called **Skinning**.
 
 
 ------
@@ -97,4 +146,25 @@ _context: game dev_
 ------
 
 # Advanced Level
+
+_context: DCC tools_
+
+**"the spew"** - artist slang for cryptic feedback from the Importer.
+
+
+------
+
+_context: DCC tools_
+
+**Importer** - a peace of software that converts an assets from an intermediary format of the content pipeline into a format that is suitable for the game engine.
+
+
+------
+
+_context: DCC tools_
+
+**Intermediate file** (a.k.a. **Bridge file**) - a file that is produced as a result of the process of exporting an asset from a DCC tool.
+
+
+------
 
