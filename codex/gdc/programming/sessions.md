@@ -72,6 +72,12 @@ permalink: /codex/gdc/programming/sessions
 
 ------
 
+#### GPU-Based Run-Time Procedural Placement in 'Horizon: Zero Dawn'
+##### Jaap van Muijden @ GDC 2017
+#### [Video](https://www.gdcvault.com/play/1024120/GPU-Based-Run-Time-Procedural) | [Slides](https://www.gdcvault.com/play/1024700/GPU-Based-Run-Time-Procedural)
+
+------
+
 #### Data Binding Architectures for Rapid UI Creation in Unity
 ##### @ GDC 2017
 #### [Video](http://www.gdcvault.com/play/1023978/Data-Binding-Architectures-for-Rapid) | [Slides](http://www.gdcvault.com/play/1024453/Data-Binding-Architectures-for-Rapid)
@@ -92,6 +98,4 @@ permalink: /codex/gdc/programming/sessions
 
 #### Do You Copy? Dialog System and Tools in 'Firewatch'
 ##### William Armstrong @ GDC 2017
-#### [Video](Todo: vstepano) | [Slides](https://www.gdcvault.com/play/1024415/Do-You-Copy-Dialog-System)
-
-
+#### [Video](https://www.gdcvault.com/play/1024000/Do-You-Copy-Dialog-System) | [Slides](https://www.gdcvault.com/play/1024415/Do-You-Copy-Dialog-System)
