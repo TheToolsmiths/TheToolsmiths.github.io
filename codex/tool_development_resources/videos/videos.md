@@ -113,6 +113,31 @@ permalink: /codex/tool_development_resources/videos
 
 ------
 
+# Procedural Generation
+
+##### CppCon 2017: Building Better Worlds: Developing a Procedural City Tool for Alien: Covenant
+###### Alan Bucior
+[Video](https://youtu.be/F9tGa-hbmTU)
+
+
+------
+
+##### Interactive Sketching of Urban Procedural Models - SIGGRAPH 2016
+[Video](https://youtu.be/rn4T9Y9PbgQ)
+
+
+------
+
+##### Procedural Building Generation with Grammars
+###### Rachel Hwang
+[Video](https://youtu.be/t-VUpX-xVo4)
+
+
+------
+
+
+------
+
 # Programming
 
 ##### Core Dump: Day 2: Visual scripting, UI development and tools performance.

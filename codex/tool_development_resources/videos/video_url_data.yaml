@@ -228,3 +228,27 @@ author : Eskil Steenberg
 type : Video
 url : https://youtu.be/u0VnCdtCFCQ
 src :
+...
+---
+topic : Procedural Generation
+caption : Procedural Building Generation with Grammars
+author : Rachel Hwang
+type : Video
+url : https://youtu.be/t-VUpX-xVo4
+src :
+...
+---
+topic : Procedural Generation
+caption : "CppCon 2017: Building Better Worlds: Developing a Procedural City Tool for Alien: Covenant"
+author : Alan Bucior
+type : Video
+url : https://youtu.be/F9tGa-hbmTU
+src :
+...
+---
+topic : Procedural Generation
+caption : "Interactive Sketching of Urban Procedural Models - SIGGRAPH 2016"
+author : 
+type : Video
+url : https://youtu.be/rn4T9Y9PbgQ
+src :
