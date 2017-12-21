@@ -21,4 +21,8 @@ type: top_level_codex_page
 
 ------
 
+### [GDC Visual Arts Sessions]({{ site.baseurl }}{% link codex/gdc/visual_arts/sessions.md %})
+
+------
+
 ### [GDC Tools SIG Roundtable Sessions]({{ site.baseurl }}{% link codex/gdc/roundtable/sessions.md %})
