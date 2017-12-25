@@ -29,6 +29,11 @@ Knowing the right words is like having the right tools for the job.
 
 ------
 
+# [Game Tools History]({{ site.baseurl }}{% link codex/game_tools_history/game_tools_history.md %})
+'Those who don't know history are doomed to repeat it.'
+
+------
+
 # [Libraries, Frameworks and Open Source Projects]({{ site.baseurl }}{% link codex/libraries_frameworks_open_source/libraries_frameworks_open_source.md %})
 Trying not to reinvent the wheel. Helping out and learing new things.
 
