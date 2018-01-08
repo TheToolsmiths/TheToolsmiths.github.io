@@ -157,3 +157,59 @@
   aka : 
   def : >
     is a form of computer animation that is based on transitions of an object's property from one "key" state (value) to another over a period of time. These "states" are usually called keyframes.
+
+- lvl : intermediate
+  cntxt : game dev job
+  term : Composer
+  aka : 
+    - Video Game Composer
+    - Video Game Music Composer
+    - Audio Artist
+  def : >
+    writes expressive musical scores to bring the video game world to life. Making game scene unforgettable and immersive.
+
+- lvl : intermediate
+  cntxt : computer graphics
+  term : occlusion culling
+  aka : 
+    - OC
+    - Hidden Surface Removal (HSR)
+    - Visible Surface Determination (VSD)
+  def : >
+    is the process of determining the visibility of an object from the camera's point of view. This process is usually used to render only the visible objects.
+
+- lvl : entry
+  cntxt : computer graphics
+  term : voxel
+  aka : 
+  def : >
+    the 3D version of a pixel
+
+- lvl : intermediate
+  cntxt : computer graphics
+  term : voxelization
+  aka : 
+  def : >
+    the process of converting a model into a model that consist of <strong>voxels</strong>.
+
+- lvl : entry
+  cntxt : DevOps
+  term : virtual machine
+  aka : 
+    - VM
+  def : >
+    is software that emulates a hardware computer. 
+
+- lvl : entry
+  cntxt : game physics
+  term : rigid body
+  aka : 
+  def : >
+   is a solid body that doesn't deform when any kind of force is applied to it.
+
+- lvl : entry
+  cntxt : game physics
+  term : soft body
+  aka : 
+  def : >
+    is a solid body that deforms when any kind of force is applied to it.
