@@ -28,6 +28,12 @@ permalink: /codex/tool_development_resources/videos
 <p><a href="{{video.url}}">Video</a></p>
 			{% endif %}
 		{% endif %}
+
+		{% if video.links %}
+			{% for link in video.links %}
+<a href="{{link.url}}">{{link.lable}}</a>
+			{% endfor %}
+		{% endif %}
 <hr>
 	{% endfor %}
 {% endfor %}
