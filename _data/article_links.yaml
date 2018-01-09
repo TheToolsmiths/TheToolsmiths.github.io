@@ -1,0 +1,21 @@
+- topic_name : algorithms
+  articles:
+  - caption : Implementing a Fuzzy Search Algorithm for The Debuginator
+    author : Anders Elfgren
+    url : https://medium.com/@Srekel/implementing-a-fuzzy-search-algorithm-for-the-debuginator-cacc349e6c55
+    pic_url : https://cdn-images-1.medium.com/max/800/1*HLaXGdrbYla4rWJELAQgDQ.png
+    pic_caption : Picture Fuzzy Search Algorithm for The Debuginator
+
+  - caption : Reverse Engineering Sublime Text’s Fuzzy Match
+    author : Forrest Smith
+    url : https://blog.forrestthewoods.com/reverse-engineering-sublime-text-s-fuzzy-match-4cffeed33fdb
+    pic_url : https://cdn-images-1.medium.com/max/800/1*VeGVAZsCVUYXrbI376oGCQ.png
+    pic_caption : Picture Reverse Engineering Sublime Fuzzy Match
+
+  - caption : Static Hash Values
+    author : Niklas Gray (Bitsquid/Stingray)
+    url : http://bitsquid.blogspot.ru/2010/10/static-hash-values.html
+
+  - caption : High Performance Content Defined Chunking
+    author : Moinakg
+    url : https://moinakg.wordpress.com/2013/06/22/high-performance-content-defined-chunking/
