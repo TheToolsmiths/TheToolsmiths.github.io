@@ -1,41 +1,41 @@
 ---
 layout: codex_page
-title: The Toolsmiths Interesting Articles
+title: The Toolsmiths Interesting Articles and Web Pages
 permalink: /codex/tool_development_resources/web_resources/articles/
 ---
 
-# [Algorithm articles]({{ site.baseurl }}{% link codex/tool_development_resources/web_resources/articles/algorithms.md %})
+# [Algorithms]({{ site.baseurl }}{% link codex/tool_development_resources/web_resources/articles/algorithms.md %})
 
 ------
 
-# [Build and Deployment articles]({{ site.baseurl }}{% link codex/tool_development_resources/web_resources/articles/build.md %})
+# [Build and Deployment]({{ site.baseurl }}{% link codex/tool_development_resources/web_resources/articles/build.md %})
 
 ------
 
-# [Engine articles]({{ site.baseurl }}{% link codex/tool_development_resources/web_resources/articles/engine.md %})
+# [Engine]({{ site.baseurl }}{% link codex/tool_development_resources/web_resources/articles/engine.md %})
 
 ------
 
-# [Miscellaneous articles]({{ site.baseurl }}{% link codex/tool_development_resources/web_resources/articles/miscellaneous.md %})
+# [Miscellaneous]({{ site.baseurl }}{% link codex/tool_development_resources/web_resources/articles/miscellaneous.md %})
 
 ------
 
-# [Pipeline articles]({{ site.baseurl }}{% link codex/tool_development_resources/web_resources/articles/pipeline.md %})
+# [Pipeline]({{ site.baseurl }}{% link codex/tool_development_resources/web_resources/articles/pipeline.md %})
 
 ------
 
-# [Tool Core Technologies articles]({{ site.baseurl }}{% link codex/tool_development_resources/web_resources/articles/tool_core.md %})
+# [Tool Core Technologies]({{ site.baseurl }}{% link codex/tool_development_resources/web_resources/articles/tool_core.md %})
 
 ------
 
-# [Tool Engineer articles]({{ site.baseurl }}{% link codex/tool_development_resources/web_resources/articles/tool_engineers.md %})
+# [Tool Engineer]({{ site.baseurl }}{% link codex/tool_development_resources/web_resources/articles/tool_engineers.md %})
 
 ------
 
-# [UX articles]({{ site.baseurl }}{% link codex/tool_development_resources/web_resources/articles/ux.md %})
+# [UX]({{ site.baseurl }}{% link codex/tool_development_resources/web_resources/articles/ux.md %})
 
 ------
 
-# [Windows articles]({{ site.baseurl }}{% link codex/tool_development_resources/web_resources/articles/windows.md %})
+# [Windows]({{ site.baseurl }}{% link codex/tool_development_resources/web_resources/articles/windows.md %})
 
 ------

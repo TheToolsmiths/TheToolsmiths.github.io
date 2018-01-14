@@ -1,6 +1,6 @@
 ---
 layout: codex_page
-title: The Toolsmiths Interesting Articles About Miscellaneous Stuff
+title: Articles and Web Pages on the topic of Miscellaneous Stuff
 permalink: /codex/tool_development_resources/articles/miscellaneous
 ---
 

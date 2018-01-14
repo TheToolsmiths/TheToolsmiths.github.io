@@ -1,6 +1,6 @@
 ---
 layout: codex_page
-title: The Toolsmiths Interesting Articles About Tools Engineers
+title: Articles and Web Pages on the topic of Tools Engineers
 permalink: /codex/tool_development_resources/articles/toolengineers
 ---
 

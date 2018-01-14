@@ -1,6 +1,6 @@
 ---
 layout: codex_page
-title: The Toolsmiths Interesting Articles About Tool Core Technologies
+title: Articles and Web Pages on the topic of Tool Core Technologies
 permalink: /codex/tool_development_resources/articles/toolinternals
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: codex_page
-title: The Toolsmiths Interesting Articles About Algorithms
+title: Articles and Web Pages on the topic of Algorithms
 permalink: /codex/tool_development_resources/articles/algorithms
 ---
 

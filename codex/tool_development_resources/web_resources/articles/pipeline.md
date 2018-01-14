@@ -1,6 +1,6 @@
 ---
 layout: codex_page
-title: The Toolsmiths Interesting Articles About Production Pipelines
+title: Articles and Web Pages on the topic of Production Pipelines
 permalink: /codex/tool_development_resources/articles/productionpipelines
 ---
 

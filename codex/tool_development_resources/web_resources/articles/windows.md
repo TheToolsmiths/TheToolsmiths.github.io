@@ -1,6 +1,6 @@
 ---
 layout: codex_page
-title: The Toolsmiths Interesting Articles About Windows
+title: Articles and Web Pages on the topic of Windows
 permalink: /codex/tool_development_resources/articles/windows
 ---
 

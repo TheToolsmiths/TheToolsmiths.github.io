@@ -1,6 +1,6 @@
 ---
 layout: codex_page
-title: The Toolsmiths Interesting Articles About Building and Deployment
+title: Articles and Web Pages on the topic of Building and Deployment
 permalink: /codex/tool_development_resources/articles/build/
 ---
 
