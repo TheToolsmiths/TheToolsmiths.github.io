@@ -19,3 +19,23 @@
   - caption : High Performance Content Defined Chunking
     author : Moinakg
     url : https://moinakg.wordpress.com/2013/06/22/high-performance-content-defined-chunking/
+
+- topic_name : build and deploy
+  articles:
+  - caption : "Stack Overflow: How We Do Deployment - 2016 Edition"
+    url : https://nickcraver.com/blog/2016/05/03/stack-overflow-how-we-do-deployment-2016-edition/
+
+- topic_name : engine tech
+  articles:
+  - caption : "Engine Tech: Concurrent world editing"
+    author : Jonathan Blow
+    url : http://the-witness.net/news/2011/12/engine-tech-concurrent-world-editing/
+    pic_url : http://the-witness.net/news/wp-content/uploads/2011/12/editor_shot-512x288.png
+    pic_caption : Picture Concurrent world editing
+
+  - caption : "Game Development Needs Data Pipeline Middleware"
+    url : https://blog.demofox.org/2016/04/01/game-development-needs-data-pipeline-middleware/
+
+  - caption : "What Is In a Name? - designing a resource system for a game engine"
+    author : Niklas Gray (Bitsquid/Stingray)
+    url : http://bitsquid.blogspot.ru/2014/06/what-is-in-name.html

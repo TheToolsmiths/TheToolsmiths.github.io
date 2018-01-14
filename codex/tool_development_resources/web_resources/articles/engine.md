@@ -4,22 +4,26 @@ title: The Toolsmiths Interesting Articles About Engine Tech
 permalink: /codex/tool_development_resources/articles/engine/
 ---
 
-------
+<!-- To Edit or Add content to this page please edit the _data/article.yaml file -->
+{% assign article_topics = site.data.article_links | sort: 'topic_name' %}
 
-#### [Engine Tech: Concurrent world editing](http://the-witness.net/news/2011/12/engine-tech-concurrent-world-editing/)
-![Concurrent world editing](http://the-witness.net/news/wp-content/uploads/2011/12/editor_shot-512x288.png)
-##### by Jonathan Blow
+{% for topic in article_topics %}
 
-------
+	{% if topic.topic_name == "engine tech" %}
 
+		{% assign articles = topic.articles | sort: 'caption' %}
+		{% for article in articles %}
 
-#### [Game Development Needs Data Pipeline Middleware](https://blog.demofox.org/2016/04/01/game-development-needs-data-pipeline-middleware/)
+<h4><a href="{{article.url}}">{{article.caption}}</a></h4>
+			{% if article.pic_url %}
+<p><img src="{{article.pic_url}}" alt="{{article.pic_caption}}"></p>
+			{% endif %}
 
-#### [What Is In a Name? - designing a resource system for a game engine](http://bitsquid.blogspot.ru/2014/06/what-is-in-name.html)
+			{% if article.author %}
+<h5>by {{article.author}}</h5>
+			{% endif %}
+<hr>
 
-#### [FRAMEGRAPH: Extensible Rendering Architecture in Frostbite](https://www.ea.com/frostbite/news/framegraph-extensible-rendering-architecture-in-frostbite)
-
-------
-
-# More
-![coming soon]({{ site.url }}/assets/common/coming_soon.jpg)
+		{% endfor %}
+	{% endif %}
+{% endfor %}
