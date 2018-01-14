@@ -39,3 +39,161 @@
   - caption : "What Is In a Name? - designing a resource system for a game engine"
     author : Niklas Gray (Bitsquid/Stingray)
     url : http://bitsquid.blogspot.ru/2014/06/what-is-in-name.html
+
+- topic_name : miscellaneous
+  articles:
+  - caption : "PowerShell is open sourced and is available on Linux"
+    url : https://azure.microsoft.com/en-us/blog/powershell-is-open-sourced-and-is-available-on-linux/
+
+  - caption : "Avoiding Content Locks and Conflicts -- 3-way Json Merge"
+    author : Niklas Gray (Bitsquid/Stingray)
+    url : http://bitsquid.blogspot.ru/2010/06/avoiding-content-locks-and-conflicts-3.html
+
+  - caption : "Rendered Image Comparison"
+    author : Nick Darnell
+    url : http://www.nickdarnell.com/rendered-image-comparison/
+
+  - caption : "Complexity and Strategy"
+    url : https://hackernoon.com/complexity-and-strategy-325cd7f59a92
+
+  - caption : "How to Create C/C++ Addons in Node "
+    url : http://stackabuse.com/how-to-create-c-cpp-addons-in-node/
+
+  - caption : "What Every Coder Should Know About Gamma"
+    url : http://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/
+
+- topic_name : pipelines
+  articles:
+  - caption : "GDC17 : Character Production Pipeline & Customization System on Far Cry Primal"
+    author : Julien Lallevé
+    url : https://jlalleve.wordpress.com/2017/03/11/gdc17-character-production-pipeline-customization-system-on-far-cry-primal/
+
+- topic_name : tool core
+  articles:
+  - caption : "Universal Undo, Copy and Paste"
+    author : Niklas Gray (Bitsquid/Stingray)
+    url : http://bitsquid.blogspot.ru/2011/04/universal-undo-copy-and-paste.html
+
+  - caption : "Our Tool Architecture - bitsquid 2010"
+    author : Niklas Gray (Bitsquid/Stingray)
+    url : http://bitsquid.blogspot.ru/2010/04/our-tool-architecture.html
+
+  - caption : "Gpu Based Procedural Placement In Horizon Zero Dawn"
+    url : https://www.guerrilla-games.com/read/gpu-based-procedural-placement-in-horizon-zero-dawn
+
+  - caption : "Ghost Recon Wildlands: terrain tools and technology"
+    url : https://666uille.wordpress.com/2017/03/08/ghost-recon-wildlands-terrain-tools-and-technology/
+
+  - caption : "Creating A Tools Pipeline For Horizon Zero Dawn"
+    url : https://www.guerrilla-games.com/read/creating-a-tools-pipeline-for-horizon-zero-dawn
+
+  - caption : "Why I think Immediate Mode GUI is way to go for GameDev tools"
+    author : Branimir Karadžić
+    url : https://gist.github.com/bkaradzic/853fd21a15542e0ec96f7268150f1b62#why-i-think-immediate-mode-gui-is-way-to-go-for-gamedev-tools 
+
+  - caption : "Why Qt and not IMGUI?"
+    author : Andreas Fredriksson
+    url : https://deplinenoise.wordpress.com/2017/03/05/why-qt-and-not-imgui/
+
+  - caption : "Web Tools for Application UI"
+    author : Stoyan Nikolov
+    url : https://stoyannk.wordpress.com/2017/03/03/web-tools-for-application-ui/
+
+- topic_name : tool engineers
+  articles:
+  - caption : "tools-engineer-checklist.md"
+    author : Geoff Evans
+    url : https://gist.github.com/gorlak/1a0747efe88c5e3998144c5787d090ec
+
+  - caption : "Unsung heroes of the games industry: tools programmers"
+    url : http://www.ign.com/articles/2017/02/06/unsung-heroes-of-the-games-industry-tools-programmers
+
+- topic_name : ux
+  article_subtopics:
+  - subtopic_name : UX Summits
+    articles:
+      - caption : "Game UX Summit 2016 Recap"
+        url : https://www.unrealengine.com/en-US/blog/game-ux-summit-2016-recap-and-2017-event-announcement
+
+      - caption : "GDC 2017 UX Summit – Overview"
+        url : http://celiahodent.com/gdc-2017-ux-summit-overview/
+
+  - subtopic_name : UX Resources
+    articles:
+    - caption : "Design applications for the Windows desktop"
+      url : https://developer.microsoft.com/en-us/windows/desktop/design
+
+    - caption : "Responsive & Baseline (Atomic) Grids"
+      url : http://harmony.intuit.com/grid/
+
+    - caption : "Specifics 001: The 8-Point Grid"
+      url : https://spec.fm/specifics/8-pt-grid 
+
+    - caption : "Specifics 002: Typographic Scales"
+      url : https://spec.fm/specifics/type-scale 
+
+    - caption : "Sketch Workflow — 8 point Soft Grids"
+      url : https://medium.com/sketch-app-sources/8-point-soft-grids-in-sketch-e8f1d5ca2cd4
+
+    - caption : "Metrics & keylines"
+      url : https://material.io/guidelines/layout/metrics-keylines.html#metrics-keylines-sizing-by-increments
+
+- topic_name : windows
+  article_subtopics:
+  - subtopic_name : Change Journals
+    articles:
+      - caption : "MSDN Docs: Change Journals"
+        url : https://msdn.microsoft.com/en-us/aa363798.aspx
+
+      - caption : "Keeping an Eye on Your NTFS Drives: the Windows 2000 Change Journal Explained"
+        url : https://www.microsoft.com/msj/0999/journal/journal.aspx 
+
+      - caption : "GKeeping an Eye on Your NTFS Drives, Part II: Building a Change Journal Application"
+        url : https://www.microsoft.com/msj/1099/journal2/journal2.aspx
+
+  - subtopic_name : Profiling
+    articles:
+      - caption : "ETW/xperf profiling article roundup"
+        author : Bruce Dawson
+        url : https://randomascii.wordpress.com/2015/09/24/etw-central/
+
+  - subtopic_name : Testing
+    articles:
+      - caption : "Windows Application Driver for PC integrates with Appium"
+        url : https://blogs.windows.com/buildingapps/2016/11/16/windows-application-driver-for-pc-integrates-with-appium/#QoRFclhFFvVm4gyi.97
+
+      - caption : "Windows Automation API Testing Tools"
+        url : https://msdn.microsoft.com/en-us/library/dd373661(v=vs.110).aspx
+
+      - caption : "Spy++"
+        url : https://docs.microsoft.com/en-us/visualstudio/debugger/using-spy-increment
+
+      - caption : "Inspect.exe"
+        url : https://msdn.microsoft.com/en-us/library/windows/desktop/dd318521(v=vs.85).aspx
+
+      - caption : "Microsoft UI Automation API"
+        url : https://docs.microsoft.com/en-us/dotnet/framework/ui-automation/ui-automation-fundamentals
+
+  - subtopic_name : Version Control
+    articles:
+      - caption : "The largest Git repo on the planet"
+        url : https://blogs.msdn.microsoft.com/bharry/2017/05/24/the-largest-git-repo-on-the-planet/
+
+      - caption : "Scaling Git (and some back story)"
+        url : https://blogs.msdn.microsoft.com/bharry/2017/02/03/scaling-git-and-some-back-story/
+
+  - subtopic_name : Miscellaneous
+    articles:
+      - caption : "Windows Containers on Windows 10"
+        url : https://docs.microsoft.com/en-us/virtualization/windowscontainers/quick-start/quick-start-windows-10
+
+      - caption : "Windows and Ubuntu Interoperability"
+        url : https://blogs.msdn.microsoft.com/wsl/2016/10/19/windows-and-ubuntu-interoperability/
+
+      - caption : "Win32 API Programming Tutorial"
+        url : http://www.winprog.org/tutorial/start.html
+
+  - subtopic_name : Visual Studio articles
+    articles:
+      - caption : "Visual Studio Build Loggers"
+        url : https://msdn.microsoft.com/en-us/library/ms171471.aspx

@@ -4,31 +4,32 @@ title: The Toolsmiths Interesting Articles About UX
 permalink: /codex/tool_development_resources/articles/ux
 ---
 
-------
+<!-- To Edit or Add content to this page please edit the _data/article.yaml file -->
+{% assign article_topics = site.data.article_links | sort: 'topic_name' %}
 
-### UX Summits
+{% for topic in article_topics %}
 
-#### [Game UX Summit 2016 Recap](https://www.unrealengine.com/en-US/blog/game-ux-summit-2016-recap-and-2017-event-announcement)
+	{% if topic.topic_name == "ux" %}
 
-#### [GDC 2017 UX Summit – Overview](http://celiahodent.com/gdc-2017-ux-summit-overview/)
+		{% assign article_subtopics = topic.article_subtopics | sort: 'subtopic_name' %}
+		{% for article_subtopic in article_subtopics %}
 
-------
+<hr>
+<h2>{{article_subtopic.subtopic_name}}</h2>
 
-### UX resources
+			{% assign articles = article_subtopic.articles | sort: 'caption' %}
+			{% for article in articles %}
 
-#### [Design applications for the Windows desktop](https://developer.microsoft.com/en-us/windows/desktop/design)
+<h4><a href="{{article.url}}">{{article.caption}}</a></h4>
+				{% if article.pic_url %}
+<p><img src="{{article.pic_url}}" alt="{{article.pic_caption}}"></p>
+				{% endif %}
 
-#### [Responsive & Baseline (Atomic) Grids](http://harmony.intuit.com/grid/)
-
-#### [Specifics 001: The 8-Point Grid](https://spec.fm/specifics/8-pt-grid )
-
-#### [Specifics 002: Typographic Scales](https://spec.fm/specifics/type-scale )
-
-#### [Sketch Workflow — 8 point Soft Grids](https://medium.com/sketch-app-sources/8-point-soft-grids-in-sketch-e8f1d5ca2cd4)
-
-#### [Metrics & keylines](https://material.io/guidelines/layout/metrics-keylines.html#metrics-keylines-sizing-by-increments)
-
-------
-
-# More
-![coming soon]({{ site.url }}/assets/common/coming_soon.jpg)
+				{% if article.author %}
+<h5>by {{article.author}}</h5>
+				{% endif %}
+<hr>
+			{% endfor %}
+		{% endfor %}
+	{% endif %}
+{% endfor %}

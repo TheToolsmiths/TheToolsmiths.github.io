@@ -4,22 +4,26 @@ title: The Toolsmiths Interesting Articles About Tool Core Technologies
 permalink: /codex/tool_development_resources/articles/toolinternals
 ---
 
-------
+<!-- To Edit or Add content to this page please edit the _data/article.yaml file -->
+{% assign article_topics = site.data.article_links | sort: 'topic_name' %}
 
-#### [Universal Undo, Copy and Paste](http://bitsquid.blogspot.ru/2011/04/universal-undo-copy-and-paste.html)
+{% for topic in article_topics %}
 
-#### [Our Tool Architecture - bitsquid 2010](http://bitsquid.blogspot.ru/2010/04/our-tool-architecture.html)
+	{% if topic.topic_name == "tool core" %}
 
-#### [Gpu Based Procedural Placement In Horizon Zero Dawn](https://www.guerrilla-games.com/read/gpu-based-procedural-placement-in-horizon-zero-dawn)
+		{% assign articles = topic.articles | sort: 'caption' %}
+		{% for article in articles %}
 
-#### [Ghost Recon Wildlands: terrain tools and technology](https://666uille.wordpress.com/2017/03/08/ghost-recon-wildlands-terrain-tools-and-technology/)
+<h4><a href="{{article.url}}">{{article.caption}}</a></h4>
+			{% if article.pic_url %}
+<p><img src="{{article.pic_url}}" alt="{{article.pic_caption}}"></p>
+			{% endif %}
 
-#### [Creating A Tools Pipeline For Horizon Zero Dawn](https://www.guerrilla-games.com/read/creating-a-tools-pipeline-for-horizon-zero-dawn)
+			{% if article.author %}
+<h5>by {{article.author}}</h5>
+			{% endif %}
+<hr>
 
-#### [Scene Assembly - AUTODESK Maya](https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/Maya/files/GUID-E9D00A25-324A-445C-AE04-590AD29C89BA-htm.html)
-
-#### [Why I think Immediate Mode GUI is way to go for GameDev tools](https://gist.github.com/bkaradzic/853fd21a15542e0ec96f7268150f1b62#why-i-think-immediate-mode-gui-is-way-to-go-for-gamedev-tools )
-
-#### [Why Qt and not IMGUI?](https://deplinenoise.wordpress.com/2017/03/05/why-qt-and-not-imgui/)
-
-#### [Web Tools for Application UI](https://stoyannk.wordpress.com/2017/03/03/web-tools-for-application-ui/)
+		{% endfor %}
+	{% endif %}
+{% endfor %}

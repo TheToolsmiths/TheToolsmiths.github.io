@@ -4,18 +4,26 @@ title: The Toolsmiths Interesting Articles About Miscellaneous Stuff
 permalink: /codex/tool_development_resources/articles/miscellaneous
 ---
 
-------
+<!-- To Edit or Add content to this page please edit the _data/article.yaml file -->
+{% assign article_topics = site.data.article_links | sort: 'topic_name' %}
 
-#### [PowerShell is open sourced and is available on Linux](https://azure.microsoft.com/en-us/blog/powershell-is-open-sourced-and-is-available-on-linux/)
+{% for topic in article_topics %}
 
-#### [Avoiding Content Locks and Conflicts -- 3-way Json Merge](http://bitsquid.blogspot.ru/2010/06/avoiding-content-locks-and-conflicts-3.html)
+	{% if topic.topic_name == "miscellaneous" %}
 
-#### [Rendered Image Comparison](http://www.nickdarnell.com/rendered-image-comparison/)
+		{% assign articles = topic.articles | sort: 'caption' %}
+		{% for article in articles %}
 
-#### [Complexity and Strategy](https://hackernoon.com/complexity-and-strategy-325cd7f59a92)
+<h4><a href="{{article.url}}">{{article.caption}}</a></h4>
+			{% if article.pic_url %}
+<p><img src="{{article.pic_url}}" alt="{{article.pic_caption}}"></p>
+			{% endif %}
 
-#### [How to Create C/C++ Addons in Node ](http://stackabuse.com/how-to-create-c-cpp-addons-in-node/)
+			{% if article.author %}
+<h5>by {{article.author}}</h5>
+			{% endif %}
+<hr>
 
-#### [pix2code: Generating Code from a Graphical User Interface Screenshot](http://uizard.io/research#pix2code)
-
-#### [Google's VR editor](https://vr.google.com/blocks/)
+		{% endfor %}
+	{% endif %}
+{% endfor %}

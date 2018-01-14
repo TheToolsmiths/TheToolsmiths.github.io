@@ -4,18 +4,26 @@ title: The Toolsmiths Interesting Articles About Tools Engineers
 permalink: /codex/tool_development_resources/articles/toolengineers
 ---
 
-------
+<!-- To Edit or Add content to this page please edit the _data/article.yaml file -->
+{% assign article_topics = site.data.article_links | sort: 'topic_name' %}
 
-#### [tools-engineer-checklist.md](https://gist.github.com/gorlak/1a0747efe88c5e3998144c5787d090ec)
-##### by Geoff Evans
+{% for topic in article_topics %}
 
-------
+	{% if topic.topic_name == "tool engineers" %}
 
-#### [Unsung heroes of the games industry: tools programmers](http://www.ign.com/articles/2017/02/06/unsung-heroes-of-the-games-industry-tools-programmers)
+		{% assign articles = topic.articles | sort: 'caption' %}
+		{% for article in articles %}
 
-#### [What Every Coder Should Know About Gamma](http://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/)
+<h4><a href="{{article.url}}">{{article.caption}}</a></h4>
+			{% if article.pic_url %}
+<p><img src="{{article.pic_url}}" alt="{{article.pic_caption}}"></p>
+			{% endif %}
 
-------
+			{% if article.author %}
+<h5>by {{article.author}}</h5>
+			{% endif %}
+<hr>
 
-# More
-![coming soon]({{ site.url }}/assets/common/coming_soon.jpg)
+		{% endfor %}
+	{% endif %}
+{% endfor %}
