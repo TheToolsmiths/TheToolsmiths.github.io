@@ -4,4 +4,46 @@
     author : David Lightbown
     url : https://www.amazon.com/Designing-User-Experience-Development-Tools/dp/148224019X
     pic_url : https://images.tandf.co.uk/common/jackets/amazon/978148224/9781482240191.jpg
-    pic_caption : Designing the User Experience of Game Development Tools img
+    pic_caption : Designing the User Experience of Game Development Tools Book Cover
+
+  - title : "The Humane Interface: New Directions for Designing Interactive Systems"
+    author : Jef Raskin
+    url : https://www.amazon.com/Humane-Interface-Directions-Designing-Interactive/dp/0201379376/
+    pic_url : https://images-na.ssl-images-amazon.com/images/I/41wqicWUyDL._SX339_BO1,204,203,200_.jpg
+    pic_caption : "The Humane Interface: New Directions for Designing Interactive Systems Book Cover"
+
+  - title : "The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity"
+    author : Alan Cooper
+    url : https://www.amazon.com/Inmates-Are-Running-Asylum-Products-ebook/dp/B000OZ0N62
+    pic_url : https://images-na.ssl-images-amazon.com/images/I/51xNkNwTDhL._SX330_BO1,204,203,200_.jpg
+    pic_caption : "The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity Book Cover"
+
+- topic_name : Programming
+  books:
+  - title : Game Engine Toolset Development
+    author : Graham Wihlidal
+    url : https://www.amazon.com/Engine-Toolset-Development-Graham-Wihlidal/dp/1592009638
+    pic_url : https://images-na.ssl-images-amazon.com/images/I/4171D8Vk-CL._SX402_BO1,204,203,200_.jpg
+    pic_caption : Game Engine Toolset Development Book Cover
+
+  - title : Game Development Tools
+    author : Marwan Ansari
+    url : https://www.amazon.com/Game-Development-Tools-Marwan-Ansari-ebook/dp/B0090TGX5S
+    pic_url : https://images-na.ssl-images-amazon.com/images/I/51AF3SEG1vL.jpg
+    pic_caption : Game Development Tools Book Cover
+
+- topic_name : History
+  books:
+  - title : "Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age"
+    author : Michael A. Hiltzik
+    url : https://www.amazon.com/Dealers-Lightning-Xerox-PARC-Computer-ebook/dp/B0029PBVCA
+    pic_url : https://images-na.ssl-images-amazon.com/images/I/41lQdTIGMAL.jpg
+    pic_caption : "Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age Book Cover"
+
+- topic_name : Pipeline
+  books:
+  - title : Production Pipeline Fundamentals for Film and Games 
+    author : Renee Dunlop
+    url : https://www.amazon.com/Production-Pipeline-Fundamentals-Film-Games-ebook/dp/B00IOPYVIU
+    pic_url : https://images-na.ssl-images-amazon.com/images/I/613n4-o3%2BkL._SX439_BO1,204,203,200_.jpg
+    pic_caption : Production Pipeline Fundamentals for Film and Games Book Cover
