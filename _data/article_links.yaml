@@ -25,6 +25,9 @@
   - caption : "Stack Overflow: How We Do Deployment - 2016 Edition"
     url : https://nickcraver.com/blog/2016/05/03/stack-overflow-how-we-do-deployment-2016-edition/
 
+  - caption : "Building C/C++: what really happens and why does it take so long"
+    url : http://voices.canonical.com/jussi.pakkanen/2012/10/01/building-cc-what-really-happens-and-why-does-it-take-so-long/
+
 - topic_name : engine tech
   articles:
   - caption : "Engine Tech: Concurrent world editing"
@@ -62,11 +65,34 @@
   - caption : "What Every Coder Should Know About Gamma"
     url : http://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/
 
+  - caption : DeepMind and Blizzard open StarCraft II as an AI research environment
+    url : https://web.archive.org/web/20170617123326/http://www.digitalcinemafoundry.com/2010/04/02/why-the-so-called-blockbuster-look-color-grading-explained/
+
+  - caption : Disney’s new Production Renderer ‘Hyperion’ – Yes, Disney!
+    url : https://www.fxguide.com/featured/disneys-new-production-renderer-hyperion-yes-disney/
+
+  - caption : "Procedural Music Generation"
+    author :  Christer Kaitila
+    url : http://www.procjam.com/tutorials/music/
+
+  - caption : Overview of Reactive GUI Programming
+    url : https://eugenkiss.com/b/overview-of-reactive-gui-programming
+
 - topic_name : pipelines
   articles:
   - caption : "GDC17 : Character Production Pipeline & Customization System on Far Cry Primal"
     author : Julien Lallevé
     url : https://jlalleve.wordpress.com/2017/03/11/gdc17-character-production-pipeline-customization-system-on-far-cry-primal/
+
+  - caption : Photogrammetry Workflow
+    author : Sébastien Lachambre, Sébastien Lagarde, Cyril Jover
+    url : https://unity3d.com/files/solutions/photogrammetry/Unity-Photogrammetry-Workflow_2017-07_v2.pdf
+  
+  - caption : What is the Content Pipeline? (XNA Game Studio Content Pipeline)
+    url : https://msdn.microsoft.com/en-us/library/bb447745.aspx
+
+  - caption : "Game Tools Tune-Up: Optimize Your Pipeline Through Usability"
+    url : https://www.gamasutra.com/view/feature/4016/game_tools_tuneup_optimize_your_.php
 
 - topic_name : tool core
   articles:
@@ -99,6 +125,18 @@
     author : Stoyan Nikolov
     url : https://stoyannk.wordpress.com/2017/03/03/web-tools-for-application-ui/
 
+  - caption : "Keyboard Focus and Event Trickling in Immediate Mode GUIs"
+    author :  Niklas Gray (Our Machinery)
+    url : http://ourmachinery.com/post/keyboard-focus-and-event-trickling-in-immediate-mode-guis/
+
+  - caption : "How Media Molecule Does Serialization"
+    author :  Oswald Hurlem
+    url : https://yave.handmade.network/blogs/p/2723-how_media_molecule_does_serialization
+
+  - caption : "Making Your Game Tools Fast And Efficient"
+    author :  Noor Khawaja
+    url : https://www.gamasutra.com/view/feature/3798/making_your_game_tools_fast_and_.php
+
 - topic_name : tool engineers
   articles:
   - caption : "tools-engineer-checklist.md"
@@ -107,6 +145,9 @@
 
   - caption : "Unsung heroes of the games industry: tools programmers"
     url : http://www.ign.com/articles/2017/02/06/unsung-heroes-of-the-games-industry-tools-programmers
+
+  - caption : "How To Become A Video Game Tools Programmer"
+    url : https://www.gameindustrycareerguide.com/how-to-become-a-video-game-tools-programmer/
 
 - topic_name : ux
   article_subtopics:
@@ -138,9 +179,19 @@
     - caption : "Metrics & keylines"
       url : https://material.io/guidelines/layout/metrics-keylines.html#metrics-keylines-sizing-by-increments
 
+  - subtopic_name : Articles
+    articles:
+    - caption : Desktop compositing latency is real and it annoys me
+      author : Pekka Väänänen
+      url : http://www.lofibucket.com/articles/dwm_latency.html
+
+    - caption : Lessons Learned From Tools Development
+      author : Barnaby Smith
+      url : http://mvi.sh/2010/03/13/lessons-learned-from-tools-development/
+
 - topic_name : windows
   article_subtopics:
-  - subtopic_name : Change Journals
+  - subtopic_name : NTFS
     articles:
       - caption : "MSDN Docs: Change Journals"
         url : https://msdn.microsoft.com/en-us/aa363798.aspx
@@ -150,6 +201,9 @@
 
       - caption : "GKeeping an Eye on Your NTFS Drives, Part II: Building a Change Journal Application"
         url : https://www.microsoft.com/msj/1099/journal2/journal2.aspx
+
+      - caption : "Alternate Data Streams in NTFS"
+        url : https://blogs.technet.microsoft.com/askcore/2013/03/24/alternate-data-streams-in-ntfs/
 
   - subtopic_name : Profiling
     articles:
@@ -192,6 +246,9 @@
 
       - caption : "Win32 API Programming Tutorial"
         url : http://www.winprog.org/tutorial/start.html
+
+      - caption : "Tutorial/How to avoid C/C++ runtime on Windows"
+        url : https://handmade.network/wiki/2824-tutorial_how_to_avoid_c_c++_runtime_on_windows
 
   - subtopic_name : Visual Studio articles
     articles:
