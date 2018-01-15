@@ -16,6 +16,9 @@ permalink: /codex/game_tools_history/classic_tools_retrospective
 
 ##### [Classic Tools Retrospective: John Romero talks about creating TEd, the tile editor that shipped over 30 games](https://www.gamasutra.com/blogs/DavidLightbown/20170223/289955/Classic_Tools_Retrospective_John_Romero_talks_about_creating_TEd_the_tile_editor_that_shipped_over_30_games.php)
 
+
+##### [Classic Tools Retrospective: Tim Sweeney on the first version of the Unreal Editor](https://www.gamasutra.com/blogs/DavidLightbown/20180109/309414/Classic_Tools_Retrospective_Tim_Sweeney_on_the_first_version_of_the_Unreal_Editor.php)
+
 ------
 
 ------
