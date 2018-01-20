@@ -113,3 +113,20 @@
     gdc_year : 2017
     video_url : http://www.gdcvault.com/play/1023965/Building-Beauclair-Capital-City-in
     slides_url : http://www.gdcvault.com/play/1024610/Building-Beauclair-Capital-City-in
+
+- track_name : production
+  sessions:
+  - session_name : "Data is a Four-Letter Word"
+    speaker : Paul Du Bois, Henry Goffin
+    company_name : Double Fine
+    gdc_year : 2010
+    audio_url : https://www.gdcvault.com/play/1012231/Data-is-a-Four-Letter
+    slides_url : https://www.gdcvault.com/play/1012445/Data-is-a-Four-Letter
+
+  - session_name : "Growing a Dedicated Tools Programming Team: From Baldur’s Gate to Star Wars: Knights of the Old Republic."
+    speaker : Don Moar
+    company_name : 
+    gdc_year : 2004
+    audio_url : https://www.gdcvault.com/play/1013574/Growing-a-Dedicated-Tools-Programming
+    slides_url : https://www.gdcvault.com/play/1022869/Growing-a-Dedicated-Tools-Programming
+

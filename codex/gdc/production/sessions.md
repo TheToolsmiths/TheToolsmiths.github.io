@@ -1,18 +1,49 @@
 ---
 layout: codex_page
-title: Tools Related Sessions for Programming
-permalink: /codex/gdc/programming/sessions
+title: Tools Related Sessions for Production
+permalink: /codex/gdc/production/sessions
 ---
 {% include JB/setup %}
 
-#### Growing a Dedicated Tools Programming Team: From Baldur’s Gate to Star Wars: Knights of the Old Republic. 
-##### Don Moar @ GDC 2004
-#### [Audio](https://www.gdcvault.com/play/1013574/Growing-a-Dedicated-Tools-Programming) | [Slides](https://www.gdcvault.com/play/1022869/Growing-a-Dedicated-Tools-Programming)
+<!-- To Edit or Add content to this page please edit the _data/gdc_sessions.yaml file (look for track_name : production) -->
+{% assign track_names = site.data.gdc_sessions | sort: 'track_name' %}
 
-------
+{% for track in track_names %}
 
-#### Data is a Four-Letter Word
-##### Paul Du Bois, Henry Goffin @ GDC 2010
-#### [Audio](https://www.gdcvault.com/play/1012231/Data-is-a-Four-Letter) | [Slides](https://www.gdcvault.com/play/1012445/Data-is-a-Four-Letter)
+	{% if track.track_name == "production" %}
 
-------
+		{% assign sessions = track.sessions | sort: 'gdc_year' %}
+		{% for session in sessions %}
+
+<h4>{{session.session_name}}</h4>
+
+			{% assign company_name = "" %}
+			{% if session.company_name %}
+				{% assign company_name = "(" | append: session.company_name | append: ") " %}
+			{% endif %}
+
+			{% if session.location %}
+<h5>{{session.speaker}} {{company_name}}@ GDC {{session.location}} {{session.gdc_year}}</h5>
+			{% else %}
+<h5>{{session.speaker}} {{company_name}}@ GDC {{session.gdc_year}}</h5>
+			{% endif %}
+
+			{% if session.video_url %}
+
+				{% if session.slides_url %}
+<h4><a href="{{session.video_url}}">Video</a> | <a href="{{session.slides_url}}">Slides</a></h4>
+				{% else %}
+<h4><a href="{{session.video_url}}">Video</a> | No Slides :(</h4>
+				{% endif %}
+
+			{% else %}
+				{% if session.audio_url %}
+<h4><a href="{{session.audio_url}}">Audio</a> | <a href="{{session.slides_url}}">Slides</a></h4>
+				{% endif %}
+			{% endif %}
+
+<hr>
+
+		{% endfor %}
+	{% endif %}
+{% endfor %}

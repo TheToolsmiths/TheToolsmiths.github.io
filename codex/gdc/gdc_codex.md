@@ -17,6 +17,10 @@ type: top_level_codex_page
 
 ------
 
+### [GDC Production Sessions]({{ site.baseurl }}{% link codex/gdc/production/sessions.md %})
+
+------
+
 ### [GDC Tech Art Sessions]({{ site.baseurl }}{% link codex/gdc/tech_art/sessions.md %})
 
 ------
