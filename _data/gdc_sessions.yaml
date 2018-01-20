@@ -1,0 +1,115 @@
+- track_name : pipelines
+  sessions:
+  - session_name : "Behind the Scenes: The GEARS OF WAR 2 Cinematics Pipeline"
+    speaker : Tanya Jessen, Greg Mitchell
+    company_name : Epic Games
+    gdc_year : 2009
+    video_url : https://www.gdcvault.com/play/1290/Behind-the-Scenes-The-GEARS
+    slides_url :
+
+  - session_name : "Inside the GEARS OF WAR 2 Character Modeling Pipeline"
+    speaker : Chris Wells
+    company_name : Epic Games
+    gdc_year : 2009
+    video_url : https://www.gdcvault.com/play/1351/Inside-the-GEARS-OF-WAR
+    slides_url :
+
+  - session_name : "The Asset pipeline for Just Cause 2: Lessons learned"
+    speaker : Mathias Westerdahl
+    company_name : Avalanche Studios
+    gdc_year : 2010
+    video_url : https://www.gdcvault.com/play/1012232/The-Asset-pipeline-for-Just
+    slides_url : https://www.gdcvault.com/play/1012446/The-Asset-pipeline-for-Just
+
+  - session_name : "Developing Imperfect Software: How to Prepare for Development Pipeline Failure"
+    speaker : Ronald Pieket
+    company_name : Insomniac Games
+    gdc_year : 2012
+    video_url : http://www.gdcvault.com/play/1015531/Developing-Imperfect-Software-How-to
+    slides_url : http://www.gdcvault.com/play/1015318/Developing-Imperfect-Software-How-to
+
+  - session_name : "Working Together: Solutions for Collaborative Asset Creation"
+    speaker : Niklas Frykholm
+    company_name : Bitsquid AB
+    gdc_year : 2013
+    video_url : http://www.gdcvault.com/play/1017738/Working-Together-Solutions-for-Collaborative
+    slides_url :
+
+  - session_name : Horizon and Beyond - A Look into Tomb Raider's Tools
+    speaker : Jason Yao
+    company_name : Crystal Dynamics
+    gdc_year : 2013
+    video_url : http://www.gdcvault.com/play/1017917/Horizon-and-Beyond-A-Look
+    slides_url : http://www.gdcvault.com/play/1018218/Horizon-and-Beyond-A-Look
+
+  - session_name : Fast Iteration for Far Cry 4 - Optimizing Key Parts of the Dunia Pipeline
+    speaker : Remi Quenin
+    company_name : Ubisoft Montreal
+    gdc_year : 2015
+    video_url : http://www.gdcvault.com/play/1021975/Fast-Iteration-for-Far-Cry
+    slides_url : http://www.gdcvault.com/play/1021976/Fast-Iteration-for-Far-Cry
+
+  - session_name : "The Witcher 3: Optimizing Content Pipelines for Open-World Games"
+    speaker : Martin Thorzen
+    company_name : CD Projekt RED
+    gdc_year : 2015
+    video_url : https://www.youtube.com/watch?v=p8CMYD_5gE8
+    slides_url : https://www.gdcvault.com/play/1021880/Content-Optimization-Pipeline-for-an
+
+  - session_name : Fast Iteration Tools in the Production of the Talos Principle
+    speaker : Alen Ladavac
+    company_name : Croteam
+    gdc_year : 2015
+    location : EU
+    video_url : http://www.gdcvault.com/play/1022784/Fast-Iteration-Tools-in-the
+    slides_url : http://www.gdcvault.com/play/1022916/Fast-Iteration-Tools-in-the
+
+  - session_name : "Strategies for Efficient Authoring of Content in Middle-earth: Shadow of Mordor"
+    speaker : Doug Heimer
+    company_name : Monolith Productions
+    gdc_year : 2015
+    location : EU
+    video_url : http://gdcvault.com/play/1022415/Strategies-for-Efficient-Authoring-of
+    slides_url : http://gdcvault.com/play/1022416/Strategies-for-Efficient-Authoring-of
+
+  - session_name : "Behind the Scenes of Cinematic Dialogues in 'The Witcher 3: Wild Hunt'"
+    speaker : Piotr Tomsinski
+    company_name : CD Projekt RED
+    gdc_year : 2016
+    video_url : http://www.gdcvault.com/play/1023285/Behind-the-Scenes-of-Cinematic
+    slides_url : http://www.gdcvault.com/play/1022988/Behind-the-Scenes-of-Cinematic
+
+  - session_name : "'Fallout 4's' Modular Level Design"
+    speaker : Joel Burgess, Nathan Purkeypile
+    company_name : Bethesda Game Studios
+    gdc_year : 2016
+    video_url : http://www.gdcvault.com/play/1023202/-Fallout-4-s-Modular
+    slides_url : http://www.gdcvault.com/play/1022930/-Fallout-4-s-Modular
+
+  - session_name : Character Pipeline and Customization System for 'Far Cry Primal'
+    speaker : Julien Lalleve, Kieran O'Sullivan
+    company_name : Ubisoft Montreal, Ubisoft Toronto
+    gdc_year : 2017
+    video_url : http://www.gdcvault.com/play/1024014/Character-Pipeline-and-Customization-System
+    slides_url : http://www.gdcvault.com/play/1024578/Character-Pipeline-and-Customization-System
+
+  - session_name : "'Ghost Recon Wildlands': Terrain Tools and Technology"
+    speaker : Guillaume Werle, Benoit Martinez
+    company_name : Ubisoft
+    gdc_year : 2017
+    video_url : http://www.gdcvault.com/play/1024029/-Ghost-Recon-Wildlands-Terrain
+    slides_url : http://www.gdcvault.com/play/1024708/-Ghost-Recon-Wildlands-Terrain
+
+  - session_name : The Data Building Pipeline of 'Overwatch'
+    speaker : David Clyde
+    company_name : Blizzard Entertainment
+    gdc_year : 2017
+    video_url : http://www.gdcvault.com/play/1024019/The-Data-Building-Pipeline-of
+    slides_url : http://www.gdcvault.com/play/1024444/The-Data-Building-Pipeline-of
+
+  - session_name : "Building Beauclair: Capital City in 'The Witcher 3: Wild Hunt - Blood and Wine' Expansion Pack"
+    speaker : Kacper Niepokolczycki
+    company_name : CD PROJEKT RED
+    gdc_year : 2017
+    video_url : http://www.gdcvault.com/play/1023965/Building-Beauclair-Capital-City-in
+    slides_url : http://www.gdcvault.com/play/1024610/Building-Beauclair-Capital-City-in
