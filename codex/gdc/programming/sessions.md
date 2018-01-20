@@ -10,7 +10,7 @@ permalink: /codex/gdc/programming/sessions
 
 {% for track in track_names %}
 
-	{% if track.track_name == "programming_track" %}
+	{% if track.track_name == "programming" %}
 
 		{% assign sessions = track.sessions | sort: 'gdc_year' %}
 		{% for session in sessions %}

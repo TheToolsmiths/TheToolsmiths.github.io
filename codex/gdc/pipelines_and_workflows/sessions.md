@@ -6,7 +6,7 @@ permalink: /codex/gdc/pipelines_and_workflows/sessions
 {% include JB/setup %}
 
 
-<!-- To Edit or Add content to this page please edit the _data/gdc_sessions.yaml file -->
+<!-- To Edit or Add content to this page please edit the _data/gdc_sessions.yaml file (look for track_name : pipelines) -->
 {% assign track_names = site.data.gdc_sessions | sort: 'track_name' %}
 
 {% for track in track_names %}

@@ -130,7 +130,7 @@
     audio_url : https://www.gdcvault.com/play/1013574/Growing-a-Dedicated-Tools-Programming
     slides_url : https://www.gdcvault.com/play/1022869/Growing-a-Dedicated-Tools-Programming
 
-- track_name : programming_track
+- track_name : programming
   sessions:
   - session_name : "Oh my.Maya is Qt!"
     speaker : Kristine Middlem
