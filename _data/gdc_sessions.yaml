@@ -246,3 +246,103 @@
     location : EU
     video_url : http://www.gdcvault.com/play/1023825/Create-a-20-Times-Faster
     slides_url : http://www.gdcvault.com/play/1023800/Create-a-20-Times-Faster
+
+- track_name : technical_art
+  sessions:
+  - session_name : "Technical Art Techniques of Naughty Dog - Vertex Shaders and Beyond"
+    speaker : Andrew Maximov
+    company_name : Naughty Dog
+    gdc_year : 2017
+    video_url : http://www.gdcvault.com/play/1024103/Technical-Art-Techniques-of-Naughty
+    slides_url :
+
+  - session_name : "Technical Artist Bootcamp: Building an Offline Simulation Pipeline"
+    speaker : Ben Laidlaw
+    company_name : 343 Industries, Microsoft
+    gdc_year : 2017
+    video_url : https:/vimeo.com/208576955
+    slides_url : https://www.gdcvault.com/play/1024576/Technical-Artist-Bootcamp-Building-an
+
+- track_name : visual_arts
+  sessions:
+  - session_name : "Animation Bootcamp: The First Person Animation of 'Overwatch'"
+    speaker : Matthew Boehm
+    company_name : Blizzard Entertainment
+    gdc_year : 2017
+    video_url : https://www.gdcvault.com/play/1024319/Animation-Bootcamp-The-First-Person
+    slides_url :
+
+  - session_name : "Shoot for the Sky: The Ambitious HDR Time-Lapse Skies of 'Forza Horizon 3'"
+    speaker : Jamie Wood
+    company_name :
+    gdc_year : 2017
+    video_url : https://www.gdcvault.com/play/1024091/Shoot-for-the-Sky-The
+    slides_url :
+
+- track_name : ux
+  sessions:
+  - session_name : "Building Blocks: Artist Driven Procedural Buildings"
+    speaker :  James Golding
+    company_name : Epic Games
+    gdc_year : 2010
+    video_url : https://www.gdcvault.com/play/1012219/Building-Blocks-Artist-Driven-Procedural
+    slides_url : https://www.gdcvault.com/play/1012655/Building-Blocks-Artist-Driven-Procedural
+
+  - session_name : "The User Experience of Game Development Tools"
+    speaker :  David Lightbown
+    company_name : Ubisoft
+    gdc_year : 2013
+    location : EU
+    video_url : http://www.gdcvault.com/play/1019273/The-User-Experience-of-Game
+    slides_url : http://www.gdcvault.com/play/1019269/The-User-Experience-of-Game
+
+  - session_name : "Tools Development at Ubisoft: Building a Shared Vision to Improve the User Experience"
+    speaker :  David Lightbown
+    company_name : Ubisoft
+    gdc_year : 2015
+    video_url : http://www.gdcvault.com/play/1022337/Tools-Development-at-Ubisoft-Building
+    slides_url : http://www.gdcvault.com/play/1022338/Tools-Development-at-Ubisoft-Buildin
+
+  - session_name : "Empowering Content Creators"
+    speaker :  Stephen Broadley
+    company_name : Sony London Studio
+    gdc_year : 2016
+    video_url : http://www.gdcvault.com/play/1023274/Empowering-Content
+    slides_url :
+
+  - session_name : "Keeping Level Designers in the Zone Through Level Editor Design"
+    speaker :  Robin-Yann Storm 
+    company_name :
+    gdc_year : 2016
+    video_url : http://www.gdcvault.com/play/1023235/Keeping-Level-Designers-in-the
+    slides_url : http://www.gdcvault.com/play/1022954/Keeping-Level-Designers-in-the
+
+  - session_name : "Hiding in Plain Sight: The Untapped Resource that is Helping Ubisoft to Make Better
+Tools"
+    speaker :  David Lightbown
+    company_name : Ubisoft
+    location : EU
+    gdc_year : 2016
+    video_url : http://www.gdcvault.com/play/1023846/Hiding-in-Plain-Sight-The
+    slides_url :
+
+  - session_name : "Lessons Learned Creating UI for 'The Division'"
+    speaker : Christian Savoie
+    company_name : Ubisoft Massive
+    gdc_year : 2017
+    video_url : http://www.gdcvault.com/play/1024026/Lessons-Learned-Creating-UI-for
+    slides_url :
+
+  - session_name : "Level Design Workshop: Improving Tool Design Through Editor Triage"
+    speaker :  Robin-Yann Storm
+    company_name : Io-Interactive
+    gdc_year : 2017
+    video_url : http://www.gdcvault.com/play/1024303/Level-Design-Workshop-Improving-Tool
+    slides_url : http://www.gdcvault.com/play/1024683/Level-Design-Workshop-Improving-Tool
+
+  - session_name : "Getting Productivity from Play: How Ubisoft Is Making Better Tools by Using a Familiar "
+    speaker :  David Lightbown
+    company_name : Ubisoft
+    gdc_year : 2017
+    video_url : http://www.gdcvault.com/play/1023953/Getting-Productivity-from-Play-How
+    slides_url :

@@ -9,7 +9,7 @@ type: top_level_codex_page
 
 ------
 
-### [GDC UI/UX/Usability Sessions]({{ site.baseurl }}{% link codex/gdc/ui_ux_usability/sessions.md %})
+### [GDC Tools UI/UX/Usability Sessions]({{ site.baseurl }}{% link codex/gdc/ui_ux_usability/sessions.md %})
 
 ------
 
