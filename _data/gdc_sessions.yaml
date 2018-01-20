@@ -130,3 +130,119 @@
     audio_url : https://www.gdcvault.com/play/1013574/Growing-a-Dedicated-Tools-Programming
     slides_url : https://www.gdcvault.com/play/1022869/Growing-a-Dedicated-Tools-Programming
 
+- track_name : programming_track
+  sessions:
+  - session_name : "Oh my.Maya is Qt!"
+    speaker : Kristine Middlem
+    company_name : Autodesk
+    gdc_year : 2011
+    video_url :
+    slides_url : https://www.gdcvault.com/play/1014794/Oh-my-Maya-is-Qt
+
+  - session_name : "Building Worlds Using Math(s)"
+    speaker : Sean Murray
+    company_name : Hello Games
+    gdc_year : 2017
+    video_url : http://www.gdcvault.com/play/1024514/Building-Worlds-Using
+    slides_url :
+
+  - session_name : "Continuous World Generation in 'No Man's Sky'"
+    speaker : Innes McKendrick
+    company_name : Hello Games
+    gdc_year : 2017
+    video_url : http://www.gdcvault.com/play/1024265/Continuous-World-Generation-in-No
+    slides_url : 
+
+  - session_name : "Creating a Tools Pipeline for 'Horizon: Zero Dawn'"
+    speaker : Dan Sumaili, Sander van der Steen
+    company_name : Guerrilla Games
+    gdc_year : 2017
+    video_url : http://www.gdcvault.com/play/1024124/Creating-a-Tools-Pipeline-for
+    slides_url : http://www.gdcvault.com/play/1024685/Creating-a-Tools-Pipeline-for
+
+  - session_name : "GPU-Based Run-Time Procedural Placement in 'Horizon: Zero Dawn'"
+    speaker : Jaap van Muijden
+    company_name : Guerrilla Games
+    gdc_year : 2017
+    video_url : https://www.gdcvault.com/play/1024120/GPU-Based-Run-Time-Procedural
+    slides_url : https://www.gdcvault.com/play/1024700/GPU-Based-Run-Time-Procedural
+
+  - session_name : "Data Binding Architectures for Rapid UI Creation in Unity"
+    speaker : Stephan Dilly
+    company_name : InnoGames GmbH
+    gdc_year : 2017
+    video_url : http://www.gdcvault.com/play/1023978/Data-Binding-Architectures-for-Rapid
+    slides_url : http://www.gdcvault.com/play/1024453/Data-Binding-Architectures-for-Rapid
+
+  - session_name : "'Destiny' Shader Pipeline"
+    speaker : Natalya Tatarchuk, Chris Tchou
+    company_name : Bungie
+    gdc_year : 2017
+    video_url : http://www.gdcvault.com/play/1024231/-Destiny-Shader
+    slides_url : http://advances.realtimerendering.com/destiny/gdc_2017/Destiny_shader_system_GDC_2017_v.4.0.pdf
+
+  - session_name : "Insomniac's Web Tools: A Postmortem"
+    speaker : Andreas Fredriksson
+    company_name : Insomniac Games
+    gdc_year : 2017
+    video_url : http://www.gdcvault.com/play/1023961/Insomniac-s-Web-Tools-A
+    slides_url : http://www.gdcvault.com/play/1024465/Insomniac-s-Web-Tools-A
+
+  - session_name : "Do You Copy? Dialog System and Tools in 'Firewatch'"
+    speaker : William Armstrong, Patrick Ewing
+    company_name : Unity Technologies, Campo Santo
+    gdc_year : 2017
+    video_url : https://www.gdcvault.com/play/1024000/Do-You-Copy-Dialog-System
+    slides_url : https://www.gdcvault.com/play/1024415/Do-You-Copy-Dialog-System
+
+  - session_name : "Engine Postmortem of inFAMOUS: Second Son"
+    speaker : Adrian Bentley
+    company_name : Sucker Punch Productions
+    gdc_year : 2014
+    video_url :  http://www.gdcvault.com/play/1020399/Engine-Postmortem-of-inFAMOUS-Second
+    slides_url :
+
+  - session_name : "Lessons from the Core Engine Architecture of Destiny"
+    speaker : Chris Butcher
+    company_name : Bungie
+    gdc_year : 2015
+    video_url :  http://gdcvault.com/play/1022105/Lessons-from-the-Core-Engine
+    slides_url : http://gdcvault.com/play/1022106/Lessons-from-the-Core-Engin
+
+  - session_name : "Parallelizing the Naughty Dog Engine Using Fibers"
+    speaker : Christian Gyrling
+    company_name : Naughty Dog
+    gdc_year : 2015
+    video_url :  http://www.gdcvault.com/play/1022186/Parallelizing-the-Naughty-Dog-Engine
+    slides_url : http://www.gdcvault.com/play/1022187/Parallelizing-the-Naughty-Dog-Engin
+
+  - session_name : "'Assassin's Creed Syndicate: London' Wasn't Built in a Day"
+    speaker : Damien Bastian
+    company_name : Ubisoft
+    gdc_year : 2016
+    video_url : http://www.gdcvault.com/play/1023305/-Assassin-s-Creed-Syndicate
+    slides_url :
+
+  - session_name : "How King Uses AI in 'Candy Crush'"
+    speaker : Alexander Andelkovic
+    company_name : King
+    gdc_year : 2016
+    location : EU
+    video_url : http://www.gdcvault.com/play/1023858/How-King-Uses-AI-in
+    slides_url :
+
+  - session_name : "Shrinking Data for Fun & Profit"
+    speaker : Dietmar Hauser
+    company_name : Sproing
+    gdc_year : 2016
+    location : EU
+    video_url : http://www.gdcvault.com/play/1023763/Shrinking-Data-for-Fun
+    slides_url : http://www.gdcvault.com/play/1023790/Shrinking-Data-for-Fun
+
+  - session_name : "Create a 20 Times Faster Database Engine Optimized to MMOGs"
+    speaker : Shuichi Kurabayashi
+    company_name : Cygames, Inc.
+    gdc_year : 2016
+    location : EU
+    video_url : http://www.gdcvault.com/play/1023825/Create-a-20-Times-Faster
+    slides_url : http://www.gdcvault.com/play/1023800/Create-a-20-Times-Faster
