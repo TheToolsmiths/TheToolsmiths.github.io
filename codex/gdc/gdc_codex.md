@@ -30,3 +30,7 @@ type: top_level_codex_page
 ------
 
 ### [GDC Tools SIG Roundtable Sessions]({{ site.baseurl }}{% link codex/gdc/roundtable/sessions.md %})
+
+------
+
+### [GDC Tech Toolbox Sessions]({{ site.baseurl }}{% link codex/gdc/tech_toolbox/sessions.md %})

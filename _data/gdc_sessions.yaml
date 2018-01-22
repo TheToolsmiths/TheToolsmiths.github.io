@@ -346,3 +346,26 @@ Tools"
     gdc_year : 2017
     video_url : http://www.gdcvault.com/play/1023953/Getting-Productivity-from-Play-How
     slides_url :
+
+- track_name : tech_toolbox
+  sessions:
+  - session_name : "Tech Toolbox"
+    speaker :   Jonatan Van Hove, Holden Link, Ryan Williams, Innes McKendrick, Cukia "Sugar" Kimani, Michael Cook, Chris Martens
+    company_name : Glitchnap, Turbo Button, Spry Fox, Hello Games, Nyamakop, University of Falmouth, North Carolina State University
+    gdc_year : 2017
+    video_url : https://www.gdcvault.com/play/1024145/Tech
+    slides_url : https://www.gdcvault.com/play/1024570/Tech
+
+  - session_name : "Tech Toolbox"
+    speaker :  Jonatan Van Hove, Omar Cornut, Keir Miron, Evan Todd, Kate Compton, Alan Hazelden
+    company_name : Glitchnap, Lizardcube, Darkest Dungeon, Independent, Independent, Draknek, Ltd.
+    gdc_year : 2016
+    video_url : https://www.gdcvault.com/play/1023377/Tech
+    slides_url : https://www.gdcvault.com/play/1023048/Tech
+
+  - session_name : "Tech Toolbox"
+    speaker :   Jonatan Van Hove, Tom Vian, Mads Johansen Lassen, Mattias Ljungstrm, Tim Garbos, Matt Rix, Hugh Jeremy
+    company_name : Glitchnap, SFB Games, Glitchnap, Spaces of Play, Copenhagen Game Collective, Milkbag Games, Unknown Worlds
+    gdc_year : 2015
+    video_url : https://www.gdcvault.com/play/1022284/Tech
+    slides_url : https://www.gdcvault.com/play/1022285/Tech
