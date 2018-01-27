@@ -2,6 +2,10 @@
 layout: codex_page
 title: The Toolsmiths Interesting Articles and Web Pages
 permalink: /codex/tool_development_resources/web_resources/articles/
+type: lvl3
+tag: resources333
+lvl2_tag: resources_web
+lvl3_tag: resources_web_articles
 ---
 
 # [Algorithms]({{ site.baseurl }}{% link codex/tool_development_resources/web_resources/articles/algorithms.md %})

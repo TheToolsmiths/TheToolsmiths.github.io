@@ -3,6 +3,7 @@ layout: codex_page
 title: The Toolsmiths Glossary
 permalink: /codex/glossary/
 type: top_level_codex_page
+tag: glossary
 ---
 
 # Intro

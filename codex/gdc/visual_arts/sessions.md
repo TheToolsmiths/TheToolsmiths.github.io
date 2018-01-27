@@ -2,6 +2,8 @@
 layout: codex_page
 title: Tools Related Sessions for Visual Arts
 permalink: /codex/gdc/visual_arts/sessions
+type: lvl2
+tag: gdc
 ---
 {% include JB/setup %}
 

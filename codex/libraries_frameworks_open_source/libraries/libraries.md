@@ -2,6 +2,8 @@
 layout: codex_page
 title: Libraries
 permalink: /codex/lib_frameworks_open_source/libraries/
+type: lvl2
+tag: lib
 ---
 
 # Working with assets

@@ -2,6 +2,8 @@
 layout: codex_page
 title: The Toolsmiths Book Club
 permalink: /codex/tool_development_resources/books/
+type: lvl2
+tag: resources333
 ---
 
 <!-- To Edit or Add content to this page please edit the _data/books.yaml file -->

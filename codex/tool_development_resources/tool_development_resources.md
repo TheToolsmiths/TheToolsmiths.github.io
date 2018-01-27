@@ -3,6 +3,7 @@ layout: codex_page
 title: The Toolsmiths Knowledge Base
 permalink: /codex/tool_development_resources/
 type: top_level_codex_page
+tag: resources333
 ---
 
 # [ Books ]({{ site.baseurl }}{% link codex/tool_development_resources/books/books.md %})

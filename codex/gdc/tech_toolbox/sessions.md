@@ -2,6 +2,8 @@
 layout: codex_page
 title: The GDC Tech Toolbox sessoins
 permalink: /codex/gdc/tech_toolbox/sessions
+type: lvl2
+tag: gdc
 ---
 {% include JB/setup %}
 

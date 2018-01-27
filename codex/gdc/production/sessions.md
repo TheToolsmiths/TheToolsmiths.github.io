@@ -2,6 +2,8 @@
 layout: codex_page
 title: Tools Related Sessions for Production
 permalink: /codex/gdc/production/sessions
+type: lvl2
+tag: gdc
 ---
 {% include JB/setup %}
 

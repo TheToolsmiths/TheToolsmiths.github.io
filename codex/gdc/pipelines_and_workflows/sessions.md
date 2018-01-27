@@ -2,6 +2,8 @@
 layout: codex_page
 title: Tools Related Sessions for Pipelines/Workflows
 permalink: /codex/gdc/pipelines_and_workflows/sessions
+type: lvl2
+tag: gdc
 ---
 {% include JB/setup %}
 

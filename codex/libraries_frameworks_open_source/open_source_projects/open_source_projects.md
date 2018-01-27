@@ -2,6 +2,8 @@
 layout: codex_page
 title: Open Source Projects
 permalink: /codex/lib_frameworks_open_source/open_source/
+type: lvl2
+tag: lib
 ---
 
 ![Helium Game Engine](https://raw.github.com/HeliumProject/Helium/master/Documentation/Helium.png)

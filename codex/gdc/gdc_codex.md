@@ -3,6 +3,7 @@ layout: codex_page
 title: The Toolsmiths GDC Codex
 permalink: /codex/gdc/
 type: top_level_codex_page
+tag: gdc
 ---
 
 ### [GDC Pipelines/Workflows Sessions]({{ site.baseurl }}{% link codex/gdc/pipelines_and_workflows/sessions.md %})

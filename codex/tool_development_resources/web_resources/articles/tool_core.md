@@ -2,6 +2,9 @@
 layout: codex_page
 title: Articles and Web Pages on the topic of Tool Core Technologies
 permalink: /codex/tool_development_resources/articles/toolinternals
+type: lvl4
+tag: resources333
+lvl3_tag: resources_web_articles
 ---
 
 <!-- To Edit or Add content to this page please edit the _data/article.yaml file -->

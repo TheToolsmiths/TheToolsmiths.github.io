@@ -2,6 +2,8 @@
 layout: codex_page
 title: Tools Related Sessions for Technical Art
 permalink: /codex/gdc/tech_art/sessions
+type: lvl2
+tag: gdc
 ---
 {% include JB/setup %}
 
