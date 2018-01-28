@@ -1,9 +1,10 @@
 ---
 layout: codex_page
 title: Articles and Web Pages on the topic of Windows
+short_title: Windows
 permalink: /codex/tool_development_resources/articles/windows
 type: lvl4
-tag: resources333
+tag: dev_resources
 lvl3_tag: resources_web_articles
 ---
 

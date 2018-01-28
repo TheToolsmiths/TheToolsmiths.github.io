@@ -3,7 +3,7 @@ layout: codex_page
 title: The Toolsmiths Web Resources
 permalink: /codex/tool_development_resources/web_resources/web_resources
 type: lvl2
-tag: resources333
+tag: dev_resources
 lvl2_tag: resources_web
 ---
 

@@ -1,9 +1,10 @@
 ---
 layout: codex_page
 title: Articles and Web Pages on the topic of Building and Deployment
+short_title: Build and Deployment
 permalink: /codex/tool_development_resources/articles/build/
 type: lvl4
-tag: resources333
+tag: dev_resources
 lvl3_tag: resources_web_articles
 ---
 

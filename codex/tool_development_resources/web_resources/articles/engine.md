@@ -1,9 +1,10 @@
 ---
 layout: codex_page
 title: Articles and Web Pages on the topic of Engine Tech
+short_title: Engine Tech
 permalink: /codex/tool_development_resources/articles/engine/
 type: lvl4
-tag: resources333
+tag: dev_resources
 lvl3_tag: resources_web_articles
 ---
 

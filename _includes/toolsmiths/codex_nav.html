@@ -23,7 +23,7 @@
             {% for lvl4_page in lvl4_pages %}
               {% if lvl4_page.lvl3_tag == lvl3_page.lvl3_tag and page.lvl3_tag == lvl3_page.lvl3_tag %}
 
-                {% include toolsmiths/codex_nav_list_item.html url=page.url codex_page_url=lvl4_page.url indentation="vstepano3" list_bullet="&#9676;" codex_page_title=lvl4_page.title %}
+                {% include toolsmiths/codex_nav_list_item.html url=page.url codex_page_url=lvl4_page.url indentation="vstepano3" list_bullet="&#9676;" codex_page_title=lvl4_page.short_title %}
 
               {% endif %}
             {% endfor %}
