@@ -1,55 +1,38 @@
 <ul class="nav nav-pills nav-stacked">
   <h3>Codex navigation</h3>
 
-{% assign lvl2_pages = site.pages | where_exp:"item", "item.type == 'lvl2'" %}
-{% assign lvl3_pages = site.pages | where_exp:"item", "item.type == 'lvl3'" %}
-{% assign lvl4_pages = site.pages | where_exp:"item", "item.type == 'lvl4'" %}
+  {% assign codex_pages = site.pages | where_exp:"item", "item.type == 'top_level_codex_page'"  %}
+  {% assign lvl2_pages = site.pages | where_exp:"item", "item.type == 'lvl2'" %}
+  {% assign lvl3_pages = site.pages | where_exp:"item", "item.type == 'lvl3'" %}
+  {% assign lvl4_pages = site.pages | where_exp:"item", "item.type == 'lvl4'" %}
 
-{% assign codex_pages = site.pages | where_exp:"item", "item.type == 'top_level_codex_page'"  %}
+  {% for codex_page in codex_pages %}
 
-{% for codex_page in codex_pages %}
+    {% include toolsmiths/codex_nav_list_item.html url=page.url codex_page_url=codex_page.url indentation="" codex_page_title=codex_page.title %}
 
-        {% include toolsmiths/codex_nav_list_item.html url=page.url codex_page_url=codex_page.url indentation="" codex_page_title=codex_page.title %}
+    {% for lvl2_page in lvl2_pages %}
+      {% if lvl2_page.tag == codex_page.tag and page.tag == codex_page.tag %}
 
-        {% for lvl2_page in lvl2_pages %}
-          {% if lvl2_page.tag == codex_page.tag and page.tag == codex_page.tag %}
+        {% include toolsmiths/codex_nav_list_item.html url=page.url codex_page_url=lvl2_page.url indentation="vstepano" list_bullet="&#9677;" codex_page_title=lvl2_page.title %}
 
-            {% if page.url == lvl2_page.url %}
-              <li class="vstepano active">
-            {% else %}
-              <li class="vstepano">
-            {% endif %}
-            <a href="{{ lvl2_page.url }}">&#9677; {{ lvl2_page.title }}</a></li>
+        {% for lvl3_page in lvl3_pages %}
+          {% if lvl3_page.lvl2_tag == lvl2_page.lvl2_tag and page.lvl2_tag == lvl2_page.lvl2_tag or page.lvl3_tag == lvl3_page.lvl3_tag %}
 
-            {% for lvl3_page in lvl3_pages %}
-              {% if lvl3_page.lvl2_tag == lvl2_page.lvl2_tag and page.lvl2_tag == lvl2_page.lvl2_tag or page.lvl3_tag == lvl3_page.lvl3_tag %}
+            {% include toolsmiths/codex_nav_list_item.html url=page.url codex_page_url=lvl3_page.url indentation="vstepano2" list_bullet="&#9678;" codex_page_title=lvl3_page.title %}
 
-                {% if page.url == lvl3_page.url %}
-                  <li class="vstepano2 active">
-                {% else %}
-                  <li class="vstepano2">
-                {% endif %}
-                <a href="{{ lvl3_page.url }}">&#9678; {{ lvl3_page.title }}</a></li>
+            {% for lvl4_page in lvl4_pages %}
+              {% if lvl4_page.lvl3_tag == lvl3_page.lvl3_tag and page.lvl3_tag == lvl3_page.lvl3_tag %}
 
-                  {% for lvl4_page in lvl4_pages %}
-                    {% if lvl4_page.lvl3_tag == lvl3_page.lvl3_tag and page.lvl3_tag == lvl3_page.lvl3_tag %}
-                      {% if page.url == lvl4_page.url %}
-                        <li class="vstepano3 active">
-                      {% else %}
-                        <li class="vstepano3">
-                      {% endif %}
-                      <a href="{{ lvl4_page.url }}">&#9676; {{ lvl4_page.title }}</a></li>
-
-                  {% endif %}
-                {% endfor %}
+                {% include toolsmiths/codex_nav_list_item.html url=page.url codex_page_url=lvl4_page.url indentation="vstepano3" list_bullet="&#9676;" codex_page_title=lvl4_page.title %}
 
               {% endif %}
             {% endfor %}
 
           {% endif %}
         {% endfor %}
-      
-{% endfor %}
 
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
 
 </ul>
