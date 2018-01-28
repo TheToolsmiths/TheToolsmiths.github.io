@@ -21,79 +21,23 @@ Last updated on: Month Day Year
 
 # Entry Level
 
-{% for term in terms %}
-    {% if term.lvl == "entry" %}
-<p><em>context: {{ term.cntxt }}</em></p>
-<p><strong>{{ term.term }}</strong> 
 
-      {% if term.aka %}
+{% assign entry_level_terms = terms | where_exp:"item", "item.lvl == 'entry'"  %}
 
-      {% assign akas = term.aka | join: ', ' %}
-
-(a.k.a. 
-
-        {% for aka in akas %}
-<strong>{{aka}}</strong> 
-        {% endfor %}
-)
-      {% endif %}
-
-- {{ term.def }}</p>
-
-<hr>
-  {% endif %}
-{% endfor %}
+{% include toolsmiths/codex_glossary_knowledge_level_terms.html terms=entry_level_terms %}
 
 ------
 
 # Intermediate Level
 
-{% for term in terms %}
-    {% if term.lvl == "intermediate" %}
-<p><em>context: {{ term.cntxt }}</em></p>
-<p><strong>{{ term.term }}</strong> 
+{% assign intermediate_level_terms = terms | where_exp:"item", "item.lvl == 'intermediate'"  %}
 
-      {% if term.aka %}
-      
-      {% assign akas = term.aka | join: ', ' %}
-
-(a.k.a. 
-
-        {% for aka in akas %}
-<strong>{{aka}}</strong> 
-        {% endfor %}
-)
-      {% endif %}
-
-- {{ term.def }}</p>
-
-<hr>
-  {% endif %}
-{% endfor %}
+{% include toolsmiths/codex_glossary_knowledge_level_terms.html terms=intermediate_level_terms %}
 
 ------
 
 # Advanced Level
 
-{% for term in terms %}
-    {% if term.lvl == "advanced" %}
-<p><em>context: {{ term.cntxt }}</em></p>
-<p><strong>{{ term.term }}</strong> 
+{% assign advanced_level_terms = terms | where_exp:"item", "item.lvl == 'advanced'"  %}
 
-      {% if term.aka %}
-      
-      {% assign akas = term.aka | join: ', ' %}
-
-(a.k.a. 
-
-        {% for aka in akas %}
-<strong>{{aka}}</strong> 
-        {% endfor %}
-)
-      {% endif %}
-
-- {{ term.def }}</p>
-
-<hr>
-  {% endif %}
-{% endfor %}
+{% include toolsmiths/codex_glossary_knowledge_level_terms.html terms=advanced_level_terms %}

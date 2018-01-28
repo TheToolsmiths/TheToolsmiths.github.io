@@ -1,0 +1,25 @@
+{% for term in include.terms %}
+
+<p><em>context: {{ term.cntxt }}</em></p>
+<p><strong>{{ term.term }}</strong> 
+
+  {% if term.aka %}
+
+    {% assign akas = term.aka | join: ', ' %}
+
+(a.k.a. 
+
+    {% for aka in akas %}
+<strong>{{aka}}</strong> 
+    {% endfor %}
+)
+  {% endif %}
+
+- {{ term.def }}</p>
+
+  {% if term.ref %}
+ <i>Reference from <a href="{{ term.ref }}">{{ term.ref }}</a> </i>
+  {% endif %}
+
+<hr>
+{% endfor %}
