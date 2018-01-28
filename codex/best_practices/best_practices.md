@@ -1,6 +1,6 @@
 ---
 layout: codex_page
-title: The Toolsmiths Best Practices
+title: Tools Development Wisdom and Best Practice
 permalink: /codex/best_practices/
 codex_page_type: top_level_codex_page
 nav_tag: best

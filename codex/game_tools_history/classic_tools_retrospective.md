@@ -28,5 +28,6 @@ nav_tag: history
 ## Videos
 
 ##### [Gamasutra analyzes the classic Unreal engine with Ubisoft's David Lightbown](https://www.youtube.com/watch?v=Ldo0J0M8NKc)
+###### [Bryant Francis's stream summary post](https://www.gamasutra.com/view/news/311769/Ubisoft_tech_UX_director_David_Lightbown_explores_the_history_of_Unreal_Engine.php)
 
 ------

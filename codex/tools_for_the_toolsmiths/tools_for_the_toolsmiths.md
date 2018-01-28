@@ -1,6 +1,6 @@
 ---
 layout: codex_page
-title: Tools For The Toolsmiths
+title: The Toolsmiths Toolbox
 permalink: /codex/tools/
 codex_page_type: top_level_codex_page
 nav_tag: tools
@@ -16,8 +16,8 @@ nav_tag: tools
 
 ------
 
-### [MTuner](https://mtuner.net/)
-![MTuner](http://mtuner.net/screenshot_thumb.gif)
+### [MTuner](https://github.com/milostosic/MTuner)
+![MTuner](https://github.com/milostosic/MTuner/blob/master/img/mtuner_screenshot.png)
 #### MTuner is a memory profiler and memory leak finder for Windows, PS4, PS3...
 
 ------
