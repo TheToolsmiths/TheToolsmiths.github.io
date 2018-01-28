@@ -2,8 +2,8 @@
 layout: codex_page
 title: Engines and their tools
 permalink: /codex/engine_and_tools/
-type: top_level_codex_page
-tag: engine
+codex_page_type: top_level_codex_page
+nav_tag: engine
 ---
 
 

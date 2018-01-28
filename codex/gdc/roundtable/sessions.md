@@ -2,8 +2,8 @@
 layout: codex_page
 title: Tools SIG Roundtable Sessions
 permalink: /codex/gdc/roundtable/sessions
-type: lvl2
-tag: gdc
+codex_page_type: lvl2
+nav_tag: gdc
 ---
 {% include JB/setup %}
 

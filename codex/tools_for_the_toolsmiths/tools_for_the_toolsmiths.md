@@ -2,8 +2,8 @@
 layout: codex_page
 title: Tools For The Toolsmiths
 permalink: /codex/tools/
-type: top_level_codex_page
-tag: tools
+codex_page_type: top_level_codex_page
+nav_tag: tools
 ---
 
 

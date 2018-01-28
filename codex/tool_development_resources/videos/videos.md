@@ -2,8 +2,8 @@
 layout: codex_page
 title: The Toolsmiths Video Club
 permalink: /codex/tool_development_resources/videos
-type: lvl2
-tag: dev_resources
+codex_page_type: lvl2
+nav_tag: dev_resources
 ---
 
 <!-- To Edit or Add content to this page please edit the _data/tool_development_resource_videos.yaml file -->

@@ -2,8 +2,8 @@
 layout: codex_page
 title: Tools Related Sessions for Programming
 permalink: /codex/gdc/programming/sessions
-type: lvl2
-tag: gdc
+codex_page_type: lvl2
+nav_tag: gdc
 ---
 {% include JB/setup %}
 

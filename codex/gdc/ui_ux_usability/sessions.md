@@ -2,8 +2,8 @@
 layout: codex_page
 title: Tools Related Sessions for UI, UX and Usability
 permalink: /codex/gdc/ui_ux_usability/sessions
-type: lvl2
-tag: gdc
+codex_page_type: lvl2
+nav_tag: gdc
 ---
 {% include JB/setup %}
 

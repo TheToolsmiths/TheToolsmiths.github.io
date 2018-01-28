@@ -2,8 +2,8 @@
 layout: codex_page
 title: Classic Tools Retrospective
 permalink: /codex/game_tools_history/classic_tools_retrospective
-type: lvl2
-tag: history
+codex_page_type: lvl2
+nav_tag: history
 ---
 {% include JB/setup %}
 
