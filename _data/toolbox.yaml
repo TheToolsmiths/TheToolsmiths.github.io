@@ -1,0 +1,178 @@
+- tool_category_name : Tools for profiling
+  tools:
+  - tool_name : UI for ETW (Event Tracing for Windows)
+    url : https://github.com/google/UIforETW
+    pic_url : https://randomascii.files.wordpress.com/2015/04/image_thumb.png?w=629&h=293
+    pic_caption : UI for ETW
+    more_info_url : https://randomascii.wordpress.com/2015/04/14/uiforetw-windows-performance-made-easier/
+    more_info_caption : blog post
+
+  - tool_name : MTuner
+    description :  MTuner is a memory profiler and memory leak finder for Windows, PS4, PS3...
+    url : https://github.com/milostosic/MTuner
+    pic_url : https://raw.githubusercontent.com/milostosic/MTuner/master/img/mtuner_screenshot.png
+    pic_caption : MTuner
+
+  - tool_name : Remotery
+    description : A realtime CPU/GPU profiler
+    url : https://github.com/Celtoys/Remotery
+
+  - tool_name : Microprofile
+    description : Microprofile is a embeddable profiler in a few files, written in C++
+    url : https://github.com/jonasmr/microprofile
+
+  - tool_name : MemTrace
+    description : MemTrace is a memory debugging tool developed internally at Insomniac Games
+    url : https://github.com/InsomniacGames/ig-memtrace
+
+  - tool_name : gpuvis
+    url : https://github.com/mikesart/gpuvis
+    pic_url : https://github.com/mikesart/gpuvis/raw/master/images/gpuvis.jpg?raw=true
+    pic_caption : gpuvis screen
+
+- tool_category_name : Revision control
+  tools:
+  - tool_name : BFG Repo Cleaner
+    description : faster alternative to git-filter-branch
+    url : https://rtyley.github.io/bfg-repo-cleaner/
+
+  - tool_name : WASP
+    description : A tuned Windows Apache SVN PHP portable package
+    url : https://github.com/lysine/wasp
+
+  - tool_name : gitr (git-recursive)
+    description : Recursive branching workflow for git submodules
+    url : https://github.com/gorlak/gitr
+
+  - tool_name : JSON Merger
+    description : 3-way Json merger
+    url : https://bitbucket.org/bitsquid/json_merger/src
+    more_info_url : https://bitsquid.blogspot.ru/2010/06/avoiding-content-locks-and-conflicts-3.html
+    more_info_caption : blog post
+
+  - tool_name : PerceptualDiff
+    description : is an image comparison utility that makes use of a computational model of the human visual system to compare two images
+    url : pdiff.sourceforge.net
+
+- tool_category_name : Performance & Analyzing code
+  tools:
+  - tool_name : CacheSim
+    description : This is CacheSim, a cache simulator developed by Insomniac Games.
+    url : https://github.com/InsomniacGames/ig-cachesim
+    more_info_url : https://deplinenoise.wordpress.com/2017/03/02/slides-insomniac-games-cachesim/
+    more_info_caption : GDC 2017
+
+  - tool_name : drpdb
+    description : Convert from Microsoft PDB format into a MySQL database
+    url : https://github.com/briterator/drpdb
+    more_info_url : http://cppcast.com/2017/01/brittany-friedman/
+    more_info_caption : cpp cast podcast
+
+  - tool_name : SymbolSort
+    description : A Utility for Measuring C++ Code Bloat
+    url : https://github.com/adrianstone55/SymbolSort
+
+  - tool_name : Cppcheck
+    description : A Utility for Measuring C++ Code Bloat
+    url : http://cppcheck.sourceforge.net/
+
+  - tool_name : Cpp Core Guidelines
+    description : The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
+    url : https://github.com/isocpp/CppCoreGuidelines
+    more_info_url : https://msdn.microsoft.com/ru-ru/library/mt762841.aspx
+    more_info_caption : Setting up Core Guidelines in Visual Studio
+
+  - tool_name : clang-tidy
+    description : is an extensible framework for diagnosing and fixing typical programming errors, like style violations, interface misuse, or bugs that can be deduced via static analysis.
+    url : http://clang.llvm.org/extra/clang-tidy/
+
+- tool_category_name : Windows Debug Utils
+  tools:
+  - tool_name : PsTools
+    description : A suit of tools for managing processes (PsKill - kill processes by name or process ID; PsList - list detailed information about processes...)
+    url : https://technet.microsoft.com/en-us/sysinternals/pstools.aspx
+
+  - tool_name : Process Monitor
+    description : Process Monitor is an advanced monitoring tool for Windows that shows real-time file system, Registry and process/thread activity.
+    url : https://docs.microsoft.com/en-us/sysinternals/downloads/procmon
+
+  - tool_name : Debugview++
+    description : Debugview++ started as a viewer for Win32 OutputDebugString messages in the style of Sysinternals DebugView
+    url : https://github.com/djeedjay/DebugViewPP
+
+- tool_category_name : XML
+  tools:
+  - tool_name : XML Explorer
+    description : XML Explorer is an extremely fast, lightweight XML file viewer.
+    url : xmlexplorer.codeplex.com
+
+- tool_category_name : Productivity and other
+  tools:
+  - tool_name : ScreenToGif
+    description : ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
+    url : http://www.screentogif.com/
+    more_info_url : https://github.com/NickeManarin/ScreenToGif
+    more_info_caption : github
+
+  - tool_name : ShareX
+    description : ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key
+    url : https://github.com/ShareX/ShareX
+
+  - tool_name : Synergy
+    description : Share one mouse and keyboard between multiple computers (Windows, macOS and Linux)
+    url : https://github.com/symless/synergy
+
+  - tool_name : Visual Studio Locator
+    description : vswhere is designed to be a redistributable, single-file executable that can be used in build or deployment scripts to find where Visual Studio - or other products in the Visual Studio family - is located.
+    url : https://github.com/Microsoft/vswhere
+
+- tool_category_name : MSVS extensions
+  tools:
+  - tool_name : Smart Commandline Arguments
+    description : A Visual Studio Extension which aims to provide a better UI to manage your command line arguments.
+    url : https://marketplace.visualstudio.com/items?itemName=MBulli.SmartCommandlineArguments
+
+  - tool_name : VSColorOutput
+    description : VSColorOutput can change the color of a line emitted to the output window based on specified rules.
+    url : https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput
+
+  - tool_name : Markdown Editor
+    description : A full featured Markdown editor with live preview and syntax highlighting. Supports GitHub flavored Markdown.
+    url : https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor
+
+  - tool_name : Python Tools for Visual Studio
+    description : An integrated environment for developing Python in Visual Studio
+    url : https://marketplace.visualstudio.com/items?itemName=HPCToolsGuy.PythonToolsforVisualStudio
+    more_info_url : http://www.youtube.com/watch?v=JNNAOypc6Ek&hd=1 
+    more_info_caption : Video overview
+
+- tool_category_name : Build tools
+  tools:
+  - tool_name : vcppbuildtools
+    description : Docker image of windowsservercore plus Visual C++ Build Tools preinstalled
+    url : https://hub.docker.com/r/tsafin/vcppbuildtools/
+
+  - tool_name : Ducible
+    description : A tool to make Windows builds reproducible.
+    url : https://github.com/jasonwhite/ducible
+
+  - tool_name : Build Monitor for Visual Studio
+    description : Build monitor is a tool which you can use to measure your build times in Visual studio over time.
+    url : https://marketplace.visualstudio.com/items?itemName=danielperssson.BuildMonitor
+
+- tool_category_name : WPF
+  tools:
+  - tool_name : Snoop
+    description : It allows you to spy/browse the visual tree of a running WPF application (without the need for a debugger) … and change properties ... amongst other things.
+    url : http://snoopwpf.codeplex.com/
+
+- tool_category_name : Web/Networking
+  tools:
+  - tool_name : Convert curl syntax to Python, Node.js, PHP
+    url : https://curl.trillworks.com/
+
+- tool_category_name : Data Compression
+  tools:
+  - tool_name : CompactGUI
+    description : CompactGUI is a standalone GUI to make using the Windows 10 compact.exe function easier to use.
+    url : https://github.com/ImminentFate/CompactGUI
