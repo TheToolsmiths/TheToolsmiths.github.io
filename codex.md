@@ -54,5 +54,5 @@ Books, Websites, blogs, youtube, twitch etc.
 
 ------
 
-### [The Toolsmiths Toolbox]({{ site.baseurl }}{% link codex/tools_for_the_toolsmiths/tools_for_the_toolsmiths.md %})
+### [The Toolsmiths Toolbox]({{ site.baseurl }}{% link codex/toolsmiths_toolbox/toolsmiths_toolbox.md %})
 The Toolsmiths need tools too :)
