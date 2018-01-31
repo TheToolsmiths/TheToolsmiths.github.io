@@ -17,12 +17,12 @@ nav_tag: gdc
 		{% assign sessions = track.sessions | sort: 'gdc_year' %}
 		{% for session in sessions %}
 
-<h4>Tech Toolbox @ GDC {{session.gdc_year}}</h4>
+<h5>Tech Toolbox @ GDC {{session.gdc_year}}</h5>
 
-<h5>Speakers: {{session.speaker}}</h5>
-<h5>Company Names: {{session.company_name}}</h5>
+<h6>Speakers: {{session.speaker}}</h6>
+<h6>Company Names: {{session.company_name}}</h6>
 
-<h4><a href="{{session.video_url}}">Video</a> | <a href="{{session.slides_url}}">Slides</a></h4>
+<p><a href="{{session.video_url}}">Video</a> | <a href="{{session.slides_url}}">Slides</a></p>
 
 <hr>
 

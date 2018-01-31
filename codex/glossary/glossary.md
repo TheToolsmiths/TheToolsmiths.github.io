@@ -6,7 +6,7 @@ codex_page_type: top_level_codex_page
 nav_tag: glossary
 ---
 
-# Intro
+### Intro
 Tools Development in the games industry has a very broad job description and touches upon almost every part of the game development process. This list is a starting point for a good tools dev vocabulary.  
 Keep in mind this list is a work in progress thing...
 
@@ -19,7 +19,7 @@ Last updated on: Month Day Year
 
 ------
 
-# Entry Level
+### Entry Level
 
 
 {% assign entry_level_terms = terms | where_exp:"item", "item.lvl == 'entry'"  %}
@@ -28,7 +28,7 @@ Last updated on: Month Day Year
 
 ------
 
-# Intermediate Level
+### Intermediate Level
 
 {% assign intermediate_level_terms = terms | where_exp:"item", "item.lvl == 'intermediate'"  %}
 
@@ -36,7 +36,7 @@ Last updated on: Month Day Year
 
 ------
 
-# Advanced Level
+### Advanced Level
 
 {% assign advanced_level_terms = terms | where_exp:"item", "item.lvl == 'advanced'"  %}
 

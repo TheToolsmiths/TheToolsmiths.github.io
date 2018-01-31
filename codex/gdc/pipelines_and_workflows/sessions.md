@@ -18,18 +18,18 @@ nav_tag: gdc
 		{% assign sessions = track.sessions | sort: 'gdc_year' %}
 		{% for session in sessions %}
 
-<h4>{{session.session_name}}</h4>
+<h5>{{session.session_name}}</h5>
 
 			{% if session.location %}
-<h5>{{session.speaker}} ({{session.company_name}}) @ GDC {{session.location}} {{session.gdc_year}}</h5>
+<h6>{{session.speaker}} ({{session.company_name}}) @ GDC {{session.location}} {{session.gdc_year}}</h6>
 			{% else %}
-<h5>{{session.speaker}} ({{session.company_name}}) @ GDC {{session.gdc_year}}</h5>
+<p>{{session.speaker}} ({{session.company_name}}) @ GDC {{session.gdc_year}}</p>
 			{% endif %}
 
 			{% if session.slides_url %}
-<h4><a href="{{session.video_url}}">Video</a> | <a href="{{session.slides_url}}">Slides</a></h4>
+<p><a href="{{session.video_url}}">Video</a> | <a href="{{session.slides_url}}">Slides</a></p>
 			{% else %}
-<h4><a href="{{session.video_url}}">Video</a> | No Slides :(</h4>
+<p><a href="{{session.video_url}}">Video</a> | No Slides :(</p>
 			{% endif %}
 
 <hr>

@@ -10,7 +10,7 @@ nav_tag: dev_resources
 {% assign video_topics = site.data.tool_development_resource_videos | sort: 'topic_name' %}
 
 {% for topic in video_topics %}
-<h1> {{topic.topic_name}} </h1>
+<h3> {{topic.topic_name}} </h3>
 
 	{% assign videos = topic.videos | sort: 'caption' %}
 	{% for video in videos %}

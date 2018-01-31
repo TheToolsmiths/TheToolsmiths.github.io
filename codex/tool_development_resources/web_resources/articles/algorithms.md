@@ -18,13 +18,13 @@ lvl3_nav_tag: resources_web_articles
 		{% assign articles = topic.articles | sort: 'caption' %}
 		{% for article in articles %}
 
-<h4><a href="{{article.url}}">{{article.caption}}</a></h4>
+<h5><a href="{{article.url}}">{{article.caption}}</a></h5>
 			{% if article.pic_url %}
 <p><img src="{{article.pic_url}}" alt="{{article.pic_caption}}"></p>
 			{% endif %}
 
 			{% if article.author %}
-<h5>by {{article.author}}</h5>
+<p>by {{article.author}}</p>
 			{% endif %}
 <hr>
 

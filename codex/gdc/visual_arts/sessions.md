@@ -17,7 +17,7 @@ nav_tag: gdc
 		{% assign sessions = track.sessions | sort: 'gdc_year' %}
 		{% for session in sessions %}
 
-<h4>{{session.session_name}}</h4>
+<h5>{{session.session_name}}</h5>
 
 			{% assign company_name = "" %}
 			{% if session.company_name %}
@@ -25,24 +25,24 @@ nav_tag: gdc
 			{% endif %}
 
 			{% if session.location %}
-<h5>{{session.speaker}} {{company_name}}@ GDC {{session.location}} {{session.gdc_year}}</h5>
+<h6>{{session.speaker}} {{company_name}}@ GDC {{session.location}} {{session.gdc_year}}</h6>
 			{% else %}
-<h5>{{session.speaker}} {{company_name}}@ GDC {{session.gdc_year}}</h5>
+<h6>{{session.speaker}} {{company_name}}@ GDC {{session.gdc_year}}</h6>
 			{% endif %}
 
 			{% if session.video_url %}
 
 				{% if session.slides_url %}
-<h4><a href="{{session.video_url}}">Video</a> | <a href="{{session.slides_url}}">Slides</a></h4>
+<p><a href="{{session.video_url}}">Video</a> | <a href="{{session.slides_url}}">Slides</a></p>
 				{% else %}
-<h4><a href="{{session.video_url}}">Video</a> | No Slides :(</h4>
+<p><a href="{{session.video_url}}">Video</a> | No Slides :(</p>
 				{% endif %}
 
 			{% else %}
 				{% if session.audio_url %}
-<h4><a href="{{session.audio_url}}">Audio</a> | <a href="{{session.slides_url}}">Slides</a></h4>
+<p><a href="{{session.audio_url}}">Audio</a> | <a href="{{session.slides_url}}">Slides</a></p>
 				{% else %}
-<h4>No Video :( | <a href="{{session.slides_url}}">Slides</a></h4>
+<p>No Video :( | <a href="{{session.slides_url}}">Slides</a></p>
 				{% endif %}
 			{% endif %}
 
