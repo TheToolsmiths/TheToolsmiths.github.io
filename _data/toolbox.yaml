@@ -100,6 +100,10 @@
     description : Debugview++ started as a viewer for Win32 OutputDebugString messages in the style of Sysinternals DebugView
     url : https://github.com/djeedjay/DebugViewPP
 
+  - tool_name : Dependencies
+    description : An open-source modern Dependency Walker
+    url : https://github.com/lucasg/Dependencies
+
 - tool_category_name : XML
   tools:
   - tool_name : XML Explorer
@@ -176,3 +180,43 @@
   - tool_name : CompactGUI
     description : CompactGUI is a standalone GUI to make using the Windows 10 compact.exe function easier to use.
     url : https://github.com/ImminentFate/CompactGUI
+
+- tool_category_name : GUI development
+  tools:
+  - tool_name : Lazarus
+    description : Lazarus is a Delphi compatible cross-platform IDE for Rapid Application Development
+    url : http://www.lazarus-ide.org/
+
+  - tool_name : Online icon editor
+    description : An online icon editor
+    url : https://www.iconfinder.com/icon-editor
+
+  - tool_name : QmlAssetExporter
+    description : QML Asset Exporter from Photoshop
+    url : https://github.com/Pelagicore/QmlAssetExporter
+    more_info_url : https://www.youtube.com/watch?v=9BRJ1qJkjZM
+    more_info_caption : Photoshop to QML exporter (YouTube)
+
+- tool_category_name : the C language
+  tools:
+  - tool_name : cr
+    description : A single file header-only live reload solution for C, written in C++
+    url : https://github.com/fungos/cr
+
+- tool_category_name : Computer Graphics
+  tools:
+  - tool_name : NormalMap-Online
+    description : This website lets you create normal maps from height maps for free.
+    url : http://cpetry.github.io/NormalMap-Online/
+
+  - tool_name : FBX Review
+    description : A cross-platform 3D model viewer
+    url : https://www.autodesk.com/products/fbx/fbx-review
+
+  - tool_name : Alembic
+    description : Alembic is an open computer graphics interchange framework.
+    url : http://www.alembic.io/
+
+  - tool_name : Cortex
+    description : The Cortex project provides a set of high quality C++ libraries and Python modules tailored for software development in the visual effects industry.
+    url : https://github.com/ImageEngine/cortex
