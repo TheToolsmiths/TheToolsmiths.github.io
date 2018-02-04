@@ -14,7 +14,7 @@ Also, the codex is an excellent resource to link to tools related lectures avail
 
 ------
 
-### [Tools Development Wisdom and Best Practice]({{ site.baseurl }}{% link codex/best_practices/best_practices.md %})
+### [Tools Development Wisdom and Best Practice]({{ site.baseurl }}{% link codex/tools_development_wisdom/tools_development_wisdom.md %})
 Best Practices in UX, architecture, patterns, programming languages. What works well and what doesn’t and why. Finding the right tools for the job.
 
 ------
