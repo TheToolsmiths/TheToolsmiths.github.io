@@ -233,6 +233,14 @@
     more_info_url : https://www.youtube.com/watch?v=9BRJ1qJkjZM
     more_info_caption : Photoshop to QML exporter (YouTube)
 
+  - tool_name : Balsamiq
+    description : Balsamiq is a rapid wireframing tool
+    url : https://balsamiq.com
+
+  - tool_name : Pencil
+    description : Pencil is built for the purpose of providing a free and open-source GUI prototyping tool that people can easily install and use to create mockups in popular desktop platforms.
+    url : http://pencil.evolus.vn/
+
 - tool_category_name : the C language
   tools:
   - tool_name : cr
@@ -256,3 +264,47 @@
   - tool_name : Cortex
     description : The Cortex project provides a set of high quality C++ libraries and Python modules tailored for software development in the visual effects industry.
     url : https://github.com/ImageEngine/cortex
+
+- tool_category_name : Infrastructure Monitoring
+  tools:
+  - tool_name : OpenNMS
+    description : OpenNMS is a carrier-grade, highly integrated, open source platform designed for building network monitoring solutions. 
+    url : https://www.opennms.org/en
+
+  - tool_name : Zabbix
+    description : Zabbix is the ultimate enterprise-level software designed for real-time monitoring of millions of metrics collected from tens of thousands of servers, virtual machines and network devices. 
+    url : https://www.zabbix.com/
+
+  - tool_name : Cacti
+    description : Cacti is a complete network graphing solution designed to harness the power of RRDTool's data storage and graphing functionality.
+    url : https://www.cacti.net/
+
+  - tool_name : Nagios 
+    description : IT Infrastructure Monitoring
+    url : https://www.nagios.org/
+
+- tool_category_name : Infrastructure Automation and Configuration Management
+  tools:
+  - tool_name : CFEngine
+    description : Automate large-scale, complex and mission critical IT infrastructure
+    url : https://cfengine.com/
+
+  - tool_name : Chef
+    description : Achieve speed, scale, and consistency by automating your infrastructure with Chef
+    url : https://www.chef.io/chef/
+
+  - tool_name : Puppet
+    description : Automatically deliver and operate all of your software across its entire lifecycle.
+    url : https://puppet.com/
+
+- tool_category_name : Pipeline
+  tools:
+  - tool_name : COLLADA
+    description : COLLADA™ defines an XML-based schema to make it easy to transport 3D assets between applications - enabling diverse 3D authoring and content processing tools to be combined into a production pipeline.
+    url : https://www.khronos.org/collada/
+
+- tool_category_name : Video
+  tools:
+  - tool_name : Open Broadcaster Software
+    description : Free and open source software for video recording and live streaming.
+    url : https://obsproject.com
