@@ -6,6 +6,9 @@
     pic_caption : Helium Game Engine Logo
     description : Helium is a set of open-source cross-platform C++ Frameworks, and it aspires to be a high performance Game Engine. It is permissively licensed under a BSD-style license.
     source : https://github.com/HeliumProject/Helium
+    github_starts :
+      account : HeliumProject
+      repo_name : Helium
 
 - project_type : 3D creation suites
   projects:
@@ -24,6 +27,9 @@
         url : http://runtimecompiledcplusplus.blogspot.com/
       - caption : cppcast podcast
         url : http://cppcast.com/2016/05/doug-binks/
+    github_starts :
+      account : RuntimeCompiledCPlusPlus
+      repo_name : RuntimeCompiledCPlusPlus
 
 - project_type : Unity tools
   projects:
@@ -42,16 +48,25 @@
   - project_name : sfntly
     url : https://github.com//googlei18n//sfntly
     description : sfntly is a Java and C++ library for using, editing, and creating sfnt container based fonts (e.g. OpenType, TrueType)
+    github_starts :
+      account : googlei18n
+      repo_name : sfntly
 
 - project_type : Testing
   projects:
   - project_name : Windows Application Driver
     url : https://github.com/Microsoft/WinAppDriver
     description : Windows Application Driver is a service to support Selenium-like UI Test Automation on Windows Applications.
+    github_starts :
+      account : Microsoft
+      repo_name : WinAppDriver
 
   - project_name : Appium
     url : https://github.com/appium/appium
     description : Automation for iOS, Android, and Windows Apps
+    github_starts :
+      account : Microsoft
+      repo_name : WinAppDriver
 
 - project_type : Build Configuration
   projects:
@@ -62,18 +77,40 @@
   - project_name : Premake
     url : https://premake.github.io/
     description : Describe your software project just once, using Premake's simple and easy to read syntax, and build it everywhere.
+    github_starts :
+      account : premake
+      repo_name : premake-core
 
   - project_name : FASTBuild
     url : http://fastbuild.org/docs/home.html
     description : FASTBuild is a high performance, open-source build system supporting highly scalable compilation, caching and network distribution.
+    github_starts :
+      account : fastbuild
+      repo_name : fastbuild
 
   - project_name : GENie
     url : https://github.com/bkaradzic/GENie)
     description : GENie (pronounced as Jenny) is project generator tool. It automagically generates project from Lua script, making applying the same settings for multiple projects easy.
+    github_starts :
+      account : bkaradzic
+      repo_name : GENie
 
   - project_name : sccache - Shared Compilation Cache
     url : https://github.com/mozilla/sccache
     description : Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible, storing a cache in a remote storage using the Amazon Simple Cloud Storage Service (S3) API, the Google Cloud Storage (GCS) API, or Redis.
+    github_starts :
+      account : mozilla
+      repo_name : sccache
+
+  - project_name : Sharpmake
+    url : https://github.com/ubisoftinc/Sharpmake
+    description : Sharpmake is an open-source C#-based solution for generating project definition files, such as Visual Studio projects and solutions, GNU makefiles, Xcode projects, etc.
+    more_info :
+      - caption : "CppCon 2017: Nicolas Fleury 'Introduction to Sharpmake'"
+        url : https://www.youtube.com/watch?v=h9imGlRtJpg
+    github_starts :
+      account : ubisoftinc
+      repo_name : Sharpmake
 
 - project_type : Configuration Management
   projects:
@@ -97,10 +134,16 @@
   - project_name : Katana
     url : https://github.com/Unity-Technologies/katana
     description : Unity's fork of Buildbot, a Python-based continuous integration testing framework!
+    github_starts :
+      account : Unity-Technologies
+      repo_name : katana
 
   - project_name : LambCI
     url : https://github.com/lambci/lambci
     description : A continuous integration system built on AWS Lambda
+    github_starts :
+      account : lambci
+      repo_name : lambci
 
 - project_type : Stat Collection
   projects:
@@ -111,6 +154,9 @@
   - project_name : StatsD
     url : https://github.com/etsy/statsd
     description : Daemon for easy but powerful stats aggregation
+    github_starts :
+      account : etsy
+      repo_name : statsd
 
   - project_name : Grafana
     url : https://github.com/grafana/grafana
@@ -118,6 +164,9 @@
     more_info :
     - caption : Docker image with StatsD, Graphite, Grafana 2 and a Kamon Dashboard
       url : https://github.com/kamon-io/docker-grafana-graphite
+    github_starts :
+      account : grafana
+      repo_name : grafana
 
 - project_type : Mesh Tools
   projects:
@@ -125,11 +174,17 @@
     url : http://www.meshlab.net/
     description : the open source system for processing and editing 3D triangular meshes. It provides a set of tools for editing, cleaning, healing, inspecting, rendering, texturing and converting meshes.
     source : https://github.com/cnr-isti-vclab/meshlab
+    github_starts :
+      account : cnr-isti-vclab
+      repo_name : meshlab
 
   - project_name : Wings 3D
     url : http://www.wings3d.com/
     description : Wings 3D is an advanced subdivision modeler that is both powerful and easy to use.
     source : https://github.com/dgud/wings
+    github_starts :
+      account : dgud
+      repo_name : wings
 
 - project_type : Audio Editing Tools
   projects:
@@ -137,6 +192,9 @@
     url : http://www.audacityteam.org/
     description : Audacity® is free, open source, cross-platform audio software for multi-track recording and editing.
     source : https://github.com/audacity/audacity
+    github_starts :
+      account : audacity
+      repo_name : audacity
 
 - project_type : Image Editing Tools
   projects:
@@ -149,3 +207,15 @@
     url : https://inkscape.org/en/
     description : Inkscape is a professional vector graphics editor for Windows, Mac OS X and Linux.
     source : https://gitlab.com/inkscape/inkscape
+    github_starts :
+      account : inkscape
+      repo_name : inkscape
+
+- project_type : Debugging
+  projects:
+  - project_name : The Debuginator
+    url : https://github.com/Srekel/the-debuginator
+    description : A juicy feature-packed debug menu intended for games.
+    github_starts :
+      account : Srekel
+      repo_name : the-debuginator
