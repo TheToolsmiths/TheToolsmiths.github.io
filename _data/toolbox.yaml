@@ -130,6 +130,18 @@
     description : vswhere is designed to be a redistributable, single-file executable that can be used in build or deployment scripts to find where Visual Studio - or other products in the Visual Studio family - is located.
     url : https://github.com/Microsoft/vswhere
 
+  - tool_name : PYAHK AutoHotKey via Python
+    description : Combining the two creates a powerful automation tool with a powerful scripting back-end with access to all the power of the Python standard library.
+    url : http://pyahk.readthedocs.io/en/latest/
+
+  - tool_name : FreeCommander
+    description : FreeCommander is an easy-to-use alternative to the standard windows file manager.
+    url : http://freecommander.com/en/summary/
+
+  - tool_name : ConEmu
+    description : ConEmu-Maximus5 is a Windows console emulator with tabs, which presents multiple consoles and simple GUI applications as one customizable GUI window with various features.
+    url : https://conemu.github.io
+
 - tool_category_name : MSVS extensions
   tools:
   - tool_name : Smart Commandline Arguments
@@ -163,6 +175,30 @@
   - tool_name : Build Monitor for Visual Studio
     description : Build monitor is a tool which you can use to measure your build times in Visual studio over time.
     url : https://marketplace.visualstudio.com/items?itemName=danielperssson.BuildMonitor
+
+  - tool_name : Gradle
+    description : Gradle is a build tool with a focus on build automation and support for multi-language development. 
+    url : https://github.com/gradle/gradle
+
+  - tool_name : Waf
+    description : Waf is a Python-based framework for configuring, compiling and installing applications. 
+    url : https://github.com/waf-project/waf
+
+  - tool_name : Apache Ant
+    description : Apache Ant is a Java library and command-line tool whose mission is to drive processes described in build files as targets and extension points dependent upon each other.
+    url : https://github.com/waf-project/waf
+
+  - tool_name : SCons
+    description : SCons is an Open Source software construction tool—that is, a next-generation build tool. 
+    url : http://scons.org/
+
+  - tool_name : Boost.Build (a.k.a JAM)
+    description : Boost.Build is a high-level build system which makes it as easy as possible to manage C++ projects.
+    url : http://www.boost.org/build/
+
+  - tool_name : CruiseControl
+    description : CruiseControl is both a continuous integration tool and an extensible framework for creating a custom continuous build process.
+    url : http://cruisecontrol.sourceforge.net/
 
 - tool_category_name : WPF
   tools:

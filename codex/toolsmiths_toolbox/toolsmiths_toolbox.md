@@ -10,7 +10,7 @@ nav_tag: tools
 {% assign tool_categories = site.data.toolbox | sort: 'tool_category_name' %}
 
 {% for category in tool_categories %}
-<h1> {{category.tool_category_name}} </h1>
+<h3> {{category.tool_category_name}} </h3>
 
 	{% assign tools = category.tools | sort: 'tool_name' %}
 	{% for tool in tools %}
