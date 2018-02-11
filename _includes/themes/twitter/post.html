@@ -5,7 +5,7 @@
 <div class="row-fluid post-full">
   <div class="span12">
     <div class="date">
-      <span>{{ page.date | date_to_long_string }}</span>
+      <span>Posted on <u><i>{{ page.date | date_to_long_string }}</i></u> by <u><i>{{ page.author }}</i></u></span>
     </div>
     <div class="content">
       {{ content }}
