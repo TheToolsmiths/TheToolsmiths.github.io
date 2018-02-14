@@ -6,7 +6,13 @@ category: Podcast
 ---
 {% include JB/setup %}
 {% include themes/twitter/page.html %}
-<audio controls>
-  <source src="horse.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
+
+{% if page.audio %}
+<p>
+  {{ site.url }}{{ page.audio }}
+  </p>
+  <audio controls>
+    <source src="{{ site.url }}{{ page.audio }}" type="audio/mpeg">
+  Your browser does not support the audio element.
+  </audio>
+{% endif %}
