@@ -1,0 +1,12 @@
+---
+layout: page
+title: Podcast
+header: Episodes
+group: navigation
+permalink: /podcast/index.html
+---
+{% include JB/setup %}
+
+{% for episode in site.podcast %}
+<p><a href="{{ episode.url }}">{{ episode.title }}</a></p>
+{% endfor %}
