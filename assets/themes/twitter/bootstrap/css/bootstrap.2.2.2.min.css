@@ -40,7 +40,7 @@ a:hover{color:#990000;text-decoration:underline;}
 .row:after{clear:both;}
 [class*="span"]{float:left;min-height:1px;margin-left:20px;}
 .container,.navbar-static-top .container,.navbar-fixed-top .container,.navbar-fixed-bottom .container{width:940px;}
-.vstepanoheadColor{ background-color: #990000; text-align:center;}
+.header-background-color{ background-color: #990000; text-align:center;}
 .span12{width:940px;}
 .span11{width:860px;}
 .span10{width:780px;}
