@@ -7,9 +7,11 @@ tagline: gamedev tools
 
 Hello!
 
-This website is the public face of an online [Slack](https://thetoolsmiths.slack.com) community for game tools development. It was mainly bourne out of the [Game Developers Conference](https://gdconf.com) _Technical Issues in Tools_ roundtables which are held annually in San Francisco. If you work on game development tools (or are a student/enthusiast) you can get an invite by tweeting to [@thetoolsmiths](https://twitter.com/thetoolsmiths).
+This website is the public face of an online [Slack](https://thetoolsmiths.slack.com) community for game tools development. It was mainly born out of the [Game Developers Conference](https://gdconf.com) _Technical Issues in Tools_ roundtable sessions.
 
-Part of the online community is also from the IGDA Tools SIG. That organization is dormant/defunct at the moment, but in the past they organized a lot of blog content. That content is archived here. It remains to be seen who wants to contribute new content to this site. If you are interested join the slack and let us know in #website (in the Slack channel)!
+If you work on game development tools (or are a student/enthusiast) you can get an invite by direct messaging your email address to [@thetoolsmiths](https://twitter.com/thetoolsmiths).  If DMs aren't open poke the account first and it will follow you.
+
+Part of the online community is also from the IGDA Tools SIG. That organization is dormant at the moment, but in the past they organized a lot of blog content. That content is archived here.
 
 <!-- <ul class="posts">
   {% for post in site.posts %}
