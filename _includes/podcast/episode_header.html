@@ -1,0 +1,17 @@
+<div class="page-header">
+  <h1>
+    <a class='episode_title' href='{{ site.url }}{{ episode.url }}#{{ episode.id | sha1:8 }}'>{{ episode.title }}</a>
+    <small class='episode_date'>
+      {% if site.language == "en" %}
+        {{ episode.date | full_date_de }}
+      {% else %}
+        {% if episode.datum %}
+          {{ episode.datum }}
+        {% else %}
+          {{ episode.date }}
+        {% endif %}
+      {% endif %}
+    </small> <br />
+    <small>{{ episode.subtitle }}</small>
+  </h1>
+</div>
