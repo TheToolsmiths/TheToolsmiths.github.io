@@ -56,10 +56,10 @@ Sessions marked with Toolsmiths logo - <img src="{{ site.url }}/favicon.ico"> po
 
 ### Roundtables
 
-#### <img src="{{ site.url }}/favicon.ico"> [Tools Roundtable Day 1: Design](http://schedule.gdconf.com/session/span-classhighlighttools-roundtablespan-day-1-design/851822)
+#### <img src="{{ site.url }}/favicon.ico"> [Tools Design Roundtable Day 1: Design](http://schedule.gdconf.com/session/span-classhighlighttools-roundtablespan-day-1-design/851822)
 {% include toolsmiths/tags_without_link.html tags="Tool Design, UX, In-house Tools, Workflows " %}
 
-#### <img src="{{ site.url }}/favicon.ico"> [Tools Roundtable Day 2: Production](http://schedule.gdconf.com/session/span-classhighlighttools-roundtablespan-day-2-production/855088)
+#### <img src="{{ site.url }}/favicon.ico"> [Tools Design Roundtable Day 2: Production](http://schedule.gdconf.com/session/span-classhighlighttools-roundtablespan-day-2-production/855088)
 {% include toolsmiths/tags_without_link.html tags="Production & Team Management, In-house Tools, Workflows " %}
 
 #### <img src="{{ site.url }}/favicon.ico"> [Technical Issues in Tools Development Roundtable Day 1: Process Day](http://schedule.gdconf.com/session/span-classhighlighttechnical-issues-in-tools-development-roundtablespan-day-1-process-day/851567)
