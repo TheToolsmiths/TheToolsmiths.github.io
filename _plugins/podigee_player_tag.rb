@@ -7,11 +7,12 @@ module Jekyll
       download_url = config["url"] + page["url"].split('/')[0..-2].join('/') + '/'  + page["audio"]
       audio = {"mp3" => download_url}
 
-      { options: { theme: "default",
+      { options: { theme: "default-dark",
                    startPanel: "ChapterMarks" },
         extensions: { ChapterMarks: {},
                       EpisodeInfo:  {},
-                      Playlist:     {} },
+                      Playlist:     {},
+                      Deeplinking: {} },
         title: options['title'],
         episode: { media: audio,
                    coverUrl: config['url'] + (page["episode_cover"] || '/wp-content/uploads/2014/03/TheToolssmithsPodcast-300x300.png'),
@@ -33,7 +34,7 @@ module Jekyll
           window.playerConfiguration = #{playerconfig(context)}
         </script>
         <script class="podigee-podcast-player" data-configuration="playerConfiguration"
-                src="#{config["url"].split(":").first}://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js">
+                src="https://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js">
         </script>
 HTML
     end

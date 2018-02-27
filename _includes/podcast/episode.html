@@ -6,13 +6,4 @@
   {% include podcast/episode_header.html %}
 
   {{ episode.content }}
-    {% if episode.audio %}
-      {% for file in episode.audio %}
-      <a class="btn btn-primary" href="{{ site | download_url_with_fallback }}/{{ file.last }}">Download .{{ file.first }} ({{ file.last | file_size:'./' | string_of_size }})</a>
-      {% endfor %}
-    {% endif %}
-  <hr>
-  {{ site | flattr_button:episode }}
-  <a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ site.url }}{{episode.url }}" data-text="{{ episode.title }}">Tweet</a>
-  <hr>
 </section>
