@@ -215,3 +215,17 @@
     author : 
     type : Video
     url : https://youtu.be/UVUlv1hiR7s
+
+- topic_name : Qt
+  videos:
+  - caption : "C++ Qt Programming"
+    author : 
+    type : Playlist
+    url : https://www.youtube.com/playlist?list=PL2D1942A4688E9D63
+
+- topic_name : WPF
+  videos:
+  - caption : "WPF UI Programming (C#)"
+    author : 
+    type : Playlist
+    url : https://www.youtube.com/playlist?list=PLrW43fNmjaQVYF4zgsD0oL9Iv6u23PI6M
