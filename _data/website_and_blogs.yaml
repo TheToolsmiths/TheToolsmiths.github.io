@@ -1,0 +1,39 @@
+- resource_type : Websites
+  resources:
+  - title : theForger's Win32 API Programming Tutorial
+    url : http://www.winprog.org/tutorial/
+
+  - title : David Lightbown
+    url : http://davidlightbown.com/
+
+  - title : Eskil Steenberg
+    url : http://www.quelsolaar.com/about/index.html
+
+  - title : Tech-Artists
+    url : https://tech-artists.org/
+
+  - title : Handmade Hero Network
+    url : https://hero.handmade.network/
+
+  - title : Robin-Yann Storm
+    url : http://www.rystorm.com/
+
+- resource_type : Blogs
+  resources:
+  - title : BitSquid blog
+    url : http://bitsquid.blogspot.ru/
+
+  - title : Our Machinery blog
+    url : http://ourmachinery.com/
+
+  - title : enkisoftware Devlog
+    url : https://www.enkisoftware.com/devlog-game-tech
+
+- resource_type : Social
+  resources:
+  - title : Game Tool Jam
+    url : https://itch.io/jam/game-tool-jam
+
+  - title : PROCJAM - The Procedural Generation Jam
+    url : https://itch.io/jam/procjam
+
