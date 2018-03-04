@@ -6,8 +6,7 @@ codex_page_type: top_level_codex_page
 nav_tag: engine
 ---
 
-
-### Popular Game Engines
+### Commercial Game Engines
 
 ##### [Unreal Engine 4 Editors and Tools](https://docs.unrealengine.com/latest/INT/GettingStarted/SubEditors/index.html)
 
@@ -22,16 +21,19 @@ nav_tag: engine
 ------
 ------
 
-### Open source 3D Engines
+### Free Game Engines
+
+##### [Godot Game Engine](http://docs.godotengine.org)
+Godot Engine is a feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface.
+###### [source code](https://github.com/godotengine/godot)
+
+------
 
 ##### [Blender Game Engine](https://docs.blender.org/manual/en/dev/game_engine/introduction.html)
 The Blender Game Engine (BGE) is Blender’s tool for real time projects, from architectural visualizations and simulations to games.
 ###### [source code](https://developer.blender.org/project/view/30/)
 
 ------
-------
-
-### Open source 2D Engine
 
 ##### [GDevelop](http://compilgames.net/)
 GDevelop is an open source, cross-platform game creator designed to be used by everyone - no programming skills required.
