@@ -12,6 +12,8 @@ The Codex is a warehouse of information that is constantly curated by the Slack 
 
 Also, the codex is an excellent resource to link to tools related lectures available on the GDC Vault, Twitch, Youtube, etc…
 
+[Information about contributing to The Toolsmiths Codex]({{ site.baseurl }}{% link codex/contributing_to_the_toolsmiths_codex.md %})
+
 ------
 
 ### [Tools Development Wisdom and Best Practice]({{ site.baseurl }}{% link codex/tools_development_wisdom/tools_development_wisdom.md %})

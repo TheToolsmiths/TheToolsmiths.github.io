@@ -1,0 +1,1 @@
+If you work on game development tools (or are a student/enthusiast) you can get an invite by direct messaging your email address to [@thetoolsmiths](https://twitter.com/thetoolsmiths).  If DMs aren't open poke the account first and it will follow you.
