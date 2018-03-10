@@ -46,11 +46,6 @@ GDC Vault links to tool related lectures and Tools SIG round table Notes.
 
 ------
 
-### [Tools Video Tutorials/Reviews]({{ site.baseurl }}{% link codex/tools_video/tools_video_reviews.md %})
-Looking at state of the art tools.
-
-------
-
 ### [Tool Development Resources]({{ site.baseurl }}{% link codex/tool_development_resources/tool_development_resources.md %})
 Books, Websites, blogs, youtube, twitch etc.
 
