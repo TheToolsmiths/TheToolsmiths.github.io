@@ -19,6 +19,15 @@ nav_tag: engine
 ##### [Amazon Lumberyard Editors and Tools](http://docs.aws.amazon.com/lumberyard/latest/userguide/lumberyard-tools.html)
 
 ------
+
+##### [CRYENGINE Sandbox & Tools](https://www.cryengine.com/features/sandbox-tools)
+
+------
+
+##### [GameMaker Studio 2 Editors](http://docs2.yoyogames.com/)
+###### [website](https://www.yoyogames.com/gamemaker/features)
+
+------
 ------
 
 ### Free Game Engines
@@ -38,3 +47,10 @@ The Blender Game Engine (BGE) is Blender’s tool for real time projects, from a
 ##### [GDevelop](http://compilgames.net/)
 GDevelop is an open source, cross-platform game creator designed to be used by everyone - no programming skills required.
 ###### [source code](https://github.com/4ian/GD)
+
+------
+
+##### [Cocos Creator](http://cocos2d-x.org/docs/creator/en/)
+Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.
+###### [source code](https://github.com/cocos2d/cocos2d-x)
+###### [Cocos2d-x website](http://www.cocos2d-x.org/)
