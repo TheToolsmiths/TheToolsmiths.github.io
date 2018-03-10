@@ -1,19 +1,36 @@
-- name : John Romero
-  quote : Remember, tools live longer than games do.
+- author_name : John Romero
+  text : Remember, tools live longer than games do.
+  type : quote
+
   reference_url : https://www.gamasutra.com/blogs/DavidLightbown/20170223/289955/Classic_Tools_Retrospective_John_Romero_talks_about_creating_TEd_the_tile_editor_that_shipped_over_30_games.php
   reference_caption : Gamasutra
 
-- name : Tim Sweeney
-  quote : I think every company needs to make the decision to either invest significantly more in tools, or just not bother.
+- author_name : Tim Sweeney
+  text : I think every company needs to make the decision to either invest significantly more in tools, or just not bother.
+  type : quote
   reference_url : https://www.gamasutra.com/blogs/DavidLightbown/20180109/309414/Classic_Tools_Retrospective_Tim_Sweeney_on_the_first_version_of_the_Unreal_Editor.php
   reference_caption : Gamasutra
 
-- name : David Lightbown
-  quote : I kind of think about it as natural evolution. You know there are some species that have evolved a certain way and they're in a certain environment and they've died off. The same thing goes with certain types of software and interactions. If an interaction is difficult to use or many interactions are difficult to use that software might not have as much success being adapted and being used by people and then it dies off. And the ones that have more easier interactions are going to survive and other people are going to look at those and evolve themselves off of those.
+- author_name : David Lightbown
+  text : Evolution of software and interactions is like the natural evolution. If an interaction is difficult to use that software might not have as much success being adapted and being used by people and so it dies off.
+  type : summary
   reference_url : https://youtu.be/Ldo0J0M8NKc?t=4043
   reference_caption : YouTube
 
-- name : Jonathan Adamczewski‏
-  quote : "When designing some feature (especially one with UI), I find that these can be useful questions to be asking: What widely-used software already does this kind of thing? What software does it really well? What does the state of the art look like?"
+- author_name : Jonathan Adamczewski‏
+  text : "When designing some feature (especially one with UI), I find that these can be useful questions to be asking: What widely-used software already does this kind of thing? What software does it really well? What does the state of the art look like?"
+  type : quote
   reference_url : https://twitter.com/twoscomplement/status/844775796979916801
   reference_caption : Twitter
+
+- author_name : Robin-Yann Storm
+  text : "Making one workflow work efficiently for everyone is highly unlikely, especially if you have thousands of users making many different kinds of games/prototypes/genres (Unity/Unreal). There is a middle ground here where sometimes giving options is a good thing, and sometimes not"
+  type : quote
+  reference_url : https://twitter.com/RYStorm/status/970605854167830528
+  reference_caption : Twitter
+
+- author_name : John Harris
+  text : "In the metaphorical game development gold rush, there are the devs out hunting for gold, and there are the people making shovels for them."
+  type : quote
+  reference_url : https://www.gamasutra.com/view/news/314538/Tips_for_building_game_dev_tools_and_UX_from_Ubisofts_David_Lightbown.php
+  reference_caption : Gamasutra

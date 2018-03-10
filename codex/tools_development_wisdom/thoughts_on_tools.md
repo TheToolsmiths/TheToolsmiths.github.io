@@ -11,8 +11,13 @@ nav_tag: knowhow
 
 {% for thought in thoughts_on_tools %}
 
-<p>"{{thought.quote}}"</p>
-<p>{{thought.name}}</p>
+
+{% if thought.type == "summary" %}
+<p>{{thought.text}}</p>
+{% else %}
+<p>"{{thought.text}}"</p>
+{% endif %}
+<p>{{thought.author_name}}</p>
 <p><a href="{{thought.reference_url}}"> {{thought.reference_caption}} </a></p>
 
 <hr>
