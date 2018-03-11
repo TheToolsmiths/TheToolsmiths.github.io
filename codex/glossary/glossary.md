@@ -12,8 +12,6 @@ Keep in mind this list is a work in progress thing...
 
 If you find an issue with one of the definition feel free to contact one of the maintainers. 
 
-Last updated on: Month Day Year
-
 <!-- To Edit or Add content to this page please edit the _data/glossary.yaml file -->
 {% assign terms = site.data.glossary | sort: 'term' %}
 

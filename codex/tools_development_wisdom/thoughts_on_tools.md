@@ -13,12 +13,13 @@ nav_tag: knowhow
 
 
 {% if thought.type == "summary" %}
+<p><i>Summary of the idea</i>:
 <p>{{thought.text}}</p>
 {% else %}
 <p>"{{thought.text}}"</p>
 {% endif %}
 <p>{{thought.author_name}}</p>
-<p><a href="{{thought.reference_url}}"> {{thought.reference_caption}} </a></p>
+<p>reference: <a href="{{thought.reference_url}}"> {{thought.reference_caption}} </a></p>
 
 <hr>
 
