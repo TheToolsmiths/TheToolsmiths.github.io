@@ -1,0 +1,520 @@
+- solution_category : Game Engines
+  solutions:
+  - solution_name : Helium Game Engine
+    solution_type : framework
+    website_url : http://heliumproject.org/
+    open_source : True
+    pic_url : https://raw.github.com/HeliumProject/Helium/master/Documentation/Helium.png
+    pic_caption : Helium Game Engine Logo
+    description : Helium is a set of open-source cross-platform C++ Frameworks, and it aspires to be a high performance Game Engine. It is permissively licensed under a BSD-style license.
+    source_code_url : https://github.com/HeliumProject/Helium
+    github_starts :
+      account : HeliumProject
+      repo_name : Helium
+
+- solution_category : 3D creation suites
+  solutions:
+  - solution_name : Blender
+    solution_type : tool
+    website_url : https://www.blender.org/features/
+    open_source : True
+    description : Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation.
+    source_code_url : https://developer.blender.org/project/
+
+- solution_category : Update C++ at runtime
+  solutions:
+  - solution_name : Runtime Compiled C++ sample code
+    solution_type : framework
+    website_url : https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus
+    open_source : True
+    description : Runtime-Compiled C++ is a way to reliably make major changes to your C++ code at runtime and see the results immediately.
+    more_info :
+      - caption : blogspot
+        url : http://runtimecompiledcplusplus.blogspot.com/
+      - caption : cppcast podcast
+        url : http://cppcast.com/2016/05/doug-binks/
+    github_starts :
+      account : RuntimeCompiledCPlusPlus
+      repo_name : RuntimeCompiledCPlusPlus
+
+- solution_category : Unity tools
+  solutions:
+  - solution_name : Asset Bundle Graph Tool
+    solution_type : tool
+    website_url : https://bitbucket.org/Unity-Technologies/assetbundlegraphtool/
+    open_source : True
+    description : AssetBundleGraphTool (ABGT) is a tool that aims to reduce the workload of all the effort needed to build workflows around building Asset Bundles and Player Apps.
+
+- solution_category : Transport data between applications
+  solutions:
+  - solution_name : Open Data Description Language (OpenDDL)
+    solution_type : language
+    website_url : http://openddl.org/
+    description : A general-purpose, human-readable, and strongly-typed data language for information exchange.
+
+  - solution_name : COLLADA
+    solution_type : language
+    website_url : https://www.khronos.org/collada/
+    description : COLLADA™ defines an XML-based schema to make it easy to transport 3D assets between applications - enabling diverse 3D authoring and content processing tools to be combined into a production pipeline.
+
+  - solution_name : Alembic
+    solution_type : framework
+    website_url : http://www.alembic.io/
+    description : Alembic is an open computer graphics interchange framework.
+
+  - solution_name : Autodesk animx
+    solution_type : library
+    website_url : https://github.com/Autodesk/animx
+    open_source : True
+    description : A project to make it easier for people to use Maya animation in their tools and pipelines.
+    github_starts :
+      account : Autodesk
+      repo_name : animx
+
+  - solution_name : GL Transmission Format
+    solution_type : library
+    website_url : https://github.com/KhronosGroup/glTF
+    open_source : True
+    description : GL Transmission Format is a royalty-free specification for the efficient transmission and loading of 3D scenes and models by applications.
+    github_starts :
+      account : KhronosGroup
+      repo_name : glTF
+
+  - solution_name : Lucasfilm MaterialX
+    solution_type : library
+    website_url : https://github.com/InsomniacGames/ig-memtrace
+    open_source : True
+    description : MaterialX is an open standard for transfer of rich material and look-development content between applications and renderers.
+    github_starts :
+      account : InsomniacGames
+      repo_name : ig-memtrace
+
+- solution_category : Font
+  solutions:
+  - solution_name : sfntly
+    solution_type : library
+    website_url : https://github.com/googlei18n/sfntly
+    open_source : True
+    description : sfntly is a Java and C++ library for using, editing, and creating sfnt container based fonts (e.g. OpenType, TrueType)
+    github_starts :
+      account : googlei18n
+      repo_name : sfntly
+
+- solution_category : Testing
+  solutions:
+  - solution_name : Windows Application Driver
+    solution_type : tool
+    website_url : https://github.com/Microsoft/WinAppDriver
+    open_source : True
+    description : Windows Application Driver is a service to support Selenium-like UI Test Automation on Windows Applications.
+    github_starts :
+      account : Microsoft
+      repo_name : WinAppDriver
+
+  - solution_name : Appium
+    solution_type : tool
+    website_url : https://github.com/appium/appium
+    open_source : True
+    description : Automation for iOS, Android, and Windows Apps
+    github_starts :
+      account : Microsoft
+      repo_name : WinAppDriver
+
+- solution_category : Build Configuration
+  solutions:
+  - solution_name : CMake
+    solution_type : tool
+    website_url : https://cmake.org/
+    open_source : True
+    source_code_url : https://gitlab.kitware.com/cmake/cmake
+    description : CMake is an open-source, cross-platform family of tools designed to build, test and package software.
+
+  - solution_name : Premake
+    solution_type : tool
+    website_url : https://premake.github.io/
+    open_source : True
+    description : Describe your software project just once, using Premake's simple and easy to read syntax, and build it everywhere.
+    github_starts :
+      account : premake
+      repo_name : premake-core
+
+  - solution_name : FASTBuild
+    solution_type : tool
+    website_url : http://fastbuild.org/docs/home.html
+    open_source : True
+    description : FASTBuild is a high performance, open-source build system supporting highly scalable compilation, caching and network distribution.
+    source_code_url : https://github.com/fastbuild/fastbuild
+    github_starts :
+      account : fastbuild
+      repo_name : fastbuild
+
+  - solution_name : GENie
+    solution_type : tool
+    website_url : https://github.com/bkaradzic/GENie
+    open_source : True
+    description : GENie (pronounced as Jenny) is project generator tool. It automagically generates project from Lua script, making applying the same settings for multiple projects easy.
+    github_starts :
+      account : bkaradzic
+      repo_name : GENie
+
+  - solution_name : sccache - Shared Compilation Cache
+    solution_type : tool
+    website_url : https://github.com/mozilla/sccache
+    open_source : True
+    description : Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible, storing a cache in a remote storage using the Amazon Simple Cloud Storage Service (S3) API, the Google Cloud Storage (GCS) API, or Redis.
+    github_starts :
+      account : mozilla
+      repo_name : sccache
+
+  - solution_name : Sharpmake
+    solution_type : tool
+    website_url : https://github.com/ubisoftinc/Sharpmake
+    open_source : True
+    description : Sharpmake is an open-source C#-based solution for generating project definition files, such as Visual Studio projects and solutions, GNU makefiles, Xcode projects, etc.
+    more_info :
+      - caption : "CppCon 2017: Nicolas Fleury 'Introduction to Sharpmake'"
+        url : https://www.youtube.com/watch?v=h9imGlRtJpg
+    github_starts :
+      account : ubisoftinc
+      repo_name : Sharpmake
+
+- solution_category : Configuration Management
+  solutions:
+  - solution_name : Packer
+    solution_type : tool
+    website_url : https://www.packer.io/
+    description : Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+    more_info :
+    - caption : Packer Windows templates
+      url : https://github.com/joefitzgerald/packer-windows
+
+- solution_category : Continuous Integration
+  solutions:
+  - solution_name : Jenkins
+    solution_type : tool
+    website_url : https://jenkins.io/index.html
+    open_source : True
+    source_code_url : https://github.com/jenkinsci
+    description : The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project.
+
+  - solution_name : Buildbot
+    solution_type : tool
+    website_url : http://buildbot.net/
+    open_source : True
+    source_code_url : https://github.com/buildbot/buildbot/
+    description : Buildbot supports distributed, parallel execution of jobs across multiple platforms, flexible integration with version-control systems, extensive status reporting, and more.
+
+  - solution_name : Katana
+    solution_type : tool
+    website_url : https://github.com/Unity-Technologies/katana
+    open_source : True
+    description : Unity's fork of Buildbot, a Python-based continuous integration testing framework!
+    github_starts :
+      account : Unity-Technologies
+      repo_name : katana
+
+  - solution_name : LambCI
+    solution_type : tool
+    website_url : https://github.com/lambci/lambci
+    open_source : True
+    description : A continuous integration system built on AWS Lambda
+    github_starts :
+      account : lambci
+      repo_name : lambci
+
+- solution_category : Stat Collection
+  solutions:
+  - solution_name : Graphite
+    solution_type : tool
+    website_url : https://graphiteapp.org/
+    open_source : True
+    source_code_url : https://github.com/graphite-project/graphite-web
+    description : Graphite is a highly scalable real-time graphing system. As a user, you write an application that collects numeric time-series data that you are interested in graphing, and send it to Graphite’s processing backend, carbon, which stores the data in Graphite’s specialized database.
+
+  - solution_name : StatsD
+    solution_type : tool
+    website_url : https://github.com/etsy/statsd
+    open_source : True
+    description : Daemon for easy but powerful stats aggregation
+    github_starts :
+      account : etsy
+      repo_name : statsd
+
+  - solution_name : Grafana
+    solution_type : tool
+    website_url : https://github.com/grafana/grafana
+    open_source : True
+    description : The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+    more_info :
+    - caption : Docker image with StatsD, Graphite, Grafana 2 and a Kamon Dashboard
+      url : https://github.com/kamon-io/docker-grafana-graphite
+    github_starts :
+      account : grafana
+      repo_name : grafana
+
+- solution_category : Mesh Tools
+  solutions:
+  - solution_name : MeshLab
+    solution_type : tool
+    website_url : http://www.meshlab.net/
+    open_source : True
+    description : the open source system for processing and editing 3D triangular meshes. It provides a set of tools for editing, cleaning, healing, inspecting, rendering, texturing and converting meshes.
+    source_code_url : https://github.com/cnr-isti-vclab/meshlab
+    github_starts :
+      account : cnr-isti-vclab
+      repo_name : meshlab
+
+  - solution_name : Wings 3D
+    solution_type : tool
+    website_url : http://www.wings3d.com/
+    open_source : True
+    description : Wings 3D is an advanced subdivision modeler that is both powerful and easy to use.
+    source_code_url : https://github.com/dgud/wings
+    github_starts :
+      account : dgud
+      repo_name : wings
+
+- solution_category : Audio Editing Tools
+  solutions:
+  - solution_name : Audacity
+    solution_type : tool
+    website_url : http://www.audacityteam.org/
+    open_source : True
+    description : Audacity® is free, open source, cross-platform audio software for multi-track recording and editing.
+    source_code_url : https://github.com/audacity/audacity
+    github_starts :
+      account : audacity
+      repo_name : audacity
+
+- solution_category : Image Editing Tools
+  solutions:
+  - solution_name : GIMP
+    solution_type : tool
+    website_url : https://www.gimp.org/
+    open_source : True
+    description : GIMP is a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems.
+    source_code_url : https://www.gimp.org/source/howtos/gimp-git-build.html
+
+  - solution_name : INKSCAPE
+    solution_type : tool
+    website_url : https://inkscape.org/en/
+    open_source : True
+    description : Inkscape is a professional vector graphics editor for Windows, Mac OS X and Linux.
+    source_code_url : https://gitlab.com/inkscape/inkscape
+    github_starts :
+      account : inkscape
+      repo_name : inkscape
+
+- solution_category : Debugging
+  solutions:
+  - solution_name : The Debuginator
+    solution_type : tool
+    website_url : https://github.com/Srekel/the-debuginator
+    open_source : True
+    description : A juicy feature-packed debug menu intended for games.
+    github_starts :
+      account : Srekel
+      repo_name : the-debuginator
+
+- solution_category : Tools for profiling
+  solutions:
+  - solution_name : MTuner
+    solution_type : tool
+    website_url : https://github.com/milostosic/MTuner
+    open_source : True
+    description :  MTuner is a memory profiler and memory leak finder for Windows, PS4, PS3...
+    pic_url : https://raw.githubusercontent.com/milostosic/MTuner/master/img/mtuner_screenshot.png
+    pic_caption : MTuner
+    github_starts :
+      account : milostosic
+      repo_name : MTuner
+
+  - solution_name : Remotery
+    solution_type : tool
+    website_url : https://github.com/Celtoys/Remotery
+    open_source : True
+    description : A realtime CPU/GPU profiler
+    github_starts :
+      account : Celtoys
+      repo_name : Remotery
+
+  - solution_name : Microprofile
+    solution_type : tool
+    website_url : https://github.com/jonasmr/microprofile
+    open_source : True
+    description : Microprofile is a embeddable profiler in a few files, written in C++
+    github_starts :
+      account : jonasmr
+      repo_name : microprofile
+
+  - solution_name : MemTrace
+    solution_type : tool
+    website_url : https://github.com/InsomniacGames/ig-memtrace
+    open_source : True
+    description : MemTrace is a memory debugging tool developed internally at Insomniac Games
+    github_starts :
+      account : InsomniacGames
+      repo_name : ig-memtrace
+
+  - solution_name : gpuvis
+    solution_type : tool
+    website_url : https://github.com/mikesart/gpuvis
+    open_source : True
+    description : Gpuvis is a Linux GPU profiler similar to GPUView on Windows. It is designed to work with trace-cmd captures and help track down Linux gpu and application performance issues.
+    pic_url : https://github.com/mikesart/gpuvis/raw/master/images/gpuvis.jpg?raw=true
+    pic_caption : gpuvis screen
+    github_starts :
+      account : mikesart
+      repo_name : ig-gpuvis
+
+- solution_category : Performance & Analyzing code
+  solutions:
+  - solution_name : CacheSim
+    solution_type : tool
+    website_url : https://github.com/InsomniacGames/ig-cachesim
+    open_source : True
+    description : This is CacheSim, a cache simulator developed by Insomniac Games.
+    more_info :
+      - caption : GDC 2017
+        url : https://deplinenoise.wordpress.com/2017/03/02/slides-insomniac-games-cachesim/
+    github_starts :
+      account : InsomniacGames
+      repo_name : ig-cachesim
+
+  - solution_name : drpdb
+    solution_type : tool
+    website_url : https://github.com/briterator/drpdb
+    open_source : True
+    description : Convert from Microsoft PDB format into a MySQL database
+    more_info :
+      - caption : cpp cast podcast
+        url : http://cppcast.com/2017/01/brittany-friedman/
+    github_starts :
+      account : briterator
+      repo_name : drpdb
+
+  - solution_name : SymbolSort
+    solution_type : tool
+    website_url : https://github.com/adrianstone55/SymbolSort
+    open_source : True
+    description : A Utility for Measuring C++ Code Bloat
+    github_starts :
+      account : adrianstone55
+      repo_name : SymbolSort
+
+  - solution_name : Cppcheck
+    solution_type : tool
+    website_url : http://cppcheck.sourceforge.net/
+    open_source : True
+    description : Cppcheck is a static analysis tool for C/C++ code. It provides unique code analysis to detect bugs and focuses on detecting undefined behaviour and dangerous coding constructs. 
+    source_code_url : https://github.com/danmar/cppcheck
+    github_starts :
+      account : danmar
+      repo_name : cppcheck
+
+  - solution_name : Cpp Core Guidelines
+    solution_type : tool
+    website_url : https://github.com/isocpp/CppCoreGuidelines
+    open_source : True
+    description : The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
+    more_info :
+      - caption : Setting up Core Guidelines in Visual Studio
+        url : https://msdn.microsoft.com/ru-ru/library/mt762841.aspx
+    github_starts :
+      account : isocpp
+      repo_name : CppCoreGuidelines
+
+  - solution_name : clang-tidy
+    solution_type : tool
+    website_url : http://clang.llvm.org/extra/clang-tidy/
+    open_source : True
+    description : is an extensible framework for diagnosing and fixing typical programming errors, like style violations, interface misuse, or bugs that can be deduced via static analysis.
+
+- solution_category : the C language
+  solutions:
+  - solution_name : cr
+    solution_type : framework
+    website_url : https://github.com/fungos/cr
+    open_source : True
+    description : A single file header-only live reload solution for C, written in C++
+    github_starts :
+      account : fungos
+      repo_name : cr
+
+- solution_category : Web/Networking
+  solutions:
+  - solution_name : Mongoose Embedded Web Server Library
+    solution_type : library
+    website_url : https://github.com/cesanta/mongoose
+    open_source : True
+    description : Mongoose is more than an embedded webserver. It is a multi-protocol embedded networking library with functions including TCP, HTTP client and server, WebSocket client and server, MQTT client and broker and much more.
+    github_starts :
+      account : cesanta
+      repo_name : mongoose
+
+  - solution_name : yojimbo
+    solution_type : library
+    website_url : https://github.com/networkprotocol/yojimbo
+    open_source : True
+    description : yojimbo is a network library for client/server games with dedicated servers.
+    github_starts :
+      account : networkprotocol
+      repo_name : yojimbo
+
+  - solution_name : nanomsg
+    solution_type : library
+    website_url : https://github.com/nanomsg/nanomsg
+    open_source : True
+    description : The nanomsg library is a simple high-performance implementation of several "scalability protocols". It aims to make the networking layer fast, scalable, and easy to use.
+    github_starts :
+      account : nanomsg
+      repo_name : nanomsg
+
+- solution_category : Computer Graphics
+  solutions:
+  - solution_name : NormalMap-Online
+    solution_type : tool
+    website_url : http://cpetry.github.io/NormalMap-Online/
+    open_source : True
+    source_code_url : https://github.com/cpetry/NormalMap-Online/tree/gh-pages
+    description : This website lets you create normal maps from height maps for free.
+    github_starts :
+      account : cpetry
+      repo_name : NormalMap-Online
+
+  - solution_name : FBX Review
+    solution_type : tool
+    website_url : https://www.autodesk.com/products/fbx/fbx-review
+    description : A cross-platform 3D model viewer
+
+  - solution_name : Cortex
+    solution_type : tool
+    website_url : https://github.com/ImageEngine/cortex
+    open_source : True
+    description : The Cortex project provides a set of high quality C++ libraries and Python modules tailored for software development in the visual effects industry.
+    github_starts :
+      account : ImageEngine
+      repo_name : cortex
+
+- solution_category : Serializing structured data
+  solutions:
+  - solution_name : FlatBuffers
+    solution_type : library
+    website_url : http://google.github.io/flatbuffers/
+    open_source : True
+    description : FlatBuffers is an efficient cross platform serialization library for games and other memory constrained apps.
+
+  - solution_name : Protocol Buffers
+    solution_type : library
+    website_url : https://github.com/google/protobuf
+    open_source : True
+    description : Protocol Buffers - Google's data interchange format
+    github_starts :
+      account : google
+      repo_name : protobuf
+
+  - solution_name : Cap’n Proto
+    solution_type : library
+    website_url : https://capnproto.org/
+    open_source : True
+    description : Cap’n Proto is an insanely fast data interchange format and capability-based RPC system. Think JSON, except binary. Or think Protocol Buffers, except faster. In fact, in benchmarks, Cap’n Proto is INFINITY TIMES faster than Protocol Buffers.
