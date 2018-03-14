@@ -334,6 +334,9 @@ Sessions marked with Toolsmiths logo - <img src="{{ site.url }}/favicon.ico"> po
 #### [Walking, Talking, and Projectiles: Storytelling Tools in 'Destiny 2'](http://schedule.gdconf.com/session/walking-talking-and-projectiles-storytelling-tools-in-destiny-2/851747)
 {% include toolsmiths/tags_without_link.html tags=" Programming, Bungie, Visual Scripting" %}
 
+#### [Rebuilding Your Engine During Development: Lessons from 'Mafia III'](http://schedule.gdconf.com/session/rebuilding-your-engine-during-development-lessons-from-mafia-iii/852195)
+{% include toolsmiths/tags_without_link.html tags=" Programming, Hangar 13 Games, Production & Team Management, Lessons Learned" %}
+
 #### [A Practical Approach to Developing Forward-Facing Rigs, Tools and Pipelines](http://schedule.gdconf.com/session/a-practical-approach-to-developing-forward-facing-rigs-tools-and-pipelines/851354)
 {% include toolsmiths/tags_without_link.html tags=" Programming, Creative Assembly, Plugin Architecture, Metadata" %}
 
