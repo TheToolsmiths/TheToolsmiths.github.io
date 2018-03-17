@@ -1,0 +1,405 @@
+- lvl : entry
+  cntxt : game dev
+  term : game engine
+  aka : 
+    - engine
+  def : >
+    is a software framework written to abstract the underlining platform and provide core functionality to make the process of developing a game easier. The game engine can be divided into smaller engines that are responsible for one of the aspects of the game: Audio engine, Physics engine, Rendering engine.
+
+- lvl : entry
+  cntxt : game dev pipeline
+  term : DCC tools
+  aka : 
+    - Digital Content Creation tools
+  def : >
+    are tools that can help with the creation of game assets and a host of other issues. These asset creation tools can be developed by a game development team to fit the custom needs of the team or bought from software vendors. Open source DCC tools like Blender are available as well.
+    Examples of commercial DCC tools: Maya, ZBrush, 3ds Max, Photoshop, Softimage, Houdini...
+
+- lvl : entry
+  cntxt : game dev
+  term : pipeline
+  aka :
+    - Content Pipeline
+    - Production Pipeline
+  def : >
+    is a process that transform an asset from an idea to a digital-content creation (DCC) output file to a part of the game binary. This process lets the artists use the DCC tools that they like while meeting the needs of the development team.
+
+- lvl : intermediate
+  cntxt : game dev
+  term : middleware
+  aka : 
+  def : >
+    software that enables a game development team to build a game, create assets for the game, making the game development process easier. Middleware can be game engines, development libraries and different kinds of tools.
+
+- lvl : intermediate
+  cntxt : game dev pipeline
+  term : Exporter plug-in
+  aka : 
+  def : >
+    a DCC tool plug-in that converts an asset from a DCC format into a game engine or content pipeline format by removing extra data.
+
+- lvl : intermediate
+  cntxt : game dev job
+  term : Modeler
+  aka : 
+    - 3D Modeler
+  def : >
+    an artist that create realistic 3D models, characters and environments based on concept art or blueprints for use inside a game. Modelers are responsible for creating a character’s skeleton witch will be used to animate the character. Also modelers use a 2D texture to create a realistic surface of a model.
+
+- lvl : intermediate
+  cntxt : game dev job
+  term : Game Animator
+  aka : 
+  def : >
+    are responsible for the portrayal of movement and behavior of characters, creatures, vegetation, scenery and other objects within the limitations of a game engine and the underling platform.
+
+- lvl : intermediate
+  cntxt : game dev job
+  term : Environment Artist
+  aka : 
+    - Final Layout Artist
+    - Level Assembly Artist
+    - Set Dressing Artist
+    - World Builder
+  def : >
+    are artist that are responsible for creating visually stunning indoor and outdoor locations and environments in a game's setting while keeping an eye on performance budgets. They use 2D storyboards or 2D concepts to create a 3D scenes prototype and iterate on it until final art quality is reached. They work with the Art Director to maintain the visual consistency of the game's setting. They also work with the game designers to ensure the locations and environments are fun to play in.
+
+- lvl : intermediate
+  cntxt : game dev job
+  term : Level Designer
+  aka :  
+    - LD
+    - Environment Design
+  def : >
+    designers that are responsible for creating entire levels of a game like rooms, buildings, cities and areas. They specify locations of gameplay elements like entrance/exit locations, items and loot, non-player characters, event trigger locations to make each level unique. They use weather and day/night cycles to create interesting and challenging environments.
+
+- lvl : intermediate
+  cntxt : game dev job
+  term : 3D generalist
+  aka : 
+  def : >
+    a 3D generalist is someone who can do more than just one field of work in 3D artwork. This area of emphasis covers all aspects of 3D production, along with a strong visual art foundation.
+
+- lvl : advanced
+  cntxt : game dev pipeline
+  term : Importer
+  aka : 
+  def : >
+    a peace of software that converts an assets from an intermediary format of the content pipeline into a format that is suitable for the game engine.
+
+- lvl : advanced
+  cntxt : game dev pipeline
+  term : Intermediate file
+  aka : 
+    - Bridge file
+  def : >
+    a file that is produced as a result of the process of exporting an asset from a DCC tool.
+
+- lvl : advanced
+  cntxt : game dev pipeline
+  term : '"the spew"'
+  aka : 
+  def : >
+    artist slang for cryptic feedback from the Importer.
+
+- lvl : intermediate
+  cntxt : computer graphics
+  term : mesh
+  aka : 
+    - polygon mesh
+    - skin
+    - visible mesh
+  def : >
+    is a collection of vertices, edges and faces that connect to form a complex shape of a 3D object.
+
+- lvl : intermediate
+  cntxt : animation
+  term : skinned mesh
+  aka : 
+  def : >
+    a polygon mesh ("skin") that has vertices connected to an underling "skeleton". This mesh can be deformed and animated by a Game Animator. The process of binding a mesh to a skeleton is called <strong>Skinning</strong>.
+
+- lvl : intermediate
+  cntxt : animation
+  term : rig
+  aka :
+    - skeleton
+  def : >
+    is a set of interconnected bones that form a digital skeleton that is bound to the 3D mesh of a model. The process of creating this skeleton is called <strong>Rigging</strong>.
+
+- lvl : intermediate
+  cntxt : animation
+  term : Skeletal animation
+  aka :
+    - Bone-based animation
+  def : >
+    is a form of computer animation that uses interconnected bones to the animate the surface mesh of an object.
+
+- lvl : intermediate
+  cntxt : artificial intelligence
+  term : Navigation mesh
+  aka :
+    - navmesh
+  def : >
+    is data that is used in artificial intelligence to aid NPCs in finding their way around the game world.
+
+- lvl : intermediate
+  cntxt : computer graphics
+  term : NURBS Modeling tool
+  aka :
+    - Non-uniform rational B-spline tool
+  def : >
+    are tools that use the Non-uniform rational basis spline mathematical model to curved surfaces.
+
+- lvl : intermediate
+  cntxt : animation
+  term : Keyframe animation
+  aka : 
+  def : >
+    is a form of computer animation that is based on transitions of an object's property from one "key" state (value) to another over a period of time. These "states" are usually called keyframes.
+
+- lvl : intermediate
+  cntxt : game dev job
+  term : Composer
+  aka : 
+    - Video Game Composer
+    - Video Game Music Composer
+    - Audio Artist
+  def : >
+    writes expressive musical scores to bring the video game world to life. Making game scene unforgettable and immersive.
+
+- lvl : intermediate
+  cntxt : computer graphics
+  term : occlusion culling
+  aka : 
+    - OC
+    - Hidden Surface Removal (HSR)
+    - Visible Surface Determination (VSD)
+  def : >
+    is the process of determining the visibility of an object from the camera's point of view. This process is usually used to render only the visible objects.
+
+- lvl : entry
+  cntxt : computer graphics
+  term : voxel
+  aka : 
+  def : >
+    the 3D version of a pixel
+
+- lvl : intermediate
+  cntxt : computer graphics
+  term : voxelization
+  aka : 
+  def : >
+    the process of converting a model into a model that consist of <strong>voxels</strong>.
+
+- lvl : entry
+  cntxt : DevOps
+  term : virtual machine
+  aka : 
+    - VM
+  def : >
+    is software that emulates a hardware computer. 
+
+- lvl : entry
+  cntxt : game physics
+  term : rigid body
+  aka : 
+  def : >
+   is a solid body that doesn't deform when any kind of force is applied to it.
+
+- lvl : entry
+  cntxt : game physics
+  term : soft body
+  aka : 
+  def : >
+    is a solid body that deforms when any kind of force is applied to it.
+
+- lvl : intermediate
+  cntxt : DevOps
+  term : one button build
+  aka : 
+  ref : http://thetoolsmiths.org/2009/01/28/the-build-pipeline/
+  def : >
+    Do a complete, clean build of all current code and assets from scratch without any user interaction.
+
+- lvl : intermediate
+  cntxt : DevOps
+  term : Continuous Integration
+  aka : CI
+  ref : http://thetoolsmiths.org/2009/01/28/the-build-pipeline/
+  def : >
+    is a process by which new code is contagiously integrated (aka, built, hence the name) so that an up to date version is always available.
+
+- lvl : entry
+  cntxt : DevOps
+  term : Incremental Build
+  aka : 
+  def : >
+    are builds that only rebuild modified (a.k.a. out of data) build targets or new build targets.
+
+- lvl : entry
+  cntxt : DevOps
+  term : build target
+  aka : 
+  def : >
+    the final output file of a build script.
+
+- lvl : entry
+  cntxt : game dev job
+  term : Technical Artist
+  aka :
+    - TA
+  def : >
+    is a game developer that is responsible for the technical aspects of content creation. This role may include the following responsibilities:
+    creating tools for artists,
+    providing technical support to artists,
+    content optimization,
+    creating efficient workflows and pipelines for content creation
+
+- lvl : entry
+  cntxt : game dev job
+  term : Tool Developer
+  aka :
+    - Game Tools Programmer
+    - Engine Tools Engineer
+  def : >
+    a programmer that is dedicated to producing tools and utilities to increase the productivity of fellow game developers. A <strong>tool developer</strong> works directly with artists and designers to develop workflows and pipelines for efficient content production. Not limited to producing tools for artists and designers a <strong>tool developer</strong> is able to help create tools for other programmers on the game development team (game logic, engine, server and graphics programmers). Also never forgetting to take into account user feedback and UX best practices to achieve the end goal.
+
+- lvl : entry
+  cntxt : game dev job
+  term : UX Director
+  aka :
+  def : >
+    person whose main responsibility involves pushing to improve the User Experience of user facing and in-house tools in a game development company. Helping tool developers, tech artists and engine programmers make the best decisions based on talking to content creators and watching them work. Also the UX Director spends time educating the people involved with the tools development process about best practices in UX and UI design. 
+
+- lvl : intermediate
+  cntxt : UI
+  term : Iconography
+  def : >
+    a language that is used to represent actions, features, statuses and functionality using pictures called icons.
+
+- lvl : intermediate
+  cntxt : computer graphics
+  term : Forward Rendering
+  def : >
+    in this technique an object is rendered for each light source in the scene. This may lead to rendering the same pixels multiple times. Also Forward Rendering is considered the default and simple way of rendering.
+
+- lvl : intermediate
+  cntxt : computer graphics
+  term : Graphics Pipelines
+  aka :
+  - rendering pipeline
+  def : >
+    a series of steps that are executed to transform a 3D scene into a 2D image.
+
+- lvl : intermediate
+  cntxt : computer graphics
+  term : Dynamic lighting
+  def : >
+    scene lighting that uses <strong>dynamic light sources</strong> that is calculated at runtime and effects the game's performance.
+
+- lvl : intermediate
+  cntxt : computer graphics
+  term : Static lighting
+  def : >
+    scene lighting that uses <strong>static light sources</strong> that can't be changed at runtime. The light calculation is beforehand.
+
+- lvl : entry
+  cntxt : software development
+  term : Version Control System
+  aka :
+    - VCS
+    - Version Control
+    - SCM
+    - Source Control Management
+    - RCS
+    - Revision Control System
+  def : >
+    is a software tool that enable developers to keep track of changes made to source code, content and documentation over a project's lifetime.
+
+- lvl : intermediate
+  cntxt : computer graphics
+  term : Texture mapping
+  def : >
+    the process applying a 2D image (<strong>texture map</strong>) to a 3D object.
+
+- lvl : intermediate
+  cntxt : computer graphics
+  term : texels
+  aka :
+    - texture pixel
+    - texture element
+  def : >
+    are pixels of a texture.
+
+- lvl : intermediate
+  cntxt : game dev pipeline
+  term : Digital Asset Management
+  aka :
+    - DAM
+    - Content Management System
+    - CMS
+  def : >
+     is the process that is used for organizing  access, storage and retrieval of digital asset files for large teams.
+
+- lvl : intermediate
+  cntxt : software development
+  term : Marshalling
+  def : >
+     the process of packaging a program's object data and it's context into data format that can be transmitted to another program or placed into storage.
+
+- lvl : intermediate
+  cntxt : software development
+  term : Serialization
+  def : >
+     the process for converting an object's state or data structure into a data stream (binary or text) that can be easily stored and restored. 
+
+- lvl : intermediate
+  cntxt : software development
+  term : TDD
+  aka :
+    - Test-Driven Development
+  def : >
+     a process of developing software that consists of an iteration loop that starts with writing a failing unit test and then writing enough code for the test to pass, this cycle is repeated multiple times until a software feature is finished.
+
+- lvl : entry
+  cntxt : software development
+  term : Technical debt
+  def : >
+    is a metaphor for programmers that take the easy and fast route in solving a problem knowing very well that the cost of maintenance and future changes will be high.
+
+- lvl : entry
+  cntxt : Windows OS
+  term : DLL
+  aka :
+    - Dynamic Link Library
+  def : >
+    is a shared library used in the Windows OS to provide multiple programs functionality and/or data contained within.
+
+- lvl : entry
+  cntxt : Windows OS
+  term : redistributable package
+  aka :
+    - redistributable
+  def : >
+    Windows runtime libraries that are needed to run applications developed with <strong>Visual C++</strong>.
+
+- lvl : advanced
+  cntxt : game dev
+  term : megatexture
+  def : >
+    is a technology that uses a huge texture witch is divided into smaller tiles that can fit into memory and streamed at runtime (first appeared in the id Tech 4 engine).
+
+- lvl : intermediate
+  cntxt : computer graphics
+  term : Mipmap
+  aka :
+    - MIP map
+  def : >
+    is a set of optimized images (<strong>mips</strong>) that arranged in succession in a way that each image is of lower resolution then the previous.
+
+- lvl : intermediate
+  cntxt : game dev pipeline
+  term : photogrammetry
+  def : >
+     is the process of using photos of a realworld object to creat a digital asset. This process is usually used in a <strong>photogrammetry asset pipeline</strong>. If done right the photogrammetry process will increase the efficiency of the asset pipeline. 

@@ -1,0 +1,31 @@
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+{% for solution_category in include.solution_categories %}
+<h4> {{solution_category.solution_category}} </h4>
+
+	{% assign solutions = solution_category.solutions | sort: 'solution_name' %}
+	{% for solution in solutions %}
+<h5><a href="{{solution.website_url}}">{{solution.solution_name}} </a></h5>
+
+		{% if solution.github_starts %}
+		{% assign github_starts = solution.github_starts %}
+<a class="github-button" href="https://github.com/{{github_starts.account}}/{{solution.github_starts.repo_name}}" data-icon="octicon-star" data-show-count="true" aria-label="Star {{github_starts.account}}/{{solution.github_starts.repo_name}} on GitHub">GitHub Stars</a>
+		{% endif %}
+
+		{% if solution.pic_url %}
+<img src="{{solution.pic_url}}" alt="{{solution.pic_caption}}">
+		{% endif %}
+
+<p>{{solution.description}}</p>
+		{% if solution.source %}
+<p><a href="{{solution.source}}">Source code</a></p>
+		{% endif %}
+
+		{% for more_info in solution.more_info %}
+<p><a href="{{more_info.url}}">{{more_info.caption}} </a></p>
+		{% endfor %}
+
+<hr>
+	{% endfor %}
+
+{% endfor %}

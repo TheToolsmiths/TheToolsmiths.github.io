@@ -1,0 +1,7 @@
+{% if include.url == include.codex_page_url %}
+  <li class="{{ include.indentation }} active">
+{% else %}
+  <li class="{{ include.indentation }}">
+{% endif %}
+    <a href="{{ include.codex_page_url }}">{{ include.list_bullet }} {{ include.codex_page_title }}</a>
+</li>

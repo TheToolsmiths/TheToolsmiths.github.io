@@ -1,0 +1,36 @@
+- author_name : John Romero
+  text : Remember, tools live longer than games do.
+  type : quote
+
+  reference_url : https://www.gamasutra.com/blogs/DavidLightbown/20170223/289955/Classic_Tools_Retrospective_John_Romero_talks_about_creating_TEd_the_tile_editor_that_shipped_over_30_games.php
+  reference_caption : Gamasutra
+
+- author_name : Tim Sweeney
+  text : I think every company needs to make the decision to either invest significantly more in tools, or just not bother.
+  type : quote
+  reference_url : https://www.gamasutra.com/blogs/DavidLightbown/20180109/309414/Classic_Tools_Retrospective_Tim_Sweeney_on_the_first_version_of_the_Unreal_Editor.php
+  reference_caption : Gamasutra
+
+- author_name : David Lightbown
+  text : Evolution of software and interactions is like the natural evolution. If an interaction is difficult to use that software might not have as much success being adapted and being used by people and so it dies off. On the other hand, simple interactions from successful software will be used and evolved further.
+  type : summary
+  reference_url : https://youtu.be/Ldo0J0M8NKc?t=4043
+  reference_caption : YouTube
+
+- author_name : Jonathan Adamczewski‏
+  text : "When designing some feature (especially one with UI), I find that these can be useful questions to be asking: What widely-used software already does this kind of thing? What software does it really well? What does the state of the art look like?"
+  type : quote
+  reference_url : https://twitter.com/twoscomplement/status/844775796979916801
+  reference_caption : Twitter
+
+- author_name : Robin-Yann Storm
+  text : "Making one workflow work efficiently for everyone is highly unlikely, especially if you have thousands of users making many different kinds of games/prototypes/genres (Unity/Unreal). There is a middle ground here where sometimes giving options is a good thing, and sometimes not"
+  type : quote
+  reference_url : https://twitter.com/RYStorm/status/970605854167830528
+  reference_caption : Twitter
+
+- author_name : John Harris
+  text : "In the metaphorical game development gold rush, there are the devs out hunting for gold, and there are the people making shovels for them."
+  type : quote
+  reference_url : https://www.gamasutra.com/view/news/314538/Tips_for_building_game_dev_tools_and_UX_from_Ubisofts_David_Lightbown.php
+  reference_caption : Gamasutra

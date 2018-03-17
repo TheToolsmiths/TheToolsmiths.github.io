@@ -1,0 +1,371 @@
+- track_name : pipelines
+  sessions:
+  - session_name : "Behind the Scenes: The GEARS OF WAR 2 Cinematics Pipeline"
+    speaker : Tanya Jessen, Greg Mitchell
+    company_name : Epic Games
+    gdc_year : 2009
+    video_url : https://www.gdcvault.com/play/1290/Behind-the-Scenes-The-GEARS
+    slides_url :
+
+  - session_name : "Inside the GEARS OF WAR 2 Character Modeling Pipeline"
+    speaker : Chris Wells
+    company_name : Epic Games
+    gdc_year : 2009
+    video_url : https://www.gdcvault.com/play/1351/Inside-the-GEARS-OF-WAR
+    slides_url :
+
+  - session_name : "The Asset pipeline for Just Cause 2: Lessons learned"
+    speaker : Mathias Westerdahl
+    company_name : Avalanche Studios
+    gdc_year : 2010
+    video_url : https://www.gdcvault.com/play/1012232/The-Asset-pipeline-for-Just
+    slides_url : https://www.gdcvault.com/play/1012446/The-Asset-pipeline-for-Just
+
+  - session_name : "Developing Imperfect Software: How to Prepare for Development Pipeline Failure"
+    speaker : Ronald Pieket
+    company_name : Insomniac Games
+    gdc_year : 2012
+    video_url : http://www.gdcvault.com/play/1015531/Developing-Imperfect-Software-How-to
+    slides_url : http://www.gdcvault.com/play/1015318/Developing-Imperfect-Software-How-to
+
+  - session_name : "Working Together: Solutions for Collaborative Asset Creation"
+    speaker : Niklas Frykholm
+    company_name : Bitsquid AB
+    gdc_year : 2013
+    video_url : http://www.gdcvault.com/play/1017738/Working-Together-Solutions-for-Collaborative
+    slides_url :
+
+  - session_name : Horizon and Beyond - A Look into Tomb Raider's Tools
+    speaker : Jason Yao
+    company_name : Crystal Dynamics
+    gdc_year : 2013
+    video_url : http://www.gdcvault.com/play/1017917/Horizon-and-Beyond-A-Look
+    slides_url : http://www.gdcvault.com/play/1018218/Horizon-and-Beyond-A-Look
+
+  - session_name : Fast Iteration for Far Cry 4 - Optimizing Key Parts of the Dunia Pipeline
+    speaker : Remi Quenin
+    company_name : Ubisoft Montreal
+    gdc_year : 2015
+    video_url : http://www.gdcvault.com/play/1021975/Fast-Iteration-for-Far-Cry
+    slides_url : http://www.gdcvault.com/play/1021976/Fast-Iteration-for-Far-Cry
+
+  - session_name : "The Witcher 3: Optimizing Content Pipelines for Open-World Games"
+    speaker : Martin Thorzen
+    company_name : CD Projekt RED
+    gdc_year : 2015
+    video_url : https://www.youtube.com/watch?v=p8CMYD_5gE8
+    slides_url : https://www.gdcvault.com/play/1021880/Content-Optimization-Pipeline-for-an
+
+  - session_name : Fast Iteration Tools in the Production of the Talos Principle
+    speaker : Alen Ladavac
+    company_name : Croteam
+    gdc_year : 2015
+    location : EU
+    video_url : http://www.gdcvault.com/play/1022784/Fast-Iteration-Tools-in-the
+    slides_url : http://www.gdcvault.com/play/1022916/Fast-Iteration-Tools-in-the
+
+  - session_name : "Strategies for Efficient Authoring of Content in Middle-earth: Shadow of Mordor"
+    speaker : Doug Heimer
+    company_name : Monolith Productions
+    gdc_year : 2015
+    location : EU
+    video_url : http://gdcvault.com/play/1022415/Strategies-for-Efficient-Authoring-of
+    slides_url : http://gdcvault.com/play/1022416/Strategies-for-Efficient-Authoring-of
+
+  - session_name : "Behind the Scenes of Cinematic Dialogues in 'The Witcher 3: Wild Hunt'"
+    speaker : Piotr Tomsinski
+    company_name : CD Projekt RED
+    gdc_year : 2016
+    video_url : http://www.gdcvault.com/play/1023285/Behind-the-Scenes-of-Cinematic
+    slides_url : http://www.gdcvault.com/play/1022988/Behind-the-Scenes-of-Cinematic
+
+  - session_name : "'Fallout 4's' Modular Level Design"
+    speaker : Joel Burgess, Nathan Purkeypile
+    company_name : Bethesda Game Studios
+    gdc_year : 2016
+    video_url : http://www.gdcvault.com/play/1023202/-Fallout-4-s-Modular
+    slides_url : http://www.gdcvault.com/play/1022930/-Fallout-4-s-Modular
+
+  - session_name : Character Pipeline and Customization System for 'Far Cry Primal'
+    speaker : Julien Lalleve, Kieran O'Sullivan
+    company_name : Ubisoft Montreal, Ubisoft Toronto
+    gdc_year : 2017
+    video_url : http://www.gdcvault.com/play/1024014/Character-Pipeline-and-Customization-System
+    slides_url : http://www.gdcvault.com/play/1024578/Character-Pipeline-and-Customization-System
+
+  - session_name : "'Ghost Recon Wildlands': Terrain Tools and Technology"
+    speaker : Guillaume Werle, Benoit Martinez
+    company_name : Ubisoft
+    gdc_year : 2017
+    video_url : http://www.gdcvault.com/play/1024029/-Ghost-Recon-Wildlands-Terrain
+    slides_url : http://www.gdcvault.com/play/1024708/-Ghost-Recon-Wildlands-Terrain
+
+  - session_name : The Data Building Pipeline of 'Overwatch'
+    speaker : David Clyde
+    company_name : Blizzard Entertainment
+    gdc_year : 2017
+    video_url : http://www.gdcvault.com/play/1024019/The-Data-Building-Pipeline-of
+    slides_url : http://www.gdcvault.com/play/1024444/The-Data-Building-Pipeline-of
+
+  - session_name : "Building Beauclair: Capital City in 'The Witcher 3: Wild Hunt - Blood and Wine' Expansion Pack"
+    speaker : Kacper Niepokolczycki
+    company_name : CD PROJEKT RED
+    gdc_year : 2017
+    video_url : http://www.gdcvault.com/play/1023965/Building-Beauclair-Capital-City-in
+    slides_url : http://www.gdcvault.com/play/1024610/Building-Beauclair-Capital-City-in
+
+- track_name : production
+  sessions:
+  - session_name : "Data is a Four-Letter Word"
+    speaker : Paul Du Bois, Henry Goffin
+    company_name : Double Fine
+    gdc_year : 2010
+    audio_url : https://www.gdcvault.com/play/1012231/Data-is-a-Four-Letter
+    slides_url : https://www.gdcvault.com/play/1012445/Data-is-a-Four-Letter
+
+  - session_name : "Growing a Dedicated Tools Programming Team: From Baldur’s Gate to Star Wars: Knights of the Old Republic."
+    speaker : Don Moar
+    company_name : 
+    gdc_year : 2004
+    audio_url : https://www.gdcvault.com/play/1013574/Growing-a-Dedicated-Tools-Programming
+    slides_url : https://www.gdcvault.com/play/1022869/Growing-a-Dedicated-Tools-Programming
+
+- track_name : programming
+  sessions:
+  - session_name : "Oh my.Maya is Qt!"
+    speaker : Kristine Middlem
+    company_name : Autodesk
+    gdc_year : 2011
+    video_url :
+    slides_url : https://www.gdcvault.com/play/1014794/Oh-my-Maya-is-Qt
+
+  - session_name : "Building Worlds Using Math(s)"
+    speaker : Sean Murray
+    company_name : Hello Games
+    gdc_year : 2017
+    video_url : http://www.gdcvault.com/play/1024514/Building-Worlds-Using
+    slides_url :
+
+  - session_name : "Continuous World Generation in 'No Man's Sky'"
+    speaker : Innes McKendrick
+    company_name : Hello Games
+    gdc_year : 2017
+    video_url : http://www.gdcvault.com/play/1024265/Continuous-World-Generation-in-No
+    slides_url : 
+
+  - session_name : "Creating a Tools Pipeline for 'Horizon: Zero Dawn'"
+    speaker : Dan Sumaili, Sander van der Steen
+    company_name : Guerrilla Games
+    gdc_year : 2017
+    video_url : http://www.gdcvault.com/play/1024124/Creating-a-Tools-Pipeline-for
+    slides_url : http://www.gdcvault.com/play/1024685/Creating-a-Tools-Pipeline-for
+
+  - session_name : "GPU-Based Run-Time Procedural Placement in 'Horizon: Zero Dawn'"
+    speaker : Jaap van Muijden
+    company_name : Guerrilla Games
+    gdc_year : 2017
+    video_url : https://www.gdcvault.com/play/1024120/GPU-Based-Run-Time-Procedural
+    slides_url : https://www.gdcvault.com/play/1024700/GPU-Based-Run-Time-Procedural
+
+  - session_name : "Data Binding Architectures for Rapid UI Creation in Unity"
+    speaker : Stephan Dilly
+    company_name : InnoGames GmbH
+    gdc_year : 2017
+    video_url : http://www.gdcvault.com/play/1023978/Data-Binding-Architectures-for-Rapid
+    slides_url : http://www.gdcvault.com/play/1024453/Data-Binding-Architectures-for-Rapid
+
+  - session_name : "'Destiny' Shader Pipeline"
+    speaker : Natalya Tatarchuk, Chris Tchou
+    company_name : Bungie
+    gdc_year : 2017
+    video_url : http://www.gdcvault.com/play/1024231/-Destiny-Shader
+    slides_url : http://advances.realtimerendering.com/destiny/gdc_2017/Destiny_shader_system_GDC_2017_v.4.0.pdf
+
+  - session_name : "Insomniac's Web Tools: A Postmortem"
+    speaker : Andreas Fredriksson
+    company_name : Insomniac Games
+    gdc_year : 2017
+    video_url : http://www.gdcvault.com/play/1023961/Insomniac-s-Web-Tools-A
+    slides_url : http://www.gdcvault.com/play/1024465/Insomniac-s-Web-Tools-A
+
+  - session_name : "Do You Copy? Dialog System and Tools in 'Firewatch'"
+    speaker : William Armstrong, Patrick Ewing
+    company_name : Unity Technologies, Campo Santo
+    gdc_year : 2017
+    video_url : https://www.gdcvault.com/play/1024000/Do-You-Copy-Dialog-System
+    slides_url : https://www.gdcvault.com/play/1024415/Do-You-Copy-Dialog-System
+
+  - session_name : "Engine Postmortem of inFAMOUS: Second Son"
+    speaker : Adrian Bentley
+    company_name : Sucker Punch Productions
+    gdc_year : 2014
+    video_url :  http://www.gdcvault.com/play/1020399/Engine-Postmortem-of-inFAMOUS-Second
+    slides_url :
+
+  - session_name : "Lessons from the Core Engine Architecture of Destiny"
+    speaker : Chris Butcher
+    company_name : Bungie
+    gdc_year : 2015
+    video_url :  http://gdcvault.com/play/1022105/Lessons-from-the-Core-Engine
+    slides_url : http://gdcvault.com/play/1022106/Lessons-from-the-Core-Engin
+
+  - session_name : "Parallelizing the Naughty Dog Engine Using Fibers"
+    speaker : Christian Gyrling
+    company_name : Naughty Dog
+    gdc_year : 2015
+    video_url :  http://www.gdcvault.com/play/1022186/Parallelizing-the-Naughty-Dog-Engine
+    slides_url : http://www.gdcvault.com/play/1022187/Parallelizing-the-Naughty-Dog-Engin
+
+  - session_name : "'Assassin's Creed Syndicate: London' Wasn't Built in a Day"
+    speaker : Damien Bastian
+    company_name : Ubisoft
+    gdc_year : 2016
+    video_url : http://www.gdcvault.com/play/1023305/-Assassin-s-Creed-Syndicate
+    slides_url :
+
+  - session_name : "How King Uses AI in 'Candy Crush'"
+    speaker : Alexander Andelkovic
+    company_name : King
+    gdc_year : 2016
+    location : EU
+    video_url : http://www.gdcvault.com/play/1023858/How-King-Uses-AI-in
+    slides_url :
+
+  - session_name : "Shrinking Data for Fun & Profit"
+    speaker : Dietmar Hauser
+    company_name : Sproing
+    gdc_year : 2016
+    location : EU
+    video_url : http://www.gdcvault.com/play/1023763/Shrinking-Data-for-Fun
+    slides_url : http://www.gdcvault.com/play/1023790/Shrinking-Data-for-Fun
+
+  - session_name : "Create a 20 Times Faster Database Engine Optimized to MMOGs"
+    speaker : Shuichi Kurabayashi
+    company_name : Cygames, Inc.
+    gdc_year : 2016
+    location : EU
+    video_url : http://www.gdcvault.com/play/1023825/Create-a-20-Times-Faster
+    slides_url : http://www.gdcvault.com/play/1023800/Create-a-20-Times-Faster
+
+- track_name : technical_art
+  sessions:
+  - session_name : "Technical Art Techniques of Naughty Dog - Vertex Shaders and Beyond"
+    speaker : Andrew Maximov
+    company_name : Naughty Dog
+    gdc_year : 2017
+    video_url : http://www.gdcvault.com/play/1024103/Technical-Art-Techniques-of-Naughty
+    slides_url :
+
+  - session_name : "Technical Artist Bootcamp: Building an Offline Simulation Pipeline"
+    speaker : Ben Laidlaw
+    company_name : 343 Industries, Microsoft
+    gdc_year : 2017
+    video_url : https:/vimeo.com/208576955
+    slides_url : https://www.gdcvault.com/play/1024576/Technical-Artist-Bootcamp-Building-an
+
+- track_name : visual_arts
+  sessions:
+  - session_name : "Animation Bootcamp: The First Person Animation of 'Overwatch'"
+    speaker : Matthew Boehm
+    company_name : Blizzard Entertainment
+    gdc_year : 2017
+    video_url : https://www.gdcvault.com/play/1024319/Animation-Bootcamp-The-First-Person
+    slides_url :
+
+  - session_name : "Shoot for the Sky: The Ambitious HDR Time-Lapse Skies of 'Forza Horizon 3'"
+    speaker : Jamie Wood
+    company_name :
+    gdc_year : 2017
+    video_url : https://www.gdcvault.com/play/1024091/Shoot-for-the-Sky-The
+    slides_url :
+
+- track_name : ux
+  sessions:
+  - session_name : "Building Blocks: Artist Driven Procedural Buildings"
+    speaker :  James Golding
+    company_name : Epic Games
+    gdc_year : 2010
+    video_url : https://www.gdcvault.com/play/1012219/Building-Blocks-Artist-Driven-Procedural
+    slides_url : https://www.gdcvault.com/play/1012655/Building-Blocks-Artist-Driven-Procedural
+
+  - session_name : "The User Experience of Game Development Tools"
+    speaker :  David Lightbown
+    company_name : Ubisoft
+    gdc_year : 2013
+    location : EU
+    video_url : http://www.gdcvault.com/play/1019273/The-User-Experience-of-Game
+    slides_url : http://www.gdcvault.com/play/1019269/The-User-Experience-of-Game
+
+  - session_name : "Tools Development at Ubisoft: Building a Shared Vision to Improve the User Experience"
+    speaker :  David Lightbown
+    company_name : Ubisoft
+    gdc_year : 2015
+    video_url : http://www.gdcvault.com/play/1022337/Tools-Development-at-Ubisoft-Building
+    slides_url : http://www.gdcvault.com/play/1022338/Tools-Development-at-Ubisoft-Buildin
+
+  - session_name : "Empowering Content Creators"
+    speaker :  Stephen Broadley
+    company_name : Sony London Studio
+    gdc_year : 2016
+    video_url : http://www.gdcvault.com/play/1023274/Empowering-Content
+    slides_url :
+
+  - session_name : "Keeping Level Designers in the Zone Through Level Editor Design"
+    speaker :  Robin-Yann Storm 
+    company_name :
+    gdc_year : 2016
+    video_url : http://www.gdcvault.com/play/1023235/Keeping-Level-Designers-in-the
+    slides_url : http://www.gdcvault.com/play/1022954/Keeping-Level-Designers-in-the
+
+  - session_name : "Hiding in Plain Sight: The Untapped Resource that is Helping Ubisoft to Make Better
+Tools"
+    speaker :  David Lightbown
+    company_name : Ubisoft
+    location : EU
+    gdc_year : 2016
+    video_url : http://www.gdcvault.com/play/1023846/Hiding-in-Plain-Sight-The
+    slides_url :
+
+  - session_name : "Lessons Learned Creating UI for 'The Division'"
+    speaker : Christian Savoie
+    company_name : Ubisoft Massive
+    gdc_year : 2017
+    video_url : http://www.gdcvault.com/play/1024026/Lessons-Learned-Creating-UI-for
+    slides_url :
+
+  - session_name : "Level Design Workshop: Improving Tool Design Through Editor Triage"
+    speaker :  Robin-Yann Storm
+    company_name : Io-Interactive
+    gdc_year : 2017
+    video_url : http://www.gdcvault.com/play/1024303/Level-Design-Workshop-Improving-Tool
+    slides_url : http://www.gdcvault.com/play/1024683/Level-Design-Workshop-Improving-Tool
+
+  - session_name : "Getting Productivity from Play: How Ubisoft Is Making Better Tools by Using a Familiar "
+    speaker :  David Lightbown
+    company_name : Ubisoft
+    gdc_year : 2017
+    video_url : http://www.gdcvault.com/play/1023953/Getting-Productivity-from-Play-How
+    slides_url :
+
+- track_name : tech_toolbox
+  sessions:
+  - session_name : "Tech Toolbox"
+    speaker :   Jonatan Van Hove, Holden Link, Ryan Williams, Innes McKendrick, Cukia "Sugar" Kimani, Michael Cook, Chris Martens
+    company_name : Glitchnap, Turbo Button, Spry Fox, Hello Games, Nyamakop, University of Falmouth, North Carolina State University
+    gdc_year : 2017
+    video_url : https://www.gdcvault.com/play/1024145/Tech
+    slides_url : https://www.gdcvault.com/play/1024570/Tech
+
+  - session_name : "Tech Toolbox"
+    speaker :  Jonatan Van Hove, Omar Cornut, Keir Miron, Evan Todd, Kate Compton, Alan Hazelden
+    company_name : Glitchnap, Lizardcube, Darkest Dungeon, Independent, Independent, Draknek, Ltd.
+    gdc_year : 2016
+    video_url : https://www.gdcvault.com/play/1023377/Tech
+    slides_url : https://www.gdcvault.com/play/1023048/Tech
+
+  - session_name : "Tech Toolbox"
+    speaker :   Jonatan Van Hove, Tom Vian, Mads Johansen Lassen, Mattias Ljungstrm, Tim Garbos, Matt Rix, Hugh Jeremy
+    company_name : Glitchnap, SFB Games, Glitchnap, Spaces of Play, Copenhagen Game Collective, Milkbag Games, Unknown Worlds
+    gdc_year : 2015
+    video_url : https://www.gdcvault.com/play/1022284/Tech
+    slides_url : https://www.gdcvault.com/play/1022285/Tech
