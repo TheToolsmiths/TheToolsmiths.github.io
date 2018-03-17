@@ -1,0 +1,231 @@
+- topic_name : UX
+  videos:
+  - caption : Game UX Summit 2016
+    author : 
+    type : Playlist
+    url : https://www.youtube.com/playlist?list=PLO2O_lbE843qTTjiXVkFwEb7zzIsmERhv
+
+  - caption : "IGDA Webinar, 27 January 2016: Improving Productivity at Ubisoft: Better tools & pipelines with UX"
+    author : 
+    type : Video
+    url : www.youtube.com/watch?v=lzCror3g2dM
+
+  - caption : Game Development Tools of Love (the game)
+    author : Eskil Steenberg
+    type : Video
+    url : https://www.youtube.com//watch?v=khmFGThc5TI
+
+  - caption : The Story of the Ribbon
+    author : Jensen Harris MS
+    type : Video
+    url : https://channel9.msdn.com/Events/MIX/MIX08/UX09
+
+  - caption : David Lightbown's Maya Masterclass Trilogy Part 1
+    author : David Lightbown
+    type : Video
+    url : https://www.youtube.com/watch?v=ZZ-YimfQfj0
+
+  - caption : David Lightbown's Maya Masterclass Trilogy Part 2 and Part 3
+    author : David Lightbown
+    type : Video
+    url : https://www.youtube.com/channel/UCO8EJo3XtFdq6PMKMKHzL-A
+
+- topic_name : Unity
+  videos:
+  - caption : Unity VR Editor Tool Demo with Timoni West
+    author : Timoni West
+    type : Video
+    url : https://www.youtube.com/watch?v=FzjxRi5J4XI
+
+  - caption : Unite Europe 2017
+    author : 
+    type : Playlist
+    url : https://www.youtube.com/playlist?list=PLX2vGYjWbI0Rzo8D-vUCFVb_hHGxXWd9j
+
+  - caption : "Google Blocks: 3D Assets for the Rest of Us | Unite Austin 2017"
+    author : Ian MacGillivray & Bruno Oliveira
+    type : Video
+    url : https://youtu.be/6k4KesmwV1Q
+
+- topic_name : Unreal Engine
+  videos:
+  - caption : C++ Extending the Editor
+    author : 
+    type : Video
+    url : https://www.youtube.com/watch?v=zg_VstBxDi8
+    src : https://github.com/henrya2/ExtendingTheEditor
+
+  - caption : UE4 Tools Demonstration | GDC 2014
+    author : Zak Parrish
+    type : Video
+    url : https://www.youtube.com/watch?v=FcxA_xYnHZ8
+
+  - caption : Blueprint Generating Procedural Rooms
+    author : Ian Shadden
+    type : Video
+    url : https://youtu.be/mI7eYXMJ5eI
+
+- topic_name : Pipelines
+  videos:
+  - caption : Rhythm & Hues - A Framework for Global Visual Effects Production Pipelines - SIGGRAPH 2014
+    author : 
+    type : Video
+    url : https://vimeo.com/116364653
+
+  - caption : HandmadeCon 2016 - Asset Systems and Scalability
+    author : Chris Butcher from Bungie
+    type : Video
+    url : https://www.youtube.com//watch?v=7KXVox0-7lU
+
+  - caption : "USD: Building Asset Pipelines"
+    author : Matt Kuruc  Pixar
+    type : Video
+    url : https://vimeo.com/211022588
+
+  - caption : USD-Based Pipeline (2016)
+    author : Pixar
+    type : Video
+    url : https://vimeo.com//188191100
+
+  - caption : USD Scripting & Integration, Part 1
+    author : Pixar
+    type : Video
+    url : https://vimeo.com/75810022
+
+  - caption : Paragon Character Texturing Pipeline | Unreal Dev Day Montreal 2017 | Unreal Engine
+    author :
+    type : Video
+    url : https://youtu.be/nVes6OUyzdw
+
+  - caption : Fortnite Trailer Pipeline | Unreal Dev Day Montreal 2017 | Unreal Engine
+    author :
+    type : Video
+    url : https://youtu.be/LS0VsMMTaQA
+
+  - caption : "Digital Humans: Crossing the Uncanny Valley in UE4 | GDC 2016 Event Coverage | Unreal Engine"
+    author :
+    type : Video
+    url : https://youtu.be/ILacgSf1vck
+
+  - caption : Siggraph 2017 - Photogrammetry workflow and the tech behind the de-lighting tool
+    author : Cyril Jover and Mathieu Muller
+    type : Video
+    url : https://www.youtube.com/watch?v=Ny9ZXt_2v2Y
+    links: 
+      - lable: Unity Photogrammetry Doc + link to ebook
+        url: https://unity3d.com/solutions/photogrammetry
+
+- topic_name : Programming
+  videos:
+  - caption : Designing and Evaluating Reusable Components - 2004
+    author : Casey Muratori
+    type : Video
+    url : https://www.youtube.com//watch?v=ZQ5_u8Lgvyk
+
+  - caption : Euler (gimbal lock) Explained
+    author : Chris Butcher from Bungie
+    type : Video
+    url : https://www.youtube.com/watch?v=zc8b2Jo7mno
+
+  - caption : "Core Dump: Day 2: Visual scripting, UI development and tools performance."
+    author : Matt Kuruc  Pixar
+    type : Video
+    url : https://www.youtube.com/watch?v=lZmqYnnSEM0&t=1820s
+
+  - caption : "Core Dump: Day 2: What internal tools have we needed to develop to solve engine or tools related issues?"
+    author : Pixar
+    type : Video
+    url : https://www.youtube.com/watch?v=odEfO86VgFw
+
+  - caption : "Love - GDC 2009: Tools Demonstration"
+    author : Eskil Steenberg
+    type : Video
+    url : https://youtu.be/NBGz723H0_A
+
+- topic_name : Build
+  videos:
+  - caption : "Core Dump: Day 1 - How do we manage our build data?"
+    author : Insomniac Games
+    type : Video
+    url : https://youtu.be/Y2Otnt4OBvs?list=PLOm9SeAVU7idAZVnZUBT90Yj7AeLk0e2X
+
+  - caption : "Core Dump: Day 2: Build systems."
+    author : Insomniac Games
+    type : Video
+    url : https://www.youtube.com/watch?v=odEfO86VgFw
+
+  - caption : "Code & Supply & ATG Present: 'My Build is Slow'"
+    author : Bradley Shively & Michael Knight
+    type : Video
+    url : https://youtu.be/EEuOcLrXB-c
+
+- topic_name : Procedural Generation
+  videos:
+  - caption : Procedural Building Generation with Grammars
+    author : Rachel Hwang
+    type : Video
+    url : https://youtu.be/t-VUpX-xVo4
+
+  - caption : "CppCon 2017: Building Better Worlds: Developing a Procedural City Tool for Alien: Covenant"
+    author : Alan Bucior
+    type : Video
+    url : https://youtu.be/F9tGa-hbmTU
+
+  - caption : "Interactive Sketching of Urban Procedural Models - SIGGRAPH 2016"
+    author : 
+    type : Video
+    url : https://youtu.be/rn4T9Y9PbgQ
+
+- topic_name : Revision Control
+  videos:
+  - caption : Git at scale
+    author : Edward Thomson
+    type : Video
+    url : https://channel9.msdn.com//Events//Build//2017//P4101
+
+- topic_name : Quality & Testing
+  videos:
+  - caption : "Core Dump: Day 1 - Engine & Tools Quality & Testing"
+    author : Insomniac Games
+    type : Video
+    url : https://youtu.be/_EdXI0nmI5c?list=PLOm9SeAVU7idAZVnZUBT90Yj7AeLk0e2X
+
+- topic_name : FX
+  videos:
+  - caption : Creating Complex In-Game Effects | Unreal Dev Day Montreal 2017 | Unreal Engine
+    author :
+    type : Video
+    url : https://youtu.be/Vhsllsv53K0
+
+- topic_name : Animation
+  videos:
+  - caption : Confuse animation demo
+    author : Eskil Steenberg
+    type : Video
+    url : https://youtu.be/u0VnCdtCFCQ
+
+  - caption : "Core Dump: Day 1 - Animation, Real-Time Cinematics & Managing Complexity"
+    author : Insomniac Games
+    type : Video
+    url : https://youtu.be/ZmLrJxmvYdU?list=PLOm9SeAVU7idAZVnZUBT90Yj7AeLk0e2X
+
+- topic_name : VR
+  videos:
+  - caption : "Made With Blocks: Bowl | Google VR"
+    author : 
+    type : Video
+    url : https://youtu.be/UVUlv1hiR7s
+
+- topic_name : Qt
+  videos:
+  - caption : "C++ Qt Programming"
+    author : 
+    type : Playlist
+    url : https://www.youtube.com/playlist?list=PL2D1942A4688E9D63
+
+- topic_name : WPF
+  videos:
+  - caption : "WPF UI Programming (C#)"
+    author : 
+    type : Playlist
+    url : https://www.youtube.com/playlist?list=PLrW43fNmjaQVYF4zgsD0oL9Iv6u23PI6M

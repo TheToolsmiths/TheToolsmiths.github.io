@@ -1,0 +1,23 @@
+---
+theme :
+  name : twitter
+layout: default_codex_layout
+---
+{% include JB/setup %}
+
+<div class="page-header">
+  <h1>{{ page.title }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
+</div>
+
+<div class="span4">
+  {% include toolsmiths/codex_nav.html %}
+</div>
+
+<div class="row">
+  <div class="vertical-line"></div>
+  <div class="span8">
+  	<div  class="right"><a href="https://github.com/TheToolsmiths/TheToolsmiths.github.io/edit/master/{{ page.path }}"><i class="fas fa-pencil-alt tag_box"></i> Improve this page</a></div>
+    {{ content }}
+  </div>
+</div>
+

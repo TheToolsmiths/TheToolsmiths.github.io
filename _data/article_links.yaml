@@ -1,0 +1,256 @@
+- topic_name : algorithms
+  articles:
+  - caption : Implementing a Fuzzy Search Algorithm for The Debuginator
+    author : Anders Elfgren
+    url : https://medium.com/@Srekel/implementing-a-fuzzy-search-algorithm-for-the-debuginator-cacc349e6c55
+    pic_url : https://cdn-images-1.medium.com/max/800/1*HLaXGdrbYla4rWJELAQgDQ.png
+    pic_caption : Picture Fuzzy Search Algorithm for The Debuginator
+
+  - caption : Reverse Engineering Sublime Text’s Fuzzy Match
+    author : Forrest Smith
+    url : https://blog.forrestthewoods.com/reverse-engineering-sublime-text-s-fuzzy-match-4cffeed33fdb
+    pic_url : https://cdn-images-1.medium.com/max/800/1*VeGVAZsCVUYXrbI376oGCQ.png
+    pic_caption : Picture Reverse Engineering Sublime Fuzzy Match
+
+  - caption : Static Hash Values
+    author : Niklas Gray (Bitsquid/Stingray)
+    url : http://bitsquid.blogspot.ru/2010/10/static-hash-values.html
+
+  - caption : High Performance Content Defined Chunking
+    author : Moinakg
+    url : https://moinakg.wordpress.com/2013/06/22/high-performance-content-defined-chunking/
+
+- topic_name : build and deploy
+  articles:
+  - caption : "Stack Overflow: How We Do Deployment - 2016 Edition"
+    url : https://nickcraver.com/blog/2016/05/03/stack-overflow-how-we-do-deployment-2016-edition/
+
+  - caption : "Building C/C++: what really happens and why does it take so long"
+    url : http://voices.canonical.com/jussi.pakkanen/2012/10/01/building-cc-what-really-happens-and-why-does-it-take-so-long/
+
+- topic_name : engine tech
+  articles:
+  - caption : "Engine Tech: Concurrent world editing"
+    author : Jonathan Blow
+    url : http://the-witness.net/news/2011/12/engine-tech-concurrent-world-editing/
+    pic_url : http://the-witness.net/news/wp-content/uploads/2011/12/editor_shot-512x288.png
+    pic_caption : Picture Concurrent world editing
+
+  - caption : "Game Development Needs Data Pipeline Middleware"
+    url : https://blog.demofox.org/2016/04/01/game-development-needs-data-pipeline-middleware/
+
+  - caption : "What Is In a Name? - designing a resource system for a game engine"
+    author : Niklas Gray (Bitsquid/Stingray)
+    url : http://bitsquid.blogspot.ru/2014/06/what-is-in-name.html
+
+- topic_name : miscellaneous
+  articles:
+  - caption : "PowerShell is open sourced and is available on Linux"
+    url : https://azure.microsoft.com/en-us/blog/powershell-is-open-sourced-and-is-available-on-linux/
+
+  - caption : "Avoiding Content Locks and Conflicts -- 3-way Json Merge"
+    author : Niklas Gray (Bitsquid/Stingray)
+    url : http://bitsquid.blogspot.ru/2010/06/avoiding-content-locks-and-conflicts-3.html
+
+  - caption : "Rendered Image Comparison"
+    author : Nick Darnell
+    url : http://www.nickdarnell.com/rendered-image-comparison/
+
+  - caption : "Complexity and Strategy"
+    url : https://hackernoon.com/complexity-and-strategy-325cd7f59a92
+
+  - caption : "How to Create C/C++ Addons in Node "
+    url : http://stackabuse.com/how-to-create-c-cpp-addons-in-node/
+
+  - caption : "What Every Coder Should Know About Gamma"
+    url : http://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/
+
+  - caption : DeepMind and Blizzard open StarCraft II as an AI research environment
+    url : https://web.archive.org/web/20170617123326/http://www.digitalcinemafoundry.com/2010/04/02/why-the-so-called-blockbuster-look-color-grading-explained/
+
+  - caption : Disney’s new Production Renderer ‘Hyperion’ – Yes, Disney!
+    url : https://www.fxguide.com/featured/disneys-new-production-renderer-hyperion-yes-disney/
+
+  - caption : "Procedural Music Generation"
+    author :  Christer Kaitila
+    url : http://www.procjam.com/tutorials/music/
+
+  - caption : Overview of Reactive GUI Programming
+    url : https://eugenkiss.com/b/overview-of-reactive-gui-programming
+
+- topic_name : pipelines
+  articles:
+  - caption : "GDC17 : Character Production Pipeline & Customization System on Far Cry Primal"
+    author : Julien Lallevé
+    url : https://jlalleve.wordpress.com/2017/03/11/gdc17-character-production-pipeline-customization-system-on-far-cry-primal/
+
+  - caption : Photogrammetry Workflow
+    author : Sébastien Lachambre, Sébastien Lagarde, Cyril Jover
+    url : https://unity3d.com/files/solutions/photogrammetry/Unity-Photogrammetry-Workflow_2017-07_v2.pdf
+  
+  - caption : What is the Content Pipeline? (XNA Game Studio Content Pipeline)
+    url : https://msdn.microsoft.com/en-us/library/bb447745.aspx
+
+  - caption : "Game Tools Tune-Up: Optimize Your Pipeline Through Usability"
+    url : https://www.gamasutra.com/view/feature/4016/game_tools_tuneup_optimize_your_.php
+
+- topic_name : tool core
+  articles:
+  - caption : "Universal Undo, Copy and Paste"
+    author : Niklas Gray (Bitsquid/Stingray)
+    url : http://bitsquid.blogspot.ru/2011/04/universal-undo-copy-and-paste.html
+
+  - caption : "Our Tool Architecture - bitsquid 2010"
+    author : Niklas Gray (Bitsquid/Stingray)
+    url : http://bitsquid.blogspot.ru/2010/04/our-tool-architecture.html
+
+  - caption : "Gpu Based Procedural Placement In Horizon Zero Dawn"
+    url : https://www.guerrilla-games.com/read/gpu-based-procedural-placement-in-horizon-zero-dawn
+
+  - caption : "Ghost Recon Wildlands: terrain tools and technology"
+    url : https://666uille.wordpress.com/2017/03/08/ghost-recon-wildlands-terrain-tools-and-technology/
+
+  - caption : "Creating A Tools Pipeline For Horizon Zero Dawn"
+    url : https://www.guerrilla-games.com/read/creating-a-tools-pipeline-for-horizon-zero-dawn
+
+  - caption : "Why I think Immediate Mode GUI is way to go for GameDev tools"
+    author : Branimir Karadžić
+    url : https://gist.github.com/bkaradzic/853fd21a15542e0ec96f7268150f1b62#why-i-think-immediate-mode-gui-is-way-to-go-for-gamedev-tools 
+
+  - caption : "Why Qt and not IMGUI?"
+    author : Andreas Fredriksson
+    url : https://deplinenoise.wordpress.com/2017/03/05/why-qt-and-not-imgui/
+
+  - caption : "Web Tools for Application UI"
+    author : Stoyan Nikolov
+    url : https://stoyannk.wordpress.com/2017/03/03/web-tools-for-application-ui/
+
+  - caption : "Keyboard Focus and Event Trickling in Immediate Mode GUIs"
+    author :  Niklas Gray (Our Machinery)
+    url : http://ourmachinery.com/post/keyboard-focus-and-event-trickling-in-immediate-mode-guis/
+
+  - caption : "How Media Molecule Does Serialization"
+    author :  Oswald Hurlem
+    url : https://yave.handmade.network/blogs/p/2723-how_media_molecule_does_serialization
+
+  - caption : "Making Your Game Tools Fast And Efficient"
+    author :  Noor Khawaja
+    url : https://www.gamasutra.com/view/feature/3798/making_your_game_tools_fast_and_.php
+
+- topic_name : tool engineers
+  articles:
+  - caption : "tools-engineer-checklist.md"
+    author : Geoff Evans
+    url : https://gist.github.com/gorlak/1a0747efe88c5e3998144c5787d090ec
+
+  - caption : "Unsung heroes of the games industry: tools programmers"
+    url : http://www.ign.com/articles/2017/02/06/unsung-heroes-of-the-games-industry-tools-programmers
+
+  - caption : "How To Become A Video Game Tools Programmer"
+    url : https://www.gameindustrycareerguide.com/how-to-become-a-video-game-tools-programmer/
+
+- topic_name : ux
+  article_subtopics:
+  - subtopic_name : UX Summits
+    articles:
+      - caption : "Game UX Summit 2016 Recap"
+        url : https://www.unrealengine.com/en-US/blog/game-ux-summit-2016-recap-and-2017-event-announcement
+
+      - caption : "GDC 2017 UX Summit – Overview"
+        url : http://celiahodent.com/gdc-2017-ux-summit-overview/
+
+  - subtopic_name : UX Resources
+    articles:
+    - caption : "Design applications for the Windows desktop"
+      url : https://developer.microsoft.com/en-us/windows/desktop/design
+
+    - caption : "Responsive & Baseline (Atomic) Grids"
+      url : http://harmony.intuit.com/grid/
+
+    - caption : "Specifics 001: The 8-Point Grid"
+      url : https://spec.fm/specifics/8-pt-grid 
+
+    - caption : "Specifics 002: Typographic Scales"
+      url : https://spec.fm/specifics/type-scale 
+
+    - caption : "Sketch Workflow — 8 point Soft Grids"
+      url : https://medium.com/sketch-app-sources/8-point-soft-grids-in-sketch-e8f1d5ca2cd4
+
+    - caption : "Metrics & keylines"
+      url : https://material.io/guidelines/layout/metrics-keylines.html#metrics-keylines-sizing-by-increments
+
+  - subtopic_name : Articles
+    articles:
+    - caption : Desktop compositing latency is real and it annoys me
+      author : Pekka Väänänen
+      url : http://www.lofibucket.com/articles/dwm_latency.html
+
+    - caption : Lessons Learned From Tools Development
+      author : Barnaby Smith
+      url : http://mvi.sh/2010/03/13/lessons-learned-from-tools-development/
+
+- topic_name : windows
+  article_subtopics:
+  - subtopic_name : NTFS
+    articles:
+      - caption : "MSDN Docs: Change Journals"
+        url : https://msdn.microsoft.com/en-us/aa363798.aspx
+
+      - caption : "Keeping an Eye on Your NTFS Drives: the Windows 2000 Change Journal Explained"
+        url : https://www.microsoft.com/msj/0999/journal/journal.aspx 
+
+      - caption : "GKeeping an Eye on Your NTFS Drives, Part II: Building a Change Journal Application"
+        url : https://www.microsoft.com/msj/1099/journal2/journal2.aspx
+
+      - caption : "Alternate Data Streams in NTFS"
+        url : https://blogs.technet.microsoft.com/askcore/2013/03/24/alternate-data-streams-in-ntfs/
+
+  - subtopic_name : Profiling
+    articles:
+      - caption : "ETW/xperf profiling article roundup"
+        author : Bruce Dawson
+        url : https://randomascii.wordpress.com/2015/09/24/etw-central/
+
+  - subtopic_name : Testing
+    articles:
+      - caption : "Windows Application Driver for PC integrates with Appium"
+        url : https://blogs.windows.com/buildingapps/2016/11/16/windows-application-driver-for-pc-integrates-with-appium/#QoRFclhFFvVm4gyi.97
+
+      - caption : "Windows Automation API Testing Tools"
+        url : https://msdn.microsoft.com/en-us/library/dd373661(v=vs.110).aspx
+
+      - caption : "Spy++"
+        url : https://docs.microsoft.com/en-us/visualstudio/debugger/using-spy-increment
+
+      - caption : "Inspect.exe"
+        url : https://msdn.microsoft.com/en-us/library/windows/desktop/dd318521(v=vs.85).aspx
+
+      - caption : "Microsoft UI Automation API"
+        url : https://docs.microsoft.com/en-us/dotnet/framework/ui-automation/ui-automation-fundamentals
+
+  - subtopic_name : Version Control
+    articles:
+      - caption : "The largest Git repo on the planet"
+        url : https://blogs.msdn.microsoft.com/bharry/2017/05/24/the-largest-git-repo-on-the-planet/
+
+      - caption : "Scaling Git (and some back story)"
+        url : https://blogs.msdn.microsoft.com/bharry/2017/02/03/scaling-git-and-some-back-story/
+
+  - subtopic_name : Miscellaneous
+    articles:
+      - caption : "Windows Containers on Windows 10"
+        url : https://docs.microsoft.com/en-us/virtualization/windowscontainers/quick-start/quick-start-windows-10
+
+      - caption : "Windows and Ubuntu Interoperability"
+        url : https://blogs.msdn.microsoft.com/wsl/2016/10/19/windows-and-ubuntu-interoperability/
+
+      - caption : "Win32 API Programming Tutorial"
+        url : http://www.winprog.org/tutorial/start.html
+
+      - caption : "Tutorial/How to avoid C/C++ runtime on Windows"
+        url : https://handmade.network/wiki/2824-tutorial_how_to_avoid_c_c++_runtime_on_windows
+
+  - subtopic_name : Visual Studio articles
+    articles:
+      - caption : "Visual Studio Build Loggers"
+        url : https://msdn.microsoft.com/en-us/library/ms171471.aspx

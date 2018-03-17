@@ -1,0 +1,214 @@
+- solution_category : Tools for profiling
+  solutions:
+  - solution_name : UI for ETW (Event Tracing for Windows)
+    solution_type : tool
+    website_url : https://github.com/google/UIforETW
+    open_source : True
+    pic_url : https://randomascii.files.wordpress.com/2015/04/image_thumb.png?w=629&h=293
+    pic_caption : UI for ETW
+    more_info :
+      - caption : blog post
+        url : https://randomascii.wordpress.com/2015/04/14/uiforetw-windows-performance-made-easier/
+    github_starts :
+      account : google
+      repo_name : UIforETW
+
+- solution_category : Windows Debug Utils
+  solutions:
+  - solution_name : PsTools
+    solution_type : tool
+    description : A suit of tools for managing processes (PsKill - kill processes by name or process ID; PsList - list detailed information about processes...)
+    website_url : https://technet.microsoft.com/en-us/sysinternals/pstools.aspx
+
+  - solution_name : Process Monitor
+    solution_type : tool
+    description : Process Monitor is an advanced monitoring tool for Windows that shows real-time file system, Registry and process/thread activity.
+    website_url : https://docs.microsoft.com/en-us/sysinternals/downloads/procmon
+
+  - solution_name : Debugview++
+    solution_type : tool
+    description : Debugview++ started as a viewer for Win32 OutputDebugString messages in the style of Sysinternals DebugView
+    website_url : https://github.com/djeedjay/DebugViewPP
+    open_source : True
+    github_starts :
+      account : djeedjay
+      repo_name : DebugViewPP
+
+  - solution_name : Dependencies
+    solution_type : tool
+    description : An open-source modern Dependency Walker
+    website_url : https://github.com/lucasg/Dependencies
+    open_source : True
+    github_starts :
+      account : lucasg
+      repo_name : Dependencies
+
+- solution_category : XML
+  solutions:
+  - solution_name : XML Explorer
+    solution_type : tool
+    description : XML Explorer is an extremely fast, lightweight XML file viewer.
+    website_url : xmlexplorer.codeplex.com
+
+- solution_category : Productivity and other
+  solutions:
+  - solution_name : ScreenToGif
+    solution_type : tool
+    description : ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
+    website_url : http://www.screentogif.com/
+    open_source : True
+    source_code_url : https://github.com/NickeManarin/ScreenToGif
+    github_starts :
+      account : NickeManarin
+      repo_name : ScreenToGif
+
+  - solution_name : ShareX
+    solution_type : tool
+    description : ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key
+    website_url : https://github.com/ShareX/ShareX
+    open_source : True
+    github_starts :
+      account : ShareX
+      repo_name : ShareX
+
+  - solution_name : Synergy
+    solution_type : tool
+    description : Share one mouse and keyboard between multiple computers (Windows, macOS and Linux)
+    website_url : https://github.com/symless/synergy
+    open_source : True
+    github_starts :
+      account : symless
+      repo_name : synergy
+
+  - solution_name : Visual Studio Locator
+    solution_type : tool
+    description : vswhere is designed to be a redistributable, single-file executable that can be used in build or deployment scripts to find where Visual Studio - or other products in the Visual Studio family - is located.
+    website_url : https://github.com/Microsoft/vswhere
+    open_source : True
+    github_starts :
+      account : Microsoft
+      repo_name : vswhere
+
+  - solution_name : PYAHK AutoHotKey via Python
+    solution_type : tool
+    description : Combining the two creates a powerful automation tool with a powerful scripting back-end with access to all the power of the Python standard library.
+    website_url : http://pyahk.readthedocs.io/en/latest/
+    open_source : True
+    source_code_url : https://bitbucket.org/kitsu/pyahk/src
+
+  - solution_name : FreeCommander
+    solution_type : tool
+    description : FreeCommander is an easy-to-use alternative to the standard windows file manager.
+    website_url : http://freecommander.com/en/summary/
+
+  - solution_name : ConEmu
+    solution_type : tool
+    description : ConEmu-Maximus5 is a Windows console emulator with tabs, which presents multiple consoles and simple GUI applications as one customizable GUI window with various features.
+    website_url : https://conemu.github.io
+    open_source : True
+    source_code_url : https://github.com/Maximus5/ConEmu
+    github_starts :
+      account : Maximus5
+      repo_name : ConEmu
+
+- solution_category : MSVS extensions
+  solutions:
+  - solution_name : Smart Commandline Arguments
+    solution_type : tool
+    description : A Visual Studio Extension which aims to provide a better UI to manage your command line arguments.
+    website_url : https://marketplace.visualstudio.com/items?itemName=MBulli.SmartCommandlineArguments
+
+  - solution_name : VSColorOutput
+    solution_type : tool
+    description : VSColorOutput can change the color of a line emitted to the output window based on specified rules.
+    website_url : https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput
+
+  - solution_name : Markdown Editor
+    solution_type : tool
+    description : A full featured Markdown editor with live preview and syntax highlighting. Supports GitHub flavored Markdown.
+    website_url : https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor
+
+  - solution_name : Python Tools for Visual Studio
+    solution_type : tool
+    description : An integrated environment for developing Python in Visual Studio
+    website_url : https://marketplace.visualstudio.com/items?itemName=HPCToolsGuy.PythonToolsforVisualStudio
+    more_info :
+      - caption : http://www.youtube.com/watch?v=JNNAOypc6Ek&hd=1 
+        url : Video overview
+
+- solution_category : WPF
+  solutions:
+  - solution_name : Snoop
+    solution_type : tool
+    description : It allows you to spy/browse the visual tree of a running WPF application (without the need for a debugger) … and change properties ... amongst other things.
+    website_url : http://snoopwpf.codeplex.com/
+    open_source : True
+    source_code_url : https://github.com/cplotts/snoopwpf
+    github_starts :
+      account : cplotts
+      repo_name : snoopwpf
+
+- solution_category : Web/Networking
+  solutions:
+  - solution_name : Convert curl syntax to Python, Node.js, PHP
+    solution_type : tool
+    website_url : https://curl.trillworks.com/
+
+- solution_category : Data Compression
+  solutions:
+  - solution_name : CompactGUI
+    solution_type : tool
+    description : CompactGUI is a standalone GUI to make using the Windows 10 compact.exe function easier to use.
+    website_url : https://github.com/ImminentFate/CompactGUI
+    open_source : True
+    github_starts :
+      account : ImminentFate
+      repo_name : CompactGUI
+
+- solution_category : GUI development
+  solutions:
+  - solution_name : Lazarus
+    solution_type : framework
+    description : Lazarus is a Delphi compatible cross-platform IDE for Rapid Application Development
+    website_url : http://www.lazarus-ide.org/
+    open_source : True
+    source_code_url : https://sourceforge.net/p/lazarus/code/HEAD/tree/trunk/
+
+  - solution_name : Online icon editor
+    solution_type : tool
+    description : An online icon editor
+    website_url : https://www.iconfinder.com/icon-editor
+
+  - solution_name : QmlAssetExporter
+    solution_type : tool
+    description : QML Asset Exporter from Photoshop
+    website_url : https://github.com/Pelagicore/QmlAssetExporter
+    open_source : True
+    more_info :
+      - caption : Photoshop to QML exporter (YouTube)
+        url : https://www.youtube.com/watch?v=9BRJ1qJkjZM
+    github_starts :
+      account : Pelagicore
+      repo_name : QmlAssetExporter
+
+  - solution_name : Balsamiq
+    solution_type : tool
+    description : Balsamiq is a rapid wireframing tool
+    website_url : https://balsamiq.com
+
+  - solution_name : Pencil
+    solution_type : tool
+    description : Pencil is built for the purpose of providing a free and open-source GUI prototyping tool that people can easily install and use to create mockups in popular desktop platforms.
+    website_url : http://pencil.evolus.vn/
+
+- solution_category : Video
+  solutions:
+  - solution_name : Open Broadcaster Software
+    solution_type : tool
+    description : Free and open source software for video recording and live streaming.
+    website_url : https://obsproject.com
+    open_source : True
+    source_code_url : https://github.com/
+    github_starts :
+      account : jp9000
+      repo_name : obs-studio
