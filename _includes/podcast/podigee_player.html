@@ -1,0 +1,31 @@
+{% assign folder_path = page.url | remove: "index" %}
+
+<script>
+    window.playerConfiguration = {
+        "options": {
+            "theme": "default-dark",
+            "startPanel": "ChapterMarks"
+        },
+        "extensions": {
+            "ChapterMarks": {},
+            "EpisodeInfo": {},
+            "Playlist": {},
+            "Deeplinking": {}
+        },
+        "title": null,
+        "episode": {
+            "media": {
+                "mp3": "{{site.url}}{{folder_path}}{{page.audio}}"
+            },
+            "coverUrl": "{{site.url}}/wp-content/uploads/2014/03/TheToolssmithsPodcast-300x300.png",
+            "title": "{{page.title}}",
+            "subtitle": null,
+            "url": "{{site.url}}{{page.url}}",
+            "description": null,
+            "chaptermarks": []
+        }
+    }
+</script>
+
+<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js">
+</script>
