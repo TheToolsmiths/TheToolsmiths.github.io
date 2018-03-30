@@ -13,6 +13,6 @@ I have updated my notes from the GDC roundtables. They should now be a little mo
 
 [Day 1 Notes]({{site.url}}{%- link _posts/2014-03-19-technical-issues-in-tools-day-1.md %})
 
-[Day 2 Notes]({{site.url}}{%- link _posts/2014-03-19-technical-issues-in-tools-day-2.md %})
+[Day 2 Notes]({{site.url}}{%- link _posts/2014-03-23-technical-issues-in-tools-day-2.md %})
 
-[Day 3 Notes]({{site.url}}{%- link _posts/2014-03-19-technical-issues-in-tools-day-3.md %})
+[Day 3 Notes]({{site.url}}{%- link _posts/2014-03-23-technical-issues-in-tools-day-3.md %})
