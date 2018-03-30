@@ -3,12 +3,10 @@ layout: page
 title: Podcast
 header: Episodes
 group: navigation
-permalink: /podcast/index.html
 ---
-{% include JB/setup %}
+{%- include JB/setup -%}
 
 
-{% assign episodes = site.podcast | reverse %}
-{% for episode in episodes %}
-    {% include podcast/episode_line.html %}
-{% endfor %}
+{%- for episode in site.podcast reversed -%}
+    {%- include podcast/episode_line.html -%}
+{%- endfor -%}
