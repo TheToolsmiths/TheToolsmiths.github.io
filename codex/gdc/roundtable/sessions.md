@@ -7,7 +7,17 @@ nav_tag: gdc
 ---
 {% include JB/setup %}
 
-#### [Tools Roundtable Notes @ GDC 2007 ](https://web.archive.org/web/20081011034025/http://www.igda.org/wiki/GDC_2007_-_Tools_Roundtable_Notes)
+#### Tools Roundtable Notes @ GDC 2018
+##### by Paul Haile‏  [Day 1]({{site.url}}{%- link codex/gdc/roundtable/2018/technical-issues-in-tools-development-roundtable-day-1.md -%}) | [Day 2]({{site.url}}{%- link codex/gdc/roundtable/2018/technical-issues-in-tools-development-roundtable-day-2.md -%}) | [Day 3]({{site.url}}{%- link codex/gdc/roundtable/2018/technical-issues-in-tools-development-roundtable-day-3.md -%})
+
+------
+
+#### Tools Roundtable Notes @ GDC 2017
+##### by Paul Haile‏  [Day 1](https://twitter.com/Tyrael/status/837368231752970240) | [Day 2](https://twitter.com/Tyrael/status/837704456888287232) | [Day 3](https://twitter.com/Tyrael/status/838875803353927681)
+
+------
+
+#### [Tools Roundtable Notes @ GDC 2014]({{ site.baseurl }}{%- link _posts/2014-04-01-updated-gdc-roundtable-notes.md -%})
 
 ------
 
@@ -16,11 +26,6 @@ nav_tag: gdc
 
 ------
 
-#### [Tools Roundtable Notes @ GDC 2014]({{ site.baseurl }}/2014/04/01/updated-gdc-roundtable-notes/)
-
-------
-
-#### Tools Roundtable Notes @ GDC 2017
-##### by Paul Haile‏  [Day 1](https://twitter.com/Tyrael/status/837368231752970240) | [Day 2](https://twitter.com/Tyrael/status/837704456888287232) | [Day 3](https://twitter.com/Tyrael/status/838875803353927681)
+#### [Tools Roundtable Notes @ GDC 2007 ](https://web.archive.org/web/20081011034025/http://www.igda.org/wiki/GDC_2007_-_Tools_Roundtable_Notes)
 
 ------
