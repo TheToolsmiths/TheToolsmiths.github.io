@@ -2,10 +2,11 @@
 id: 921
 title: Technical Issues in Tools (Day 3)
 date: 2014-03-23T21:45:02+00:00
-author: Geoff Evans
-layout: post
+author: Aaron Walker
+layout: codex_page
 guid: http://thetoolsmiths.org/?p=921
 permalink: /2014/03/23/technical-issues-in-tools-day-3/
+nav_tag: gdc
 categories:
   - GDC
 ---

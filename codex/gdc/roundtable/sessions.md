@@ -17,12 +17,14 @@ nav_tag: gdc
 
 ------
 
-#### [Tools Roundtable Notes @ GDC 2014]({{ site.baseurl }}{%- link _posts/2014-04-01-updated-gdc-roundtable-notes.md -%})
+#### Tools Roundtable Notes @ GDC 2014
+##### by Aaron Walker‏  [Day 1]({{site.url}}{%- link codex/gdc/roundtable/2014/2014-03-19-technical-issues-in-tools-day-1.md -%}) | [Day 2]({{site.url}}{%- link codex/gdc/roundtable/2014/2014-03-23-technical-issues-in-tools-day-2.md -%}) | [Day 3]({{site.url}}{%- link codex/gdc/roundtable/2014/2014-03-23-technical-issues-in-tools-day-3.md -%})
 
 ------
 
 #### Tools Roundtable Notes @ GDC 2008
-##### [Day 1](https://web.archive.org/web/20081006175108/http://www.igda.org/wiki/GDC_2008_-_Tools_Roundtable_Notes_-_Wednesday) | [Day 2](https://web.archive.org/web/20081010152748/http://igda.org/wiki/GDC_2008_-_Tools_Roundtable_Notes_-_Thursday) | [Day 3](https://web.archive.org/web/20081013140823/http://www.igda.org/wiki/GDC_2008_-_Tools_Roundtable_Notes_-_Friday)
+##### by Jeff Ward [Day 1]({{site.url}}{%- link codex/gdc/roundtable/2008/GDC_2008_-_Tools_Roundtable_Notes_-_Wednesday.md -%}) | [Day 2]({{site.url}}{%- link codex/gdc/roundtable/2008/GDC_2008_-_Tools_Roundtable_Notes_-_Thursday.md -%})
+##### and Darren Torpey [Day 3]({{site.url}}{%- link codex/gdc/roundtable/2008/GDC_2008_-_Tools_Roundtable_Notes_-_Friday.md -%}) 
 
 ------
 
