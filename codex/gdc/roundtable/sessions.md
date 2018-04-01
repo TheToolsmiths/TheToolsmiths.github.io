@@ -28,6 +28,7 @@ nav_tag: gdc
 
 ------
 
-#### [Tools Roundtable Notes @ GDC 2007 ](https://web.archive.org/web/20081011034025/http://www.igda.org/wiki/GDC_2007_-_Tools_Roundtable_Notes)
+#### Tools Roundtable Notes @ GDC 2007
+##### by Darren Torpey [Day N]({{site.url}}{%- link codex/gdc/roundtable/2007/GDC_2007_-_Tools_Roundtable_Notes.md -%})
 
 ------
