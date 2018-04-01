@@ -29,6 +29,6 @@ nav_tag: gdc
 ------
 
 #### Tools Roundtable Notes @ GDC 2007
-##### by Darren Torpey [Day N]({{site.url}}{%- link codex/gdc/roundtable/2007/GDC_2007_-_Tools_Roundtable_Notes.md -%})
+##### by Darren Torpey [Day 1]({{site.url}}{%- link codex/gdc/roundtable/2007/GDC_2007_-_Tools_Roundtable_Notes.md -%})
 
 ------
