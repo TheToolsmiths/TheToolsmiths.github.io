@@ -2,10 +2,11 @@
 id: 911
 title: Technical Issues in Tools (Day 1)
 date: 2014-03-19T19:09:46+00:00
-author: Geoff Evans
-layout: post
+author: Aaron Walker
+layout: codex_page
 guid: http://thetoolsmiths.org/?p=911
 permalink: /2014/03/19/technical-issues-in-tools-day-1/
+nav_tag: gdc
 categories:
   - GDC
 ---
