@@ -1,0 +1,12 @@
+---
+layout: page
+title: Podcast
+header: Episodes
+group: navigation
+---
+{%- include JB/setup -%}
+
+
+{%- for episode in site.podcast reversed -%}
+    {%- include podcast/episode_line.html -%}
+{%- endfor -%}

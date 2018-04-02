@@ -1,0 +1,9 @@
+{%- if episode -%}
+{%- elsif page -%}
+  {%- assign episode = page -%}
+{%- endif -%}
+<section id="{{ episode.id | sha1:8 }}" class="active">
+  {%- include podcast/episode_header.html -%}
+  {%- include podcast/podigee_player.html -%}
+  {{ episode.content }}
+</section>

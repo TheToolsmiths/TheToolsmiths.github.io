@@ -1,0 +1,46 @@
+{%- assign temp_array = page.url | split: "/" -%}
+{%- assign offset = page.url.size | minus: temp_array.last.size -%}
+{%- assign folder_path = page.url | slice: 0, offset -%}
+
+<script>
+    window.playerConfiguration = {
+        "options": {
+            "theme": "default-dark",
+            "startPanel": "ChapterMarks"
+        },
+        "extensions": {
+            "ChapterMarks": {},
+            "EpisodeInfo": {},
+            "Playlist": {},
+            "Deeplinking": {}
+        },
+        "title": null,
+        "episode": {
+            "media": {
+                {%- for audio_file in page.audio -%}
+                "{{audio_file | split: '.' | last}}" : "{{site.url}}{{folder_path}}{{audio_file}}"{%- unless forloop.last -%} , {%- endunless -%}
+                {%- endfor -%}
+            },
+            {%- if page.icon -%}
+            "coverUrl": "{{site.url}}/{{page.icon}}",
+            {%- else -%}
+            "coverUrl": "{{site.url}}/wp-content/uploads/2014/03/TheToolssmithsPodcast-300x300.png",
+            {%- endif -%}
+            "title": "{{page.title}}",
+            "subtitle": null,
+            "url": "{{site.url}}{{page.url}}",
+            "description": null,
+            "chaptermarks": [
+                {%- for chapter in page.chapters -%}
+                    {
+                        "start": "{{chapter.start}}",
+                        "title": "{{chapter.title}}"
+                    } {%- unless forloop.last -%} , {%- endunless -%}
+                {%- endfor -%}
+            ]
+        }
+    }
+</script>
+
+<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js">
+</script>
