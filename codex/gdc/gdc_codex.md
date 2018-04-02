@@ -38,4 +38,8 @@ nav_tag: gdc
 
 ------
 
+#### [GDC Tools Design Roundtables]({{ site.baseurl }}{% link codex/gdc/roundtable/tools_design/sessions.md %})
+
+------
+
 #### [GDC Tech Toolbox Sessions]({{ site.baseurl }}{% link codex/gdc/tech_toolbox/sessions.md %})
