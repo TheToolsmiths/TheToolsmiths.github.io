@@ -1,10 +1,11 @@
 ---
 title: 'Technical Issues in Tools Development Roundtable - Day 2: Assets'
-layout: codex_page
+layout: codex_notes_page
 author: Paul Haile
-permalink: /codex/gdc/roundtable/2018/day-2
+permalink: /codex/gdc/roundtable/technical_issues_in_tools/2018/day-2
 nav_tag: gdc
 ---
+
 Brainstorm Topics:  Asset Loading / Streaming, Asset Caching / Build Result Sharing, Asset Indirection / Renaming / Referencing Schemes, Sharing Assets Between Projects
 
 Asset Loading / Streaming:

@@ -1,10 +1,11 @@
 ---
 title: 'Technical Issues in Tools Development Roundtable - Day 3: Editors'
-layout: codex_page
+layout: codex_notes_page
 author: Paul Haile
-permalink: /codex/gdc/roundtable/2018/day-3
+permalink: /codex/gdc/roundtable/technical_issues_in_tools/2018/day-3
 nav_tag: gdc
 ---
+
 Brainstorm Topics:  In-Engine vs. Outside App for Level Editors, Visual Script Editor Organization, Undo Stack for Multi-Editor Development, Tools Diagnostics, Survey: Dedicated Tools UX Designers, Telemetry, Small One-off Tools, Better 1st Party Tooling, Discoverability
 
 

@@ -30,7 +30,7 @@ nav_tag: gdc
 
 ------
 
-#### [GDC Technical Issues in Tools Roundtables]({{ site.baseurl }}{% link codex/gdc/roundtable/sessions.md %})
+#### [GDC Technical Issues in Tools Roundtables]({{ site.baseurl }}{% link codex/gdc/roundtable/technical_issues_in_tools/sessions.md %})
 
 ------
 
