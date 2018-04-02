@@ -2,13 +2,15 @@
 id: 911
 title: Technical Issues in Tools (Day 1)
 date: 2014-03-19T19:09:46+00:00
-author: Geoff Evans
-layout: post
+author: Aaron Walker
+layout: codex_notes_page
 guid: http://thetoolsmiths.org/?p=911
 permalink: /2014/03/19/technical-issues-in-tools-day-1/
+nav_tag: gdc
 categories:
   - GDC
 ---
+
 The Technical Issues in Tools Development Roundtables continue to be one of the most popular roundtable sessions at GDC. Below are Aaron&#8217;s updated and expanded notes from the Day 1 session.
 
 **How do you develop or transition to new tools or frameworks?**
