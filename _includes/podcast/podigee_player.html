@@ -1,4 +1,6 @@
-{%- assign folder_path = page.url | remove: "index" -%}
+{%- assign temp_array = page.url | split: "/" -%}
+{%- assign offset = page.url.size | minus: temp_array.last.size -%}
+{%- assign folder_path = page.url | slice: 0, offset -%}
 
 <script>
     window.playerConfiguration = {
@@ -15,7 +17,9 @@
         "title": null,
         "episode": {
             "media": {
-                "mp3": "{{site.url}}{{folder_path}}{{page.audio}}"
+                {%- for audio_file in page.audio -%}
+                "{{audio_file | split: '.' | last}}" : "{{site.url}}{{folder_path}}{{audio_file}}"{%- unless forloop.last -%} , {%- endunless -%}
+                {%- endfor -%}
             },
             {%- if page.icon -%}
             "coverUrl": "{{site.url}}/{{page.icon}}",

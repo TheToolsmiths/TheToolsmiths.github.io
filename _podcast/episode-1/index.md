@@ -4,7 +4,8 @@ date: 2018-02-13T14:51:41+00:00
 author: TODO Add author
 layout: episode
 duration: "1:18:04"
-audio: the-toolsmiths-ep1.mp3
+audio:
+  - the-toolsmiths-ep1.mp3
 chapters:
   - 
     start: '00:00:00.000'
@@ -31,7 +32,6 @@ chapters:
     start: '00:66:25.000'
     title: 'Launching Robotic Arm Software'
 ---
-{%- include podcast/podigee_player.html -%}
 Surprise! The Toolsmiths is happy to announce we are starting a podcast! It’s hosted by Geoff Evans (SIG Chair and engineer at Kojima Productions), and David Lightbown (UX Director at Ubisoft Montreal). Our first guest is [Dan Goodman](http://www.linkedin.com/in/dangoodman) from [Robotic Arm Software](http://www.roboticarmsoftware.com/).
 
 Pardon any echoes that may have found their way into this episode, we are still learning the ropes of making great sounding podcast audio.
