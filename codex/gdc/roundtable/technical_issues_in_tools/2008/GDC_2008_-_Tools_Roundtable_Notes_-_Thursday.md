@@ -2,12 +2,13 @@
 title: '"Technical Issues in Tools Development" Roundtable Notes - Thursday'
 date: 2008-02-21T00:00:00+00:00
 author: Jeff Ward
-layout: codex_page
+layout: codex_notes_page
 permalink: /2008/02/21/technical-issues-in-tools-day-2/
 nav_tag: gdc
 categories:
   - GDC
 ---
+
 ### Table of content
 <!-- TOC -->
 

@@ -2,12 +2,13 @@
 title: '"Technical Issues in Tools Development" Roundtable Notes - Friday'
 date: 2008-02-22T00:00:00+00:00
 author: Darren Torpey
-layout: codex_page
+layout: codex_notes_page
 permalink: /2008/02/22/technical-issues-in-tools-day-3/
 nav_tag: gdc
 categories:
   - GDC
 ---
+
 ### Table of content
 <!-- TOC -->
 

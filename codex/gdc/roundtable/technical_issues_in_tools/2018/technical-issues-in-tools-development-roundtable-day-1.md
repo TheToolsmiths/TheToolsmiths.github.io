@@ -1,8 +1,8 @@
 ---
 title: 'Technical Issues in Tools Development Roundtable - Day 1: Process'
-layout: codex_page
+layout: codex_notes_page
 author: Paul Haile
-permalink: /codex/gdc/roundtable/2018/day-1
+permalink: /codex/gdc/roundtable/technical_issues_in_tools/2018/day-1
 nav_tag: gdc
 ---
 {% include JB/setup %}
