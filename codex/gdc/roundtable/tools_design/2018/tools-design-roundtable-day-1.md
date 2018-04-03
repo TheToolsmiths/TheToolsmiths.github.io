@@ -6,6 +6,11 @@ permalink: /codex/gdc/roundtable/tools_design/2018/day-1
 nav_tag: gdc
 ---
 
+*Note: The names of the studios were replaced by their approximate size:*
+* *Small ~10 people*
+* *Medium ~100-300 people*
+* *Large 300+ people*
+
 ### People that attended:
 * UX/tool designers - about 5% of the total
 * Tools Programmers - about 90% of the total
