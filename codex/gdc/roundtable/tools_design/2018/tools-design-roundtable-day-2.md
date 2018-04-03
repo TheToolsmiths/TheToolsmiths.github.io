@@ -1,10 +1,15 @@
 ---
-title: 'Notes for "Tools Design Roundtable Day 2: Process"'
+title: 'Notes for "Tools Design Roundtable Day 2: Production"'
 layout: codex_notes_page
 author: Victor Stepanov
 permalink: /codex/gdc/roundtable/tools_design/2018/day-2
 nav_tag: gdc
 ---
+
+*Note: The names of the studios were replaced by their approximate size:*
+* *Small ~10 people*
+* *Medium ~100-300 people*
+* *Large 300+ people*
 
 ### People that attended:
 * UX/tool designers - about 5% of the total
@@ -165,7 +170,7 @@ nav_tag: gdc
     * Studio wide email list
     * Have a specific team of people go through the request and help
 * Large size studio's experience
-    * Internal Stack Overflow - [Questions & Answers for Confluence](https://marketplace.atlassian.com/plugins/com.elitesoftsp.confluence.tiny.question.answer)
+    * Internal Stack Overflow - [Questions & Answers for Confluence](https://marketplace.atlassian.com/plugins/com.elitesoftsp.confluence.tiny.question.answer.plugins/server/overview)
     * Tools QA
         * QA people per project
         * Respond within 12 hours
