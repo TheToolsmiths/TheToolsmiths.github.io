@@ -13,7 +13,7 @@ nav_tag: gdc
 ------
 
 #### Tools Roundtable Notes @ GDC 2017
-##### by Paul Haile‏  [Day 1](https://twitter.com/Tyrael/status/837368231752970240) | [Day 2](https://twitter.com/Tyrael/status/837704456888287232) | [Day 3](https://twitter.com/Tyrael/status/838875803353927681)
+##### by Paul Haile‏  [Day 1]({{site.url}}{%- link codex/gdc/roundtable/technical_issues_in_tools/2017/technical-issues-in-tools-development-roundtable-day-1.md -%}) | [Day 2]({{site.url}}{%- link codex/gdc/roundtable/technical_issues_in_tools/2017/technical-issues-in-tools-development-roundtable-day-2.md -%}) | [Day 3]({{site.url}}{%- link codex/gdc/roundtable/technical_issues_in_tools/2017/technical-issues-in-tools-development-roundtable-day-3.md -%})
 
 ------
 
