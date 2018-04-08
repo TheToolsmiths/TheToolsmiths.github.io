@@ -114,6 +114,28 @@
     video_url : http://www.gdcvault.com/play/1023965/Building-Beauclair-Capital-City-in
     slides_url : http://www.gdcvault.com/play/1024610/Building-Beauclair-Capital-City-in
 
+  - session_name : "Tools Tutorial Day: Bungie’s Asset Pipeline: 'Destiny 2' and Beyond"
+    speaker : Brandon Moro
+    company_name : Bungie
+    gdc_year : 2018
+    tags: tools_tutorial_day
+    video_url : https://www.gdcvault.com/play/1025285/Tools-Tutorial-Day-Bungie-s
+    slides_url : https://www.gdcvault.com/play/1025430/Tools-Tutorial-Day-Bungie-s
+
+  - session_name : "The Asset Build System of 'Far Cry 5'"
+    speaker : Remi Quenin
+    company_name : Ubisoft Montreal
+    gdc_year : 2018
+    video_url : https://www.gdcvault.com/play/1025264/The-Asset-Build-System-of
+    slides_url : https://www.gdcvault.com/play/1025444/The-Asset-Build-System-of
+
+  - session_name : "'Middle-earth: Shadow of War': Asset Pipeline Growing Pains"
+    speaker : Doug Heimer
+    company_name : Monolith Productions
+    gdc_year : 2018
+    video_url : https://www.gdcvault.com/play/1025199/-Middle-earth-Shadow-of
+    slides_url : 
+
 - track_name : production
   sessions:
   - session_name : "Data is a Four-Letter Word"
@@ -129,6 +151,37 @@
     gdc_year : 2004
     audio_url : https://www.gdcvault.com/play/1013574/Growing-a-Dedicated-Tools-Programming
     slides_url : https://www.gdcvault.com/play/1022869/Growing-a-Dedicated-Tools-Programming
+
+  - session_name : "Tools Tutorial Day: Tools to Reduce Open Bug Count at Media Molecule"
+    speaker : Amy Phillips
+    company_name : Media Molecule
+    gdc_year : 2018
+    tags: tools_tutorial_day
+    video_url : http://www.gdcvault.com/play/1025013/Tools-Tutorial-Day-Tools-to
+    slides_url : http://www.gdcvault.com/play/1025439/Tools-Tutorial-Day-Tools-to
+
+  - session_name : "Tools Tutorial Day: Shipping 'Call of Duty'"
+    speaker : Paul Haile
+    company_name : Infinity Ward
+    gdc_year : 2018
+    tags: tools_tutorial_day
+    video_url : https://www.gdcvault.com/play/1025286/Tools-Tutorial-Day-Shipping-Call
+    slides_url : https://www.gdcvault.com/play/1025380/Tools-Tutorial-Day-Shipping-Call
+
+  - session_name : "Tools Tutorial Day: Playtesting 'Overwatch'"
+    speaker : Rowan Hamilton
+    company_name : Blizzard Entertainment
+    gdc_year : 2018
+    tags: tools_tutorial_day
+    video_url : https://www.gdcvault.com/play/1025012/Tools-Tutorial-Day-Playtesting-Overwatch
+    slides_url : TBD
+
+   - session_name : "Audio Asset Management Tips and Tricks"
+    speaker : Richard Ludlow
+    company_name : Hexany Audio
+    gdc_year : 2018
+    video_url : https://www.gdcvault.com/play/1025055/Audio-Asset-Management-Tips-and
+    slides_url : https://www.gdcvault.com/play/1025416/Audio-Asset-Management-Tips-and
 
 - track_name : programming
   sessions:
@@ -247,6 +300,36 @@
     video_url : http://www.gdcvault.com/play/1023825/Create-a-20-Times-Faster
     slides_url : http://www.gdcvault.com/play/1023800/Create-a-20-Times-Faster
 
+  - session_name : "Tools Tutorial Day: Workflow Driven Tools Design"
+    speaker : Vesa Paakkanen
+    company_name : Remedy Entertainment
+    gdc_year : 2018
+    tags: tools_tutorial_day
+    video_url : https://www.gdcvault.com/play/1025289/Tools-Tutorial-Day-Workflow-Driven
+    slides_url : http://2qyvea42zlxl2lzrbajpdvgw-wpengine.netdna-ssl.com/wp-content/uploads/2016/10/WorkflowDrivenToolsDesign.pptx
+
+  - session_name : "Tools Tutorial Day: A Tale of Three Data Schemas"
+    speaker : Ludovic Chabant
+    company_name : Electronic Arts
+    gdc_year : 2018
+    tags: tools_tutorial_day
+    video_url : https://www.gdcvault.com/play/1025284/Tools-Tutorial-Day-A-Tale
+    slides_url : TBD
+
+  - session_name : "Rebuilding Your Engine During Development: Lessons from 'Mafia III'"
+    speaker : Jan Kratochvil
+    company_name : Hangar 13 Games
+    gdc_year : 2018
+    video_url : https://www.gdcvault.com/play/1025231/Rebuilding-Your-Engine-During-Development
+    slides_url : https://www.gdcvault.com/play/1025403/Rebuilding-Your-Engine-During-Development
+
+  - session_name : "Technical Artist Bootcamp: Contributing to Open Source"
+    speaker : Bob White
+    company_name : Volition
+    gdc_year : 2018
+    video_url : https://www.gdcvault.com/play/1025253/Technical-Artist-Bootcamp-Contributing-to
+    slides_url : https://www.gdcvault.com/play/1025544/Technical-Artist-Bootcamp-Contributing-to
+
 - track_name : technical_art
   sessions:
   - session_name : "Technical Art Techniques of Naughty Dog - Vertex Shaders and Beyond"
@@ -262,6 +345,13 @@
     gdc_year : 2017
     video_url : https:/vimeo.com/208576955
     slides_url : https://www.gdcvault.com/play/1024576/Technical-Artist-Bootcamp-Building-an
+
+  - session_name : "Technical Artist Bootcamp: Learning an Established Content Creation Pipeline, Workflow and Codebase"
+    speaker : Ross Patel
+    company_name : BioWare
+    gdc_year : 2018
+    video_url : https://www.gdcvault.com/play/1025255/Technical-Artist-Bootcamp-Learning-an
+    slides_url : https://www.gdcvault.com/play/1025545/Technical-Artist-Bootcamp-Learning-an
 
 - track_name : visual_arts
   sessions:
@@ -347,8 +437,39 @@ Tools"
     video_url : http://www.gdcvault.com/play/1023953/Getting-Productivity-from-Play-How
     slides_url :
 
+  - session_name : "Tools Tutorial Day: UX Microtalks, Part 1"
+    speaker : David Lightbown, Nikoline Hogh, Robin-Yann Storm
+    company_name : Ubisoft Montreal, Unity Technologies, Guerrilla Games
+    gdc_year : 2018
+    tags: tools_tutorial_day
+    video_url : https://www.gdcvault.com/play/1025287/Tools-Tutorial-Day-UX-Microtalks
+    slides : 
+      - slides_caption : David's Slides
+        slides_urls : TBD
+      - slides_caption : Nikoline's Slides
+        slides_urls : TBD
+
+  - session_name : "Tools Tutorial Day: UX Microtalks, Part 2"
+    speaker : Liza Shkirando, Eskil Steenberg, Luz Quinonero
+    company_name : Ubisoft Massive, Quel Solaar, Rebellion
+    gdc_year : 2018
+    tags: tools_tutorial_day
+    video_url : https://www.gdcvault.com/play/1025288/Tools-Tutorial-Day-UX-Microtalks
+    slides : 
+      - slides_caption : Luz's Slides
+        slides_urls : https://www.gdcvault.com/play/1025506/Tools-Tutorial-Day-UX-Microtalks
+      - slides_caption : Liza's Slides
+        slides_urls : TBD
+
 - track_name : tech_toolbox
   sessions:
+  - session_name : "Tech Toolbox"
+    speaker : Jonatan Van Hove, Oskar Stalber, Thomas Kai, Fernando Ramall,Allison Parris, Matthew Wegner, Tabby Rose
+    company_name : Glitchnap, Plausible Concept, inkle, Independent, Rewordable, Team Colorblind, Axon Interactive
+    gdc_year : 2018
+    video_url : https://www.gdcvault.com/play/1025002/Tech
+    slides_url : https://www.gdcvault.com/play/1025450/Tech
+
   - session_name : "Tech Toolbox"
     speaker :   Jonatan Van Hove, Holden Link, Ryan Williams, Innes McKendrick, Cukia "Sugar" Kimani, Michael Cook, Chris Martens
     company_name : Glitchnap, Turbo Button, Spry Fox, Hello Games, Nyamakop, University of Falmouth, North Carolina State University
