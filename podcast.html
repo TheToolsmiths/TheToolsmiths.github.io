@@ -5,8 +5,41 @@ header: Episodes
 group: navigation
 ---
 {%- include JB/setup -%}
+<link href="{{ ASSET_PATH }}/css/podcast.css" rel="stylesheet">
 
+<section class="full-playlists">
+    <ul class="container">
+    {%- for episode in site.podcast reversed -%}  
 
-{%- for episode in site.podcast reversed -%}
-    {%- include podcast/episode_line.html -%}
-{%- endfor -%}
+        <a class="episode_block" href='{{ site.url }}{{ episode.url }}'>
+            <li>
+                <h4 class="title">
+                    {{episode.title}}
+                    <small>{{ episode.subtitle }}</small>
+                </h4>
+                <div class="episode-description">
+                    {% if episode.excerpt.size < 180 %}
+                        {{episode.excerpt}}
+                    {% else %}
+                        {% assign words = episode.excerpt | split: " " %}
+                        {% assign text = "" %}
+                        {% for word in words %}
+                            {% assign text_len = text.size %}
+                            {% assign text_len = text_len | plus: word.size | plus: 1 %}
+                            {% if text_len > 177 %}
+                                {% break %}
+                            {% endif %}
+                            {% if text.size == 0 %}
+                                {% assign text = word %}
+                            {% else %}
+                                {% assign text = text | append: " " | append: word %}
+                            {% endif %}
+                        {% endfor %}
+                        {{ text | append: ' ...'}}
+                    {% endif %}
+                </div>
+            </li>
+        </a>
+    {%- endfor -%}
+    </ul>
+</section>
