@@ -136,6 +136,13 @@
     video_url : https://www.gdcvault.com/play/1025199/-Middle-earth-Shadow-of
     slides_url : 
 
+  - session_name : "Procedural World Generation of 'Far Cry 5'"
+    speaker : Etienne Carrier
+    company_name : Ubisoft
+    gdc_year : 2018
+    video_url : http://www.gdcvault.com/play/1025215/Procedural-World-Generation-of-Far
+    slides_url : 
+
 - track_name : production
   sessions:
   - session_name : "Data is a Four-Letter Word"
@@ -176,12 +183,33 @@
     video_url : https://www.gdcvault.com/play/1025012/Tools-Tutorial-Day-Playtesting-Overwatch
     slides_url : TBD
 
-   - session_name : "Audio Asset Management Tips and Tricks"
+  - session_name : "Audio Asset Management Tips and Tricks"
     speaker : Richard Ludlow
     company_name : Hexany Audio
     gdc_year : 2018
     video_url : https://www.gdcvault.com/play/1025055/Audio-Asset-Management-Tips-and
     slides_url : https://www.gdcvault.com/play/1025416/Audio-Asset-Management-Tips-and
+
+  - session_name : "Automated Testing and Profiling for 'Call of Duty'"
+    speaker : Jan van Valburg
+    company_name : Activision
+    gdc_year : 2018
+    video_url : http://www.gdcvault.com/play/1025064/Automated-Testing-and-Profiling-for
+    slides_url : http://www.gdcvault.com/play/1025324/Automated-Testing-and-Profiling-for
+
+  - session_name : "'Horizon Zero Dawn': A QA Open World Case Study"
+    speaker : Ana Barbuta
+    company_name : Guerrilla Games
+    gdc_year : 2018
+    video_url : http://www.gdcvault.com/play/1025153/-Horizon-Zero-Dawn-A
+    slides_url : http://www.gdcvault.com/play/1025326/-Horizon-Zero-Dawn-A
+
+  - session_name : "'Assassin's Creed Origins': Monitoring and Validation of World Design Data"
+    speaker : Nicholas Routhier
+    company_name : Ubisoft Montreal
+    gdc_year : 2018
+    video_url : http://www.gdcvault.com/play/1025054/-Assassin-s-Creed-Origins
+    slides_url : http://www.gdcvault.com/play/1025452/-Assassin-s-Creed-Origins
 
 - track_name : programming
   sessions:
@@ -330,6 +358,20 @@
     video_url : https://www.gdcvault.com/play/1025253/Technical-Artist-Bootcamp-Contributing-to
     slides_url : https://www.gdcvault.com/play/1025544/Technical-Artist-Bootcamp-Contributing-to
 
+  - session_name : "Walking, Talking, and Projectiles: Storytelling Tools in 'Destiny 2'"
+    speaker : Evan Moran
+    company_name : Bungie
+    gdc_year : 2018
+    video_url : http://www.gdcvault.com/play/1025303/Walking-Talking-and-Projectiles-Storytelling
+    slides_url : http://www.gdcvault.com/play/1025526/Walking-Talking-and-Projectiles-Storytelling
+
+  - session_name : "A Practical Approach to Developing Forward-Facing Rigs, Tools and Pipelines"
+    speaker : Michael Malinowski
+    company_name : Creative Assembly
+    gdc_year : 2018
+    video_url : http://www.gdcvault.com/play/1025024/A-Practical-Approach-to-Developing
+    slides_url : http://www.gdcvault.com/play/1025427/A-Practical-Approach-to-Developing
+
 - track_name : technical_art
   sessions:
   - session_name : "Technical Art Techniques of Naughty Dog - Vertex Shaders and Beyond"
@@ -445,9 +487,9 @@ Tools"
     video_url : https://www.gdcvault.com/play/1025287/Tools-Tutorial-Day-UX-Microtalks
     slides : 
       - slides_caption : David's Slides
-        slides_urls : TBD
+        slides_url : "http://thetoolsmiths.org/assets/gdc/2018/LessTimeAtYourDesk.pdf"
       - slides_caption : Nikoline's Slides
-        slides_urls : TBD
+        slides_url : TBD
 
   - session_name : "Tools Tutorial Day: UX Microtalks, Part 2"
     speaker : Liza Shkirando, Eskil Steenberg, Luz Quinonero
@@ -457,9 +499,16 @@ Tools"
     video_url : https://www.gdcvault.com/play/1025288/Tools-Tutorial-Day-UX-Microtalks
     slides : 
       - slides_caption : Luz's Slides
-        slides_urls : https://www.gdcvault.com/play/1025506/Tools-Tutorial-Day-UX-Microtalks
+        slides_url : https://www.gdcvault.com/play/1025506/Tools-Tutorial-Day-UX-Microtalks
       - slides_caption : Liza's Slides
-        slides_urls : TBD
+        slides_url : TBD
+
+  - session_name : "Build Great Tools: Workflow Guidelines from Vicarious Visions"
+    speaker : Jeff Stewart
+    company_name : Vicarious Visions
+    gdc_year : 2018
+    video_url : http://www.gdcvault.com/play/1025074/Build-Great-Tools-Workflow-Guidelines
+    slides_url : http://www.gdcvault.com/play/1025475/Build-Great-Tools-Workflow-Guidelines
 
 - track_name : tech_toolbox
   sessions:
