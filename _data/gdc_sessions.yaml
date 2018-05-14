@@ -372,6 +372,20 @@
     video_url : http://www.gdcvault.com/play/1025024/A-Practical-Approach-to-Developing
     slides_url : http://www.gdcvault.com/play/1025427/A-Practical-Approach-to-Developing
 
+  - session_name : "Deep Learning: Beyond the Hype"
+    speaker : Magnus Nordin
+    company_name : Electronic Arts
+    gdc_year : 2018
+    video_url : http://www.gdcvault.com/play/1025098/Deep-Learning-Beyond-the
+    slides_url :
+
+  - session_name : "Deep Learning for Animation and Content Creation (Presented by NVIDIA)"
+    speaker : Gavriel State, Andrew Edelsten
+    company_name : NVIDIA
+    gdc_year : 2018
+    video_url : http://www.gdcvault.com/play/1024808/
+    slides_url :
+
 - track_name : technical_art
   sessions:
   - session_name : "Technical Art Techniques of Naughty Dog - Vertex Shaders and Beyond"
@@ -480,7 +494,7 @@ Tools"
     slides_url :
 
   - session_name : "Tools Tutorial Day: UX Microtalks, Part 1"
-    speaker : David Lightbown, Nikoline Hogh, Robin-Yann Storm
+    speaker : David Lightbown, Nikoline Høgh, Robin-Yann Storm
     company_name : Ubisoft Montreal, Unity Technologies, Guerrilla Games
     gdc_year : 2018
     tags: tools_tutorial_day
@@ -489,7 +503,7 @@ Tools"
       - slides_caption : David's Slides
         slides_url : "http://thetoolsmiths.org/assets/gdc/2018/LessTimeAtYourDesk.pdf"
       - slides_caption : Nikoline's Slides
-        slides_url : TBD
+        slides_url : "http://thetoolsmiths.org/assets/gdc/2018/GDC_Enabling_creativity_2018_Talk_Nikoline_Høgh.pdf"
 
   - session_name : "Tools Tutorial Day: UX Microtalks, Part 2"
     speaker : Liza Shkirando, Eskil Steenberg, Luz Quinonero
