@@ -136,11 +136,18 @@
     video_url : https://www.gdcvault.com/play/1025199/-Middle-earth-Shadow-of
     slides_url : 
 
-  - session_name : "Procedural World Generation of 'Far Cry 5'"
-    speaker : Etienne Carrier
-    company_name : Ubisoft
+  - session_name : "Lighting and Simplifying Saints Row: The Third"
+    speaker : Scott Kircher
+    company_name : Volition, Inc.
+    gdc_year : 2012
+    video_url : http://www.gdcvault.com/play/1015571/Lighting-and-Simplifying-Saints-Row
+    slides_url : http://www.gdcvault.com/play/1015345/Lighting-and-Simplifying-Saints-Row
+
+  - session_name : "The Animation Pipeline of 'Mario + Rabbids Kingdom Battle'"
+    speaker : Marco Renso, Tommaso Sanguigni
+    company_name : Ubisoft Milan
     gdc_year : 2018
-    video_url : http://www.gdcvault.com/play/1025215/Procedural-World-Generation-of-Far
+    video_url : http://www.gdcvault.com/play/1025262/The-Animation-Pipeline-of-Mario
     slides_url : 
 
 - track_name : production
@@ -227,26 +234,12 @@
     video_url : http://www.gdcvault.com/play/1024514/Building-Worlds-Using
     slides_url :
 
-  - session_name : "Continuous World Generation in 'No Man's Sky'"
-    speaker : Innes McKendrick
-    company_name : Hello Games
-    gdc_year : 2017
-    video_url : http://www.gdcvault.com/play/1024265/Continuous-World-Generation-in-No
-    slides_url : 
-
   - session_name : "Creating a Tools Pipeline for 'Horizon: Zero Dawn'"
     speaker : Dan Sumaili, Sander van der Steen
     company_name : Guerrilla Games
     gdc_year : 2017
     video_url : http://www.gdcvault.com/play/1024124/Creating-a-Tools-Pipeline-for
     slides_url : http://www.gdcvault.com/play/1024685/Creating-a-Tools-Pipeline-for
-
-  - session_name : "GPU-Based Run-Time Procedural Placement in 'Horizon: Zero Dawn'"
-    speaker : Jaap van Muijden
-    company_name : Guerrilla Games
-    gdc_year : 2017
-    video_url : https://www.gdcvault.com/play/1024120/GPU-Based-Run-Time-Procedural
-    slides_url : https://www.gdcvault.com/play/1024700/GPU-Based-Run-Time-Procedural
 
   - session_name : "Data Binding Architectures for Rapid UI Creation in Unity"
     speaker : Stephan Dilly
@@ -342,7 +335,7 @@
     gdc_year : 2018
     tags: tools_tutorial_day
     video_url : https://www.gdcvault.com/play/1025284/Tools-Tutorial-Day-A-Tale
-    slides_url : TBD
+    slides_url : https://www.ea.com/frostbite/news/a-tale-of-three-data-schemas
 
   - session_name : "Rebuilding Your Engine During Development: Lessons from 'Mafia III'"
     speaker : Jan Kratochvil
@@ -372,6 +365,43 @@
     video_url : http://www.gdcvault.com/play/1025024/A-Practical-Approach-to-Developing
     slides_url : http://www.gdcvault.com/play/1025427/A-Practical-Approach-to-Developing
 
+  - session_name : "Frostbite GPU Emitter Graph System"
+    speaker : Sebastien Hillaire, Anders Egleus
+    company_name : Electronic Arts, EA DICE
+    gdc_year : 2018
+    video_url : http://www.gdcvault.com/play/1025132/Frostbite-GPU-Emitter-Graph
+    slides_url : https://www.ea.com/frostbite/news/frostbite-gpu-emitter-graph-system
+
+  - session_name : "By Grabthar's Hammer, What a Savings: Making the Most of Texture Memory with Sprite Dicing"
+    speaker : Jon Manning
+    company_name : Secret Lab
+    gdc_year : 2018
+    video_url : http://www.gdcvault.com/play/1025077/By-Grabthar-s-Hammer-What
+    slides_url : http://www.gdcvault.com/play/1025419/By-Grabthar-s-Hammer-What
+
+  - session_name : "The Visual Effects Technology of 'Destiny'"
+    speaker : Ali Mayyasi, Brandon Whitley
+    company_name : Bungie
+    gdc_year : 2018
+    video_url : http://www.gdcvault.com/play/1025282/The-Visual-Effects-Technology-of
+    slides_url : http://www.gdcvault.com/play/1025490/The-Visual-Effects-Technology-of
+
+  - session_name : "Make It Shiny: Unity's Progressive Lightmapper and Shader Graph (Presented by Unity Technologies)"
+    speaker : Jennifer Nordwall, Matt Dean
+    company_name : Unity Technologies
+    gdc_year : 2018
+    video_url : http://www.gdcvault.com/play/1024840/
+    slides_url : 
+
+  - session_name : "Production-Level Facial Performance Capture Using Deep Convolutional Neural Networks"
+    speaker : Antti Herva
+    company_name : Remedy Entertainment
+    gdc_year : 2018
+    video_url : http://www.gdcvault.com/play/1025223/Production-Level-Facial-Performance-Capture
+    slides_url : https://arxiv.org/pdf/1609.06536v1.pdf
+
+- track_name : procedural_content_generation
+  sessions:
   - session_name : "Deep Learning: Beyond the Hype"
     speaker : Magnus Nordin
     company_name : Electronic Arts
@@ -385,6 +415,183 @@
     gdc_year : 2018
     video_url : http://www.gdcvault.com/play/1024808/
     slides_url :
+
+  - session_name : "Procedural World Generation of 'Far Cry 5'"
+    speaker : Etienne Carrier
+    company_name : Ubisoft
+    gdc_year : 2018
+    video_url : http://www.gdcvault.com/play/1025215/Procedural-World-Generation-of-Far
+    slides_url : 
+
+  - session_name : "Building Blocks: Artist Driven Procedural Buildings"
+    speaker :  James Golding
+    company_name : Epic Games
+    gdc_year : 2010
+    video_url : https://www.gdcvault.com/play/1012219/Building-Blocks-Artist-Driven-Procedural
+    slides_url : https://www.gdcvault.com/play/1012655/Building-Blocks-Artist-Driven-Procedural
+
+  - session_name : "GPU-Based Run-Time Procedural Placement in 'Horizon: Zero Dawn'"
+    speaker : Jaap van Muijden
+    company_name : Guerrilla Games
+    gdc_year : 2017
+    video_url : https://www.gdcvault.com/play/1024120/GPU-Based-Run-Time-Procedural
+    slides_url : https://www.gdcvault.com/play/1024700/GPU-Based-Run-Time-Procedural
+
+  - session_name : "Continuous World Generation in 'No Man's Sky'"
+    speaker : Innes McKendrick
+    company_name : Hello Games
+    gdc_year : 2017
+    video_url : http://www.gdcvault.com/play/1024265/Continuous-World-Generation-in-No
+    slides_url : 
+
+  - session_name : "Math for Game Programmers: Random Numbers"
+    speaker : Squirrel Eiserloh
+    company_name : The Guildhall at SMU
+    gdc_year : 2014
+    video_url : https://www.gdcvault.com/play/1020648/Math-for-Game-Programmers-Random
+    slides_url : 
+
+  - session_name : "Math for Game Programmers: Semi-Procedural Content Pipelines"
+    speaker : Squirrel Eiserloh
+    company_name : The Guildhall at SMU
+    gdc_year : 2018
+    video_url : https://www.gdcvault.com/play/1025196/Math-for-Game-Programmers-Semi
+    slides_url : 
+
+  - session_name : "Math for Game Programmers: Staged Parametric Map Generation"
+    speaker : Squirrel Eiserloh
+    company_name : The Guildhall at SMU
+    gdc_year : 2018
+    video_url : https://www.gdcvault.com/play/1025197/Math-for-Game-Programmers-Staged
+    slides_url : 
+
+  - session_name : "Math for Game Programmers: The Power of Procedural Recipes"
+    speaker : Squirrel Eiserloh
+    company_name : The Guildhall at SMU
+    gdc_year : 2018
+    video_url : https://www.gdcvault.com/play/1025198/Math-for-Game-Programmers-The
+    slides_url : 
+
+  - session_name : "Math for Game Programmers: Juicing World Generation with Metadata Feedback"
+    speaker : Squirrel Eiserloh
+    company_name : The Guildhall at SMU
+    gdc_year : 2018
+    video_url : https://www.gdcvault.com/play/1025193/Math-for-Game-Programmers-Juicing
+    slides_url : 
+
+  - session_name : "Math for Game Programmers: Discrete Constructs in Endless Worlds"
+    speaker : Squirrel Eiserloh
+    company_name : The Guildhall at SMU
+    gdc_year : 2018
+    video_url : https://www.gdcvault.com/play/1025192/Math-for-Game-Programmers-Discrete
+    slides_url : 
+
+  - session_name : "Math for Game Programmers: Digging with Perlin Worms"
+    speaker : Squirrel Eiserloh
+    company_name : The Guildhall at SMU
+    gdc_year : 2018
+    video_url : https://www.gdcvault.com/play/1025191/Math-for-Game-Programmers-Digging
+    slides_url : 
+
+  - session_name : "Plot and Parcel: Procedural Level Design in 'XCom 2'"
+    speaker : Brian Hess
+    company_name : Firaxis Games
+    gdc_year : 2018
+    video_url : https://www.gdcvault.com/play/1025213/Plot-and-Parcel-Procedural-Level
+    slides_url : https://www.gdcvault.com/play/1025387/Plot-and-Parcel-Procedural-Level
+
+  - session_name : "PCG Shotgun: 6 Techniques for Leveraging AI in Content Generation"
+    speaker : Tyler Coleman, Zach Aikman, Tanya Short, Tarn Adams, Mitu Khandaker-Kokoris, Luiz Kruel
+    company_name : Retora Games, 17-BIT, Kitfox Games, Bay 12 Games, Spirit AI, SideFX Software
+    gdc_year : 2017
+    video_url : https://www.gdcvault.com/play/1024146/PCG-Shotgun-6-Techniques-for
+    slides_url : https://www.gdcvault.com/play/1024646/PCG-Shotgun-6-Techniques-for
+
+  - session_name : "Technical Artist Bootcamp: Proceduralism and Automation at Certain Affinity"
+    speaker :   Luiz Kruel
+    company_name : Certain Affinity
+    gdc_year : 2015
+    video_url : https://www.gdcvault.com/play/1022289/Technical-Artist-Bootcamp-Proceduralism-and
+    slides_url : 
+
+  - session_name : "Technical Artist Bootcamp: Introduction to Proceduralism"
+    speaker :   Luiz Kruel
+    company_name : SideFX Software
+    gdc_year : 2017
+    video_url : https://www.gdcvault.com/play/1024281/Technical-Artist-Bootcamp-Introduction-to
+    slides_url : https://www.gdcvault.com/play/1024574/Technical-Artist-Bootcamp-Introduction-to 
+
+  - session_name : "Practical Procedural Generation for Everyone"
+    speaker : Kate Compton
+    company_name : Independent
+    gdc_year : 2017
+    video_url : http://www.gdcvault.com/play/1024213/Practical-Procedural-Generation-for
+    slides_url :
+
+  - session_name : "Making Things Up: The Power and Peril of PCG"
+    speaker : Nathan Sturtevant, Gillian Smith, Julian Togelius
+    company_name : University of Denver, Northeastern University, New York University
+    gdc_year : 2015
+    video_url : http://www.gdcvault.com/play/1022134/Making-Things-Up-The-Power
+    slides_url : http://www.gdcvault.com/play/1022135/Making-Things-Up-The-Power
+
+  - session_name : "Games with Freedom: Programming Procedural Generation and AI"
+    speaker : Manuel Kerssemakers
+    company_name : Abbey Games
+    gdc_year : 2014
+    location : EU
+    video_url : http://www.gdcvault.com/play/1020868/Games-with-Freedom-Programming-Procedural
+    slides_url : http://www.gdcvault.com/play/1020933/Games-with-Freedom-Programming-Procedural
+
+  - session_name : "Designing Games with Procedural Content and Mechanics"
+    speaker : Joris Dormans
+    company_name : Ludomotion
+    gdc_year : 2013
+    location : EU
+    video_url : http://www.gdcvault.com/play/1019284/Designing-Games-with-Procedural-Content
+    slides_url : http://www.gdcvault.com/play/1019240/Designing-Games-with-Procedural-Content
+
+  - session_name : "Creating Photorealistic Procedural Materials with Substance Designer (Presented by Allegorithmic)"
+    speaker : Daniel Thiger
+    company_name : Bungie
+    gdc_year : 2018
+    video_url : http://www.gdcvault.com/play/1024844/
+    slides_url : 
+
+  - session_name : "Beyond Procedural Horizons: Exploring Different Uses of Procedural Content Generation"
+    speaker : Emily Short, Rich Vreeland, Loren Schmidt, Innes McKendrick
+    company_name : Spirit AI, Disasterpeace, Independent, Hello Games
+    gdc_year : 2018
+    video_url : http://www.gdcvault.com/play/1025069/Beyond-Procedural-Horizons-Exploring-Different
+    slides_url : http://www.gdcvault.com/play/1025536/Beyond-Procedural-Horizons-Exploring-Different
+
+  - session_name : "Spline-Based Procedural Modeling in 'Agents of Mayhem'"
+    speaker : Chris Helvig, Chris Dubois
+    company_name : Deep Silver Volition
+    gdc_year : 2018
+    video_url : http://www.gdcvault.com/play/1025244/Spline-Based-Procedural-Modeling-in
+    slides_url : https://www.dsvolition.com/publications/art/spline-based-modeling/
+
+  - session_name : "Technical Artist Bootcamp: Procedural Islands of 'Dauntless'"
+    speaker : Mykola Konyk, Michael Trottier
+    company_name : Phoenix Labs
+    gdc_year : 2018
+    video_url : http://www.gdcvault.com/play/1025256/Technical-Artist-Bootcamp-Procedural-Islands
+    slides_url : http://www.gdcvault.com/play/1025541/Technical-Artist-Bootcamp-Procedural-Islands
+
+  - session_name : "Procedurally Generating History in 'Caves of Qud'"
+    speaker : Jason Grinblat
+    company_name : Freehold Games
+    gdc_year : 2018
+    video_url : http://www.gdcvault.com/play/1024990/Procedurally-Generating-History-in-Caves
+    slides_url : http://www.gdcvault.com/play/1025379/Procedurally-Generating-History-in-Caves
+
+  - session_name : "Beyond Bots: Making Machine Learning Accessible and Useful"
+    speaker : Joe Booth
+    company_name : Vidya Gamer, LLC
+    gdc_year : 2018
+    video_url : http://www.gdcvault.com/play/1025067/Beyond-Bots-Making-Machine-Learning
+    slides_url : http://www.gdcvault.com/play/1025332/Beyond-Bots-Making-Machine-Learning
 
 - track_name : technical_art
   sessions:
@@ -409,6 +616,27 @@
     video_url : https://www.gdcvault.com/play/1025255/Technical-Artist-Bootcamp-Learning-an
     slides_url : https://www.gdcvault.com/play/1025545/Technical-Artist-Bootcamp-Learning-an
 
+  - session_name : "Technical Artist Bootcamp: Shaders 101: Foundational Shader Concepts for Tech Artists"
+    speaker : Ben Cloward
+    company_name : BioWare
+    gdc_year : 2016
+    video_url : http://www.gdcvault.com/play/1023569/Technical-Artist-Bootcamp-Shaders-101
+    slides_url : http://www.gdcvault.com/play/1023152/Technical-Artist-Bootcamp-Shaders-101
+
+  - session_name : "Technical Artist Bootcamp: Shaders 201: Creating Art with Math"
+    speaker : Ben Cloward
+    company_name : BioWare
+    gdc_year : 2017
+    video_url : http://www.gdcvault.com/play/1024282/Technical-Artist-Bootcamp-Shaders-201
+    slides_url : 
+
+  - session_name : "Technical Artist Bootcamp: Shaders 301"
+    speaker : Ben Cloward
+    company_name : BioWare
+    gdc_year : 2018
+    video_url : http://www.gdcvault.com/play/1025259/Technical-Artist-Bootcamp-Shaders
+    slides_url : http://www.gdcvault.com/play/1025538/Technical-Artist-Bootcamp-Shaders
+
 - track_name : visual_arts
   sessions:
   - session_name : "Animation Bootcamp: The First Person Animation of 'Overwatch'"
@@ -425,15 +653,43 @@
     video_url : https://www.gdcvault.com/play/1024091/Shoot-for-the-Sky-The
     slides_url :
 
+  - session_name : "World Building with Architecture"
+    speaker : Sarah Bonser
+    company_name : Hybrid Architects
+    gdc_year : 2018
+    video_url : http://www.gdcvault.com/play/1025311/World-Building-with
+    slides_url :
+
+  - session_name : "Artist Workflow Improved: Digital Content Creation Tools Roundtripping & Worldbuilding (Presented by Unity Technologies)"
+    speaker : Mike Wuetherick, Gabriel Williams
+    company_name : Unity Technologies
+    gdc_year : 2018
+    video_url : http://www.gdcvault.com/play/1024836/
+    slides_url :
+
+  - session_name : "Capturing Great Footage for Game Trailers"
+    speaker : Derek Lieu
+    company_name : Independent
+    gdc_year : 2018
+    video_url : http://www.gdcvault.com/play/1025079/Capturing-Great-Footage-for-Game
+    slides_url : https://www.dropbox.com/s/ghinw94vhx230mu/DerekLieu-Creating-Great-Game-Capture.pdf?dl=0
+
+  - session_name : "Ruins of the Reich: Debris and Rubbles Pipeline in 'Wolfenstein 2' with Substance Designer"
+    speaker : Ben Wilson
+    company_name : MachineGames
+    gdc_year : 2018
+    video_url : http://www.gdcvault.com/play/1024845/
+    slides_url : 
+
+  - session_name : "Visual Effects Bootcamp: Autonomy in Real-Time Effects: Artist Driven Tools and Techniques for Large Scale Production"
+    speaker : Bill Kladis
+    company_name : Epic Games
+    gdc_year : 2018
+    video_url : http://www.gdcvault.com/play/1025297/Visual-Effects-Bootcamp-Autonomy-in
+    slides_url : http://www.gdcvault.com/play/1025520/Visual-Effects-Bootcamp-Autonomy-in
+
 - track_name : ux
   sessions:
-  - session_name : "Building Blocks: Artist Driven Procedural Buildings"
-    speaker :  James Golding
-    company_name : Epic Games
-    gdc_year : 2010
-    video_url : https://www.gdcvault.com/play/1012219/Building-Blocks-Artist-Driven-Procedural
-    slides_url : https://www.gdcvault.com/play/1012655/Building-Blocks-Artist-Driven-Procedural
-
   - session_name : "The User Experience of Game Development Tools"
     speaker :  David Lightbown
     company_name : Ubisoft
@@ -463,8 +719,7 @@
     video_url : http://www.gdcvault.com/play/1023235/Keeping-Level-Designers-in-the
     slides_url : http://www.gdcvault.com/play/1022954/Keeping-Level-Designers-in-the
 
-  - session_name : "Hiding in Plain Sight: The Untapped Resource that is Helping Ubisoft to Make Better
-Tools"
+  - session_name : "Hiding in Plain Sight: The Untapped Resource that is Helping Ubisoft to Make Better Tools"
     speaker :  David Lightbown
     company_name : Ubisoft
     location : EU

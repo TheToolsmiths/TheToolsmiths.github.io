@@ -18,6 +18,10 @@ nav_tag: gdc
 
 ------
 
+#### [GDC Procedural Content Generation Sessions]({{ site.baseurl }}{% link codex/gdc/procedural_content_generation/sessions.md %})
+
+------
+
 #### [GDC Production Sessions]({{ site.baseurl }}{% link codex/gdc/production/sessions.md %})
 
 ------
