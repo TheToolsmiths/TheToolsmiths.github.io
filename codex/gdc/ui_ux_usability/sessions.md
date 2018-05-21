@@ -36,7 +36,15 @@ nav_tag: gdc
 				{% if session.slides_url %}
 <p><a href="{{session.video_url}}">Video</a> | <a href="{{session.slides_url}}">Slides</a></p>
 				{% else %}
+					{% if session.slides %}
+<p><a href="{{session.video_url}}">Video</a>
+						{% for slide in session.slides %}
+ | <a href="{{slide.slides_url}}">{{slide.slides_caption}}</a>
+ 						{% endfor %}
+</p>
+					{% else %}
 <p><a href="{{session.video_url}}">Video</a> | No Slides :(</p>
+					{% endif %}
 				{% endif %}
 
 			{% else %}

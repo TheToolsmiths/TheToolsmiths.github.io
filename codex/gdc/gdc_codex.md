@@ -18,6 +18,10 @@ nav_tag: gdc
 
 ------
 
+#### [GDC Procedural Content Generation Sessions]({{ site.baseurl }}{% link codex/gdc/procedural_content_generation/sessions.md %})
+
+------
+
 #### [GDC Production Sessions]({{ site.baseurl }}{% link codex/gdc/production/sessions.md %})
 
 ------
@@ -27,6 +31,10 @@ nav_tag: gdc
 ------
 
 #### [GDC Visual Arts Sessions]({{ site.baseurl }}{% link codex/gdc/visual_arts/sessions.md %})
+
+------
+
+#### [GDC Tools Tutorial Day]({{ site.baseurl }}{% link codex/gdc/tools_tutorial_day/sessions.md %})
 
 ------
 
