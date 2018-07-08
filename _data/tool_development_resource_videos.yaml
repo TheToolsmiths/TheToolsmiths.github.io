@@ -30,6 +30,13 @@
     type : Video
     url : https://www.youtube.com/channel/UCO8EJo3XtFdq6PMKMKHzL-A
 
+- topic_name : Level Design
+  videos:
+  - caption : The Gamasutra Level Design Panel (With SnapMap)
+    author : Bryant Francis
+    type : Video
+    url : https://www.youtube.com/watch?v=nmS6TqOl_a8
+
 - topic_name : Unity
   videos:
   - caption : Unity VR Editor Tool Demo with Timoni West
@@ -46,6 +53,16 @@
     author : Ian MacGillivray & Bruno Oliveira
     type : Video
     url : https://youtu.be/6k4KesmwV1Q
+
+  - caption : "Siggraph 2017 - Real-time Cinematics & Storytelling"
+    author : Adam Myhill 
+    type : Video
+    url : https://www.youtube.com/watch?v=eNFJXoMIFe4
+
+  - caption : "Introducing.. The 2D Game Kit!"
+    author : Unity
+    type : Video
+    url : https://www.youtube.com/watch?v=4cF7Sl7FazE
 
 - topic_name : Unreal Engine
   videos:
@@ -64,6 +81,13 @@
     author : Ian Shadden
     type : Video
     url : https://youtu.be/mI7eYXMJ5eI
+
+- topic_name : Production
+  videos:
+  - caption : "GCAP 2017: Tools to Help Build Shippable Games"
+    author : Jonathan Adamczewski
+    type : Video
+    url : https://www.youtube.com/watch?v=okrPBvmICJY
 
 - topic_name : Pipelines
   videos:
@@ -115,6 +139,20 @@
       - lable: Unity Photogrammetry Doc + link to ebook
         url: https://unity3d.com/solutions/photogrammetry
 
+- topic_name : Engines
+  videos:
+  - caption : "GCAP 2016: Engines: The Past and Future"
+    author : Tony Albrecht
+    type : Video
+    url : https://www.youtube.com/watch?v=IqCPjDGwviY
+
+- topic_name : Indie
+  videos:
+  - caption : "GCAP 2016: Everyone Loves A Tool"
+    author : Tony Coculuzzi
+    type : Video
+    url : https://www.youtube.com/watch?v=_ZXofR-OOCM
+
 - topic_name : Programming
   videos:
   - caption : Designing and Evaluating Reusable Components - 2004
@@ -142,6 +180,16 @@
     type : Video
     url : https://youtu.be/NBGz723H0_A
 
+  - caption : Developing the technology behind "Love"
+    author : Eskil Steenberg
+    type : Video
+    url : https://www.youtube.com/watch?v=f90R2taD1WQ
+
+  - caption : Unite Austin 2017 - Building Narrative Tools for Oxenfree and Beyond
+    author : Bryant Cannon
+    type : Video
+    url : https://www.youtube.com/watch?v=Sr6_2kxfWjc
+
 - topic_name : Build
   videos:
   - caption : "Core Dump: Day 1 - How do we manage our build data?"
@@ -158,6 +206,11 @@
     author : Bradley Shively & Michael Knight
     type : Video
     url : https://youtu.be/EEuOcLrXB-c
+
+  - caption : "CppCon 2017: “Introduction to Sharpmake”"
+    author : Nicolas Fleury
+    type : Video
+    url : https://www.youtube.com/watch?v=h9imGlRtJpg
 
 - topic_name : Procedural Generation
   videos:
@@ -176,12 +229,22 @@
     type : Video
     url : https://youtu.be/rn4T9Y9PbgQ
 
+  - caption : "GCAP 2017: Procedural Generation in City of Brass"
+    author : Andrew James and Ed Orman
+    type : Video
+    url : https://www.youtube.com/watch?v=ricZLrhwbUQ&list=PLOTpHZU4Epr1El8-uH2J0w8S41fySJr5b&index=7
+
 - topic_name : Revision Control
   videos:
   - caption : Git at scale
     author : Edward Thomson
     type : Video
-    url : https://channel9.msdn.com//Events//Build//2017//P4101
+    url : https://channel9.msdn.com/Events/Build/2017/P4101
+
+  - caption : Perforce Integration into a AAA Game Engine
+    author : Marc Desfossés and Jean-Sébastien Pelletier
+    type : Video
+    url : https://www.youtube.com/watch?v=it7cE-9Fzks
 
 - topic_name : Quality & Testing
   videos:
@@ -209,6 +272,11 @@
     type : Video
     url : https://youtu.be/ZmLrJxmvYdU?list=PLOm9SeAVU7idAZVnZUBT90Yj7AeLk0e2X
 
+  - caption : "GCAP 2017: The 12 Principles of Animation, For Programmers"
+    author : Maya Kerr
+    type : Video
+    url : https://www.youtube.com/watch?v=bZqj3ctmHRw&index=6&list=PLOTpHZU4Epr1El8-uH2J0w8S41fySJr5b
+
 - topic_name : VR
   videos:
   - caption : "Made With Blocks: Bowl | Google VR"
@@ -229,3 +297,10 @@
     author : 
     type : Playlist
     url : https://www.youtube.com/playlist?list=PLrW43fNmjaQVYF4zgsD0oL9Iv6u23PI6M
+
+- topic_name : Windows
+  videos:
+  - caption : "Global tools"
+    author : Rich Lander
+    type : Video
+    url : https://channel9.msdn.com/Shows/On-NET/NET-Core-21-Roadmap-PT2#time=00m43s
