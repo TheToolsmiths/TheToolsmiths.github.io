@@ -400,6 +400,27 @@
     video_url : http://www.gdcvault.com/play/1025223/Production-Level-Facial-Performance-Capture
     slides_url : https://arxiv.org/pdf/1609.06536v1.pdf
 
+  - session_name : "Code Clinic: How to Write Code the Compiler Can Actually Optimize"
+    speaker : Mike Acton
+    company_name : Insomniac Games, Inc
+    gdc_year : 2014
+    video_url : http://www.gdcvault.com/play/1020472/Code-Clinic-How-to-Write
+    slides_url :
+
+  - session_name : "Code Clinic: How to Write Code the Compiler Can Actually Optimize (2015 edition)"
+    speaker : Mike Acton
+    company_name : Insomniac Games, Inc
+    gdc_year : 2015
+    video_url : http://www.gdcvault.com/play/1021866/Code-Clinic-2015-How-to
+    slides_url :
+
+  - session_name : "Taming the Jaguar: x86 Optimization at Insomniac Games"
+    speaker : Andreas Fredriksson
+    company_name : Insomniac Games
+    gdc_year : 2016
+    video_url : https://www.gdcvault.com/play/1023340/Taming-the-Jaguar-x86-Optimization
+    slides_url : https://www.gdcvault.com/play/1023026/Taming-the-Jaguar-x86-Optimization
+
 - track_name : procedural_content_generation
   sessions:
   - session_name : "Deep Learning: Beyond the Hype"
@@ -592,6 +613,13 @@
     gdc_year : 2018
     video_url : http://www.gdcvault.com/play/1025067/Beyond-Bots-Making-Machine-Learning
     slides_url : http://www.gdcvault.com/play/1025332/Beyond-Bots-Making-Machine-Learning
+
+  - session_name : "Reinforced Machine Learning: Leveraging the Power of Intelligence for Gaming (Presented by Amazon)"
+    speaker : Darin Briskman
+    company_name : Amazon Web Services
+    gdc_year : 2018
+    video_url : http://www.gdcvault.com/play/1024835/
+    slides_url : 
 
 - track_name : technical_art
   sessions:
