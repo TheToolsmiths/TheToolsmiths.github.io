@@ -36,6 +36,10 @@ lvl3_nav_tag: resources_web_articles
 
 ------
 
+### [Understanding the Users of Tools]({{ site.baseurl }}{% link codex/tool_development_resources/web_resources/articles/understanding_users.md %})
+
+------
+
 ### [UX]({{ site.baseurl }}{% link codex/tool_development_resources/web_resources/articles/ux.md %})
 
 ------

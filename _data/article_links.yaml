@@ -189,6 +189,13 @@
       author : Barnaby Smith
       url : http://mvi.sh/2010/03/13/lessons-learned-from-tools-development/
 
+- topic_name : understanding the user
+  article_subtopics:
+  - subtopic_name : Level Designer
+    articles:
+      - caption : "Becoming a Level Designer and Env. Artist"
+        url : http://www.worldofleveldesign.com/categories/level_design_tutorials/becoming-level-designer-environment-artist-part1.php
+
 - topic_name : windows
   article_subtopics:
   - subtopic_name : NTFS
