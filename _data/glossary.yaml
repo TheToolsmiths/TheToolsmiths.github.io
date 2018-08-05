@@ -21,6 +21,9 @@
   aka :
     - Content Pipeline
     - Production Pipeline
+    - Asset Build Pipeline
+    - Build Pipeline
+    - Build
   def : >
     is a process that transform an asset from an idea to a digital-content creation (DCC) output file to a part of the game binary. This process lets the artists use the DCC tools that they like while meeting the needs of the development team.
 
@@ -60,9 +63,9 @@
     - Final Layout Artist
     - Level Assembly Artist
     - Set Dressing Artist
-    - World Builder
+    - Prop Artist
   def : >
-    are artist that are responsible for creating visually stunning indoor and outdoor locations and environments in a game's setting while keeping an eye on performance budgets. They use 2D storyboards or 2D concepts to create a 3D scenes prototype and iterate on it until final art quality is reached. They work with the Art Director to maintain the visual consistency of the game's setting. They also work with the game designers to ensure the locations and environments are fun to play in.
+    are artist that are responsible for creating visually stunning indoor and outdoor locations and environments in a game's setting while keeping an eye on performance budgets. They use 2D storyboards or 2D concepts to create a 3D scenes prototype and iterate on it until final art quality is reached. They work with the Art Director to maintain the visual consistency of the game's setting. They also work with the game designers (Level Designers) to ensure the locations and environments are fun to play in. Tasks may include: modeling, texturing, animating lighting of environment assets (props).
 
 - lvl : intermediate
   cntxt : game dev job
@@ -70,6 +73,7 @@
   aka :  
     - LD
     - Environment Design
+    - World Builder
   def : >
     designers that are responsible for creating entire levels of a game like rooms, buildings, cities and areas. They specify locations of gameplay elements like entrance/exit locations, items and loot, non-player characters, event trigger locations to make each level unique. They use weather and day/night cycles to create interesting and challenging environments.
 
