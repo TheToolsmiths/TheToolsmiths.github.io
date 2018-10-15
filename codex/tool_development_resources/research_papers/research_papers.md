@@ -1,6 +1,6 @@
 ---
 layout: codex_page
-title: The Toolsmiths Book Club
+title: Academic Research Papers
 permalink: /codex/tool_development_resources/research_papers/
 codex_page_type: lvl2
 nav_tag: dev_resources

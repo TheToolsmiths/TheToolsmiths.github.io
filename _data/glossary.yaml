@@ -84,6 +84,13 @@
   def : >
     a 3D generalist is someone who can do more than just one field of work in 3D artwork. This area of emphasis covers all aspects of 3D production, along with a strong visual art foundation.
 
+- lvl : intermediate
+  cntxt : game dev pipeline
+  term : data schema
+  aka : schema
+  def : >
+    a data schema is the formal description of the structures a system is working with.
+
 - lvl : advanced
   cntxt : game dev pipeline
   term : Importer

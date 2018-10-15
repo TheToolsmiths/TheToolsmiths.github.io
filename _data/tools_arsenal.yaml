@@ -47,6 +47,11 @@
 
 - solution_category : Transport data between applications
   solutions:
+  - solution_name : Open Game Engine Exchange (OpenGEX)
+    solution_type : language
+    website_url : https://opengex.org/
+    description : format is a text-based file format designed to facilitate the transfer of complex scene data between applications such as modeling tools and game engines.
+
   - solution_name : Open Data Description Language (OpenDDL)
     solution_type : language
     website_url : http://openddl.org/

@@ -189,6 +189,12 @@
       author : Barnaby Smith
       url : http://mvi.sh/2010/03/13/lessons-learned-from-tools-development/
 
+  - subtopic_name : Presentation Slides
+    articles:
+    - caption : We Don't Have Time for UX
+      author : Laura Teeples @ Game UX Summit
+      url : https://drive.google.com/file/d/1ygSffu_6PwVhyutDcxiAyAk6gt6x-6Dr/view
+
 - topic_name : understanding the user
   article_subtopics:
   - subtopic_name : Level Designer
