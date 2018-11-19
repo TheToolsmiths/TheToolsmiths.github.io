@@ -218,6 +218,13 @@
     video_url : http://www.gdcvault.com/play/1025054/-Assassin-s-Creed-Origins
     slides_url : http://www.gdcvault.com/play/1025452/-Assassin-s-Creed-Origins
 
+  - session_name : "Internal & Outsourcer Management Of Tools & Pipelines"
+    speaker :  Brendan Holloway, Adam Pletcher
+    company_name : Volition, Inc.
+    gdc_year : 2008
+    audio_url : https://www.gdcvault.com/play/431/Internal-Outsourcer-Management-Of-Tools
+    slides_url : http://www.dsvolition.com/gdc/downloads/GDC2008_HollowayPletcher_ToolsManagement.zip
+
 - track_name : programming
   sessions:
   - session_name : "Oh my.Maya is Qt!"
@@ -421,6 +428,14 @@
     video_url : https://www.gdcvault.com/play/1023340/Taming-the-Jaguar-x86-Optimization
     slides_url : https://www.gdcvault.com/play/1023026/Taming-the-Jaguar-x86-Optimization
 
+  - session_name : "Next-Gen Asset Streaming Using Runtime Statistics"
+    speaker : David Thall
+    company_name : Insomniac Games
+    gdc_year : 2009
+    location : Austin
+    video_url : https://www.gdcvault.com/play/1011967/Next-Gen-Asset-Streaming-Using
+    slides_url : 
+
 - track_name : procedural_content_generation
   sessions:
   - session_name : "Deep Learning: Beyond the Hype"
@@ -623,11 +638,25 @@
 
 - track_name : technical_art
   sessions:
+  - session_name : "Technical Artist Bootcamp: Deploying and Maintaining a Unified Toolset Worldwide"
+    speaker : Jeff Hanna
+    company_name : Volition
+    gdc_year : 2016
+    video_url : https://www.gdcvault.com/play/1023570/Technical-Artist-Bootcamp-Deploying-and
+    slides_url : https://www.gdcvault.com/play/1023153/Technical-Artist-Bootcamp-Deploying-and
+
   - session_name : "Technical Art Techniques of Naughty Dog - Vertex Shaders and Beyond"
     speaker : Andrew Maximov
     company_name : Naughty Dog
     gdc_year : 2017
     video_url : http://www.gdcvault.com/play/1024103/Technical-Art-Techniques-of-Naughty
+    slides_url :
+
+  - session_name : "Technical Art Techniques Panel: Tools and Pipeline"
+    speaker : Christopher Evans, Robert Galanakis, Seth Gibson, Jeff Hanna, Ross Patel
+    company_name : Industrial Light + Magic, Bioware Austin, 343 Industries, Volition, Inc, Microsoft
+    gdc_year : 2009
+    video_url : https://www.gdcvault.com/play/1321/Technical-Art-Techniques-Panel-Tools
     slides_url :
 
   - session_name : "Technical Artist Bootcamp: Building an Offline Simulation Pipeline"
@@ -643,6 +672,20 @@
     gdc_year : 2018
     video_url : https://www.gdcvault.com/play/1025255/Technical-Artist-Bootcamp-Learning-an
     slides_url : https://www.gdcvault.com/play/1025545/Technical-Artist-Bootcamp-Learning-an
+
+  - session_name : "Technical Artist Bootcamp: Production Values: Improving Quality, Longevity and Scalability"
+    speaker : Jodie Azhar
+    company_name : Creative Assembly
+    gdc_year : 2018
+    video_url : https://www.gdcvault.com/play/1025257/Technical-Artist-Bootcamp-Production-Values
+    slides_url : https://www.gdcvault.com/play/1025540/Technical-Artist-Bootcamp-Production-Values
+
+  - session_name : "Technical Artist Bootcamp: Tech Art in Tamriel: The Elder Scrolls Online's Character Tools and Pipeline"
+    speaker : Richard Katz
+    company_name : Zenimax Online
+    gdc_year : 2015
+    video_url : https://www.gdcvault.com/play/1022291/Technical-Artist-Bootcamp-Tech-Art
+    slides_url : 
 
   - session_name : "Technical Artist Bootcamp: Shaders 101: Foundational Shader Concepts for Tech Artists"
     speaker : Ben Cloward
@@ -664,6 +707,13 @@
     gdc_year : 2018
     video_url : http://www.gdcvault.com/play/1025259/Technical-Artist-Bootcamp-Shaders
     slides_url : http://www.gdcvault.com/play/1025538/Technical-Artist-Bootcamp-Shaders
+
+  - session_name : "Technical Artist Bootcamp: Python"
+    speaker : Pat Corwin
+    company_name : ArenaNet
+    gdc_year : 2013
+    video_url : https://www.gdcvault.com/play/1017659/Technical-Artist-Bootcamp
+    slides_url : 
 
 - track_name : visual_arts
   sessions:
@@ -715,6 +765,13 @@
     gdc_year : 2018
     video_url : http://www.gdcvault.com/play/1025297/Visual-Effects-Bootcamp-Autonomy-in
     slides_url : http://www.gdcvault.com/play/1025520/Visual-Effects-Bootcamp-Autonomy-in
+
+  - session_name : "Building Open Worlds Faster: the Volition Way"
+    speaker : Jason Hayes
+    company_name : Volition / THQ
+    gdc_year : 2011
+    video_url : https://www.gdcvault.com/play/1014717/Building-Open-Worlds-Faster-the
+    slides_url : 
 
 - track_name : ux
   sessions:
