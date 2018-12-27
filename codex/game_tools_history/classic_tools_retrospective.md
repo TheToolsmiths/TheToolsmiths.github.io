@@ -21,6 +21,9 @@ nav_tag: history
 
 [Classic Tools Retrospective: Tim Sweeney on the first version of the Unreal Editor](https://www.gamasutra.com/blogs/DavidLightbown/20180109/309414/Classic_Tools_Retrospective_Tim_Sweeney_on_the_first_version_of_the_Unreal_Editor.php)
 
+
+[Classic Tools Retrospective: The tools that built Deus Ex, with Chris Norden](http://www.gamasutra.com/blogs/DavidLightbown/20181023/328687/Classic_Tools_Retrospective_The_tools_that_built_Deus_Ex_with_Chris_Norden.php)
+
 ------
 ------
 #### Videos

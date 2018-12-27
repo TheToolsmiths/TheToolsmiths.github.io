@@ -39,6 +39,10 @@
   - caption : "Game Development Needs Data Pipeline Middleware"
     url : https://blog.demofox.org/2016/04/01/game-development-needs-data-pipeline-middleware/
 
+  - caption : "Evolution of a Streaming Client"
+    author : Joshua Kriegshauser
+    url : http://blog.joshuakriegshauser.com/2010/02/evolution-of-streaming-client.html
+
   - caption : "What Is In a Name? - designing a resource system for a game engine"
     author : Niklas Gray (Bitsquid/Stingray)
     url : http://bitsquid.blogspot.ru/2014/06/what-is-in-name.html
@@ -93,6 +97,24 @@
 
   - caption : "Game Tools Tune-Up: Optimize Your Pipeline Through Usability"
     url : https://www.gamasutra.com/view/feature/4016/game_tools_tuneup_optimize_your_.php
+
+  - caption : "Working with the Asset Pipeline and Asset Files"
+    url : https://docs.aws.amazon.com/lumberyard/latest/userguide/asset-pipeline-intro.html
+
+  - caption : "Optimized Asset Processing"
+    url : http://cowboyprogramming.com/2007/03/12/optimized-asset-processing/
+
+  - caption : "Collaborative Game Editing"
+    url : http://www.gamasutra.com/view/feature/132383/collaborative_game_editing.php
+
+  - caption : "The Whimsy Of Domain-Specific Languages"
+    url : http://www.gamasutra.com/view/feature/130077/the_whimsy_of_domainspecific_.php
+
+  - caption : "Book Excerpt: The Game Asset Pipeline: Managing Asset Processing"
+    url : https://www.gamasutra.com/view/feature/130616/book_excerpt_the_game_asset_.php
+
+  - caption : "Graphics for Games 101. Asset Pipeline"
+    url : http://ithare.com/graphics-for-games-101-asset-pipeline/
 
 - topic_name : tool core
   articles:
@@ -179,6 +201,9 @@
     - caption : "Metrics & keylines"
       url : https://material.io/guidelines/layout/metrics-keylines.html#metrics-keylines-sizing-by-increments
 
+    - caption : "UDK/CryEngine 3 Tool set comparison"
+      url : https://technicalgamedesign.blogspot.com/p/udkcryengine-3-tool-set-comparison.html
+
   - subtopic_name : Articles
     articles:
     - caption : Desktop compositing latency is real and it annoys me
@@ -262,6 +287,12 @@
 
       - caption : "Tutorial/How to avoid C/C++ runtime on Windows"
         url : https://handmade.network/wiki/2824-tutorial_how_to_avoid_c_c++_runtime_on_windows
+
+      - caption : "Procedural Spooling In Games"
+        url : http://www.gamasutra.com/view/feature/130028/procedural_spooling_in_games.php
+
+      - caption : "Random Scattering: Creating Realistic Landscapes"
+        url : http://www.gamasutra.com/view/feature/130071/random_scattering_creating_.php
 
   - subtopic_name : Visual Studio articles
     articles:
