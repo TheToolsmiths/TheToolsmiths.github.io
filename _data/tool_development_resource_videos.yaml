@@ -30,6 +30,11 @@
     type : Video
     url : https://www.youtube.com/channel/UCO8EJo3XtFdq6PMKMKHzL-A
 
+  - caption : Design Patterns For Complex Apps and Workflows
+    author : NNgroup
+    type : Video
+    url : https://www.youtube.com/watch?v=P1CYZ65b5SA
+
 - topic_name : Level Design
   videos:
   - caption : The Gamasutra Level Design Panel (With SnapMap)

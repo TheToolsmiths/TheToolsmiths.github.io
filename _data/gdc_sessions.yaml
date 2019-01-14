@@ -715,6 +715,14 @@
     video_url : https://www.gdcvault.com/play/1017659/Technical-Artist-Bootcamp
     slides_url : 
 
+  - session_name : "How to Train your Technical Artist"
+    speaker : 	Jeff Hanna
+    company_name : Volition, Inc
+    gdc_year : 2010
+    location : China
+    video_url : https://www.gdcvault.com/play/1017659/Technical-Artist-Bootcamp
+    slides_url : 
+
 - track_name : visual_arts
   sessions:
   - session_name : "Animation Bootcamp: The First Person Animation of 'Overwatch'"

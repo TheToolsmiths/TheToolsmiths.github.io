@@ -22,7 +22,13 @@
     - Content Pipeline
     - Production Pipeline
     - Asset Build Pipeline
+    - Asset Pipeline
     - Build Pipeline
+    - Asset Conditioning Pipeline
+    - ACP
+    - Tool Chain
+    - Resource Conditioning Pipeline
+    - RCP
     - Build
   def : >
     is a process that transform an asset from an idea to a digital-content creation (DCC) output file to a part of the game binary. This process lets the artists use the DCC tools that they like while meeting the needs of the development team.

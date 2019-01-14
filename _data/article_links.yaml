@@ -116,6 +116,12 @@
   - caption : "Graphics for Games 101. Asset Pipeline"
     url : http://ithare.com/graphics-for-games-101-asset-pipeline/
 
+  - caption : "Content Pipelines and Build Processes"
+    url : http://www.dphrygian.com/news/2008/09/content-pipelines-and-build-processes.html
+
+  - caption : "Effective 3D Exporter Design: How to Make Artists Love You (archive.org)"
+    url : https://web.archive.org/web/20100408042657/http://www.gamasutra.com/features/20040910/tavares_01.shtml
+
 - topic_name : tool core
   articles:
   - caption : "Universal Undo, Copy and Paste"
