@@ -38,6 +38,11 @@ GDC Vault links to tool related lectures and Tools SIG round table Notes.
 
 ------
 
+### [Learning Paths]({{ site.baseurl }}{% link codex/learning_paths/learning_paths.md %})
+Helping to become masters of the trade
+
+------
+
 ### [Tool Development Resources]({{ site.baseurl }}{% link codex/tool_development_resources/tool_development_resources.md %})
 Books, Websites, blogs, youtube, twitch etc.
 
