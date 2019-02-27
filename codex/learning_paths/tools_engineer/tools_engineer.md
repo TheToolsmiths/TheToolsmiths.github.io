@@ -31,5 +31,5 @@ You can explore this learning path in a couple of ways:
 
 - [ Core Game Tools Development ]({{ site.baseurl }}{% link codex/learning_paths/tools_engineer/core_game_tools_development/core_game_tools_development.md %})
 
-- [ Game Tools Development Branches ]({{ site.baseurl }}{% link codex/learning_paths/tools_engineer/game_tools_development_branches/game_tools_development_branches.md %})
+- [ Game Tools Development Disciplines ]({{ site.baseurl }}{% link codex/learning_paths/tools_engineer/game_tools_development_branches/game_tools_development_branches.md %})
 

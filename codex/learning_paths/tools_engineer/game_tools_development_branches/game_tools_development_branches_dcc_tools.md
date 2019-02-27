@@ -1,6 +1,6 @@
 ---
 layout: codex_page
-title: "Tools Engineer: Game Tools Development Branches - Digital Content Creation Tools"
+title: "Tools Engineer: Game Tools Development Disciplines - Digital Content Creation Tools"
 short_title: "Digital Content Creation Tools"
 permalink: /codex/learning_paths/tools_engineer_learning_path/game_tools_development_branches/dcc_tools
 codex_page_type: lvl4

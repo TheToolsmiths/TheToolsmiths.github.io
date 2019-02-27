@@ -1,7 +1,7 @@
 ---
 layout: codex_page
-title: "Tools Engineer: Game Tools Development Branches - Content Build Pipeline"
-short_title: "Game Tools Development Branches - Pipeline"
+title: "Tools Engineer: Game Tools Development Disciplines - Content Build Pipeline"
+short_title: "Game Tools Development Disciplines - Pipeline"
 permalink: /codex/learning_paths/tools_engineer_learning_path/game_tools_development_branches/pipeline
 codex_page_type: lvl4
 nav_tag: learning_path

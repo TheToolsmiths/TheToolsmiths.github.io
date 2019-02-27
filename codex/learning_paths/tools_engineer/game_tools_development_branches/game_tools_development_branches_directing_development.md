@@ -1,7 +1,7 @@
 ---
 layout: codex_page
-title: "Tools Engineer: Game Tools Development Branches - Directing Game Tools Development"
-short_title: "Game Tools Development Branches - Directing Development"
+title: "Tools Engineer: Game Tools Development Disciplines - Directing Game Tools Development"
+short_title: "Game Tools Development Disciplines - Directing Development"
 permalink: /codex/learning_paths/tools_engineer_learning_path/game_tools_development_branches/directing_development
 codex_page_type: lvl4
 nav_tag: learning_path

@@ -1,7 +1,7 @@
 ---
 layout: codex_page
-title: "Tools Engineer: Game Tools Development Branches - Reliability & Infrastructure"
-short_title: "Game Tools Development Branches - Reliability & Infrastructure"
+title: "Tools Engineer: Game Tools Development Disciplines - Reliability & Infrastructure"
+short_title: "Game Tools Development Disciplines - Reliability & Infrastructure"
 permalink: /codex/learning_paths/tools_engineer_learning_path/game_tools_development_branches/infrastructure
 codex_page_type: lvl4
 nav_tag: learning_path
