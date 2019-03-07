@@ -5,7 +5,7 @@ date: 2019-03-06T18:11:38+00:00
 author: Victor Stepanov
 layout: post
 future: true
-permalink: /2019/03/06/gdc-2018-toolsmiths-guide/
+permalink: /2019/03/06/gdc-2019-toolsmiths-guide/
 categories:
   - GDC
 ---
