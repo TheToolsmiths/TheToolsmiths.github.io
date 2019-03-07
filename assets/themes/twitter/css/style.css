@@ -65,6 +65,15 @@
   text-decoration: none;
   border: 1px dashed #cccccc; }
 
+.tag_box_v3 {
+  padding: 3px 6px;
+  margin: 2px;
+  background: #777;
+  color: #000;
+  border-radius: 3px;
+  text-decoration: none;
+  border: 1px dashed #cccccc; }
+
 .tag_box a span {
   vertical-align: super;
   font-size: 0.8em; }

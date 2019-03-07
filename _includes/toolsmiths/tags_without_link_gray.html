@@ -1,0 +1,6 @@
+{% assign tags =  include.tags | split: "," %}
+<ul class="inline">
+{% for tag in tags %}
+	<li class="tag_box_v3">{{tag}}</li>
+{% endfor %}
+</ul>
