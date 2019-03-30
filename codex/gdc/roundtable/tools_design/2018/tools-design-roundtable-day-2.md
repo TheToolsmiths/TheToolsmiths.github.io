@@ -2,6 +2,7 @@
 title: 'Notes for "Tools Design Roundtable Day 2: Production"'
 layout: codex_notes_page
 author: Victor Stepanov
+author_url: https://twitter.com/VictorStepanov
 permalink: /codex/gdc/roundtable/tools_design/2018/day-2
 nav_tag: gdc
 ---

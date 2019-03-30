@@ -2,6 +2,7 @@
 title: 'Technical Issues in Tools Development Roundtable - Day 3: Frameworks and Languages'
 layout: codex_notes_page
 author: Paul Haile
+author_url: https://twitter.com/Tyrael
 permalink: /codex/gdc/roundtable/technical_issues_in_tools/2017/day-3
 nav_tag: gdc
 ---

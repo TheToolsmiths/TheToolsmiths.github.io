@@ -7,6 +7,12 @@ nav_tag: gdc
 ---
 {% include JB/setup %}
 
+
+#### Tools Roundtable Notes @ GDC 2019
+##### by Victor Stepanov‏  [Day 1]({{site.url}}{%- link codex/gdc/roundtable/technical_issues_in_tools/2019/technical-issues-in-tools-development-roundtable-day-1.md -%}) | [Day 2]({{site.url}}{%- link codex/gdc/roundtable/technical_issues_in_tools/2019/technical-issues-in-tools-development-roundtable-day-2.md -%}) | [Day 3]({{site.url}}{%- link codex/gdc/roundtable/technical_issues_in_tools/2019/technical-issues-in-tools-development-roundtable-day-3.md -%})
+
+------
+
 #### Tools Roundtable Notes @ GDC 2018
 ##### by Paul Haile‏  [Day 1]({{site.url}}{%- link codex/gdc/roundtable/technical_issues_in_tools/2018/technical-issues-in-tools-development-roundtable-day-1.md -%}) | [Day 2]({{site.url}}{%- link codex/gdc/roundtable/technical_issues_in_tools/2018/technical-issues-in-tools-development-roundtable-day-2.md -%}) | [Day 3]({{site.url}}{%- link codex/gdc/roundtable/technical_issues_in_tools/2018/technical-issues-in-tools-development-roundtable-day-3.md -%})
 
