@@ -24,6 +24,11 @@ We pick a Vault talk, watch it on our own time, then pick a time/date to discuss
 
 <hr>
 
+## Discussed GDC Talks
+- [GDC 2019 Pipeline Support for Feature Branches in 'Destiny'](https://www.gdcvault.com/play/1025992/Pipeline-Support-for-Feature-Branches)
+
+<hr>
+
 ## Current GDC talk
-- Name: [GDC 2019 Pipeline Support for Feature Branches in 'Destiny'](https://www.gdcvault.com/play/1025992/Pipeline-Support-for-Feature-Branches)
-- Deadline (view the talk by) : April 26th
+- Name: [GDC 2019 Bungie's Force Multipliers: Production Engineers](https://www.gdcvault.com/play/1025970/Bungie-s-Force-Multipliers-Production)
+- Deadline (view the talk by) : May 17th
