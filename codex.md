@@ -8,7 +8,7 @@ permalink: /codex/
 
 # The Toolsmiths Codex
 
-_Last update to the Codex - March 30, 2019_
+_Last update to the Codex - May 20, 2019_
 
 The Codex is a warehouse of information that is constantly curated by the Slack to hold reference information about best practices in tools. These topics are perennial at the Technical Issues in Tools roundtables at GDC, and by having this information available on the website we can focus more attention to trends and changes in the state of the art instead of calling out known solutions.
 

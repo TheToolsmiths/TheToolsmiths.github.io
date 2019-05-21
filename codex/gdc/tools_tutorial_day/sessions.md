@@ -30,6 +30,10 @@ nav_tag: gdc
 <h6>{{session.speaker}} {{company_name}}@ GDC {{session.gdc_year}}</h6>
 				{% endif %}
 
+				{% if session.role_tags %} 
+<h6>Special Interest Subgroups: {{session.role_tags}}</h6>
+				{% endif %} 
+
 				{% if session.video_url %}
 
 					{% if session.slides_url %}
