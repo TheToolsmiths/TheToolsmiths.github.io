@@ -20,15 +20,17 @@ We pick a Vault talk, watch it on our own time, then pick a time/date to discuss
 
 #### List of Suggested GDC Vault Talks
 - [GDC 2019 Tech Toolbox](https://schedule.gdconf.com/session/tech-toolbox/865380)
-- [GDC 2019 Bungie's Force Multipliers: Production Engineers](https://schedule.gdconf.com/session/bungies-force-multipliers-production-engineers/860319)
+- [Tools Tutorial Day: The Science of Customer-Focused Tools Development](https://www.gdcvault.com)
+- [Tools Tutorial Day: Tooling for Small Team Workflows](https://www.gdcvault.com)
 
 <hr>
 
 ## Discussed GDC Talks
 - [GDC 2019 Pipeline Support for Feature Branches in 'Destiny'](https://www.gdcvault.com/play/1025992/Pipeline-Support-for-Feature-Branches)
+- [GDC 2019 Bungie's Force Multipliers: Production Engineers](https://www.gdcvault.com/play/1025970/Bungie-s-Force-Multipliers-Production)
 
 <hr>
 
 ## Current GDC talk
-- Name: [GDC 2019 Bungie's Force Multipliers: Production Engineers](https://www.gdcvault.com/play/1025970/Bungie-s-Force-Multipliers-Production)
-- Deadline (view the talk by) : May 17th
+- Name: [GDC 2019 The Future of Scene Description on 'God of War'](https://www.gdcvault.com/play/1025969/The-Future-of-Scene-Description)
+- Deadline (view the talk by) : June 7th
