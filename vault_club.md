@@ -22,12 +22,12 @@ We pick a Vault talk, watch it on our own time, then pick a time/date to discuss
 - [Keeping Level Designers in the Zone Through Level Editor Design](https://www.gdcvault.com/play/1023235/Keeping-Level-Designers-in-the)
 - [Developing Imperfect Software: How to Prepare for Development Pipeline Failure](https://www.gdcvault.com/play/1015531/Developing-Imperfect-Software-How-to)
 - [The Asset pipeline for Just Cause 2: Lessons learned](https://www.gdcvault.com/play/1012232/The-Asset-pipeline-for-Just)
-- [GDC 2019 Tech Toolbox](https://schedule.gdconf.com/session/tech-toolbox/865380)
-- [Tools Tutorial Day: The Science of Customer-Focused Tools Development](https://www.gdcvault.com)
-- [Level Up Your Jenkins Reporting](https://schedule.gdconf.com/session/level-up-your-jenkins-reporting-/860748)
-- [Tools Tutorial Day: Tooling for Small Team Workflows](https://www.gdcvault.com)
-- [Technical Tools for Authoring Branching Dialogue](https://schedule.gdconf.com/session/technical-tools-for-authoring-branching-dialogue/862202)
-- [Technical Artist Bootcamp: Cementing Your Duct Tape: Turning Hacks into Tools](https://schedule.gdconf.com/session/technical-artist-bootcamp-cementing-your-duct-tape-turning-hacks-into-tools/863956)
+- [GDC 2019 Tech Toolbox](https://www.gdcvault.com/browse/gdc-19/play/1025699)
+- [Tools Tutorial Day: The Science of Customer-Focused Tools Development](https://www.gdcvault.com/browse/gdc-19/play/1025812)
+- [Level Up Your Jenkins Reporting](https://www.gdcvault.com/browse/gdc-19/play/1026019)
+- [Tools Tutorial Day: Tooling for Small Team Workflows](https://www.gdcvault.com/browse/gdc-19/play/1025807)
+- [Technical Tools for Authoring Branching Dialogue](https://www.gdcvault.com/browse/gdc-19/play/1025962)
+- [Technical Artist Bootcamp: Cementing Your Duct Tape: Turning Hacks into Tools](https://www.gdcvault.com/browse/gdc-19/play/1025948)
 
 <hr>
 
