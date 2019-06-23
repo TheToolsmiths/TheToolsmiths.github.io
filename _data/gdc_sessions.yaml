@@ -1,5 +1,14 @@
 - track_name : pipelines
   sessions:
+  - session_name : "Tools Tutorial Day: 3D Asset Recognition with Deep Learning"
+    speaker : Francois Nadeau
+    company_name : Ubisoft
+    gdc_year : 2019
+    tags: tools_tutorial_day
+    role_tags: DCC Tool Dev, Tool UX/UI Designer, Tool Lead
+    video_url : https://www.gdcvault.com/play/1025813/Tools-Tutorial-Day-3D-Asset
+    slides_url :
+
   - session_name : "Behind the Scenes: The GEARS OF WAR 2 Cinematics Pipeline"
     speaker : Tanya Jessen, Greg Mitchell
     company_name : Epic Games
@@ -152,6 +161,15 @@
 
 - track_name : production
   sessions:
+  - session_name : "Tools Tutorial Day: Shipping Features Responsibly"
+    speaker : Geoff Evans
+    company_name : Infinity Ward
+    gdc_year : 2019
+    tags: tools_tutorial_day
+    role_tags: DCC Tool Dev, Pipeline Dev, Infrastructure & Reliability Dev, Tool Lead
+    video_url : https://www.gdcvault.com/play/1025808/Tools-Tutorial-Day-Shipping-Features
+    slides_url : https://www.gdcvault.com/play/1026296/Tools-Tutorial-Day-Shipping-Features
+
   - session_name : "Data is a Four-Letter Word"
     speaker : Paul Du Bois, Henry Goffin
     company_name : Double Fine
@@ -227,6 +245,24 @@
 
 - track_name : programming
   sessions:
+  - session_name : "Tools Tutorial Day: Tooling for Small Team Workflows"
+    speaker : Irina Zaugolnikova
+    company_name : Bungie
+    gdc_year : 2019
+    tags: tools_tutorial_day
+    role_tags: Infrastructure & Reliability Dev, Tool Lead
+    video_url : https://www.gdcvault.com/play/1025807/Tools-Tutorial-Day-Tooling-for
+    slides_url :
+
+  - session_name : "Tools Tutorial Day: 9 Things Learned While Building Frostbite's Cinematics Tools"
+    speaker : Ludovic Chabant
+    company_name : Electronic Arts
+    gdc_year : 2019
+    tags: tools_tutorial_day
+    role_tags: DCC Tool Dev, Tool UX/UI Designer, Tool Lead
+    video_url : https://www.gdcvault.com/play/1025811/Tools-Tutorial-Day-9-Things
+    slides_url :
+
   - session_name : "Oh my.Maya is Qt!"
     speaker : Kristine Middlem
     company_name : Autodesk
@@ -783,6 +819,15 @@
 
 - track_name : ux
   sessions:
+  - session_name : "Tools Tutorial Day: The Science of Customer-Focused Tools Development"
+    speaker : Caroline Colon
+    company_name : Bungie
+    gdc_year : 2019
+    tags: tools_tutorial_day
+    role_tags: DCC Tool Dev, Tool UX/UI Designer
+    video_url : https://www.gdcvault.com/play/1025812/Tools-Tutorial-Day-The-Science
+    slides_url : 
+
   - session_name : "The User Experience of Game Development Tools"
     speaker :  David Lightbown
     company_name : Ubisoft
@@ -872,6 +917,24 @@
     video_url : http://www.gdcvault.com/play/1025074/Build-Great-Tools-Workflow-Guidelines
     slides_url : http://www.gdcvault.com/play/1025475/Build-Great-Tools-Workflow-Guidelines
 
+  - session_name : "Tools Tutorial Day: The System of Tools: Reducing Frustration in a Daily Workflow"
+    speaker : Laura Teeples
+    company_name : 343 Industries
+    gdc_year : 2019
+    tags: tools_tutorial_day
+    role_tags: DCC Tool Dev, Tool UX/UI Designer, Tool Lead
+    video_url : https://www.gdcvault.com/play/1025806/Tools-Tutorial-Day-The-System
+    slides_url : https://www.gdcvault.com/play/1026441/Tools-Tutorial-Day-The-System
+
+  - session_name : "Tools Tutorial Day: Analyzing for Workflow Reduction: From Many to One to Zero"
+    speaker : Philip Bloom
+    company_name : Machine Zone
+    gdc_year : 2019
+    tags: tools_tutorial_day
+    role_tags: DCC Tool Dev, Tool UX/UI Designer, Infrastructure & Reliability Dev
+    video_url : https://www.gdcvault.com/play/1025809/Tools-Tutorial-Day-Analyzing-for
+    slides_url : https://www.gdcvault.com/play/1026253/Tools-Tutorial-Day-Analyzing-for
+
 - track_name : tech_toolbox
   sessions:
   - session_name : "Tech Toolbox"
@@ -901,67 +964,3 @@
     gdc_year : 2015
     video_url : https://www.gdcvault.com/play/1022284/Tech
     slides_url : https://www.gdcvault.com/play/1022285/Tech
-
-  - session_name : "Tools Tutorial Day: The System of Tools: Reducing Frustration in a Daily Workflow"
-    speaker : Laura Teeples
-    company_name : 343 Industries
-    gdc_year : 2019
-    tags: tools_tutorial_day
-    role_tags: DCC Tool Dev, Tool UX/UI Designer, Tool Lead
-    video_url : https://www.gdcvault.com/play/1025806/Tools-Tutorial-Day-The-System
-    slides_url : https://www.gdcvault.com/play/1026441/Tools-Tutorial-Day-The-System
-
-  - session_name : "Tools Tutorial Day: 3D Asset Recognition with Deep Learning"
-    speaker : Francois Nadeau
-    company_name : Ubisoft
-    gdc_year : 2019
-    tags: tools_tutorial_day
-    role_tags: DCC Tool Dev, Tool UX/UI Designer, Tool Lead
-    video_url : https://www.gdcvault.com/play/1025813/Tools-Tutorial-Day-3D-Asset
-    slides_url :
-
-  - session_name : "Tools Tutorial Day: 9 Things Learned While Building Frostbite's Cinematics Tools"
-    speaker : Ludovic Chabant
-    company_name : Electronic Arts
-    gdc_year : 2019
-    tags: tools_tutorial_day
-    role_tags: DCC Tool Dev, Tool UX/UI Designer, Tool Lead
-    video_url : https://www.gdcvault.com/play/1025811/Tools-Tutorial-Day-9-Things
-    slides_url :
-
-  - session_name : "Tools Tutorial Day: Tooling for Small Team Workflows"
-    speaker : Irina Zaugolnikova
-    company_name : Bungie
-    gdc_year : 2019
-    tags: tools_tutorial_day
-    role_tags: Infrastructure & Reliability Dev, Tool Lead
-    video_url : https://www.gdcvault.com/play/1025807/Tools-Tutorial-Day-Tooling-for
-    slides_url :
-
-  - session_name : "Tools Tutorial Day: Shipping Features Responsibly"
-    speaker : Geoff Evans
-    company_name : Infinity Ward
-    gdc_year : 2019
-    tags: tools_tutorial_day
-    role_tags: DCC Tool Dev, Pipeline Dev, Infrastructure & Reliability Dev, Tool Lead
-    video_url : https://www.gdcvault.com/play/1025808/Tools-Tutorial-Day-Shipping-Features
-    slides_url : https://www.gdcvault.com/play/1026296/Tools-Tutorial-Day-Shipping-Features
-
-  - session_name : "Tools Tutorial Day: Analyzing for Workflow Reduction: From Many to One to Zero"
-    speaker : Philip Bloom
-    company_name : Machine Zone
-    gdc_year : 2019
-    tags: tools_tutorial_day
-    role_tags: DCC Tool Dev, Tool UX/UI Designer, Infrastructure & Reliability Dev
-    video_url : https://www.gdcvault.com/play/1025809/Tools-Tutorial-Day-Analyzing-for
-    slides_url : https://www.gdcvault.com/play/1026253/Tools-Tutorial-Day-Analyzing-for
-
-  - session_name : "Tools Tutorial Day: The Science of Customer-Focused Tools Development"
-    speaker : Caroline Colon
-    company_name : Bungie
-    gdc_year : 2019
-    tags: tools_tutorial_day
-    role_tags: DCC Tool Dev, Tool UX/UI Designer
-    video_url : https://www.gdcvault.com/play/1025812/Tools-Tutorial-Day-The-Science
-    slides_url : 
-    
