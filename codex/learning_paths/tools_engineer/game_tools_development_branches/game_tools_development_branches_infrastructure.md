@@ -49,7 +49,6 @@ lvl3_nav_tag: tools_engineer_branches
 #### Books Links
 - [Continuous Integration: Improving Software Quality and Reducing Risk](https://www.amazon.com/Continuous-Integration-Improving-Software-Reducing/dp/0321336380)
 - [Configuration Management: Theory, Practice, and Application](https://www.amazon.com/Configuration-Management-Theory-Practice-Application/dp/1482229358)
-- [Dive Into Python 3](https://www.diveinto.org/python3/)
 
 #### Web Links
 - [Tools Engineer Recruiting FAQ, Geoff Evans](http://software.gorlak.org/recruiting/2018/07/13/tools-engineer-faq)
