@@ -21,7 +21,6 @@ We pick a Vault talk, watch it on our own time, then pick a time/date to discuss
 #### List of Suggested GDC Vault Talks
 - [Keeping Level Designers in the Zone Through Level Editor Design](https://www.gdcvault.com/play/1023235/Keeping-Level-Designers-in-the)
 - [Developing Imperfect Software: How to Prepare for Development Pipeline Failure](https://www.gdcvault.com/play/1015531/Developing-Imperfect-Software-How-to)
-- [The Asset pipeline for Just Cause 2: Lessons learned](https://www.gdcvault.com/play/1012232/The-Asset-pipeline-for-Just)
 - [GDC 2019 Tech Toolbox](https://www.gdcvault.com/browse/gdc-19/play/1025699)
 - [Tools Tutorial Day: The Science of Customer-Focused Tools Development](https://www.gdcvault.com/browse/gdc-19/play/1025812)
 - [Tools Tutorial Day: Tooling for Small Team Workflows](https://www.gdcvault.com/browse/gdc-19/play/1025807)
@@ -35,9 +34,11 @@ We pick a Vault talk, watch it on our own time, then pick a time/date to discuss
 - [GDC 2019 Bungie's Force Multipliers: Production Engineers](https://www.gdcvault.com/play/1025970/Bungie-s-Force-Multipliers-Production)
 - [GDC 2019 The Future of Scene Description on 'God of War'](https://www.gdcvault.com/play/1025969/The-Future-of-Scene-Description)
 - [GDC 2019 Tools for 'Marvel's Spider-Man': Editing with Immutable Data](https://www.gdcvault.com/play/1026080/Tools-for-Marvel-s-Spider)
+- [GDC 2019 Level Up Your Jenkins Reporting](https://www.gdcvault.com/browse/gdc-19/play/1026019)
+- [GDC 2019 Procedurally Crafting Manhattan for 'Marvel's Spider-Man'](https://www.gdcvault.com/browse/gdc-19/play/1025765)
 
 <hr>
 
-## Current GDC talk
-- Name: [GDC 2019 Level Up Your Jenkins Reporting](https://www.gdcvault.com/browse/gdc-19/play/1026019)
-- Deadline (view the talk by) : **July 22nd**
+## Current GDC talk (Classic edition)
+- Name: [GDC 2010 The Asset pipeline for Just Cause 2: Lessons learned](https://www.gdcvault.com/play/1012232/The-Asset-pipeline-for-Just)
+- Deadline (view the talk by) : **September 3rd**
