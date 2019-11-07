@@ -46,4 +46,12 @@ nav_tag: gdc
 
 ------
 
+#### [GDC Infrastructure & Reliability Sessions]({{ site.baseurl }}{% link codex/gdc/infrastructure_n_reliability/sessions.md %})
+
+------
+
 #### [GDC Tech Toolbox Sessions]({{ site.baseurl }}{% link codex/gdc/tech_toolbox/sessions.md %})
+
+------
+
+#### [GDC Team Management Sessions]({{ site.baseurl }}{% link codex/gdc/team_management/sessions.md %})

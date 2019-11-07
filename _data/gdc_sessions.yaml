@@ -1,5 +1,59 @@
 - track_name : pipelines
   sessions:
+  - session_name: 'ML Tutorial Day: From Motion Matching to Motion Synthesis, and All the Hurdles In Between'
+    speaker: Fabio Zinno
+    company_name: Electronic Arts
+    gdc_year: 2019
+    tag: ''
+    role_tag: DCC Tool Dev, Tool Lead
+    video_url: https://www.gdcvault.com/play/1025890
+    slides_url: https://www.gdcvault.com/play/1026472/ML-Tutorial-Day-From-Motion
+
+  - session_name: A New Era of Performance Capture with Machine Learning
+    speaker: Daniel Holden
+    company_name: Ubisoft Montreal
+    gdc_year: 2019
+    tag: ''
+    role_tag: DCC Tool Dev, Pipeline Dev
+    video_url: https://www.gdcvault.com/play/1026038
+    slides_url: https://www.gdcvault.com/play/1026328/A-New-Era-of-Performance
+
+  - session_name: Rethinking Your Performance Capture Pipeline with Machine Learning
+    speaker: Stephen Shaw
+    company_name: ALICE Studios, Ubisoft
+    gdc_year: 2019
+    tag: ''
+    role_tag: DCC Tool Dev, Pipeline Dev
+    video_url: https://www.gdcvault.com/play/1025977
+    slides_url: 
+
+  - session_name: 'Compiling Your Story: Using Techniques from Compiler Design to Check Your Narrative'
+    speaker: Jon Manning
+    company_name: Secret Lab
+    gdc_year: 2019
+    tag: ''
+    role_tag: Pipeline Dev
+    video_url: https://www.gdcvault.com/play/1025981
+    slides_url: 
+
+  - session_name: The Future of Scene Description on 'God of War'
+    speaker: Koray Hagen
+    company_name: Sony Santa Monica Studio
+    gdc_year: 2019
+    tag: ''
+    role_tag: Pipeline Dev, DCC Tool Dev
+    video_url: https://www.gdcvault.com/play/1025969
+    slides_url: https://www.gdcvault.com/play/1026345/The-Future-of-Scene-Description
+
+  - session_name: Pipeline Support for Feature Branches in 'Destiny'
+    speaker: Pete Kugler
+    company_name: Bungie
+    gdc_year: 2019
+    tag: ''
+    role_tag: Infrastructure & Reliability Dev, Tool Lead
+    video_url: https://www.gdcvault.com/play/1025992
+    slides_url: 
+
   - session_name : "Tools Tutorial Day: 3D Asset Recognition with Deep Learning"
     speaker : Francois Nadeau
     company_name : Ubisoft
@@ -161,6 +215,24 @@
 
 - track_name : production
   sessions:
+  - session_name: Level Up Your Jenkins Reporting
+    speaker: Adrian Yu
+    company_name: Electronic Arts
+    gdc_year: 2019
+    tag: ''
+    role_tag: Infrastructure & Reliability Dev, Tool Lead
+    video_url: https://www.gdcvault.com/play/1026019
+    slides_url: 
+
+  - session_name: 'Bungie''s Force Multipliers: Production Engineers'
+    speaker: Jo King-Yost
+    company_name: Bungie
+    gdc_year: 2019
+    tag: ''
+    role_tag: DCC Tool Dev, Pipeline Dev, Infrastructure & Reliability Dev, Tool Lead
+    video_url: https://www.gdcvault.com/play/1025970
+    slides_url: https://www.gdcvault.com/play/1026530/Bungie-s-Force-Multipliers-Production
+
   - session_name : "Tools Tutorial Day: Shipping Features Responsibly"
     speaker : Geoff Evans
     company_name : Infinity Ward
@@ -183,14 +255,6 @@
     gdc_year : 2004
     audio_url : https://www.gdcvault.com/play/1013574/Growing-a-Dedicated-Tools-Programming
     slides_url : https://www.gdcvault.com/play/1022869/Growing-a-Dedicated-Tools-Programming
-
-  - session_name : "Tools Tutorial Day: Tools to Reduce Open Bug Count at Media Molecule"
-    speaker : Amy Phillips
-    company_name : Media Molecule
-    gdc_year : 2018
-    tags: tools_tutorial_day
-    video_url : http://www.gdcvault.com/play/1025013/Tools-Tutorial-Day-Tools-to
-    slides_url : http://www.gdcvault.com/play/1025439/Tools-Tutorial-Day-Tools-to
 
   - session_name : "Tools Tutorial Day: Shipping 'Call of Duty'"
     speaker : Paul Haile
@@ -215,13 +279,6 @@
     video_url : https://www.gdcvault.com/play/1025055/Audio-Asset-Management-Tips-and
     slides_url : https://www.gdcvault.com/play/1025416/Audio-Asset-Management-Tips-and
 
-  - session_name : "Automated Testing and Profiling for 'Call of Duty'"
-    speaker : Jan van Valburg
-    company_name : Activision
-    gdc_year : 2018
-    video_url : http://www.gdcvault.com/play/1025064/Automated-Testing-and-Profiling-for
-    slides_url : http://www.gdcvault.com/play/1025324/Automated-Testing-and-Profiling-for
-
   - session_name : "'Horizon Zero Dawn': A QA Open World Case Study"
     speaker : Ana Barbuta
     company_name : Guerrilla Games
@@ -243,8 +300,164 @@
     audio_url : https://www.gdcvault.com/play/431/Internal-Outsourcer-Management-Of-Tools
     slides_url : http://www.dsvolition.com/gdc/downloads/GDC2008_HollowayPletcher_ToolsManagement.zip
 
+- track_name : infrastructure_n_reliability 
+  sessions:
+
+  - session_name : "Tools Tutorial Day: Tools to Reduce Open Bug Count at Media Molecule"
+    speaker : Amy Phillips
+    company_name : Media Molecule
+    gdc_year : 2018
+    tags: tools_tutorial_day
+    role_tag: Infrastructure & Reliability Dev
+    video_url : http://www.gdcvault.com/play/1025013/Tools-Tutorial-Day-Tools-to
+    slides_url : http://www.gdcvault.com/play/1025439/Tools-Tutorial-Day-Tools-to
+
+  - session_name : "Automated Testing and Profiling for 'Call of Duty'"
+    speaker : Jan van Valburg
+    company_name : Activision
+    gdc_year : 2018
+    tag: ''
+    role_tag: Infrastructure & Reliability Dev
+    video_url : http://www.gdcvault.com/play/1025064/Automated-Testing-and-Profiling-for
+    slides_url : http://www.gdcvault.com/play/1025324/Automated-Testing-and-Profiling-for
+
+  - session_name: 'AI for Testing: The Development of Bots that Play ''Battlefield V'''
+    speaker: Jonas Gillberg
+    company_name: Electronic Arts
+    gdc_year: 2019
+    tag: ''
+    role_tag: Infrastructure & Reliability Dev
+    video_url: https://www.gdcvault.com/play/1025905
+    slides_url: https://www.gdcvault.com/play/1026308/AI-for-Testing-The-Development
+
+  - session_name: Automated Testing of Gameplay Features in 'Sea of Thieves'
+    speaker: Robert Masella
+    company_name: Rare, Ltd.
+    gdc_year: 2019
+    tag: ''
+    role_tag: Infrastructure & Reliability Dev
+    video_url: https://www.gdcvault.com/play/1026042
+    slides_url: https://www.gdcvault.com/play/1026366/Automated-Testing-of-Gameplay-Features
+
+  - session_name: 'Balancing Nightmares: An AI Approach to Balance Games with Overwhelming Amounts of Data'
+    speaker: Kazuko Manabe
+    company_name: Square Enix Co., Ltd.
+    gdc_year: 2019
+    tag: ''
+    role_tag: Pipeline Dev, Tool Lead
+    video_url: https://www.gdcvault.com/play/1026033
+    slides_url: https://www.gdcvault.com/play/1026365/Balancing-Nightmares-An-AI-Approach
+
+  - session_name: 'Automated Testing: Using AI Controlled Players to Test ''The Division'''
+    speaker: Jose Paredes, Pete Jones
+    company_name: Ubisoft, Ubisoft
+    gdc_year: 2019
+    tag: ''
+    role_tag: Infrastructure & Reliability Dev
+    video_url: https://www.gdcvault.com/play/1026069
+    slides_url: https://www.gdcvault.com/play/1026382/Automated-Testing-Using-AI-Controlled
+
 - track_name : programming
   sessions:
+  - session_name: 'Audio Bootcamp XVIII: How a Systemic Approach to Game Audio Increased Creativity and Productivity for ''Assassin''s Creed Odyssey'''
+    speaker: Lydia Andrew
+    company_name: Ubisoft Quebec
+    gdc_year: 2019
+    tag: ''
+    role_tag: DCC Tool Dev, Tool UX/UI Designer
+    video_url: https://www.gdcvault.com/play/1025938
+    slides_url: https://www.gdcvault.com/play/1026240/Audio-Bootcamp-XVIII-How-a
+
+  - session_name: Experimental AI for Games
+    speaker: Nicole He, Max Kreminski, Imre Jele, Phoenix Perry, Gabriella Barros, David Dodero
+    company_name: Independent, UC Santa Cruz, Bossa Studios, Goldsmiths University, modl.ai, Lyrebird.ai
+    gdc_year: 2019
+    tag: ''
+    role_tag: Tool Lead
+    video_url: https://www.gdcvault.com/play/1025906
+    slides_url: 
+
+  - session_name: The Alchemy and Science of Machine Learning for Games
+    speaker: Yves Jacquier
+    company_name: Ubisoft Montreal
+    gdc_year: 2019
+    tag: ''
+    role_tag: DCC Tool Dev, Tool UX/UI Designer, Tool Lead
+    video_url: https://www.gdcvault.com/play/1025653
+    slides_url: 
+
+  - session_name: 'ML Tutorial Day: Machine Learning for Everyday Programming'
+    speaker: Angelo Pesce
+    company_name: Activision
+    gdc_year: 2019
+    tag: ''
+    role_tag: DCC Tool Dev, Pipeline Dev, Infrastructure & Reliability Dev, Tool Lead
+    video_url: https://www.gdcvault.com/play/1025888
+    slides_url: https://www.gdcvault.com/play/1026298/ML-Tutorial-Day-Machine-Learning
+
+  - session_name: 'Math for Game Developers: Understanding and Tracing Numerical Errors in C++'
+    speaker: Gino van den Bergen
+    company_name: Dtecta
+    gdc_year: 2019
+    tag: ''
+    role_tag: Pipeline Dev
+    video_url: https://www.gdcvault.com/play/1025911
+    slides_url: https://www.gdcvault.com/play/1026447/Math-for-Game-Developers-Understanding
+
+  - session_name: Everyone Watching This Is Fired
+    speaker: Mike Acton
+    company_name: Unity Technologies
+    gdc_year: 2019
+    tag: ''
+    role_tag: DCC Tool Dev, Pipeline Dev, Tool Lead
+    video_url: https://www.gdcvault.com/play/1025778
+    slides_url: 
+
+  - session_name: 'Tools for ''Marvel''s Spider-Man'': Editing with Immutable Data'
+    speaker: Ronald Pieket
+    company_name: Insomniac Games
+    gdc_year: 2019
+    tag: ''
+    role_tag: Pipeline Dev, DCC Tool Dev
+    video_url: https://www.gdcvault.com/play/1026080
+    slides_url: 
+
+  - session_name: Back to the Future! Working with Deterministic Simulation in 'For Honor'
+    speaker: Jennifer Henry
+    company_name: Ubisoft Montreal
+    gdc_year: 2019
+    tag: ''
+    role_tag: Pipeline Dev, Infrastructure & Reliability Dev, Tool Lead
+    video_url: https://www.gdcvault.com/play/1026077
+    slides_url: https://www.gdcvault.com/play/1026322/Back-to-the-Future-Working
+
+  - session_name: '''Marvel''s Spider-Man'': A Technical Postmortem'
+    speaker: Elan Ruskin
+    company_name: Insomniac Games
+    gdc_year: 2019
+    tag: ''
+    role_tag: DCC Tool Dev, Pipeline Dev, Tool Lead
+    video_url: https://www.gdcvault.com/play/1026496
+    slides_url: 
+
+  - session_name: 'Game Preservation Best Practices: A Real Life EA Case Study'
+    speaker: Garrett Fredley
+    company_name: Electronic Arts
+    gdc_year: 2019
+    tag: ''
+    role_tag: Pipeline Dev, Infrastructure & Reliability Dev, Tool Lead
+    video_url: https://www.gdcvault.com/play/1025739
+    slides_url: https://www.gdcvault.com/play/1026305/Game-Preservation-Best-Practices-A
+
+  - session_name: 'Beyond the Remake of ''Shadow of the Colossus'': A Technical Perspective'
+    speaker: Peter Dalton
+    company_name: Bluepoint Games
+    gdc_year: 2019
+    tag: ''
+    role_tag: Pipeline Dev, Infrastructure & Reliability Dev, Tool Lead
+    video_url: https://www.gdcvault.com/play/1026043
+    slides_url: https://www.gdcvault.com/play/1026277/Beyond-the-Remake-of-Shadow
+
   - session_name : "Tools Tutorial Day: Tooling for Small Team Workflows"
     speaker : Irina Zaugolnikova
     company_name : Bungie
@@ -474,6 +687,69 @@
 
 - track_name : procedural_content_generation
   sessions:
+  - session_name: 'Advanced Graphics Techniques Tutorial: Four Million Acres, Seriously: GPU-Based Procedural Terrains in ''Serious Sam 4: Planet Badass'''
+    speaker: Alen Ladavac
+    company_name: Croteam
+    gdc_year: 2019
+    tag: ''
+    role_tag: DCC Tool Dev, Pipeline Dev
+    video_url: https://www.gdcvault.com/play/1025815
+    slides_url: https://www.gdcvault.com/play/1026349/Advanced-Graphics-Techniques-Tutorial-Four
+
+  - session_name: 'Math for Game Developers: End-to-End Procedural Generation in ''Caves of Qud'''
+    speaker: Brian Bucklew, Jason Grinblat
+    company_name: Freehold Games, Freehold Games
+    gdc_year: 2019
+    tag: ''
+    role_tag: DCC Tool Dev
+    video_url: https://www.gdcvault.com/play/1025914
+    slides_url: https://www.gdcvault.com/play/1026313/Math-for-Game-Developers-End
+
+  - session_name: 'Math for Game Developers: Tile-Based Map Generation using Wave Function Collapse in ''Caves of Qud'''
+    speaker: Brian Bucklew
+    company_name: Freehold Games
+    gdc_year: 2019
+    tag: ''
+    role_tag: DCC Tool Dev
+    video_url: https://www.gdcvault.com/play/1025913
+    slides_url: https://www.gdcvault.com/play/1026263/Math-for-Game-Developers-Tile
+
+  - session_name: 'Math for Game Developers: Procedural Mesh Animation with Non-Linear Transforms'
+    speaker: Michael Austin
+    company_name: Hidden Path Entertainment
+    gdc_year: 2019
+    tag: ''
+    role_tag: DCC Tool Dev
+    video_url: https://www.gdcvault.com/play/1025910
+    slides_url: https://www.gdcvault.com/play/1026243/Math-for-Game-Developers-Procedural
+
+  - session_name: '''Marvel''s Spider-Man'': Procedural Lighting Tools'
+    speaker: Xray Halperin
+    company_name: Insomniac Games
+    gdc_year: 2019
+    tag: ''
+    role_tag: DCC Tool Dev, Tool UX/UI Designer, Tool Lead
+    video_url: https://www.gdcvault.com/play/1026034
+    slides_url: https://www.gdcvault.com/play/1026315/-Marvel-s-Spider-Man
+
+  - session_name: Procedurally Crafting Manhattan for 'Marvel's Spider-Man'
+    speaker: David Santiago
+    company_name: Insomniac Games
+    gdc_year: 2019
+    tag: ''
+    role_tag: DCC Tool Dev, Tool UX/UI Designer, Tool Lead
+    video_url: https://www.gdcvault.com/play/1025765
+    slides_url: https://www.gdcvault.com/play/1026415/Procedurally-Crafting-Manhattan-for-Marvel
+
+  - session_name: Procedural Generation of Cinematic Dialogues in 'Assassin's Creed Odyssey'
+    speaker: Francois Paradis
+    company_name: Ubisoft Quebec
+    gdc_year: 2019
+    tag: ''
+    role_tag: DCC Tool Dev, Tool UX/UI Designer, Tool Lead
+    video_url: https://www.gdcvault.com/play/1025980
+    slides_url: https://www.gdcvault.com/play/1026381/Procedural-Generation-of-Cinematic-Dialogues
+
   - session_name : "Deep Learning: Beyond the Hype"
     speaker : Magnus Nordin
     company_name : Electronic Arts
@@ -674,6 +950,42 @@
 
 - track_name : technical_art
   sessions:
+  - session_name: Super Powering Technical Artists Using Deep Learning
+    speaker: Cesar Romero
+    company_name: Unity Technologies
+    gdc_year: 2019
+    tag: ''
+    role_tag: DCC Tool Dev, Tool UX/UI Designer, Tool Lead
+    video_url: https://www.gdcvault.com/play/1026027
+    slides_url: https://www.gdcvault.com/play/1026408/Super-Powering-Technical-Artists-Using
+
+  - session_name: 'Technical Artist Bootcamp: The Dual Power of Metanodes in Maya'
+    speaker: Andrew Christophersen
+    company_name: ArenaNet
+    gdc_year: 2019
+    tag: ''
+    role_tag: DCC Tool Dev
+    video_url: https://www.gdcvault.com/play/1025950
+    slides_url: https://www.gdcvault.com/play/1026272/Technical-Artist-Bootcamp-The-Dual
+
+  - session_name: 'Technical Artist Bootcamp: "Understanding Constraints: A Framework for Tech Art Decision Making" & "Tech Art at Scale: Supporting 2,000 Users"'
+    speaker: Luiz Kruel, Alexander Zotikov
+    company_name: SideFX Software, Remedy Entertainment
+    gdc_year: 2019
+    tag: ''
+    role_tag: DCC Tool Dev, Infrastructure & Reliability Dev, Tool Lead
+    video_url: https://www.gdcvault.com/play/1025949
+    slides_url: https://www.gdcvault.com/play/1026347/Technical-Artist-Bootcamp-Understanding-Constraints
+
+  - session_name: 'Technical Artist Bootcamp: Cementing Your Duct Tape: Turning Hacks into Tools'
+    speaker: Mattias Van Camp
+    company_name: The Creative Assembly
+    gdc_year: 2019
+    tag: ''
+    role_tag: DCC Tool Dev, Tool Lead
+    video_url: https://www.gdcvault.com/play/1025948
+    slides_url: https://www.gdcvault.com/play/1026446/Technical-Artist-Bootcamp-Cementing-Your
+
   - session_name : "Technical Artist Bootcamp: Deploying and Maintaining a Unified Toolset Worldwide"
     speaker : Jeff Hanna
     company_name : Volition
@@ -761,6 +1073,105 @@
 
 - track_name : visual_arts
   sessions:
+  - session_name: Low Cost Facial Scanning Using Photogrammetry in 'State of Decay 2'
+    speaker: Matt Heiniger
+    company_name: Undead Labs
+    gdc_year: 2019
+    tag: ''
+    role_tag: Tool UX/UI Designer, Tool Lead
+    video_url: https://www.gdcvault.com/play/1026014
+    slides_url: https://www.gdcvault.com/play/1026320/Low-Cost-Facial-Scanning-Using
+
+  - session_name: 'Keyframes and Cardboard Props: The Cinematic Process Behind ''God of War'''
+    speaker: Erica Pinto
+    company_name: Sony Santa Monica Studio
+    gdc_year: 2019
+    tag: ''
+    role_tag: DCC Tool Dev, Tool UX/UI Designer, Tool Lead
+    video_url: https://www.gdcvault.com/play/1026025
+    slides_url: https://www.gdcvault.com/play/1026390/Keyframes-and-Cardboard-Props-The
+
+  - session_name: 'Creating a Deeper Emotional Connection: The Cinematography of ''God of War'''
+    speaker: Dori Arazi
+    company_name: Sony Santa Monica Studio
+    gdc_year: 2019
+    tag: ''
+    role_tag: DCC Tool Dev, Tool UX/UI Designer
+    video_url: https://www.gdcvault.com/play/1025986
+    slides_url: 
+
+  - session_name: 'LIVE ART DEMO - Creativity Tools: A Digital Methodology for Design Inspiration'
+    speaker: Patrick Faulwetter
+    company_name: Independent
+    gdc_year: 2015
+    tag: ''
+    role_tag: DCC Tool Dev, Tool UX/UI Designer
+    video_url: https://www.gdcvault.com/play/1022124/LIVE-ART-DEMO-Creativity-Tools
+    slides_url: 
+
+  - session_name: 'Art Direction Bootcamp: Building Worlds Through Shape Language'
+    speaker: Patrick Faulwetter
+    company_name: Patrick Faulwetter Studio, LLC
+    gdc_year: 2019
+    tag: ''
+    role_tag: DCC Tool Dev, Tool UX/UI Designer
+    video_url: https://www.gdcvault.com/play/1025897
+    slides_url: 
+
+  - session_name: 'Animation Bootcamp: Animation Microtalks'
+    speaker: Lana Bachynski, Yussef Cole, Ryan Duffin, Gwen Frey, Mike Jungbluth, Heather Alexandra MacIntyre, Brandon Nason, Kristin Palach, John Paul Rhinemiller, Nikki Roth, Nikita Taranduke
+    company_name: Blizzard Entertainment, Patriot Act with Hasan Minhaj, BioWare, Chump Squad, BioWare, Kotaku, Pocket Gems, Harmonix Music Systems, Vicarious Visions, Google Daydream, NexonOC
+    gdc_year: 2019
+    tag: ''
+    role_tag: DCC Tool Dev, Tool UX/UI Designer
+    video_url: https://www.gdcvault.com/play/1025843
+    slides_url: 
+
+  - session_name: 'Animation Bootcamp: ''God of War'': Breathing New Life into a Hardened Spartan'
+    speaker: Bruno Velasquez
+    company_name: Sony Santa Monica Studio
+    gdc_year: 2019
+    tag: ''
+    role_tag: DCC Tool Dev, Tool UX/UI Designer
+    video_url: https://www.gdcvault.com/play/1025836
+    slides_url: 
+
+  - session_name: 'Animation Bootcamp: Animation Tricks of the Trade'
+    speaker: Sylvia Chong, Jake Clark, Sophie Evans, Raul Ibarra, Melissa Shim, Zack Wolfe
+    company_name: League of Geeks, Studio MDHR, 'Cuphead', The Molasses Flood, Moon Studios, Sony Santa Monica Studio, OddBird
+    gdc_year: 2019
+    tag: ''
+    role_tag: DCC Tool Dev, Tool UX/UI Designer
+    video_url: https://www.gdcvault.com/play/1025842
+    slides_url: https://www.gdcvault.com/play/1026295/Animation-Bootcamp-Animation-Tricks-of
+
+  - session_name: 'Art Direction Bootcamp: Building a Creative Future with Artificial Intelligence'
+    speaker: Andrew Maximov
+    company_name: Promethean AI, LLC
+    gdc_year: 2019
+    tag: ''
+    role_tag: DCC Tool Dev, Tool UX/UI Designer, Tool Lead
+    video_url: https://www.gdcvault.com/play/1025898
+    slides_url: 
+
+  - session_name: 'Marvel''s New York: A Case Study in Empowering Your Artists'
+    speaker: Jason Hickey
+    company_name: Insomniac Games
+    gdc_year: 2019
+    tag: ''
+    role_tag: DCC Tool Dev, Tool UX/UI Designer, Tool Lead
+    video_url: https://www.gdcvault.com/play/1026082
+    slides_url: 
+
+  - session_name: '(Super)Humans of New York: Managing the Many Faces in ''Marvel''s Spider-Man'''
+    speaker: Noah Alzayer
+    company_name: Insomniac Games
+    gdc_year: 2019
+    tag: ''
+    role_tag: DCC Tool Dev, Tool Lead
+    video_url: https://www.gdcvault.com/play/1025987
+    slides_url: https://www.gdcvault.com/play/1026239/(Super)Humans-of-New-York-Managing
+
   - session_name : "Animation Bootcamp: The First Person Animation of 'Overwatch'"
     speaker : Matthew Boehm
     company_name : Blizzard Entertainment
@@ -819,6 +1230,33 @@
 
 - track_name : ux
   sessions:
+  - session_name: Maximizing Animation and Cinematic Content Workflows for 'Just Cause 4'
+    speaker: Brian Venisky
+    company_name: Avalanche Studios
+    gdc_year: 2019
+    tag: ''
+    role_tag: DCC Tool Dev, Tool UX/UI Designer, Pipeline Dev
+    video_url: https://www.gdcvault.com/play/1026081
+    slides_url: https://www.gdcvault.com/play/1026449/Maximizing-Animation-and-Cinematic-Content
+
+  - session_name: Technical Tools for Authoring Branching Dialogue
+    speaker: Carrie Patel, David Szymczyk
+    company_name: Obsidian Entertainment, Obsidian Entertainment
+    gdc_year: 2019
+    tag: ''
+    role_tag: DCC Tool Dev, Tool UX/UI Designer, Tool Lead
+    video_url: https://www.gdcvault.com/play/1025962
+    slides_url: https://www.gdcvault.com/play/1026384/Technical-Tools-for-Authoring-Branching
+
+  - session_name: 'Building Buy-In: Creating Design Tools for Better Player Experiences at EA'
+    speaker: Peter Vesti Frendrup, Krista Parham
+    company_name: EA DICE, Electronic Arts
+    gdc_year: 2019
+    tag: ''
+    role_tag: Tool UX/UI Designer, DCC Tool Dev, Tool Lead
+    video_url: https://www.gdcvault.com/play/1025820
+    slides_url: https://www.gdcvault.com/play/1026306/Building-Buy-In-Creating-Design
+
   - session_name : "Tools Tutorial Day: The Science of Customer-Focused Tools Development"
     speaker : Caroline Colon
     company_name : Bungie
@@ -935,8 +1373,26 @@
     video_url : https://www.gdcvault.com/play/1025809/Tools-Tutorial-Day-Analyzing-for
     slides_url : https://www.gdcvault.com/play/1026253/Tools-Tutorial-Day-Analyzing-for
 
+  - session_name: 'Tools Tutorial Day: Perfecting Workflows: Tool Development to Empower Designers'
+    speaker: Linda Kruse
+    company_name: the Good Evil GmbH
+    gdc_year: 2019
+    tag: ''
+    role_tag: DCC Tool Dev, Tool UX/UI Designer
+    video_url: https://www.gdcvault.com/play/1025810'
+    slides_url: 
+
 - track_name : tech_toolbox
   sessions:
+  - session_name: Tech Toolbox
+    speaker: Nicole He, Max Kreminski, Em Lazer-Walker, Jon Manning, David Mershon, Erik Rydeman, Jonatan Van Hove
+    company_name: Independent, UC Santa Cruz, Independent, Secret Lab, Universal Happymaker, Doborog Games, Independent
+    gdc_year: 2019
+    tag: ''
+    role_tag: DCC Tool Dev, Tool UX/UI Designer, Tool Lead
+    video_url: https://www.gdcvault.com/play/1025699
+    slides_url: https://www.gdcvault.com/play/1026372/Tech
+
   - session_name : "Tech Toolbox"
     speaker : Jonatan Van Hove, Oskar Stalber, Thomas Kai, Fernando Ramall,Allison Parris, Matthew Wegner, Tabby Rose
     company_name : Glitchnap, Plausible Concept, inkle, Independent, Rewordable, Team Colorblind, Axon Interactive
@@ -964,3 +1420,50 @@
     gdc_year : 2015
     video_url : https://www.gdcvault.com/play/1022284/Tech
     slides_url : https://www.gdcvault.com/play/1022285/Tech
+
+- track_name : team_management
+  sessions:
+  - session_name: 'Producer Bootcamp: Fix Your Broken Meetings'
+    speaker: Keith Self-Ballard
+    company_name: Volition
+    gdc_year: 2019
+    tag: ''
+    role_tag: Tool Lead
+    video_url: https://www.gdcvault.com/play/1025919
+    slides_url: https://www.gdcvault.com/play/1026421/Producer-Bootcamp-Fix-Your-Broken
+
+  - session_name: 'Creating High Performing Teams: Cast an Ensemble'
+    speaker: Heini Kaihu
+    company_name: Rovio
+    gdc_year: 2019
+    tag: ''
+    role_tag: Tool Lead
+    video_url: https://www.gdcvault.com/play/1025991
+    slides_url: 
+
+  - session_name: 'Producer Bootcamp: A Producer''s Guide to Enabling Intrinsically Motivated Teams'
+    speaker: Anne Cunningham, Alyssa Finley
+    company_name: Netflix, ILMxLAB
+    gdc_year: 2019
+    tag: ''
+    role_tag: Tool Lead
+    video_url: https://www.gdcvault.com/play/1025922
+    slides_url: https://www.gdcvault.com/play/1026301/Producer-Bootcamp-A-Producer-s
+
+  - session_name: 'Producer Bootcamp: What, When and How? Managing Information in a Positive and Productive Way'
+    speaker: Veronica Peshterianu
+    company_name: System Era Softworks
+    gdc_year: 2019
+    tag: ''
+    role_tag: Tool Lead
+    video_url: https://www.gdcvault.com/play/1025920
+    slides_url: https://www.gdcvault.com/play/1026387/Producer-Bootcamp-What-When-and
+
+  - session_name: 'Leadership: Working at the Heart of the Team 2019'
+    speaker: Grant Shonkwiler, Steve Superville, Kim Swift, Brian Sharp
+    company_name: Shonkventures, Big Huge Games, EA Motive, Oculus
+    gdc_year: 2019
+    tag: ''
+    role_tag: Tool Lead
+    video_url: https://www.gdcvault.com/play/1026047
+    slides_url: https://www.gdcvault.com/play/1026424/Leadership-Working-at-the-Heart
