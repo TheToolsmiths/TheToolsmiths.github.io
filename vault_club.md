@@ -9,7 +9,7 @@ group: navigation
 <div class="right"><a href="https://github.com/TheToolsmiths/TheToolsmiths.github.io/edit/master/{{ page.path }}"><i class="fas fa-pencil-alt tag_box"></i> Edit this page </a></div>
 
 #### What is it?
-It is not easy to find time/motivation to watch good GDC Vault videos. The Toolsmiths community decided to form a sort of "book club" for GDC Vault Talks called "Vault Club".
+It is not easy to find time/motivation to watch good GDC Vault videos. The Toolsmiths community decided to form a sort of "book club" for GDC Vault Talks (or other Game Tools related talks) called "Vault Club".
 
 <hr>
 
@@ -47,9 +47,14 @@ We pick a Vault talk, watch it on our own time, then pick a time/date to discuss
 - [The Asset pipeline for Just Cause 2: Lessons learned](https://www.gdcvault.com/play/1012232/The-Asset-pipeline-for-Just)
 - [HandmadeCon 2016 - Asset Systems and Scalability](https://www.youtube.com//watch?v=7KXVox0-7lU)
 - [Working Together: Solutions for Collaborative Asset Creation](https://www.gdcvault.com/play/1017738/Working-Together-Solutions-for-Collaborative)
+- [Core Dump: Day 2: What internal tools have we needed to develop to solve engine or tools related issues?](https://www.youtube.com/watch?v=odEfO86VgFw&t=3630s)
+- [Fast Iteration for Far Cry 4 - Optimizing Key Parts of the Dunia Pipeline](https://www.gdcvault.com/play/1021975/Fast-Iteration-for-Far-Cry)
+- [The Witcher 3: Optimizing Content Pipelines for Open-World Games](https://www.youtube.com/watch?v=p8CMYD_5gE8)
+- [Keeping Level Designers in the Zone Through Level Editor Design](https://www.gdcvault.com/play/1023235/Keeping-Level-Designers-in-the)
+- [Code & Supply & ATG Present: "My Build is Slow"](https://www.youtube.com/watch?v=EEuOcLrXB-c&feature=youtu.be)
 
 <hr>
 
-## Current GDC talk (Classic edition)
-- Name: [Core Dump: Day 2: What internal tools have we needed to develop to solve engine or tools related issues?](https://www.youtube.com/watch?v=odEfO86VgFw&t=3630s)
-- Deadline (view the talk by) : **November 19**
+## Current GDC talk
+- Name: [Level Design Workshop: Improving Tool Design Through Editor Triage](https://www.youtube.com/watch?v=VRm3d0TqMq4)
+- Deadline (view the talk by) : **April 2nd**
