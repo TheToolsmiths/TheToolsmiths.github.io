@@ -24,6 +24,9 @@ nav_tag: history
 
 [Classic Tools Retrospective: The tools that built Deus Ex, with Chris Norden](http://www.gamasutra.com/blogs/DavidLightbown/20181023/328687/Classic_Tools_Retrospective_The_tools_that_built_Deus_Ex_with_Chris_Norden.php)
 
+
+[Classic Tools Retrospective: The birth, death, and re-birth of Gamebryo](https://www.gamasutra.com/blogs/DavidLightbown/20200501/357835/Classic_Tools_Retrospective_The_birth_death_and_rebirth_of_Gamebryo.php)
+
 ------
 ------
 #### Videos
