@@ -9,7 +9,7 @@ group: navigation
 <div class="span6">
   <img height="200" width="200" src="{{ site.url }}/assets/Geoff_Evans.jpg">
   <h4>Geoff Evans</h4>
-  Geoff Evans has been building game development tools for over a decade. This includes work asset pipelines, studio services, asset editors, and level editors. He is currently Tools Director of Infinity Wards in Los Angeles. Previous studios include Kojima Productions (LA), Neversoft, Whitemoon Dreams, and most notably Insomniac Games. He was a founder of both Helium Project (http://heliumproject.org) and Insomniac's Nocturnal Initiative open source projects.
+  Geoff Evans has been building game development tools for over a decade. This includes work asset pipelines, studio services, asset editors, and level editors. He is currently an engineer at Epic Games. Previous studios include Infinity Ward, Kojima Productions (LA), Neversoft, Whitemoon Dreams, and Insomniac Games. He was a founder of both Helium Project (http://heliumproject.github.io) and Insomniac's Nocturnal Initiative open source projects.
 </div>
 
 <div class="span6">
