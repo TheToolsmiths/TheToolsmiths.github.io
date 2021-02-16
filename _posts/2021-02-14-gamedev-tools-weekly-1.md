@@ -225,7 +225,7 @@ Want your game run faster? Update compiler. Want your build times to keep sane n
   * GDC Tools Roundtables:
     * Join us this summer at the virtual Tools Roundtables!
 * We are starting the 3rd season of the [Vault Club](https://thetoolsmiths.org/vault_club){:target="_blank"} in our [Discord Server](https://discord.gg/k4PuzbZ){:target="_blank"}.
-  * We will be looking at this list of langues and discussing how they apply to Game Tools development:
+  * We will be looking at this list of languages and discussing how they apply to Game Tools development:
     * [Rust](https://www.youtube.com/watch?v=lpOg2nl3kr0){:target="_blank"}
     * [Dion](https://vimeo.com/485177664){:target="_blank"}
     * [Jai](https://www.youtube.com/watch?v=uZgbKrDEzAs){:target="_blank"}
