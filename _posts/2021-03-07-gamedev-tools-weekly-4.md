@@ -55,6 +55,19 @@ An awesome update from the Promethean AI team. Make sure to check out how they a
 <hr style="height:1px;border:none;color:#333;background-color:#333;">
 <br>
  
+
+#### **Walk Through The History Of Game Development Tools At GDC Showcase**
+ 
+{% include toolsmiths/tags_without_link.html tags="GDC" %}
+
+Don't miss out on this excellent opportunity to learn from the past! 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Walk through the history of game development tools at GDC Showcase with <a href="https://twitter.com/davidlightbown?ref_src=twsrc%5Etfw">@davidlightbown</a><a href="https://t.co/KUzSppoQac">https://t.co/KUzSppoQac</a></p>&mdash; Official_GDC (@Official_GDC) <a href="https://twitter.com/Official_GDC/status/1367878312199032832?ref_src=twsrc%5Etfw">March 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<br>
+<hr style="height:1px;border:none;color:#333;background-color:#333;">
+<br>
+
 #### **New Episode of the Our Machinery Podcast**
  
 {% include toolsmiths/tags_without_link.html tags="Our Machinery, Engine" %}
@@ -143,8 +156,25 @@ Check out the Tech Art presentation for a glimpse into the Naughty Dog pipeline.
 <hr style="height:1px;border:none;color:#333;background-color:#333;">
 <br>
 
+#### **OpenTracing - logging API for distributed systems**
+ 
+{% include toolsmiths/tags_without_link.html tags="framework, logging" %}
 
+Mentioned by Tiago @ Toolsmihts Discord server
 
+> Distributed tracing, also called distributed request tracing, is a method used to profile and monitor applications, especially those built using a microservices architecture. Distributed tracing helps pinpoint where failures occur and what causes poor performance.
+
+https://opentracing.io/
+
+<br>
+<hr style="height:1px;border:none;color:#333;background-color:#333;">
+<br>
+
+#### **Spreadsheet editor for Blender - introspection for Blender files**
+ 
+{% include toolsmiths/tags_without_link.html tags="tools, Blender" %}
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Spreadsheet editor for Blender, initial design. We are working on this for the <a href="https://twitter.com/hashtag/geometrynodes?src=hash&amp;ref_src=twsrc%5Etfw">#geometrynodes</a> project, but this is also useful for the rest of Blender.<br><br>The design still needs approval, but an initial prototype is on <a href="https://t.co/hC4R8LBowG">https://t.co/hC4R8LBowG</a> <a href="https://twitter.com/hashtag/b3d?src=hash&amp;ref_src=twsrc%5Etfw">#b3d</a> <a href="https://twitter.com/hashtag/devfund?src=hash&amp;ref_src=twsrc%5Etfw">#devfund</a> <a href="https://t.co/3cQ9zxHiB1">pic.twitter.com/3cQ9zxHiB1</a></p>&mdash; Dalai Felinto (@dfelinto) <a href="https://twitter.com/dfelinto/status/1367500306045689870?ref_src=twsrc%5Etfw">March 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br>
 <hr style="height:1px;border:none;color:#333;background-color:#333;">
@@ -253,10 +283,10 @@ Source: [Technically Art: Issue 89 (05.03.2021) by Harry Alisavakis](https://hal
 
 * You can visualize the struct layouts in VisualStudio
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;ve always missed a quick way to see my C++ struct layouts when coding in order to have good cache behavior and small footprints. So, I built my own layout viewer for <a href="https://twitter.com/VisualStudio?ref_src=twsrc%5Etfw">@VisualStudio</a>!<br><br>Twitter folks, what do you think about it?<a href="https://t.co/Drw8zwm6g7">https://t.co/Drw8zwm6g7</a><a href="https://twitter.com/visualc?ref_src=twsrc%5Etfw">@visualc</a> <a href="https://twitter.com/hashtag/cpp?src=hash&amp;ref_src=twsrc%5Etfw">#cpp</a> <a href="https://twitter.com/hashtag/coding?src=hash&amp;ref_src=twsrc%5Etfw">#coding</a> <a href="https://t.co/kbXY48i7PN">pic.twitter.com/kbXY48i7PN</a></p>&mdash; Ramon Viladomat (@Viladoman) <a href="https://twitter.com/Viladoman/status/1320867718808166402?ref_src=twsrc%5Etfw">October 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  
  
 <br>
 <br>
- 
  
 ---
  
