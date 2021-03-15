@@ -147,7 +147,9 @@ A great list of C++ resources in the thread.
 {% include toolsmiths/tags_without_link.html tags="Random" %}
 
 Do you have modes in your tools?
-Do they need a hardware switch? :) 
+Do they need a hardware switch? :)
+
+This reminded us of William Chyr's ["MIDI CONTROLLER FOR TWEAKING VARIABLES"](https://williamchyr.com/midi-controller-for-tweaking-variables/){:target="_blank"} article mentioned in [GDC 2019 Tech Toolbox mico talk of Em Lazer-Walker](https://www.gdcvault.com/play/1025699){:target="_blank"} (skip to min 24).
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Vim Clutch – A hardware pedal for improved text editing (2012) <a href="https://t.co/JKhiRcKsHF">https://t.co/JKhiRcKsHF</a></p>&mdash; Hacker News (@newsycombinator) <a href="https://twitter.com/newsycombinator/status/1370178508098527232?ref_src=twsrc%5Etfw">March 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
