@@ -8,23 +8,29 @@ audio:
   - the-toolsmiths-ep4.mp3
 chapters:
   -
-    start: '00:08:00.000' 
+    start: '00:08:00' 
     title: "CI / disc building"
+    seconds: 0
   -
-    start: '00:14:00.000' 
+    start: '00:14:00' 
     title: "Tools development process"
+    seconds: 840
   -
-    start: '00:25:00.000' 
+    start: '00:25:00' 
     title: "Curation in UX, Software, etc…"
+    seconds: 1500
   -
-    start: '00:39:00.000' 
+    start: '00:39:00' 
     title: "Traditional game tools vs. web-based tools"
+    seconds: 2340
   -
-    start: '00:45:00.000' 
+    start: '00:45:00' 
     title: "Mental model of “the scene” and “files”"
+    seconds: 2700
   -
-    start: '00:59:00.000' 
+    start: '00:59:00' 
     title: "Learning / adapting to a web-based development environment"
+    seconds: 3540
 ---
 Giac is a veteran tools developer from Insomniac Games.
 

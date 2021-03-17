@@ -8,8 +8,9 @@ audio:
   - the-toolsmiths-ep3.mp3
 chapters:
   - 
-    start: '00:00:00.000'
+    start: '00:00:00'
     title: 'Intro'
+    seconds: 0
 ---
 This time around we chat with Philip Bloom, a senior tools engineer at Crystal Dynamics. He shares some information about some cool asset pipeline tools they are working on over there. Oh, we also hit upon revision control and continuous integration a bit along the way.
 

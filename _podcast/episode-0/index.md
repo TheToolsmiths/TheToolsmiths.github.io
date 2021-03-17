@@ -8,7 +8,8 @@ audio:
   - the-toolsmiths-ep0.mp3
 chapters:
   - 
-    start: '00:00:00.000'
+    start: '00:00:00'
     title: 'Intro'
+    seconds: 0
 ---
 Description for episode 0

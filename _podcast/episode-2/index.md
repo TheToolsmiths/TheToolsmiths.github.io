@@ -8,8 +8,9 @@ audio:
   - the-toolsmiths-ep2.mp3
 chapters:
   - 
-    start: '00:00:00.000'
+    start: '00:00:00'
     title: 'Intro'
+    seconds: 0
 ---
 After a slight delay (Ahem, GDC :P), David and I are finally back with our second episode! This episode we chat with Jason Parks owner of Continuity AI. Jason is a long time technical artist with experience in console games and motion capture from THQ, Volition, Unity, SOE, and SCEA. Jason has such a rich past we pretty much trace through his accomplishments and pick up some topics along the way.
 

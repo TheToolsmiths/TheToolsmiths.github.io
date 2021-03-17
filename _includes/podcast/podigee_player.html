@@ -2,45 +2,45 @@
 {%- assign offset = page.url.size | minus: temp_array.last.size -%}
 {%- assign folder_path = page.url | slice: 0, offset -%}
 
-<script>
-    window.playerConfiguration = {
-        "options": {
-            "theme": "default-dark",
-            "startPanel": "ChapterMarks"
-        },
-        "extensions": {
-            "ChapterMarks": {},
-            "EpisodeInfo": {},
-            "Playlist": {},
-            "Deeplinking": {}
-        },
-        "title": null,
-        "episode": {
-            "media": {
-                {%- for audio_file in page.audio -%}
-                "{{audio_file | split: '.' | last}}" : "{{site.url}}{{folder_path}}{{audio_file}}"{%- unless forloop.last -%} , {%- endunless -%}
-                {%- endfor -%}
-            },
-            {%- if page.icon -%}
-            "coverUrl": "{{site.url}}/{{page.icon}}",
-            {%- else -%}
-            "coverUrl": "{{site.url}}/wp-content/uploads/2014/03/TheToolssmithsPodcast-300x300.png",
-            {%- endif -%}
-            "title": "{{page.title}}",
-            "subtitle": null,
-            "url": "{{site.url}}{{page.url}}",
-            "description": null,
-            "chaptermarks": [
-                {%- for chapter in page.chapters -%}
-                    {
-                        "start": "{{chapter.start}}",
-                        "title": "{{chapter.title}}"
-                    } {%- unless forloop.last -%} , {%- endunless -%}
-                {%- endfor -%}
-            ]
-        }
-    }
-</script>
+<audio controls id="audio_player">
+    {%- for audio_file in page.audio -%}
+    <source src="{{site.url}}{{folder_path}}{{audio_file}}" type="audio/{{audio_file | split: '.' | last}}">
+    {%- endfor -%}
+    Your browser does not support the audio element.
+</audio>
+<table>
+    <tbody id="timestamps">
+        {%- for chapter in page.chapters -%}
+        <tr>
+            <td style="text-align: left;"><button>{{chapter.start}}</button></td>
+            <td style="text-align: left;">{{chapter.title}}</td>
+        </tr>
+        {%- endfor -%}
+    </tbody>
 
-<script class="podigee-podcast-player" data-configuration="playerConfiguration" src="http://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js">
+</table>
+
+<script>
+    (function(d) {
+      'use strict';
+   
+      var set = [
+          {%- for chapter in page.chapters -%}
+          {{chapter.seconds}}{%- unless forloop.last -%} , {%- endunless -%}
+          {%- endfor -%}
+        ];
+      var aud = d.getElementById('audio_player');
+      var but = d.getElementById('timestamps').getElementsByTagName('button');
+   
+      for ( var c = 0; c < but.length; c ++ ) {
+         but[c].addEventListener('click',setCurTime(c), false);
+         } 
+        
+    function setCurTime(c) {  
+      but[c].onclick = function() { 
+         aud.currentTime = set[c];
+         aud.play();      
+            }
+         }
+    }(document));
 </script>
