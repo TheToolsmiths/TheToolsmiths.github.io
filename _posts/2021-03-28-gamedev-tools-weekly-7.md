@@ -159,7 +159,7 @@ Did you know that `auto-setup.cmake` ships with Qt Creator?
 
 Source: [Technically Art: Issue 91 (26.03.2021) by Harry Alisavakis](https://halisavakis.com/technically-art-issue-91-26-03-2021/){:target="_blank"}
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;ve wanted this Unity tool for a while. I call it the &quot;Place Object&quot; tool. Click to move an object, and drag to reorient.<br><br>Saves me hours of positioning things by hand. <br><br>Now this cabinet of spices sparks joy! If anyone wants the script, let me know!<a href="https://twitter.com/hashtag/gamedev?src=hash&amp;ref_src=twsrc%5Etfw">#gamedev</a> <a href="https://twitter.com/madewithunity?ref_src=twsrc%5Etfw">@madewithunity</a> <a href="https://t.co/P45sIf1rGE">pic.twitter.com/P45sIf1rGE</a></p>&mdash; John Austin (@kleptine) <a href="https://twitter.com/kleptine/status/1374132960782286855?ref_src=twsrc%5Etfw">March 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">I&#39;ve wanted this Unity tool for a while. I call it the &quot;Place Object&quot; tool. Click to move an object, and drag to reorient.<br><br>Saves me hours of positioning things by hand. <br><br>Now this cabinet of spices sparks joy! If anyone wants the script, let me know!<a href="https://twitter.com/hashtag/gamedev?src=hash&amp;ref_src=twsrc%5Etfw">#gamedev</a> <a href="https://twitter.com/madewithunity?ref_src=twsrc%5Etfw">@madewithunity</a> <a href="https://t.co/P45sIf1rGE">pic.twitter.com/P45sIf1rGE</a></p>&mdash; John Austin (@kleptine) <a href="https://twitter.com/kleptine/status/1374132960782286855?ref_src=twsrc%5Etfw">March 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
@@ -172,6 +172,67 @@ Source: [Technically Art: Issue 91 (26.03.2021) by Harry Alisavakis](https://hal
 {% include toolsmiths/tags_without_link.html tags="" %}
 
 <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Introducing wParallax!<a href="https://t.co/tqipXX5lt6">https://t.co/tqipXX5lt6</a><a href="https://twitter.com/hashtag/fakeinteriors?src=hash&amp;ref_src=twsrc%5Etfw">#fakeinteriors</a> <a href="https://twitter.com/hashtag/parallax?src=hash&amp;ref_src=twsrc%5Etfw">#parallax</a> <a href="https://twitter.com/hashtag/3d?src=hash&amp;ref_src=twsrc%5Etfw">#3d</a> <a href="https://twitter.com/hashtag/render?src=hash&amp;ref_src=twsrc%5Etfw">#render</a> <a href="https://twitter.com/hashtag/osl?src=hash&amp;ref_src=twsrc%5Etfw">#osl</a> <a href="https://twitter.com/hashtag/3dsMax?src=hash&amp;ref_src=twsrc%5Etfw">#3dsMax</a> <a href="https://twitter.com/hashtag/coronarender?src=hash&amp;ref_src=twsrc%5Etfw">#coronarender</a> <a href="https://twitter.com/hashtag/vray?src=hash&amp;ref_src=twsrc%5Etfw">#vray</a> <a href="https://twitter.com/hashtag/Blender3d?src=hash&amp;ref_src=twsrc%5Etfw">#Blender3d</a> <a href="https://twitter.com/hashtag/C4D?src=hash&amp;ref_src=twsrc%5Etfw">#C4D</a></p>&mdash; wParallax (@parallax_w) <a href="https://twitter.com/parallax_w/status/1371580475865714688?ref_src=twsrc%5Etfw">March 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<br>
+<hr style="height:1px;border:none;color:#333;background-color:#333;">
+<br>
+
+#### **Procedural Content Generation Workshop**
+
+{% include toolsmiths/tags_without_link.html tags="" %}
+
+
+
+<blockquote class="twitter-tweet" data-theme="dark"><p dir="ltr" lang="en">Interested in Procedural Content Generation? You can submit or participate in this year's <a href="https://twitter.com/hashtag/PCG?src=hash&amp;ref_src=twsrc%5Etfw">#PCG</a> workshop at <a href="https://twitter.com/FDGconf?ref_src=twsrc%5Etfw">@FDGconf</a>. This long-running workshop will be online, easy to get to. <a href="https://t.co/mQoDRUcuvN">https://t.co/mQoDRUcuvN</a><br/>Deadline: 19th, April, 2021<br/><br/>Please share. <a href="https://twitter.com/PcgWorkshop?ref_src=twsrc%5Etfw">@PcgWorkshop</a> <a href="https://t.co/dqgDpQvNnM">pic.twitter.com/dqgDpQvNnM</a></p>— Christoph Salge (@ChristophSalge) <a href="https://twitter.com/ChristophSalge/status/1375828261205315590?ref_src=twsrc%5Etfw">March 27, 2021</a></blockquote>
+<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
+
+
+                        
+<br>
+<hr style="height:1px;border:none;color:#333;background-color:#333;">
+<br>
+
+#### **Debugging Python terminal**
+
+{% include toolsmiths/tags_without_link.html tags="tips,python" %}
+
+
+
+<blockquote class="twitter-tweet" data-theme="dark"><p dir="ltr" lang="en">In <a href="https://twitter.com/pycharm?ref_src=twsrc%5Etfw">@pycharm</a>, you can attach a debugger to your <a href="https://twitter.com/hashtag/python?src=hash&amp;ref_src=twsrc%5Etfw">#python</a> console. This means that you can test things out in the console, and when you don't understand what's going on you can attach a debugger, and figure things out. <a href="https://t.co/o24pTTimmP">pic.twitter.com/o24pTTimmP</a></p>— Nafiul Islam (@gamesbrainiac) <a href="https://twitter.com/gamesbrainiac/status/1358446576486776832?ref_src=twsrc%5Etfw">February 7, 2021</a></blockquote>
+<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
+
+
+                        
+<br>
+<hr style="height:1px;border:none;color:#333;background-color:#333;">
+<br>
+
+#### **Human Generator addon for Blender**
+
+{% include toolsmiths/tags_without_link.html tags="Blender" %}
+
+
+
+<blockquote class="twitter-tweet" data-theme="dark"><p dir="ltr" lang="en">Impressive Human Generator addon for Blender, and more from this week in 3D: <a href="https://t.co/ZV34fs55Lx">https://t.co/ZV34fs55Lx</a> <a href="https://twitter.com/hashtag/b3d?src=hash&amp;ref_src=twsrc%5Etfw">#b3d</a> <a href="https://t.co/TlSN2jjt9k">pic.twitter.com/TlSN2jjt9k</a></p>— Andrew Price (@andrewpprice) <a href="https://twitter.com/andrewpprice/status/1375662490160394240?ref_src=twsrc%5Etfw">March 27, 2021</a></blockquote>
+<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
+
+
+                        
+<br>
+<hr style="height:1px;border:none;color:#333;background-color:#333;">
+<br>
+
+#### **Measuring Pipeline maturity**
+
+{% include toolsmiths/tags_without_link.html tags="" %}
+
+
+
+<blockquote class="twitter-tweet" data-theme="dark"><p dir="ltr" lang="en">Also see <a href="https://t.co/jojigBF0FO">https://t.co/jojigBF0FO</a></p>— Stephan T. Lavavej (@StephanTLavavej) <a href="https://twitter.com/StephanTLavavej/status/1375643133371801600?ref_src=twsrc%5Etfw">March 27, 2021</a></blockquote>
+<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
+
+
+                        
 
 
 ---
@@ -253,8 +314,20 @@ Source: [Technically Art: Issue 91 (26.03.2021) by Harry Alisavakis](https://hal
 <blockquote class="twitter-tweet" data-theme="dark"><p dir="ltr" lang="en">CMake 3.20.0 available for download <a href="https://t.co/Qnlbr51JOp">https://t.co/Qnlbr51JOp</a></p>— C++ LibHunt (@CppLibHunt) <a href="https://twitter.com/CppLibHunt/status/1374920826433138693?ref_src=twsrc%5Etfw">March 25, 2021</a></blockquote>
 <script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
 
+<br>
+<hr style="height:1px;border:none;color:#333;background-color:#333;">
+<br>
 
-                        
+#### **Rider 2021.1 Beta release with Unity goodies**
+
+{% include toolsmiths/tags_without_link.html tags="" %}
+
+
+
+<blockquote class="twitter-tweet" data-theme="dark"><p dir="ltr" lang="en">Behold: Rider 2021.1 Beta has arrived! Take a look at this blog post for an overview of the build: <a href="https://t.co/Z51Hff9dwy">https://t.co/Z51Hff9dwy</a> <a href="https://t.co/bNb5lh7ckw">pic.twitter.com/bNb5lh7ckw</a></p>— JetBrains Rider (@JetBrainsRider) <a href="https://twitter.com/JetBrainsRider/status/1375131441743474692?ref_src=twsrc%5Etfw">March 25, 2021</a></blockquote>
+<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
+
+           
                     
 ---
  
