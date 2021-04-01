@@ -22,7 +22,7 @@ GameDev Tools weekly made by [Alexander Pirogov](https://twitter.com/pie_daddy){
  
 
 
-#### The Toolsmiths Slack is officially achieved
+#### The Toolsmiths Slack is officially archived
  
 {% include toolsmiths/tags_without_link.html tags="Announcement" %}
 
