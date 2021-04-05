@@ -216,6 +216,20 @@ checkout [Nim](https://nim-lang.org/){:target="_blank"}
 <blockquote class="twitter-tweet" data-theme="dark"><p dir="ltr" lang="en">Backtrace’s automated crash &amp; error reporting ensures game quality to help stop player churn. Watch this video for a look into the process of integrating Backtrace to the Unity editor for your Android Games. <a href="https://twitter.com/hashtag/gamedev?src=hash&amp;ref_src=twsrc%5Etfw">#gamedev</a> <a href="https://twitter.com/hashtag/unitydeveloper?src=hash&amp;ref_src=twsrc%5Etfw">#unitydeveloper</a> <a href="https://twitter.com/hashtag/androidgamedev?src=hash&amp;ref_src=twsrc%5Etfw">#androidgamedev</a> <a href="https://t.co/aWqfv22bsz">https://t.co/aWqfv22bsz</a></p>— Backtrace (@0xCD03) <a href="https://twitter.com/0xCD03/status/1377313487622393858?ref_src=twsrc%5Etfw">March 31, 2021</a></blockquote>
 <script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
 
+
+<br>
+<hr style="height:1px;border:none;color:#333;background-color:#333;">
+<br>
+
+#### **How to get File Size in C++**
+
+{% include toolsmiths/tags_without_link.html tags="C++" %}
+
+tl;dr It's easier with C++17 std::filesystem 
+
+<blockquote class="twitter-tweet" data-theme="dark"><p dir="ltr" lang="en">How to get File Size in C++? <a href="https://t.co/azrFMk0RRo">https://t.co/azrFMk0RRo</a><br/><br/>As usually, we have several options in C++ :)<a href="https://twitter.com/hashtag/programming?src=hash&amp;ref_src=twsrc%5Etfw">#programming</a> <a href="https://twitter.com/hashtag/cpp?src=hash&amp;ref_src=twsrc%5Etfw">#cpp</a> <a href="https://twitter.com/hashtag/cpp17?src=hash&amp;ref_src=twsrc%5Etfw">#cpp17</a> <a href="https://t.co/BF0wwrE5y6">pic.twitter.com/BF0wwrE5y6</a></p>— Bartlomiej Filipek (@fenbf) <a href="https://twitter.com/fenbf/status/1378378519009443844?ref_src=twsrc%5Etfw">April 3, 2021</a></blockquote>
+<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
+
                         
 <br>
 <hr style="height:1px;border:none;color:#333;background-color:#333;">
@@ -375,6 +389,23 @@ checkout [Nim](https://nim-lang.org/){:target="_blank"}
 
 <blockquote class="twitter-tweet" data-theme="dark"><p dir="ltr" lang="en">Wow... a 6502 CPU modelled in <a href="https://twitter.com/scratch?ref_src=twsrc%5Etfw">@scratch</a> as part of a full BBC Micro emulator! <a href="https://twitter.com/hashtag/RetroComputing?src=hash&amp;ref_src=twsrc%5Etfw">#RetroComputing</a> <a href="https://t.co/2BS6OlJ27T">https://t.co/2BS6OlJ27T</a> <a href="https://t.co/4kxztWGj5E">pic.twitter.com/4kxztWGj5E</a></p>— Dominic Pajak (@DominicPajak) <a href="https://twitter.com/DominicPajak/status/1378189902248964097?ref_src=twsrc%5Etfw">April 3, 2021</a></blockquote>
 <script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
+
+
+<br>
+<hr style="height:1px;border:none;color:#333;background-color:#333;">
+<br>
+
+#### **New episode of No Diagnostic Required**
+
+{% include toolsmiths/tags_without_link.html tags="podcast" %}
+
+The year is 2021 and C++ is still the most popular language for gamedev. It's crucial to understand it's ecosystem and NDR reall helps with that
+
+<blockquote class="twitter-tweet" data-theme="dark"><p dir="ltr" lang="en">No Diagnostic Required. The podcast and YouTube show for C++ Annotated,<br/>a commentary on the C++ ecosystem from <a href="https://twitter.com/jetbrains?ref_src=twsrc%5Etfw">@jetbrains</a>. Check out Episode #4, March 2021. Featuring recent articles by <a href="https://twitter.com/fenbf?ref_src=twsrc%5Etfw">@fenbf</a>, <a href="https://twitter.com/herbsutter?ref_src=twsrc%5Etfw">@herbsutter</a>, and a talk by <a href="https://twitter.com/SeanParent?ref_src=twsrc%5Etfw">@SeanParent</a>:  <a href="https://t.co/wNbZbmj11B">https://t.co/wNbZbmj11B</a> <a href="https://twitter.com/hashtag/cpp?src=hash&amp;ref_src=twsrc%5Etfw">#cpp</a> <a href="https://twitter.com/hashtag/cplusplus?src=hash&amp;ref_src=twsrc%5Etfw">#cplusplus</a></p>— No Diagnostic Required (@ndr_cpp) <a href="https://twitter.com/ndr_cpp/status/1378312369626099716?ref_src=twsrc%5Etfw">April 3, 2021</a></blockquote>
+<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
+
+
+                        
 
 
                         
