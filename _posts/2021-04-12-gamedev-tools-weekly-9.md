@@ -206,7 +206,7 @@ See the publication from [@UbisoftLaForge](https://twitter.com/UbisoftLaForge){:
 <hr style="height:1px;border:none;color:#333;background-color:#333;">
 <br>
 
-#### **Machine Learning in games in Games an overview**
+#### **Machine Learning in Games an overview**
 
 {% include toolsmiths/tags_without_link.html tags="" %}
 
