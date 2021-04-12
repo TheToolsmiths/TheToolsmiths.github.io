@@ -1,11 +1,11 @@
 ---
 id: 20210412
 title: GameDev Tools Weekly - Issue 9 — April 12th, 2021
-date: 2021-04-11T11:00:00+00:00
+date: 2021-04-12T11:00:00+00:00
 author: Alexander Pirogov & Victor Stepanov
 layout: post
 future: true
-permalink: /2021/04/12/gamedev-tools-weekly-12/
+permalink: /2021/04/12/gamedev-tools-weekly-9/
 categories:
   - weekly
 ---
