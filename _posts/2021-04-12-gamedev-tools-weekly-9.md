@@ -376,7 +376,7 @@ If you want to apply send a DM to [Victor Stepanov](https://twitter.com/VictorSt
 <hr style="height:1px;border:none;color:#333;background-color:#333;">
 <br>
 
-#### **CMake script that downloads and builds conan packages**
+#### **CLion 2021.1: New Code Analysis Options, Updates to Remote Mode, and Postfix Completion**
 
 {% include toolsmiths/tags_without_link.html tags="" %}
 
