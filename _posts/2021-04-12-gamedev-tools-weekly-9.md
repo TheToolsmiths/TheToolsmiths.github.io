@@ -454,7 +454,7 @@ Sometimes, there really is the only way out of your problem, and It's long and b
 <hr style="height:1px;border:none;color:#333;background-color:#333;">
 <br>                   
 
-#### **Guid their attention**
+#### **Guide their attention**
 
 {% include toolsmiths/tags_without_link.html tags="" %}
 
