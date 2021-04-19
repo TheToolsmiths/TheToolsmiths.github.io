@@ -26,6 +26,16 @@ GameDev Tools weekly made by [Alexander Pirogov](https://twitter.com/pie_daddy){
 <hr style="height:1px;border:none;color:#333;background-color:#333;">
 <br>
 
+#### **List of 600+ tools for game dev and digital creation**
+
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">✨✨ it&#39;s done!! i&#39;ve spent the last several months tagging 600+ open source, experimental and tiny tools towards joyful digital creation - and built a website for sorting through them:<a href="https://t.co/YR9vKhOeOL">https://t.co/YR9vKhOeOL</a> <a href="https://t.co/ht0HcK0yAk">pic.twitter.com/ht0HcK0yAk</a></p>&mdash; everest (@everestpipkin) <a href="https://twitter.com/everestpipkin/status/1382041649006706690?ref_src=twsrc%5Etfw">April 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+<br>
+<hr style="height:1px;border:none;color:#333;background-color:#333;">
+<br>
+
 #### **Using city modelling algorithms for city modification**
 
 Can't even imagine how many hours it'd take to change flyover route by hand in the city this dense.
