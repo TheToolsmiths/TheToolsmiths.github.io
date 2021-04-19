@@ -1,7 +1,7 @@
 ---
 id: 20210419
 title: GameDev Tools Weekly - Issue 10 — April 19th, 2021
-date: 2021-04-20T11:00:00+00:00
+date: 2021-04-19T11:00:00+00:00
 author: Alexander Pirogov & Victor Stepanov
 layout: post
 future: true
@@ -120,7 +120,7 @@ Debug build improvements are insane! It's really nice that Microsoft is working 
 <hr style="height:1px;border:none;color:#333;background-color:#333;">
 <br>
 
-#### **Exploring possibilities with 3D Manipulator Gizmo**
+#### **Exploring possibilities with the 3D Manipulator Gizmo**
 
 {% include toolsmiths/tags_without_link.html tags="DCC" %}
 
