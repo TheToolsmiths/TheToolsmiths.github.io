@@ -72,6 +72,19 @@ GameDev Tools weekly made by [Alexander Pirogov](https://twitter.com/pie_daddy){
 <hr style="height:1px;border:none;color:#333;background-color:#333;">
 <br>
 
+#### **Everything you know about colour is wrong**
+
+{% include toolsmiths/tags_without_link.html tags="" %}
+
+
+<<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Guy Davidson - Everything you know about colour is wrong - Meeting C++ online <a href="https://t.co/IphmMxZn7A">https://t.co/IphmMxZn7A</a></p>&mdash; C++ LibHunt (@CppLibHunt) <a href="https://twitter.com/CppLibHunt/status/1385641380177870851?ref_src=twsrc%5Etfw">April 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+                        
+<br>
+<hr style="height:1px;border:none;color:#333;background-color:#333;">
+<br>
+
 #### **Is there a decline of in-house engine development?**
 
 {% include toolsmiths/tags_without_link.html tags="engine" %}
@@ -333,6 +346,22 @@ If you want to apply send a DM to [Victor Stepanov](https://twitter.com/VictorSt
 ---
  
 ## Notable Releases and Updates
+
+
+
+<br>
+<hr style="height:1px;border:none;color:#333;background-color:#333;">
+<br>
+
+#### **Rider for Unreal Engine coming to macOS**
+
+{% include toolsmiths/tags_without_link.html tags="" %}
+
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A year ago we announced the launch of the <a href="https://twitter.com/hashtag/RiderForUnrealEngine?src=hash&amp;ref_src=twsrc%5Etfw">#RiderForUnrealEngine</a> Preview! 🎉 To celebrate, we are happy to share a new update of Rider for Unreal Engine 2021.1.1 Preview:<br>💥 Mac version!<br>💥 Direct uproject support on both Windows and macOS<br>💥 EzArgs plugin<a href="https://t.co/z6WY3JxAu7">https://t.co/z6WY3JxAu7</a> <a href="https://t.co/wZ1pv4Aadd">pic.twitter.com/wZ1pv4Aadd</a></p>&mdash; JetBrains Rider (@JetBrainsRider) <a href="https://twitter.com/JetBrainsRider/status/1385246342885294083?ref_src=twsrc%5Etfw">April 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
                         
 
 ---
