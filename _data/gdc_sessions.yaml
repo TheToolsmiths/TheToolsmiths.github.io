@@ -705,6 +705,15 @@
     video_url: https://www.gdcvault.com/play/1025914
     slides_url: https://www.gdcvault.com/play/1026313/Math-for-Game-Developers-End
 
+  - session_name: 'Procedural Generation in Shattered Planet'
+    speaker: Tanya Short
+    company_name: Kitfox Games
+    gdc_year: 2015
+    tag: ''
+    role_tag: DCC Tool Dev
+    video_url: https://www.youtube.com/watch?v=PzOKIbHbxn0
+    slides_url: 
+
   - session_name: 'Math for Game Developers: Tile-Based Map Generation using Wave Function Collapse in ''Caves of Qud'''
     speaker: Brian Bucklew
     company_name: Freehold Games
@@ -1467,3 +1476,14 @@
     role_tag: Tool Lead
     video_url: https://www.gdcvault.com/play/1026047
     slides_url: https://www.gdcvault.com/play/1026424/Leadership-Working-at-the-Heart
+
+- track_name : design
+  sessions:
+  - session_name: 'Data-Driven DraftingUsing Digital Tools to Balance the Rochester Draft in Cavemen: The Quest for Fire'
+    speaker: Eric Zimmerman, Dan Cassar, Bennett Foddy, Tanya Short 
+    company_name: NYU Game Center, Independent, NYU Game Center, Kitfox Games
+    gdc_year: 2015
+    tag: ''
+    role_tag: DCC Tool Dev, Tool UX/UI Designer
+    video_url: https://www.gdcvault.com/play/1022003/Game-Design-Case-Studies-One
+    slides_url: https://www.gdcvault.com/play/1022458/Game-Design-Case-Studies-One
