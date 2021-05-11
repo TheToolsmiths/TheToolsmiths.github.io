@@ -1,6 +1,6 @@
 ---
 id: 20210510
-title: GameDev Tools Weekly - Issue 13 — April 10th, 2021
+title: GameDev Tools Weekly - Issue 13 — May 10th, 2021
 date: 2021-05-10T11:00:00+00:00
 author: Victor Stepanov
 layout: post
@@ -138,7 +138,7 @@ Join [David Lightbown](https://twitter.com/davidlightbown){:target="_blank"} for
 <hr style="height:1px;border:none;color:#333;background-color:#333;">
 <br>
 
-#### **Conan, CMake, Qt6 tempalte**
+#### **Conan, CMake, Qt6 template**
 
 {% include toolsmiths/tags_without_link.html tags="cpp, qt, build" %}
 
