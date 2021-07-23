@@ -9,11 +9,9 @@ permalink: /2021/game-show/
 <img height="540" width="960" src="{{ site.url }}/assets/imgs/game_show/2021_game_show.gif">
 
 
-# Winners
+# Winner
 
-## TBD
-
-
+###  Sean Sweeney
 
 Schedule [link](https://schedule.gdconf.com/session/tools-summit-live-game-show/881119)
 
