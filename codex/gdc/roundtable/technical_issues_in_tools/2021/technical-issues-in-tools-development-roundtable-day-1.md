@@ -12,7 +12,7 @@ nav_tag: gdc
 
 # @ GDC 2021
 
-##### hosted by [Geoff Evans](https://twitter.com/gorlak){:target="_blank"}
+### hosted by [Geoff Evans](https://twitter.com/gorlak){:target="_blank"}
 
 About the moderator 
 - Senior Tools Engineer at Epic Games
