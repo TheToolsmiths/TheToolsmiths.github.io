@@ -14,7 +14,7 @@ It is not easy to find time/motivation to watch good GDC Vault videos. The Tools
 <hr>
 
 #### How does it work?
-We pick a Vault talk, watch it on our own time, then pick a time/date to discuss it in the [#Vault_Club channel](https://thetoolsmiths.slack.com).
+We pick a Vault talk, watch it on our own time, then pick a time/date to discuss it in the [#vault-club channel](https://discord.gg/k4PuzbZ).
 
 <hr>
 
@@ -55,6 +55,3 @@ We pick a Vault talk, watch it on our own time, then pick a time/date to discuss
 
 <hr>
 
-## Current GDC talk
-- Name: [Level Design Workshop: Improving Tool Design Through Editor Triage](https://www.youtube.com/watch?v=VRm3d0TqMq4)
-- Deadline (view the talk by) : **April 2nd**
