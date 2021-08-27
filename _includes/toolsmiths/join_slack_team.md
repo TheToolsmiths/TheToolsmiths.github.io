@@ -1,7 +1,8 @@
 
-If you work on game development tools (or are a student/enthusiast) you can get an invite by direct messaging your email address to [@thetoolsmiths](https://twitter.com/thetoolsmiths).  If DMs aren't open poke the account first and it will follow you.
+Hey!
 
-If you have an email that is under the following domains:
-[activision.com](), [treyarch.com](), [infinityward.com](), [bungie.com](), [ea.com](), [frostbite.com](), [unity3d.com](), [epicgames.com](), [retrostudios.com](), [blizzard.com]()
+We moved from Slack on April 2nd 2021.
 
-You can use the fast signup process by using this [signup page](https://join.slack.com/t/thetoolsmiths/signup) and providing your email.
+You can now find the Toolsmiths on [Discord](https://discord.gg/k4PuzbZ){:target="_blank"}
+
+<iframe src="https://discord.com/widget?id=767468923037155340&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
