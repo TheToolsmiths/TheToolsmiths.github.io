@@ -14,10 +14,26 @@ It is not easy to find time/motivation to watch good GDC Vault videos. The Tools
 <hr>
 
 #### How does it work?
-We pick a Vault talk, watch it on our own time, then pick a time/date to discuss it in the [#vault-club channel](https://discord.gg/k4PuzbZ).
+We pick a video that is related to Game Dev Tools & Technologies, pick a date to watch it together or watch it on our own time, then discuss it in the [#vault-club channel](https://discord.gg/k4PuzbZ).
 
 <hr>
 
+### Next Vault Club Screening Monday, January 17, 2022
+#### SGC21- Oskar Stålberg - Beyond Townscapers
+[link to the talk](https://youtu.be/Uxeo9c-PX-w)
+
+[time of the event](https://everytimezone.com/s/e4c2977b)
+
+We will be watching together & discussing in the Vault Club `voice channel`
+
+If you watched it on your own, join the text conversation in the [#vault-club channel](https://discord.gg/k4PuzbZ)!
+
+<hr>
+
+## Upcoming Vault Club Screenings
+* [The Making of Horizon Zero Dawn](https://www.youtube.com/watch?v=h9tLcD1r-6w) (selected by Geoff Evans)
+
+<hr>
 #### List of Suggested GDC Vault Talks
 - [Keeping Level Designers in the Zone Through Level Editor Design](https://www.gdcvault.com/play/1023235/Keeping-Level-Designers-in-the)
 - [Developing Imperfect Software: How to Prepare for Development Pipeline Failure](https://www.gdcvault.com/play/1015531/Developing-Imperfect-Software-How-to)
