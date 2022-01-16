@@ -33,7 +33,7 @@ lvl3_nav_tag: tools_engineer_branches
 ### Resources
 
 #### Web links
-- [Tools Engineer Recruiting FAQ, Geoff Evans](http://software.gorlak.org/recruiting/2018/07/13/tools-engineer-faq)
+- [Tools Engineer Recruiting FAQ, Geoff Evans](https://gorlak.dev/recruiting/2018/07/13/tools-engineer-faq)
 - [tools-engineer-checklist.md, Geoff Evans](https://gist.github.com/gorlak/1a0747efe88c5e3998144c5787d090ec)
 - [Great Management of Technical Leads, Mike Acton](https://www.dropbox.com/s/mz0nwn61lir3vk5/Great%20Management%20of%20Technical%20Leads.pptx?dl=0#)
 

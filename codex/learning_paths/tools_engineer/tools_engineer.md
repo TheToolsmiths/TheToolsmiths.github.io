@@ -7,9 +7,16 @@ nav_tag: learning_path
 lvl2_nav_tag: tools_engineer
 ---
 
-_Last update to the Tools Engineer Learning Path - February 25, 2019_
+_Last update to the Tools Engineer Learning Path - January 15, 2021_
 
-A Tools Engineer is [one of the many roles](http://www.productivityengineer.com/tool-development-roles) that is involved in developing and maintaining tools for creating great games. This is a reference of the skills, concepts, and knowledge a Tools Engineer must obtain to become a craftsman of his trade. The resource links and concepts are continuing to be updated, refined and improved. If you have feedback or suggestions you can [join]({{ site.baseurl }}{% link join_slack_team.md %}) the Toolsmiths Slack and share your thoughts in the #website channel.
+A Tools Engineer is [one of the many roles](https://tools.engineer/tool-development-roles) that is involved in developing and maintaining tools for creating great games. This is a reference of the skills, concepts, and knowledge a Tools Engineer must obtain to become a craftsman of his trade. The resource links and concepts are continuing to be updated, refined and improved. If you have feedback or suggestions you can [join]({{ site.baseurl }}{% link join_slack_team.md %}) the Toolsmiths Discord and share your thoughts in the `#meta` channel.
+
+
+Before you start checkout these articles:
+- [Tools Engineer Recruiting FAQ](https://gorlak.dev/recruiting/2018/07/13/tools-engineer-faq){:target="_blank"}
+- [What's a tools engineer?](https://www.bungie.net/en/News/Article/50492){:target="_blank"}
+
+
 You can explore this learning path in a couple of ways:
 
 1) Go to one of the main branches of Game Tools Engineering and explore the subjects and topics that will help you achieve mastery in this career path.

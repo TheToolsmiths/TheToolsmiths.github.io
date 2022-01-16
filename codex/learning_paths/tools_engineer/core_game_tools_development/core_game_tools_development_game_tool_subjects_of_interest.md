@@ -58,6 +58,7 @@ lvl3_nav_tag: tools_engineer_core_game_tools
 
 #### Video Links
 - ['Concurrency Is Not Parallelism'](https://www.youtube.com/watch?v=cN_DpYBzKso)
+- [code::dive conference 2014 - Scott Meyers: Cpu Caches and Why You Care](https://www.youtube.com/watch?v=WDIkqP4JbkE)
 
 #### GDC Links
 - [Deterministic Simulation: What Online Games Can Learn from the Game Boy](https://www.gdcvault.com/play/1023810/Deterministic-Simulation-What-Online-Games)

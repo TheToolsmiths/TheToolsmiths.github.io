@@ -12,7 +12,7 @@ lvl3_nav_tag: tools_engineer_branches
 #### Areas of Expertise
 
 <div style="  border: 1px solid; padding: 10px; box-shadow: 5px 10px #888888;">
-<i>list reference from <a href="http://software.gorlak.org/recruiting/2018/07/13/tools-engineer-faq">Tools Engineer Recruiting FAQ</a> by <a href="https://twitter.com/gorlak">Geoff Evans</a></i>
+<i>list reference from <a href="https://gorlak.dev/recruiting/2018/07/13/tools-engineer-faq">Tools Engineer Recruiting FAQ</a> by <a href="https://twitter.com/gorlak">Geoff Evans</a></i>
 
 <ul>
 <li>Continuous Integration (in its traditional definition: the folding of changes against each other for early detection of integration test failure)</li>
@@ -51,7 +51,7 @@ lvl3_nav_tag: tools_engineer_branches
 - [Configuration Management: Theory, Practice, and Application](https://www.amazon.com/Configuration-Management-Theory-Practice-Application/dp/1482229358)
 
 #### Web Links
-- [Tools Engineer Recruiting FAQ, Geoff Evans](http://software.gorlak.org/recruiting/2018/07/13/tools-engineer-faq)
+- [Tools Engineer Recruiting FAQ, Geoff Evans](https://gorlak.dev/recruiting/2018/07/13/tools-engineer-faq)
 - [Some Code Organization Patterns, Geoff Evans](http://thetoolsmiths.org/2011/06/10/some-code-organization-patterns/)
 - [SUPPORT PAGE FOR GDC16 “TLDR STATISTICS”](http://assemblyrequired.crashworks.org/support-page-for-gdc16-tldr-statistics/)
 - [Common Problems: Preserving Atomic Changes When Checking In Builds, Jeff Ward](http://thetoolsmiths.org/2011/01/11/common-problems-preserving-atomic-changes-when-checking-in-builds/)

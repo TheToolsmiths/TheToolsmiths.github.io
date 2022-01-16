@@ -12,7 +12,7 @@ lvl3_nav_tag: tools_engineer_branches
 #### Areas of Expertise
 
 <div style="  border: 1px solid; padding: 10px; box-shadow: 5px 10px #888888;">
-<i>list reference from <a href="http://software.gorlak.org/recruiting/2018/07/13/tools-engineer-faq">Tools Engineer Recruiting FAQ</a> by <a href="https://twitter.com/gorlak">Geoff Evans</a></i>
+<i>list reference from <a href="https://gorlak.dev/recruiting/2018/07/13/tools-engineer-faq">Tools Engineer Recruiting FAQ</a> by <a href="https://twitter.com/gorlak">Geoff Evans</a></i>
 
 <ul>
 <li>User experience auditing and content creator communication/feedback</li>
@@ -52,7 +52,7 @@ lvl3_nav_tag: tools_engineer_branches
 - [Windows Internals, Part 1](https://www.amazon.com/Windows-Internals-Part-architecture-management/dp/0735684189/)
  
 #### Web links
-- [Tools Engineer Recruiting FAQ, Geoff Evans](http://software.gorlak.org/recruiting/2018/07/13/tools-engineer-faq)
+- [Tools Engineer Recruiting FAQ, Geoff Evans](https://gorlak.dev/recruiting/2018/07/13/tools-engineer-faq)
 - [Debugging in the Field, Geoff Evans](http://thetoolsmiths.org/2009/09/15/debugging-in-the-field/)
 
 #### Video links

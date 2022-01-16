@@ -12,7 +12,7 @@ lvl3_nav_tag: tools_engineer_branches
 #### Areas of Expertise
 
 <div style="  border: 1px solid; padding: 10px; box-shadow: 5px 10px #888888;">
-<i>list reference from <a href="http://software.gorlak.org/recruiting/2018/07/13/tools-engineer-faq">Tools Engineer Recruiting FAQ</a> by <a href="https://twitter.com/gorlak">Geoff Evans</a></i>
+<i>list reference from <a href="https://gorlak.dev/recruiting/2018/07/13/tools-engineer-faq">Tools Engineer Recruiting FAQ</a> by <a href="https://twitter.com/gorlak">Geoff Evans</a></i>
 
 <ul>
 <li>Dependency analysis</li>
@@ -46,7 +46,7 @@ lvl3_nav_tag: tools_engineer_branches
 - [The Game Asset Pipeline](https://www.amazon.com/Game-Asset-Pipeline-Development/dp/1584503424/)
 
 #### Web links
-- [Tools Engineer Recruiting FAQ, Geoff Evans](http://software.gorlak.org/recruiting/2018/07/13/tools-engineer-faq)
+- [Tools Engineer Recruiting FAQ, Geoff Evans](https://gorlak.dev/recruiting/2018/07/13/tools-engineer-faq)
 - [Introduction to 3D Art Pipeline](https://www.youtube.com/watch?v=ZEeajGV5fKU)
 - [Resource Pipelines](https://seanmiddleditch.com/resource-pipelines/)
 - [Unity: Create photo-realistic game assets](https://unity3d.com/solutions/photogrammetry)
