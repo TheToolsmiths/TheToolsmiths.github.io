@@ -359,6 +359,34 @@
 
 - track_name : programming
   sessions:
+
+  - session_name: 'Tools Summit: Cryptic Studios'' Magic Legends: FX Engine Support for Artists'' '
+    speaker: Brent Haley
+    company_name: Cryptic Studios
+    gdc_year: 2021
+    tag: ''
+    role_tag: DCC Tool Dev, Tool UX/UI Designer
+    video_url: https://www.gdcvault.com/play/1027311/Tools-Summit-Cryptic-Studios-Magic
+    slides_url: 
+
+  - session_name: 'Tools Summit: Embedded Scripting with Zero Overhead in Final Builds'
+    speaker: Arturo Cepeda
+    company_name: Deck13 Interactive
+    gdc_year: 2021
+    tag: ''
+    role_tag: DCC Tool Dev, Tool UX/UI Designer
+    video_url: https://www.gdcvault.com/play/1027310/Tools-Summit-Embedded-Scripting-with
+    slides_url: https://www.gdcvault.com/play/1027069/Tools-Summit-Embedded-Scripting-with
+
+  - session_name: 'Tools Summit: The Rust Programming Language for Game Tooling'
+    speaker: Dan Olson
+    company_name: Treyarch
+    gdc_year: 2021
+    tag: ''
+    role_tag: DCC Tool Dev, Tool UX/UI Designer
+    video_url: https://www.gdcvault.com/play/1027315/Tools-Summit-The-Rust-Programming
+    slides_url: 
+
   - session_name: 'Audio Bootcamp XVIII: How a Systemic Approach to Game Audio Increased Creativity and Productivity for ''Assassin''s Creed Odyssey'''
     speaker: Lydia Andrew
     company_name: Ubisoft Quebec
@@ -1239,6 +1267,25 @@
 
 - track_name : ux
   sessions:
+
+  - session_name: 'Tools Summit: Free Up the Cognitive Load: UX in Animation Workflow'
+    speaker: 	Irene Zhu
+    company_name: 343 Industries
+    gdc_year: 2021
+    tag: ''
+    role_tag: DCC Tool Dev, Tool UX/UI Designer, Pipeline Dev
+    video_url: https://www.gdcvault.com/play/1027309/Tools-Summit-Free-Up-the
+    slides_url: https://www.gdcvault.com/play/1027122/Tools-Summit-Free-Up-the
+
+  - session_name: 'Tools Summit: How Ubisoft Builds Tools that Are More "Intuitive"'
+    speaker: 	David Lightbown
+    company_name: Ubisoft
+    gdc_year: 2021
+    tag: ''
+    role_tag: DCC Tool Dev, Tool UX/UI Designer, Pipeline Dev
+    video_url: https://www.gdcvault.com/play/1027312/Tools-Summit-How-Ubisoft-Builds
+    slides_url: 
+
   - session_name: Maximizing Animation and Cinematic Content Workflows for 'Just Cause 4'
     speaker: Brian Venisky
     company_name: Avalanche Studios
