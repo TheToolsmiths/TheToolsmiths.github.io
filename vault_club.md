@@ -18,20 +18,17 @@ We pick a video that is related to Game Dev Tools & Technologies, pick a date to
 
 <hr>
 
-### Next Vault Club Screening Monday, January 17, 2022
-#### SGC21- Oskar Stålberg - Beyond Townscapers
-[link to the talk](https://youtu.be/Uxeo9c-PX-w)
+### Next Vault Club Screening TBD
 
-[time of the event](https://everytimezone.com/s/e4c2977b)
-
-We will be watching together & discussing in the Vault Club `voice channel`
-
-If you watched it on your own, join the text conversation in the [#vault-club channel](https://discord.gg/k4PuzbZ)!
 
 <hr>
 
 ## Upcoming Vault Club Screenings
 * [The Making of Horizon Zero Dawn](https://www.youtube.com/watch?v=h9tLcD1r-6w) (selected by Geoff Evans)
+* [Automated Testing at Scale in Sea of Thieves | Unreal Fest Europe 2019 ](https://www.youtube.com/watch?v=KmaGxprTUfI) (selected by Geoff Evans)
+
+
+
 
 <hr>
 #### List of Suggested GDC Vault Talks
@@ -50,6 +47,9 @@ If you watched it on your own, join the text conversation in the [#vault-club ch
 - ['Ghost Recon Wildlands': Terrain Tools and Technology](https://www.gdcvault.com/play/1024029/-Ghost-Recon-Wildlands-Terrain)
 - [ Level Design Workshop: Improving Tool Design Through Editor Triage](https://www.youtube.com/watch?v=VRm3d0TqMq4)
 - [Tools Tutorial Day: Tools to Reduce Open Bug Count at Media Molecule](https://www.gdcvault.com/play/1025013/Tools-Tutorial-Day-Tools-to)
+- [D.I.C.E. Summit 2002 - Mark Cerny](https://www.youtube.com/watch?v=Yci5ouEmnLI) (selected by Geoff Evans)
+- [Trisha Gee: Reading Code Is Harder Than Writing It - SCL Conf 2019](https://www.youtube.com/watch?v=zV079g7Irks) (selected by Geoff Evans)
+
 
 <hr>
 
@@ -68,6 +68,8 @@ If you watched it on your own, join the text conversation in the [#vault-club ch
 - [The Witcher 3: Optimizing Content Pipelines for Open-World Games](https://www.youtube.com/watch?v=p8CMYD_5gE8)
 - [Keeping Level Designers in the Zone Through Level Editor Design](https://www.gdcvault.com/play/1023235/Keeping-Level-Designers-in-the)
 - [Code & Supply & ATG Present: "My Build is Slow"](https://www.youtube.com/watch?v=EEuOcLrXB-c&feature=youtu.be)
+- ...
+-[SGC21- Oskar Stålberg - Beyond Townscapers](https://youtu.be/Uxeo9c-PX-w)
 
 <hr>
 
