@@ -7,6 +7,11 @@ nav_tag: gdc
 ---
 {% include JB/setup %}
 
+#### Tools Design Roundtable Notes @ GDC 2022
+##### by Victor Stepanov  [Day 1]({{site.url}}{%- link codex/gdc/roundtable/tools_design/2022/tools-design-roundtable-day-1.md -%}) 
+
+------
+
 #### Tools Design Roundtable Notes @ GDC 2021
 ##### by Victor Stepanov  [Day 1]({{site.url}}{%- link codex/gdc/roundtable/tools_design/2021/tools-design-roundtable-day-1.md -%}) | [Day 2]({{site.url}}{%- link codex/gdc/roundtable/tools_design/2021/tools-design-roundtable-day-2.md -%}) 
 
