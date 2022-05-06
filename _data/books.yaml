@@ -18,6 +18,12 @@
     pic_url : https://images-na.ssl-images-amazon.com/images/I/51xNkNwTDhL._SX330_BO1,204,203,200_.jpg
     pic_caption : "The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity Book Cover"
 
+  - title : "Lean UX: Applying Lean Principles to Improve User Experience"
+    author : Jeff Gothelf, Josh Seiden
+    url : https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652
+    pic_url : https://m.media-amazon.com/images/P/1449311652.01._SCLZZZZZZZ_SX500_.jpg
+    pic_caption : "Lean UX: Applying Lean Principles to Improve User Experience cover"
+
 - topic_name : Programming
   books:
   - title : Game Engine Toolset Development
@@ -47,3 +53,9 @@
     url : https://www.amazon.com/Production-Pipeline-Fundamentals-Film-Games-ebook/dp/B00IOPYVIU
     pic_url : https://images-na.ssl-images-amazon.com/images/I/613n4-o3%2BkL._SX439_BO1,204,203,200_.jpg
     pic_caption : Production Pipeline Fundamentals for Film and Games Book Cover
+
+  - title : The Game Asset Pipeline (Game Development Series) 
+    author : Ben Carter
+    url : https://www.amazon.com/Production-Pipeline-Fundamentals-Film-Games-ebook/dp/B00IOPYVIU
+    pic_url : https://images-na.ssl-images-amazon.com/images/I/51l25Ubd9SL._SX396_BO1,204,203,200_.jpg
+    pic_caption : The Game Asset Pipeline (Game Development Series) Book Cover
