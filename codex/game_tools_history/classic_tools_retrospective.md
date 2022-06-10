@@ -16,23 +16,23 @@ nav_tag: history
 ------
 #### Articles
 
-[Classic Tools Retrospective: John Romero talks about creating TEd, the tile editor that shipped over 30 games](https://www.gamasutra.com/blogs/DavidLightbown/20170223/289955/Classic_Tools_Retrospective_John_Romero_talks_about_creating_TEd_the_tile_editor_that_shipped_over_30_games.php)
+[Classic Tools Retrospective: John Romero talks about creating TEd, the tile editor that shipped over 30 games](https://www.gamedeveloper.com/design/classic-tools-retrospective-john-romero-talks-about-creating-ted-the-tile-editor-that-shipped-over-30-games){:target="_blank"}
 
 
-[Classic Tools Retrospective: Tim Sweeney on the first version of the Unreal Editor](https://www.gamasutra.com/blogs/DavidLightbown/20180109/309414/Classic_Tools_Retrospective_Tim_Sweeney_on_the_first_version_of_the_Unreal_Editor.php)
+[Classic Tools Retrospective: Tim Sweeney on the first version of the Unreal Editor](https://www.gamedeveloper.com/design/classic-tools-retrospective-tim-sweeney-on-the-first-version-of-the-unreal-editor){:target="_blank"}
 
 
-[Classic Tools Retrospective: The tools that built Deus Ex, with Chris Norden](http://www.gamasutra.com/blogs/DavidLightbown/20181023/328687/Classic_Tools_Retrospective_The_tools_that_built_Deus_Ex_with_Chris_Norden.php)
+[Classic Tools Retrospective: The tools that built Deus Ex, with Chris Norden](https://www.gamedeveloper.com/design/classic-tools-retrospective-the-tools-that-built-deus-ex-with-chris-norden){:target="_blank"}
 
 
-[Classic Tools Retrospective: The birth, death, and re-birth of Gamebryo](https://www.gamasutra.com/blogs/DavidLightbown/20200501/357835/Classic_Tools_Retrospective_The_birth_death_and_rebirth_of_Gamebryo.php)
+[Classic Tools Retrospective: The birth, death, and re-birth of Gamebryo](https://www.gamedeveloper.com/audio/classic-tools-retrospective-the-birth-death-and-re-birth-of-gamebryo-2){:target="_blank"}
 
 ------
 ------
 #### Videos
 
-[Gamasutra analyzes the classic Unreal engine with Ubisoft's David Lightbown](https://www.youtube.com/watch?v=Ldo0J0M8NKc)
+[Gamasutra analyzes the classic Unreal engine with Ubisoft's David Lightbown](https://www.youtube.com/watch?v=Ldo0J0M8NKc){:target="_blank"}
 
-[Bryant Francis's stream summary post](https://www.gamasutra.com/view/news/311769/Ubisoft_tech_UX_director_David_Lightbown_explores_the_history_of_Unreal_Engine.php)
+[Bryant Francis's stream summary post "Ubisoft tech UX director David Lightbown explores the history of Unreal Engine"](https://www.gamedeveloper.com/design/ubisoft-tech-ux-director-david-lightbown-explores-the-history-of-unreal-engine){:target="_blank"}
 
 ------
