@@ -17,7 +17,7 @@
   reference_url : https://youtu.be/Ldo0J0M8NKc?t=4043
   reference_caption : YouTube
 
-- author_name : Jonathan Adamczewski‏
+- author_name : Jonathan Adamczewski
   text : "When designing some feature (especially one with UI), I find that these can be useful questions to be asking: What widely-used software already does this kind of thing? What software does it really well? What does the state of the art look like?"
   type : quote
   reference_url : https://twitter.com/twoscomplement/status/844775796979916801
@@ -34,3 +34,31 @@
   type : quote
   reference_url : https://www.gamasutra.com/view/news/314538/Tips_for_building_game_dev_tools_and_UX_from_Ubisofts_David_Lightbown.php
   reference_caption : Gamasutra
+
+- author_name : Jason Batchkoff
+  text : "Git makes complicated things possible, but gives up making simple things easy."
+  type : quote
+  reference_url : https://discord.com/channels/767468923037155340/815415916362727474/1016403640971440201
+  reference_caption : The Toolsmiths Discord
+
+- author_name : Geoff Evans
+  text : "The only time you know how to build a thing is the moment you finish building it."
+  type : quote
+  reference_url : https://discord.com/channels/767468923037155340/813465002354409513/1010230834537713755
+  reference_caption : The Toolsmiths Discord
+
+- author_name : Nick Porcino
+  text : "You need to build a system three times
+- the first time you don't know what you actually need, it's an exploration, plan to throw it away
+- the second time you think you know what you need so you over-architect, it'll be too restrictive, plan to throw it away
+- the third time you build what actually works"
+  type : quote
+  reference_url : https://discord.com/channels/767468923037155340/813465002354409513/1010332451551334440
+  reference_caption : The Toolsmiths Discord
+
+- author_name : Geoff Evans
+  text : "In general: only branch things that feed \"the build\". If you can't build it (you export from it) then don't branch it."
+  type : quote
+  reference_url : https://discord.com/channels/767468923037155340/815415916362727474/983493884430655548
+  reference_caption : The Toolsmiths Discord
+  
