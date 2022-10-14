@@ -40,12 +40,33 @@
   def : >
     software that enables a game development team to build a game, create assets for the game, making the game development process easier. Middleware can be game engines, development libraries and different kinds of tools.
 
+- lvl : entry
+  cntxt : game dev
+  term : Translate Rotate Scale Control
+  aka : TRS Control
+  def : >
+    The GUI that allows the user to set the translation, rotation, scale of a selected object
+
+- lvl : intermediate
+  cntxt : software dev
+  term : Rapid Application Development
+  aka : RAD
+  def : >
+    A software development approach that put less emphasis on planning and more emphasis on continuing to adapt to what is required.
+
 - lvl : intermediate
   cntxt : game dev pipeline
   term : Exporter plug-in
   aka : 
   def : >
     a DCC tool plug-in that converts an asset from a DCC format into a game engine or content pipeline format by removing extra data.
+
+- lvl : intermediate
+  cntxt : game dev pipeline
+  term : workflow
+  aka : 
+  def : >
+    the steps required to achieve a desired outcome
 
 - lvl : intermediate
   cntxt : game dev job
