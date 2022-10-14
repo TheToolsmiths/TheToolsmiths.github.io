@@ -279,6 +279,16 @@
       account : dgud
       repo_name : wings
 
+  - solution_name : Blockbench
+    solution_type : tool
+    website_url : https://github.com/JannisX11/blockbench
+    open_source : True
+    description : A low poly 3D model editor
+    source_code_url : https://github.com/JannisX11/blockbench
+    github_starts :
+      account : JannisX11
+      repo_name : blockbench
+
 - solution_category : Audio Editing Tools
   solutions:
   - solution_name : Audacity
@@ -290,6 +300,18 @@
     github_starts :
       account : audacity
       repo_name : audacity
+
+- solution_category : Procedural Modelling Tools
+  solutions:
+  - solution_name : blackjack
+    solution_type : tool
+    website_url : https://github.com/setzer22/blackjack
+    open_source : True
+    description : A procedural, node-based modelling tool, made in rust 🦀
+    source_code_url : https://github.com/setzer22/blackjack
+    github_starts :
+      account : setzer22
+      repo_name : blackjack
 
 - solution_category : Image Editing Tools
   solutions:
