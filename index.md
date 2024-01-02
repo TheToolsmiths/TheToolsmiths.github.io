@@ -11,6 +11,19 @@ This website is the public face of an online community for game tools developmen
 
 Join us on [Discord](https://discord.gg/k4PuzbZ){:target="_blank"}
 
-<iframe src="https://discord.com/widget?id=767468923037155340&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<a href="https://discord.gg/k4PuzbZ" target="_blank">
+    <button>Join the Discord server</button>
+</a>
 
 Part of the online community is also from the IGDA Tools SIG. That organization is dormant at the moment, but in the past they organized a lot of blog content. That content is archived here.
+
+<style>
+    button {
+        background-color: #5865F2;
+        font-size: 2rem;
+        border: none;
+        height: fit-content;
+        border-radius: 5px;
+        padding: 15px
+    }
+</style>
