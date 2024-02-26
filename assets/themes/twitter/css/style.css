@@ -85,3 +85,92 @@
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
+  
+/* Tool Tip Style */
+.tooltip {
+  display: inline-block;
+  position: relative;
+  margin-left: 0.5em;
+}
+
+.tooltip__icon {
+  background: #27b1f0;
+  color: #FFF;
+  border-radius: 50%;
+  /* Makes the icon circular */
+  cursor: pointer;
+  display: inline-flex;
+  /* Center content */
+  align-items: center;
+  /* Center content vertically */
+  justify-content: center;
+  /* Center content horizontally */
+  font-size: 14px;
+  /* Adjusted for readability */
+  width: 20px;
+  height: 20px;
+  font-family: Courier New, Arial, Helvetica, sans-serif;
+  /* Web-safe fonts */
+}
+
+.tooltip__content {
+  display: none;
+  background: #262626;
+  border: 1px solid #27b1f0;
+  border-radius: 3px;
+  color: #FFF;
+  /* Improved readability */
+  font-size: 1rem;
+  font-weight: normal;
+  /* Adjusted for better readability */
+  padding: 1em;
+  position: absolute;
+  left: 100%;
+  /* Position to the right of the icon */
+  top: 50%;
+  transform: translate(0, -50%);
+  /* Center vertically relative to the icon */
+  width: 250px;
+  z-index: 100;
+  /* Adjusted based on z-index strategy */
+}
+
+.tooltip__content::before,
+.tooltip__content::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: -10px;
+  transform: translateY(-50%);
+  border-style: solid;
+  border-width: 5px 10px 5px 0;
+  /* Adjusted for a smaller arrow */
+  border-color: transparent #27b1f0 transparent transparent;
+}
+
+.tooltip__content::after {
+  border-color: transparent #262626 transparent transparent;
+  left: -9px;
+  /* Adjust arrow position */
+}
+
+.tooltip__content .content__title {
+  color: #fa00f3;
+}
+
+.tooltip:hover .tooltip__content,
+.tooltip:focus .tooltip__content {
+  display: block;
+}
+
+@media (max-width: 1400px) {
+  .tooltip__content {
+    left: auto;
+    right: 100%;
+    /* Adjust tooltip for smaller screens */
+    top: auto;
+    bottom: 100%;
+    transform: translate(0, 10px);
+    /* Adjust position for visibility */
+  }
+}
