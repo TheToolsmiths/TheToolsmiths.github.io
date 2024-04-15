@@ -8,6 +8,17 @@ nav_tag: gdc
 {% include JB/setup %}
 
 
+#### Tools Roundtable Notes @ GDC 2024
+##### by Igor de Sousa [Day 1]({{site.url}}{%- link codex/gdc/roundtable/technical_issues_in_tools/2024/technical-issues-in-tools-development-roundtable-day-1.md -%}) | [Day 2]({{site.url}}{%- link codex/gdc/roundtable/technical_issues_in_tools/2024/technical-issues-in-tools-development-roundtable-day-2.md -%})
+##### and Alexander Pirogov [Day 3]({{site.url}}{%- link codex/gdc/roundtable/technical_issues_in_tools/2024/technical-issues-in-tools-development-roundtable-day-3.md -%}) 
+
+------
+
+#### Tools Roundtable Notes @ GDC 2022
+##### by Igor de Sousa [Day 1]({{site.url}}{%- link codex/gdc/roundtable/technical_issues_in_tools/2022/technical-issues-in-tools-development-roundtable-day-1.md -%}) | [Day 2]({{site.url}}{%- link codex/gdc/roundtable/technical_issues_in_tools/2022/technical-issues-in-tools-development-roundtable-day-2.md -%}) | [Day 3]({{site.url}}{%- link codex/gdc/roundtable/technical_issues_in_tools/2022/technical-issues-in-tools-development-roundtable-day-3.md -%})
+
+------
+
 #### Tools Roundtable Notes @ GDC 2021
 ##### by Victor Stepanov‏  [Day 1]({{site.url}}{%- link codex/gdc/roundtable/technical_issues_in_tools/2021/technical-issues-in-tools-development-roundtable-day-1.md -%}) | [Day 2]({{site.url}}{%- link codex/gdc/roundtable/technical_issues_in_tools/2021/technical-issues-in-tools-development-roundtable-day-2.md -%}) | [Day 3]({{site.url}}{%- link codex/gdc/roundtable/technical_issues_in_tools/2021/technical-issues-in-tools-development-roundtable-day-3.md -%})
 
