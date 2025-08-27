@@ -6,6 +6,14 @@ codex_page_type: top_level_codex_page
 nav_tag: gdc
 ---
 
+
+#### [GDC Tools Summit]({{ site.baseurl }}{% link codex/gdc/tools_summit/sessions.md %})
+------
+
+#### [GDC Tools Tutorial Day]({{ site.baseurl }}{% link codex/gdc/tools_tutorial_day/sessions.md %})
+
+------
+
 #### [GDC Pipelines/Workflows Sessions]({{ site.baseurl }}{% link codex/gdc/pipelines_and_workflows/sessions.md %})
 
 ------
@@ -31,10 +39,6 @@ nav_tag: gdc
 ------
 
 #### [GDC Visual Arts Sessions]({{ site.baseurl }}{% link codex/gdc/visual_arts/sessions.md %})
-
-------
-
-#### [GDC Tools Tutorial Day]({{ site.baseurl }}{% link codex/gdc/tools_tutorial_day/sessions.md %})
 
 ------
 

@@ -1534,3 +1534,50 @@
     role_tag: DCC Tool Dev, Tool UX/UI Designer
     video_url: https://www.gdcvault.com/play/1022003/Game-Design-Case-Studies-One
     slides_url: https://www.gdcvault.com/play/1022458/Game-Design-Case-Studies-One
+
+
+- track_name: tools_summit
+  sessions:
+
+  - session_name: 'Tools Summit: Designing Extensibility for EAs Submission Tool CheckMate'
+    speaker: Byron Mayne
+    company_name: Electronic Arts
+    gdc_year: '2025'
+    tag: ''
+    role_tag: ''
+    video_url: https://gdcvault.com/play/1035298/Tools-Summit-Designing-Extensibility-for
+
+  - session_name: 'Tools Summit: Unlocking Hidden Value: UX Behind the Final Product, the CDPR Way'
+    speaker: Anna Nojek
+    company_name: CD PROJEKT RED
+    gdc_year: '2025'
+    tag: ''
+    role_tag: ''
+    video_url: https://gdcvault.com/play/1035302/Tools-Summit-Unlocking-Hidden-Value
+
+  - session_name: 'Tools Summit: Nodes and Native Code: DECIMAs Visual Programming for Every Discipline'
+    speaker: Bryan Keiren
+    company_name: Guerrilla
+    gdc_year: '2025'
+    tag: ''
+    role_tag: ''
+    video_url: https://gdcvault.com/play/1035300/Tools-Summit-Nodes-and-Native
+    slides_url: https://gdcvault.com/play/1035551/Tools-Summit-Nodes-and-Native
+
+  - session_name: 'Tools Summit: A Series of Microtalks About Spreadsheets'
+    speaker : Tyler Coleman, Russ Fan, Nathan Harling, Tomo Moriwaki, Guillaume Pierre, Lauren Scott
+    company_name : Retora Games, Independent, EA Maxis, Hyperkinetic Studios, Magic Fuel Games/Playstack, Double Fine
+    gdc_year: '2025'
+    tag: ''
+    role_tag: ''
+    video_url: https://gdcvault.com/play/1035299/Tools-Summit-A-Series-of
+    slides_url: https://gdcvault.com/play/1035550/Tools-Summit-A-Series-of
+
+  - session_name: 'Tools Summit: Mission Kontrol: Revolutionizing Combat Testing for Mortal Kombat 1'
+    speaker: Etienne Palmer-Campbell
+    company_name: NetherRealm Studios
+    gdc_year: '2025'
+    tag: ''
+    role_tag: ''
+    video_url: https://gdcvault.com/play/1035301/Tools-Summit-Mission-Kontrol-Revolutionizing
+    slides_url: https://gdcvault.com/play/1035569/Tools-Summit-Mission-Kontrol-Revolutionizing
