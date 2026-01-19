@@ -164,12 +164,13 @@ Examples of topics are:
 <div class="tooltip">
 <i class="tooltip__icon">i</i>
 <p class="tooltip__content">
-For day 3:
+For day 2:
 This Tool Design roundtable is about the UX of in-house and external toolsets. Come and meet, discuss, and find out what everyone has been doing with Tool Design in the last year.
-Examples of topics are:
-1. What user research methods do you use?
-2. Do you have a dedicated user researcher on your team?
-3. What surprises has your research uncovered in the last year?
+Examples of topics discussed in previous years are:
+1. What communication channels do you use to inform users about new tool features? E-mail? Meetings? Videos? Gifs?
+2. What is a ticketing request pipeline that works really well for you?
+3. In what size team did your tool request/ticket pipeline work best?
+This years' questions may be different, or similar! Feel free to join, and ask.
 </p>
 </div>
 </h4>
@@ -183,13 +184,12 @@ Examples of topics are:
 <div class="tooltip">
 <i class="tooltip__icon">i</i>
 <p class="tooltip__content">
-For day 2:
+For day 3:
 This Tool Design roundtable is about the UX of in-house and external toolsets. Come and meet, discuss, and find out what everyone has been doing with Tool Design in the last year.
-Examples of topics discussed in previous years are:
-1. What communication channels do you use to inform users about new tool features? E-mail? Meetings? Videos? Gifs?
-2. What is a ticketing request pipeline that works really well for you?
-3. In what size team did your tool request/ticket pipeline work best?
-This years' questions may be different, or similar! Feel free to join, and ask.
+Examples of topics are:
+1. What user research methods do you use?
+2. Do you have a dedicated user researcher on your team?
+3. What surprises has your research uncovered in the last year?
 </p>
 </div>
 </h4>
@@ -421,7 +421,7 @@ In this session, Jeffrey Tomec explores the technical side of building a cinemat
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Pipeline, Programming" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Build Dev" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev" %}
 
 <br>
 <h4 id="etudes-and-actors-owlcats-tooling-for-highly-branched-narrative"><a href="https://schedule.gdconf.com/session/etudes-and-actors-owlcats-tooling-for-highly-branched-narrative/914145">Etudes and Actors: Owlcat's Tooling for Highly Branched Narrative</a>
@@ -434,7 +434,7 @@ Owlcat Games is famous for making sprawling RPGs with tons of player choice and 
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Programming" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Build Dev" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev" %}
 
 <br>
 <h4 id="camera-deobscura-building-a-flexible-camera-system"><a href="https://schedule.gdconf.com/session/camera-deobscura-building-a-flexible-camera-system/915491">Camera Deobscura: Building a Flexible Camera System</a>
@@ -486,7 +486,7 @@ This talk presents a complete overview of the technical process behind the creat
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Programming" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="Tool UX/UI Designer, Build Dev, Tool Lead/Engineering Producer" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="Tool UX/UI Designer, Tool Lead/Engineering Producer" %}
 
 <br>
 <hr>
@@ -503,7 +503,7 @@ Before Sucker Punch had even finished shipping our previous game, Ghost of Tsush
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Pipeline" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Build Dev" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev" %}
 
 <br>
 <h4 id="the-scalable-game-asset-assisted-production-pipeline-of-honor-of-kings"><a href="https://schedule.gdconf.com/session/the-scalable-game-asset-assisted-production-pipeline-of-honor-of-kings/915185">The Scalable Game Asset-Assisted Production Pipeline of 'Honor of Kings'</a>
@@ -546,7 +546,7 @@ Based on the successful massive worldbuilding practices of Mecha BREAK, this ses
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Pipeline" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="Build Dev" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev" %}
 
 <br>
 <h4 id="the-dynamic-weather-systems-of-borderlands-4-how-they-can-apply-to-games-without-dynamic-weather"><a href="https://schedule.gdconf.com/session/the-dynamic-weather-systems-of-borderlands-4-how-they-can-apply-to-games-without-dynamic-weather/917367">The Dynamic Weather Systems of 'Borderlands 4: How They Can Apply to Games Without Dynamic Weather</a>
@@ -764,7 +764,7 @@ The Modular and Expressive World Art of Keeper will be a detailed run-through of
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Pipeline" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Build Dev" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev" %}
 
 <br>
 <h4 id="invisible-cameras-reimagining-cinematography-in-real-time-game-engines"><a href="https://schedule.gdconf.com/session/invisible-cameras-reimagining-cinematography-in-real-time-game-engines/914362">Invisible Cameras: Reimagining Cinematography in Real-Time Game Engines</a>
@@ -777,7 +777,7 @@ As digital storytelling becomes increasingly cinematic, the role of virtual came
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Design, Procedural" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Build Dev" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev" %}
 
 <br>
 <hr>
@@ -794,8 +794,8 @@ This session explores how AI technologies empower large-scale UGC creation in Pe
 </div>
 </h4>
 
-    {% include toolsmiths/tags_without_link.html tags="Technical" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="Build Dev" %}
+    {% include toolsmiths/tags_without_link.html tags="" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="" %}
 
 <br>
 <h4 id="the-future-of-facial-rigging-rigx-and-the-next-era-of-digital-humans-presented-by-2dnac"><a href="https://schedule.gdconf.com/session/the-future-of-facial-rigging-rigx-and-the-next-era-of-digital-humans-presented-by-2dnac/917088">The Future of Facial Rigging: RigX and the Next Era of Digital Humans (Presented by 2DNAC)</a>
@@ -821,7 +821,7 @@ Explore the material creation pipeline behind DOOM: The Dark Ages as Kat Tambure
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Pipeline, Procedural" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Build Dev, Dev Support/Production Engineer" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Dev Support/Production Engineer" %}
 
 <br>
 <h4 id="responsible-ai-presented-by-villain-studios"><a href="https://schedule.gdconf.com/session/responsible-ai-presented-by-villain-studios/917118">Responsible AI (Presented by VILLAIN Studios)</a>
@@ -846,7 +846,7 @@ Pre-production is where ideas move, or stall. In this session, Cartwheel shares 
 </div>
 </h4>
 
-    {% include toolsmiths/tags_without_link.html tags="Technical" %}
+    {% include toolsmiths/tags_without_link.html tags="" %}
     {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Tool Lead/Engineering Producer" %}
 
 <br>
@@ -859,8 +859,8 @@ Traditionally, prototyping has been a filtering process. Designers pitch ideas, 
 </div>
 </h4>
 
-    {% include toolsmiths/tags_without_link.html tags="Technical" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Build Dev, Tool Lead/Engineering Producer" %}
+    {% include toolsmiths/tags_without_link.html tags="" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Tool Lead/Engineering Producer" %}
 
 <br>
 <h4 id="angry-birds-meets-genai-transforming-rovios-asset-creation-with-aws-presented-by-amazon-web-services"><a href="https://schedule.gdconf.com/session/angry-birds-meets-genai-transforming-rovios-asset-creation-with-aws-presented-by-amazon-web-services/917278">Angry Birds meets GenAI: Transforming Rovio's Asset Creation with AWS (Presented by Amazon Web Services)</a>
@@ -885,8 +885,8 @@ Presented by Meshy AI CEO Ethan Hu and friends, this session dives into two ways
 </div>
 </h4>
 
-    {% include toolsmiths/tags_without_link.html tags="Technical" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Build Dev" %}
+    {% include toolsmiths/tags_without_link.html tags="" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev" %}
 
 <br>
 <h4 id="from-code-to-game-empowering-developers-with-jetbrains-rider-and-teamcity-presented-by-jetbrains"><a href="https://schedule.gdconf.com/session/from-code-to-game-empowering-developers-with-jetbrains-rider-and-teamcity-presented-by-jetbrains/917269">From Code to Game: Empowering Developers with JetBrains Rider and TeamCity (Presented by JetBrains)</a>
@@ -912,7 +912,7 @@ Roblox is investing in AI-powered tools to transform how creators build 3D conte
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Programming" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Build Dev" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev" %}
 
 <br>
 <h4 id="agentic-liveops-from-concept-to-production-presented-by-amazon-web-services"><a href="https://schedule.gdconf.com/session/agentic-liveops-from-concept-to-production-presented-by-amazon-web-services/917505">Agentic LiveOps: From Concept to Production (Presented by Amazon Web Services)</a>
@@ -925,7 +925,7 @@ Agentic systems are creating new opportunities in LiveOps, from player segmentat
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Automation" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="Build Dev, Dev Support/Production Engineer" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="Dev Support/Production Engineer" %}
 
 <br>
 <h4 id="through-the-looking-glass-the-art-of-south-of-midnight-presented-by-adobe"><a href="https://schedule.gdconf.com/session/through-the-looking-glass-the-art-of-south-of-midnight-presented-by-adobe/916098">Through the Looking Glass: The Art of South of Midnight (Presented by Adobe)</a>
@@ -957,5 +957,3 @@ Check out the other guides from previous years:
 - [Toolsmiths GDC 2022 Guide](https://thetoolsmiths.org/2022/03/18/gdc-2022-toolsmiths-guide/)
 - [Toolsmiths GDC 2019 Guide](https://thetoolsmiths.org/2019/03/06/gdc-2019-toolsmiths-guide/)
 - [Toolsmiths GDC 2018 Guide](https://thetoolsmiths.org/2018/02/26/gdc-2018-toolsmiths-guide/)
-
-
