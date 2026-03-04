@@ -53,7 +53,7 @@ To make navigation easier, sessions are tagged with **key roles and topics**. Us
 ### 🔑 **Searchable Keywords**  
 
 {% include toolsmiths/tags_without_link.html tags="Programming, UX, Workflows, Pipeline, VFX, Visual Arts, Production" %}  
-{% include toolsmiths/tags_without_link.html tags="Design, AI, Procedural, Machine Learning, Visual Arts" %}  
+{% include toolsmiths/tags_without_link.html tags="Design, AI, Procedural, Machine Learning" %}  
 
 ---
 
@@ -70,7 +70,7 @@ To make navigation easier, sessions are tagged with **key roles and topics**. Us
 
 
 # Table of Contents
-- [Tools Roundtables](#tools-technology-roundtables)
+- [Tools Technology Roundtables](#tools-technology-roundtables)
 - [Technical Art Roundtables](#technical-art-roundtables)
 - [Tools Summit](#tools-summit)
 - [Automated Testing Roundtables](#automated-testing-roundtables)
@@ -84,7 +84,6 @@ To make navigation easier, sessions are tagged with **key roles and topics**. Us
 - [Design](#design)
 - [Production & Leadership](#production--leadership)
 - [Sponsored Sessions](#sponsored-sessions)
-- [Other](#other)
 
 ------
 
@@ -214,7 +213,7 @@ Telemetry can be a game-changer in helping you develop better tools, but without
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Telemetry" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Tool UX/UI Designer, Tools QA, Tool Lead/Engineering Producer" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Tool UX/UI Designer, Tools QA, Tool Lead" %}
 
 <br>
 <h4 id="spreadsheets-microtalks"><img src="{{ site.url }}/favicon.ico"> <a href="https://schedule.gdconf.com/session/spreadsheets-microtalks/913682">Spreadsheets Microtalks</a>
@@ -406,7 +405,7 @@ USD stands for 'Universal Scene Description', and it is a 3D file format Pixar c
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Pipeline" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Tool Lead/Engineering Producer" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Tool Lead" %}
 
 <br>
 <h4 id="innovative-tools-for-the-innovative-indies-roundtable-gamedev-in-a-distributed-world-presented-by-the-igda"><a href="https://schedule.gdconf.com/session/innovative-tools-for-the-innovative-indies-roundtable-gamedev-in-a-distributed-world-presented-by-the-igda/917261">Innovative Tools for the Innovative Indies Roundtable: Gamedev in a Distributed World (Presented by the IGDA)</a>
@@ -548,7 +547,7 @@ The team at Hypersect wanted to stand out from the competition with the art styl
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Pipeline" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Tool Lead/Engineering Producer" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Tool Lead" %}
 
 <br>
 <h4 id="mastering-massive-worldbuilding-production-and-optimization-of-ultra-large-scale-maps"><a href="https://schedule.gdconf.com/session/mastering-massive-worldbuilding-production-and-optimization-of-ultra-large-scale-maps/915227">Mastering Massive Worldbuilding: Production and Optimization of Ultra-Large Scale Maps</a>
@@ -575,7 +574,7 @@ Gearbox provides a behind-the-scenes look into the components that establish BL4
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Pipeline" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Tool Lead/Engineering Producer" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Tool Lead" %}
 
 <br>
 <h4 id="illuminating-rocos-legacy-scalable-global-illumination-from-theory-to-practice"><a href="https://schedule.gdconf.com/session/illuminating-rocos-legacy-scalable-global-illumination-from-theory-to-practice/915519">Illuminating Roco's Legacy: Scalable Global Illumination from Theory to Practice</a>
@@ -849,7 +848,7 @@ Marko Š. presents RigX, a revolutionary pipeline that transforms how digital ch
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Pipeline" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Tool Lead/Engineering Producer" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Tool Lead" %}
 
 
 <br>
@@ -888,7 +887,7 @@ AI is an incredible accelerant for early-stage creativity. It excels at rapid pr
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Pipeline, Automation" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Tool Lead/Engineering Producer, Dev Support/Production Engineer" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Tool Lead, Dev Support/Integration Engineer" %}
 
 <br>
 <h4 id="fast-pre-production-for-gameplay-cinematics-presented-by-cartwheel"><a href="https://schedule.gdconf.com/session/fast-pre-production-for-gameplay-cinematics-presented-by-cartwheel/917350">Fast Pre-Production for Gameplay & Cinematics (Presented by Cartwheel)</a>
@@ -901,7 +900,7 @@ Pre-production is where ideas move, or stall. In this session, Cartwheel shares 
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Tool Lead/Engineering Producer" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Tool Lead" %}
 
 <br>
 <h4 id="test-every-idea-build-the-best-one-amplify-creative-exploration-without-developer-bottlenecks-presented-by-bezi"><a href="https://schedule.gdconf.com/session/test-every-idea-build-the-best-one-amplify-creative-exploration-without-developer-bottlenecks-presented-by-bezi/917317">Test Every Idea, Build the Best One: Amplify Creative Exploration Without Developer Bottlenecks (Presented by Bezi)</a>
@@ -914,7 +913,7 @@ Traditionally, prototyping has been a filtering process. Designers pitch ideas, 
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Tool Lead/Engineering Producer" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Tool Lead" %}
 
 <br>
 <h4 id="angry-birds-meets-genai-transforming-rovios-asset-creation-with-aws-presented-by-amazon-web-services"><a href="https://schedule.gdconf.com/session/angry-birds-meets-genai-transforming-rovios-asset-creation-with-aws-presented-by-amazon-web-services/917278">Angry Birds meets GenAI: Transforming Rovio's Asset Creation with AWS (Presented by Amazon Web Services)</a>
@@ -927,7 +926,7 @@ Explore how Rovio, the creator of Angry Birds, is reimagining game asset creatio
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Pipeline" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Tool Lead/Engineering Producer" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Tool Lead" %}
 
 <h4 id="ai-augmented-playtesting-test-smarter-scale-faster-presented-by-softtek"><a href="https://schedule.gdconf.com/search/king">AI-Augmented PlayTesting: Test Smarter, Scale Faster (Presented by Softtek)</a>
 <div class="tooltip">
@@ -938,7 +937,7 @@ This power talk looks at how AI-augmented testing can make playtesting more scal
 </div>
 </h4>
 
-    {% include toolsmiths/tags_without_link.html tags="Automation, Automated Testing, and QA, Machine Learning" %}
+    {% include toolsmiths/tags_without_link.html tags="Automation, QA, Machine Learning" %}
 
 <br>
 <h4 id="ai-games-more-creativity-in-production-deeper-fun-in-gameplay-presented-by-meshy"><a href="https://schedule.gdconf.com/session/ai-games-more-creativity-in-production-deeper-fun-in-gameplay-presented-by-meshy/917392">AI + Games: More Creativity in Production, Deeper Fun in Gameplay (Presented by Meshy)</a>
@@ -964,7 +963,7 @@ Your ideas, your code, your game. JetBrains tools are here to make the journey s
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Pipeline" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Dev Support/Production Engineer" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Dev Support/Integration Engineer" %}
 
 <br>
 <h4 id="scaling-3d-creation-at-roblox-with-amazon-sagemaker-hyperpod-presented-by-amazon-web-services"><a href="https://schedule.gdconf.com/session/scaling-3d-creation-at-roblox-with-amazon-sagemaker-hyperpod-presented-by-amazon-web-services/917484">Scaling 3D Creation at Roblox with Amazon SageMaker HyperPod (Presented by Amazon Web Services)</a>
@@ -990,7 +989,7 @@ Agentic systems are creating new opportunities in LiveOps, from player segmentat
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Automation" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="Dev Support/Production Engineer" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="Dev Support/Integration Engineer" %}
 
 <br>
 <h4 id="through-the-looking-glass-the-art-of-south-of-midnight-presented-by-adobe"><a href="https://schedule.gdconf.com/session/through-the-looking-glass-the-art-of-south-of-midnight-presented-by-adobe/916098">Through the Looking Glass: The Art of South of Midnight (Presented by Adobe)</a>
@@ -1003,13 +1002,10 @@ Paulette Richardson and Chad Emond from Compulsion Games will share insights int
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Pipeline" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Dev Support/Production Engineer" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Dev Support/Integration Engineer" %}
 
 <br>
 <hr>
-
-## Other
-
 
 ------
 ------
