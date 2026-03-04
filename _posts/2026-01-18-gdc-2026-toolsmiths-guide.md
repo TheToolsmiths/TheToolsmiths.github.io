@@ -82,7 +82,9 @@ To make navigation easier, sessions are tagged with **key roles and topics**. Us
 - [Machine Learning](#machine-learning)
 - [Audio](#audio)
 - [Design](#design)
+- [Production & Leadership](#production--leadership)
 - [Sponsored Sessions](#sponsored-sessions)
+- [Other](#other)
 
 ------
 
@@ -101,7 +103,7 @@ Day 1: 'Engineering', focuses on tools programming, testing, deployment, framewo
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Automation, Telemetry" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Build Dev, Tools QA" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Build Dev, Tools QA" %}
 
 <br>
 <h4 id="tools-technology-roundtable-day-2"><img src="{{ site.url }}/favicon.ico"> <a href="https://schedule.gdconf.com/session/tools-technology-roundtable-day-2/917283">Tools Technology Roundtable Day 2</a>
@@ -114,7 +116,7 @@ The Tools Technology Roundtables focus on discussion of best practices, novel te
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Programming" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Build Dev" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Build Dev" %}
 
 <br>
 <h4 id="tools-technology-roundtable-day-3"><img src="{{ site.url }}/favicon.ico"> <a href="https://schedule.gdconf.com/session/tools-technology-roundtable-day-3/917285">Tools Technology Roundtable Day 3</a>
@@ -127,7 +129,7 @@ The Tools Technology Roundtables focus on discussion of best practices, novel te
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Programming" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Build Dev" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Build Dev" %}
 
 <br>
 <h4 id="tool-design-roundtable-day-1"><img src="{{ site.url }}/favicon.ico"> <a href="https://schedule.gdconf.com/session/tool-design-roundtable-day-1/913670">Tool Design Roundtable Day 1</a>
@@ -157,7 +159,7 @@ Examples of topics are:
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Pipeline, Design" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Tool UX/UI Designer, Pipeline Dev" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Tool UX/UI Designer, Tool Lead" %}
 
 <br>
 <h4 id="tool-design-roundtable-day-2"><img src="{{ site.url }}/favicon.ico"> <a href="https://schedule.gdconf.com/session/tool-design-roundtable-day-2/917287">Tool Design Roundtable Day 2</a>
@@ -176,7 +178,7 @@ This years' questions may be different, or similar! Feel free to join, and ask.
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Design" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Tool UX/UI Designer" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Tool UX/UI Designer, Tool Lead" %}
 
 
 <br>
@@ -195,7 +197,7 @@ Examples of topics are:
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Pipeline, Design" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Tool UX/UI Designer, Pipeline Dev" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Tool UX/UI Designer, Tool Lead" %}
 
 
 <hr>
@@ -225,7 +227,7 @@ Spreadsheets! Spreadsheets! Spreadsheets! (Now you can't say you haven't been wa
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Pipeline" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="Tool UX/UI Designer, Build Dev, Tools QA" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Tool UX/UI Designer, Tools QA" %}
 
 <br>
 <h4 id="how-ghost-of-yotei-was-pre-mixed-with-the-help-of-a-sound-sensei"><img src="{{ site.url }}/favicon.ico"> <a href="https://schedule.gdconf.com/session/how-ghost-of-yotei-was-pre-mixed-with-the-help-of-a-sound-sensei/915033">How 'Ghost of Yotei' was Pre-Mixed with the Help of a Sound Sensei</a>
@@ -251,7 +253,7 @@ Why can't we hear the right footsteps (or any footsteps) on the other client? Wh
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Audio" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Dev Support/Integration Engineer" %}
 
 <br>
 <hr>
@@ -269,7 +271,7 @@ The role of a technical artist has grown from a clean-up artist and data wrangle
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Visual Arts, Pipeline" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Dev Support/Integration Engineer" %}
 
 <br>
 <h4 id="technical-artists-roundtable-20th-year-day-2"><a href="https://schedule.gdconf.com/session/technical-artists-roundtable-20th-year-day-2/917315">Technical Artists Roundtable (20th Year)!!! Day 2</a>
@@ -282,7 +284,7 @@ The role of a technical artists has grown from a clean-up artist and data wrangl
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Visual Arts, Pipeline" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Dev Support/Integration Engineer" %}
 
 <br>
 <h4 id="technical-artists-roundtable-20th-year-day-3"><a href="https://schedule.gdconf.com/session/technical-artists-roundtable-20th-year-day-3/917316">Technical Artists Roundtable (20th Year)!!! Day 3</a>
@@ -295,7 +297,7 @@ The role of a technical artists has grown from a clean-up artist and data wrangl
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Visual Arts, Pipeline" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Dev Support/Integration Engineer" %}
 
 <br>
 <hr>
@@ -314,7 +316,7 @@ Automated testing provides a team with stability across development, allowing ea
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Automation, QA" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="Tools QA, Dev Support/Production Engineer" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="Tools QA, Dev Support/Integration Engineer" %}
 
 <br>
 <h4 id="automated-testing-roundtable-day-2"><a href="https://schedule.gdconf.com/session/automated-testing-roundtable-day-2/917293">Automated Testing Roundtable Day 2</a>
@@ -328,7 +330,7 @@ Automated testing provides a team with stability across development, allowing ea
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Automation, QA" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="Tools QA, Dev Support/Production Engineer" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="Tools QA, Dev Support/Integration Engineer" %}
 
 <br>
 <h4 id="automated-testing-roundtable-day-3"><a href="https://schedule.gdconf.com/session/automated-testing-roundtable-day-3/917294">Automated Testing Roundtable Day 3</a>
@@ -342,7 +344,7 @@ Automated testing provides a team with stability across development, allowing ea
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Automation, QA" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="Tools QA, Dev Support/Production Engineer" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="Tools QA, Dev Support/Integration Engineer" %}
 
 <br>
 <hr>
@@ -359,7 +361,20 @@ As production demands grow and workflows diversify, developing and maintaining a
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Pipeline, Machine Learning" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Build Dev" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Build Dev, Tool Lead" %}
+
+<br>
+<h4 id="art-production-pipeline-in-2026-and-beyond-roundtable-presented-by-the-igda"><a href="https://schedule.gdconf.com/session/art-production-pipeline-in-2026-and-beyond-roundtable-presented-by-the-igda/917237">Art Production Pipeline in 2026 and Beyond Roundtable (Presented by the IGDA)</a>
+<div class="tooltip">
+<i class="tooltip__icon">i</i>
+<p class="tooltip__content">
+This roundtable focuses on how game art production pipelines are changing, especially as teams adapt to new creative tools and the growing impact of AI. It brings together developers, educators, and students to compare pipeline strategies, discuss legal and career implications, and share practical ways to stay current in a fast-moving production landscape.
+</p>
+</div>
+</h4>
+
+    {% include toolsmiths/tags_without_link.html tags="Pipeline" %}
+
 
 <br>
 <h4 id="the-openusd-roundtable-day-1"><a href="https://schedule.gdconf.com/session/the-openusd-roundtable-day-1/914242">The OpenUSD Roundtable Day 1</a>
@@ -375,7 +390,7 @@ USD stands for 'Universal Scene Description', and it is a 3D file format Pixar c
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Pipeline" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Tool Lead/Engineering Producer" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Tool Lead" %}
 
 <br>
 <h4 id="the-openusd-roundtable-day-2"><a href="https://schedule.gdconf.com/session/the-openusd-roundtable-day-2/917288">The OpenUSD Roundtable Day 2</a>
@@ -421,7 +436,7 @@ In this session, Jeffrey Tomec explores the technical side of building a cinemat
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Pipeline, Programming" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev" %}
 
 <br>
 <h4 id="etudes-and-actors-owlcats-tooling-for-highly-branched-narrative"><a href="https://schedule.gdconf.com/session/etudes-and-actors-owlcats-tooling-for-highly-branched-narrative/914145">Etudes and Actors: Owlcat's Tooling for Highly Branched Narrative</a>
@@ -434,7 +449,7 @@ Owlcat Games is famous for making sprawling RPGs with tons of player choice and 
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Programming" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev" %}
 
 <br>
 <h4 id="camera-deobscura-building-a-flexible-camera-system"><a href="https://schedule.gdconf.com/session/camera-deobscura-building-a-flexible-camera-system/915491">Camera Deobscura: Building a Flexible Camera System</a>
@@ -486,7 +501,7 @@ This talk presents a complete overview of the technical process behind the creat
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Programming" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="Tool UX/UI Designer, Tool Lead/Engineering Producer" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Tool UX/UI Designer, Tool Lead" %}
 
 <br>
 <hr>
@@ -503,7 +518,7 @@ Before Sucker Punch had even finished shipping our previous game, Ghost of Tsush
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Pipeline" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Tool Lead" %}
 
 <br>
 <h4 id="the-scalable-game-asset-assisted-production-pipeline-of-honor-of-kings"><a href="https://schedule.gdconf.com/session/the-scalable-game-asset-assisted-production-pipeline-of-honor-of-kings/915185">The Scalable Game Asset-Assisted Production Pipeline of 'Honor of Kings'</a>
@@ -593,7 +608,7 @@ The games industry is facing unprecedented challenges. Budgets are squeezed, pla
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Automation, QA" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="Tools QA" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="Tools QA, Tool Lead" %}
 
 <br>
 <h4 id="automating-marathon-how-bungie-went-from-10-automated-tests-to-over-100-new-reliable-tests-to-deliver-a-high-quality-stable-live-service-game"><a href="https://schedule.gdconf.com/session/automating-marathon-how-bungie-went-from-10-automated-tests-to-over-100-new-reliable-tests-to-deliver-a-high-quality-stable-live-service-game/915384">Automating 'Marathon': How Bungie Went from 10 Automated Tests to Over 100 New, Reliable Tests to Deliver a High-Quality, Stable, Live-Service Game</a>
@@ -606,7 +621,7 @@ This presentation provides a brief history of client automation at Bungie, from 
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Automation" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="Tools QA, Tool Lead/Engineering Producer" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="Tools QA, Build Dev, Tool Lead" %}
 
 <br>
 <h4 id="from-the-ground-up-rethinking-quality-in-games"><a href="https://schedule.gdconf.com/session/from-the-ground-up-rethinking-quality-in-games/915041">From the Ground Up: Rethinking Quality in Games</a>
@@ -619,7 +634,7 @@ Quality can no longer be just about finding bugs. As games grow larger and syste
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Automation" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="Build Dev, Tools QA, Tool Lead/Engineering Producer" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="Build Dev, Pipeline Dev, Tools QA, Tool Lead" %}
 
 <br>
 <hr>
@@ -662,7 +677,7 @@ This session unveils a systematic approach to effectively implementing AI in gam
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Machine Learning, Visual Arts" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Build Dev" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev" %}
 
 <br>
 <h4 id="ai-models-for-2d-generation"><a href="https://schedule.gdconf.com/session/ai-models-for-2d-generation/915061">AI Models for 2D Generation</a>
@@ -704,7 +719,7 @@ In this talk we'll share honest lessons from our rollout — from organizational
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Pipeline, Machine Learning" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Build Dev, Tool Lead/Engineering Producer, Dev Support/Production Engineer" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Build Dev, Tool Lead, Dev Support/Integration Engineer" %}
 
 <br>
 <h4 id="reinforcement-learning-in-fc26-shipping-human-like-goalkeepers-with-a-designer-first-approach"><a href="https://schedule.gdconf.com/session/reinforcement-learning-in-fc26-shipping-human-like-goalkeepers-with-a-designer-first-approach/914241">Reinforcement Learning in 'FC26': Shipping Human-Like Goalkeepers with a Designer-First Approach</a>
@@ -782,7 +797,33 @@ As digital storytelling becomes increasingly cinematic, the role of virtual came
 <br>
 <hr>
 
+## Production & Leadership
+
+
+<h4 id="apex-legends-dev-support-getting-bandwidth-back-by-letting-people-do-their-best-work"><a href="https://schedule.gdconf.com/session/apex-legends-dev-support-getting-bandwidth-back-by-letting-people-do-their-best-work/914166">'Apex Legends' Dev Support: Getting Bandwidth Back by Letting People Do Their Best Work</a>
+<div class="tooltip">
+<i class="tooltip__icon">i</i>
+<p class="tooltip__content">
+Jeremiah Dost breaks down how Respawn built a dedicated developer support model for Apex Legends to reduce production bottlenecks, speed up issue resolution, and keep engineers focused on high-value work. The talk covers how support workflows, troubleshooting expertise, and fast response practices can return meaningful bandwidth to a large live game team.
+</p>
+</div>
+</h4>
+
+    {% include toolsmiths/tags_without_link.html tags="Pipeline, Programming" %}
+
+
 ## Sponsored Sessions
+
+<h4 id="developing-large-procedural-systems-with-low-friction-and-fast-generation-presented-by-epic-games"><a href="https://schedule.gdconf.com/session/developing-large-procedural-systems-with-low-friction-and-fast-generation-presented-by-epic-games/917366">Developing Large Procedural Systems with Low Friction and Fast Generation (Presented by Epic Games)</a>
+<div class="tooltip">
+<i class="tooltip__icon">i</i>
+<p class="tooltip__content">
+Epic Games shares how to build large procedural systems that stay maintainable, performant, and collaborative as complexity grows. The talk covers Unreal Engine PCG workflows, biome tooling, runtime versus static serialization, approaches for reducing source control contention, and practical performance considerations for teams building large interconnected procedural worlds.
+</p>
+</div>
+</h4>
+
+    {% include toolsmiths/tags_without_link.html tags="Programming, Pipeline" %}
 
 <br>
 <h4 id="ai-powered-ugc-creation-in-peace-elite-presented-by-lightspeed-studios"><a href="https://schedule.gdconf.com/session/ai-powered-ugc-creation-in-peace-elite-presented-by-lightspeed-studios/917403">AI-Powered UGC Creation in Peace Elite (Presented by LIGHTSPEED STUDIOS)</a>
@@ -795,7 +836,7 @@ This session explores how AI technologies empower large-scale UGC creation in Pe
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="Dev Support/Integration Engineer, Tool Lead" %}
 
 <br>
 <h4 id="the-future-of-facial-rigging-rigx-and-the-next-era-of-digital-humans-presented-by-2dnac"><a href="https://schedule.gdconf.com/session/the-future-of-facial-rigging-rigx-and-the-next-era-of-digital-humans-presented-by-2dnac/917088">The Future of Facial Rigging: RigX and the Next Era of Digital Humans (Presented by 2DNAC)</a>
@@ -810,6 +851,19 @@ Marko Š. presents RigX, a revolutionary pipeline that transforms how digital ch
     {% include toolsmiths/tags_without_link.html tags="Pipeline" %}
     {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Tool Lead/Engineering Producer" %}
 
+
+<br>
+<h4 id="cutscene-pipeline-in-love-and-deepspace-presented-by-tencent-games"><a href="https://schedule.gdconf.com/session/cutscene-pipeline-in-love-and-deepspace-presented-by-tencent-games/917061">Cutscene Pipeline in 'Love and Deepspace' (Presented by Tencent Games)</a>
+<div class="tooltip">
+<i class="tooltip__icon">i</i>
+<p class="tooltip__content">
+This session explores how the team behind Love and Deepspace built a cutscene pipeline capable of delivering film-style narrative content inside a live-service game. Xianyu Wang walks through how scripts move into production, how writers, mocap, and animation teams collaborate, and how custom tools and workflow design helped more than 100 artists focus on storytelling instead of technical friction.
+</p>
+</div>
+</h4>
+
+    {% include toolsmiths/tags_without_link.html tags="Pipeline, Programming" %}
+
 <br>
 <h4 id="building-the-dark-fantasy-materials-of-doom-the-dark-ages-presented-by-adobe"><a href="https://schedule.gdconf.com/session/building-the-dark-fantasy-materials-of-doom-the-dark-ages-presented-by-adobe/917418">Building the Dark Fantasy Materials of DOOM: The Dark Ages (Presented by Adobe)</a>
 <div class="tooltip">
@@ -821,7 +875,7 @@ Explore the material creation pipeline behind DOOM: The Dark Ages as Kat Tambure
 </h4>
 
     {% include toolsmiths/tags_without_link.html tags="Pipeline, Procedural" %}
-    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Dev Support/Production Engineer" %}
+    {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev" %}
 
 <br>
 <h4 id="responsible-ai-presented-by-villain-studios"><a href="https://schedule.gdconf.com/session/responsible-ai-presented-by-villain-studios/917118">Responsible AI (Presented by VILLAIN Studios)</a>
@@ -874,6 +928,17 @@ Explore how Rovio, the creator of Angry Birds, is reimagining game asset creatio
 
     {% include toolsmiths/tags_without_link.html tags="Pipeline" %}
     {% include toolsmiths/tags_without_link_gray.html tags="DCC Tool Dev, Pipeline Dev, Tool Lead/Engineering Producer" %}
+
+<h4 id="ai-augmented-playtesting-test-smarter-scale-faster-presented-by-softtek"><a href="https://schedule.gdconf.com/search/king">AI-Augmented PlayTesting: Test Smarter, Scale Faster (Presented by Softtek)</a>
+<div class="tooltip">
+<i class="tooltip__icon">i</i>
+<p class="tooltip__content">
+This power talk looks at how AI-augmented testing can make playtesting more scalable and efficient. Rodrigo Morteo and Hector Ramirez focus on improving regression speed, strengthening gameplay validation, and increasing the overall impact of QA through more modern automation and quality engineering practices.
+</p>
+</div>
+</h4>
+
+    {% include toolsmiths/tags_without_link.html tags="Automation, Automated Testing, and QA, Machine Learning" %}
 
 <br>
 <h4 id="ai-games-more-creativity-in-production-deeper-fun-in-gameplay-presented-by-meshy"><a href="https://schedule.gdconf.com/session/ai-games-more-creativity-in-production-deeper-fun-in-gameplay-presented-by-meshy/917392">AI + Games: More Creativity in Production, Deeper Fun in Gameplay (Presented by Meshy)</a>
@@ -957,3 +1022,5 @@ Check out the other guides from previous years:
 - [Toolsmiths GDC 2022 Guide](https://thetoolsmiths.org/2022/03/18/gdc-2022-toolsmiths-guide/)
 - [Toolsmiths GDC 2019 Guide](https://thetoolsmiths.org/2019/03/06/gdc-2019-toolsmiths-guide/)
 - [Toolsmiths GDC 2018 Guide](https://thetoolsmiths.org/2018/02/26/gdc-2018-toolsmiths-guide/)
+
+
